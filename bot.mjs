@@ -97,7 +97,11 @@ async function getAudio(item) {
 // ---------- video ----------
 let browser = null;
 async function render(payload) {
-  browser ||= await chromium.launch({ args: ["--autoplay-policy=no-user-gesture-required"] });
+  // Google Chrome (viene instalado en GitHub) trae el codificador H.264; el Chromium de Playwright a veces no
+  if (!browser) {
+    try { browser = await chromium.launch({ channel: "chrome", args: ["--autoplay-policy=no-user-gesture-required"] }); log("  (usando Google Chrome)"); }
+    catch { browser = await chromium.launch({ args: ["--autoplay-policy=no-user-gesture-required"] }); log("  (usando Chromium)"); }
+  }
   const page = await browser.newPage(); page.setDefaultTimeout(0);
   page.on("pageerror", (e) => log("  [página]", e.message));
   await page.goto(`${SITE}/render.html?b=${Date.now()}`, { waitUntil: "load" });
