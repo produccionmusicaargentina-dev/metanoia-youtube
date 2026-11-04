@@ -1,0 +1,55 @@
+name: Subir episodios a YouTube
+
+on:
+  schedule:
+    - cron: "13 6 * * *"      # todos los días 03:13 (Argentina)
+  workflow_dispatch:
+    inputs:
+      count: { description: "Cuántos episodios subir", default: "10" }
+      only: { description: "Solo estos números de episodio (ej: 388, 12). Vacío = los que siguen", default: "" }
+      order: { description: "newest (del 390 para atrás) u oldest (del 1 para adelante)", default: "newest" }
+      dry_run: { description: "Prueba: arma los videos pero NO los sube", type: boolean, default: false }
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube
+  cancel-in-progress: false
+
+jobs:
+  subir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Herramientas (ffmpeg, yt-dlp)
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q -U yt-dlp
+      - name: Dependencias
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+      - name: Armar y subir
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          PLAYLIST_ID: ${{ vars.PLAYLIST_ID }}
+          SITE: ${{ vars.SITE || 'https://mtn-radioshow-web.netlify.app' }}
+          COUNT: ${{ inputs.count || vars.COUNT || '10' }}
+          ONLY: ${{ inputs.only }}
+          ORDER: ${{ inputs.order || vars.ORDER || 'newest' }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: node bot.mjs
+      - name: Anotar lo subido
+        if: always()
+        run: |
+          [ -f uploaded.json ] || exit 0
+          git config user.name "metanoia-bot"
+          git config user.email "bot@metanoia.ar"
+          git add uploaded.json
+          git diff --cached --quiet || (git commit -m "YouTube: episodios subidos $(date -u +%F)" && git push)

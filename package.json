@@ -1,0 +1,8 @@
+{
+  "name": "metanoia-yt-bot",
+  "private": true,
+  "type": "module",
+  "description": "Sube los episodios de Metanoia Radioshow a YouTube (en privado) con el video del show.",
+  "scripts": { "start": "node bot.mjs", "auth": "node auth.mjs" },
+  "dependencies": { "googleapis": "144.0.0", "playwright": "1.49.1" }
+}
