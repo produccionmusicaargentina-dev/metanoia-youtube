@@ -2,7 +2,8 @@
 
 Todos los días (03:13 AR) GitHub Actions:
 1. lee los episodios de la base de la web (Supabase, lectura pública),
-2. elige los próximos 10 que todavía no están en YouTube y que tienen audio publicado,
+2. elige los próximos 10 (del más nuevo al más viejo) que todavía no están en YouTube, que tienen audio publicado
+   y **tracklist en los dos sets** (variable `REQUIRE_TRACKLIST=0` para incluir también los que no tienen),
 3. baja el audio de SoundCloud / Mixcloud (si el episodio viejo está en dos sets, los une),
 4. dibuja el video con el diseño del show (`render.html` de la web: Isotipo como portada al arrancar y al cambiar de hora + Ficha en loop
    con la banda que gira) y lo une al audio con ffmpeg,

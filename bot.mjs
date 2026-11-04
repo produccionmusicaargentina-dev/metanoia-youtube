@@ -16,6 +16,7 @@ const ORDER = process.env.ORDER || "newest";                             // newe
 const ONLY = String(process.env.ONLY || "").split(/[\s,]+/).filter(Boolean).map(Number);
 const DRY = process.env.DRY_RUN === "1" || process.env.DRY_RUN === "true";
 const PRIVACY = process.env.PRIVACY || "private";
+const REQUIRE_TL = !/^(0|false|no)$/i.test(process.env.REQUIRE_TRACKLIST || "1");
 const WORK = path.resolve("work"); fs.mkdirSync(WORK, { recursive: true });
 const DONE_FILE = "uploaded.json";
 const done = fs.existsSync(DONE_FILE) ? JSON.parse(fs.readFileSync(DONE_FILE, "utf8")) : [];
@@ -48,6 +49,8 @@ function plan(DB) {
   for (const ep of DB.episodes) {
     if (ep.type !== "episode" || !ep.n || ep.partOf || !ep.sets?.length || doneIds.has(ep.id)) continue;
     if (ONLY.length && !ONLY.includes(ep.n)) continue;
+    // solo episodios con tracklist en todos sus sets (sin tracklist el video y la descripción quedan pobres)
+    if (!ONLY.length && REQUIRE_TL && !ep.sets.slice(0, 2).every((s) => (s.tracklist || []).length)) continue;
     const sourced = ep.sets.some((s) => s.src);
     // partes de audio en orden: por set (episodios viejos) o el episodio entero
     const parts = sourced ? ep.sets.map((s) => ({ set: s, media: mediaOf(byId.get(s.src)) })) : [{ set: null, media: mediaOf(ep) }];
