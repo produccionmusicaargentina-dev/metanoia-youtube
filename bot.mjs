@@ -127,7 +127,9 @@ function buildList(clips, hour2, total, dir) {
 
 // ---------- YouTube ----------
 function youtube() {
-  const { YT_CLIENT_ID: id, YT_CLIENT_SECRET: secret, YT_REFRESH_TOKEN: token } = process.env;
+  // se limpian espacios/saltos de línea que a veces quedan al pegar
+  const clean = (v) => String(v || "").trim().replace(/^["']|["']$/g, "");
+  const id = clean(process.env.YT_CLIENT_ID), secret = clean(process.env.YT_CLIENT_SECRET), token = clean(process.env.YT_REFRESH_TOKEN);
   if (!id || !secret || !token) throw new Error("Faltan los secretos YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN en GitHub.");
   const auth = new google.auth.OAuth2(id, secret); auth.setCredentials({ refresh_token: token });
   return google.youtube({ version: "v3", auth });
@@ -152,6 +154,16 @@ const DB = await siteData();
 const todo = plan(DB);
 log(`Episodios para subir ahora: ${todo.map((x) => x.ep.n).join(", ") || "ninguno"}${DRY ? " (prueba: no sube a YouTube)" : ""}`);
 const yt = DRY ? null : youtube();
+if (yt) {   // probar el permiso antes de gastar tiempo armando videos
+  try { const me = await yt.channels.list({ part: ["snippet"], mine: true }); log(`Canal de YouTube: ${me.data.items?.[0]?.snippet?.title || "(sin canal)"}`); }
+  catch (e) {
+    const m = String(e.message || e);
+    log("ERROR con el permiso de YouTube: " + m);
+    if (/invalid_client/.test(m)) log("→ El ID de cliente o el secreto no coinciden (YT_CLIENT_ID / YT_CLIENT_SECRET). Revisá que sean los del cliente “Robot YouTube Metanoia”, sin espacios.");
+    if (/invalid_grant/.test(m)) log("→ El refresh token no sirve (venció o se sacó con otro cliente). Volvé a sacarlo en OAuth Playground con “Use your own OAuth credentials”.");
+    process.exit(1);
+  }
+}
 let ok = 0, fail = 0;
 for (const item of todo) {
   const dir = path.join(WORK, `ep${item.ep.n}`); fs.mkdirSync(dir, { recursive: true });
