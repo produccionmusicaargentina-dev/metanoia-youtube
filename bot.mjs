@@ -62,7 +62,7 @@ function plan(DB) {
       return { name: a.name, photo: abs(a.photo) || abs(byId.get(s.src)?.cover) || abs(ep.cover), logo: abs(a.logo), city: a.city || "", country: a.country || "", genres: a.genres || [] };
     };
     list.push({ ep, parts, sourced, payload: { ep: ep.n, date: ep.date, time: "17HS AR", guest: art(g), resident: art(r),
-      tracklists: { guestmix: g?.tracklist || [], resident: r?.tracklist || [] }, roles: [g.role, r?.role || "resident"], residentStart: r?.start || 0, freq: FREQ[ep.n % FREQ.length] } });
+      tracklists: { guestmix: g?.tracklist || [], resident: r?.tracklist || [] }, roles: [g.role, r?.role || "resident"], residentStart: r?.start || 0, freq: ep.color || FREQ[ep.n % FREQ.length] } });
   }
   list.sort((a, b) => (ORDER === "oldest" ? a.ep.n - b.ep.n : b.ep.n - a.ep.n));
   return list.slice(0, COUNT);
