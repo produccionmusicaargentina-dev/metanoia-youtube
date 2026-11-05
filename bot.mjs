@@ -11,7 +11,7 @@ import path from "node:path";
 const SITE = (process.env.SITE || "https://mtn-radioshow-web.netlify.app").replace(/\/$/, "");
 const SUPA = "https://eoirgezuhpbztyypcgfk.supabase.co";
 const KEY = "sb_publishable_wVtFu79YSsm18QhKKcex-g_7vendG1W";          // clave pública de lectura (la misma de la web)
-const COUNT = +process.env.COUNT || 10;
+const COUNT = +process.env.COUNT || 20;
 const ORDER = process.env.ORDER || "newest";                             // newest | oldest
 const ONLY = String(process.env.ONLY || "").split(/[\s,]+/).filter(Boolean).map(Number);
 const DRY = process.env.DRY_RUN === "1" || process.env.DRY_RUN === "true";

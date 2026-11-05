@@ -5,7 +5,7 @@ on:
     - cron: "13 6 * * *"      # todos los días 03:13 (Argentina)
   workflow_dispatch:
     inputs:
-      count: { description: "Cuántos episodios subir", default: "10" }
+      count: { description: "Cuántos episodios subir", default: "20" }
       only: { description: "Solo estos números de episodio (ej: 388, 12). Vacío = los que siguen", default: "" }
       order: { description: "newest (del 390 para atrás) u oldest (del 1 para adelante)", default: "newest" }
       dry_run: { description: "Prueba: arma los videos pero NO los sube", type: boolean, default: false }
@@ -40,7 +40,7 @@ jobs:
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
           PLAYLIST_ID: ${{ vars.PLAYLIST_ID }}
           SITE: ${{ vars.SITE || 'https://mtn-radioshow-web.netlify.app' }}
-          COUNT: ${{ inputs.count || vars.COUNT || '10' }}
+          COUNT: ${{ inputs.count || vars.COUNT || '20' }}
           ONLY: ${{ inputs.only }}
           ORDER: ${{ inputs.order || vars.ORDER || 'newest' }}
           DRY_RUN: ${{ inputs.dry_run }}
