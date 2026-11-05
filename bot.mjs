@@ -11,7 +11,7 @@ import path from "node:path";
 const SITE = (process.env.SITE || "https://mtn-radioshow-web.netlify.app").replace(/\/$/, "");
 const SUPA = "https://eoirgezuhpbztyypcgfk.supabase.co";
 const KEY = "sb_publishable_wVtFu79YSsm18QhKKcex-g_7vendG1W";          // clave pública de lectura (la misma de la web)
-const COUNT = +process.env.COUNT || 20;
+const COUNT = +process.env.COUNT || 10;
 const ORDER = process.env.ORDER || "newest";                             // newest | oldest
 const ONLY = String(process.env.ONLY || "").split(/[\s,]+/).filter(Boolean).map(Number);
 const DRY = process.env.DRY_RUN === "1" || process.env.DRY_RUN === "true";
@@ -202,7 +202,7 @@ for (const item of todo) {
     ok++;
   } catch (e) {
     fail++; log(`  ERROR Ep.${item.ep.n}: ${e.message}`);
-    if (/quota|rateLimit|uploadLimitExceeded/i.test(e.message)) { log("Se alcanzó el límite de YouTube por hoy; sigue mañana."); break; }
+    if (/quota|rateLimit|uploadLimitExceeded|exceeded the number of videos/i.test(e.message)) { log("Se alcanzó el límite de YouTube por hoy; sigue mañana."); break; }
   } finally { if (!process.env.KEEP) fs.rmSync(dir, { recursive: true, force: true }); fs.readdirSync(WORK).filter((x) => x.startsWith(`ep${item.ep.n}-`)).forEach((x) => fs.rmSync(path.join(WORK, x), { force: true })); }
 }
 await browser?.close();
