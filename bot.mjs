@@ -65,7 +65,15 @@ function plan(DB) {
       tracklists: { guestmix: g?.tracklist || [], resident: r?.tracklist || [] }, roles: [g.role, r?.role || "resident"], residentStart: r?.start || 0, freq: ep.color || FREQ[ep.n % FREQ.length] } });
   }
   list.sort((a, b) => (ORDER === "oldest" ? a.ep.n - b.ep.n : b.ep.n - a.ep.n));
-  return list.slice(0, COUNT);
+  // en las corridas automáticas, no pasar de DAILY_CAP por día (hora Argentina), aunque corra el respaldo
+  let n = COUNT;
+  if (+process.env.DAILY_CAP) {
+    const today = (d) => new Date(new Date(d).getTime() - 3 * 3600e3).toISOString().slice(0, 10);
+    const doneToday = done.filter((u) => u.at && today(u.at) === today(Date.now())).length;
+    n = Math.max(0, +process.env.DAILY_CAP - doneToday);
+    if (!n) log(`Hoy ya se subieron ${doneToday}. Nada que hacer.`);
+  }
+  return list.slice(0, n);
 }
 // frecuencias del manual, rotando para que no se repita dos semanas seguidas (Cian queda para especiales)
 const FREQ = ["#ADD709", "#6405D5", "#AF5D2D", "#D4BA07"];
