@@ -1,0 +1,2158 @@
+{
+ "ep": 389,
+ "step": 20,
+ "sets": [
+  {
+   "artist": "Vicco Mol",
+   "offset": 0,
+   "length": 3600,
+   "reconocidos": 10,
+   "total": 15,
+   "temas": [
+    {
+     "i": 0,
+     "track": "Zone+ - Slow Down (Original Mix)",
+     "start": 0,
+     "mmss": "00:00",
+     "fuente": "shazam"
+    },
+    {
+     "i": 1,
+     "track": "Beiger - Superconduction",
+     "start": 438,
+     "mmss": "07:18",
+     "fuente": "estimado"
+    },
+    {
+     "i": 2,
+     "track": "Everything But The Girl - Missing (Daniel Meister Edit)",
+     "start": 875,
+     "mmss": "14:35",
+     "fuente": "shazam"
+    },
+    {
+     "i": 3,
+     "track": "Mosleo - No Cam Era",
+     "start": 1085,
+     "mmss": "18:05",
+     "fuente": "estimado"
+    },
+    {
+     "i": 4,
+     "track": "Tigerskin & Pablo Bolivar & Alfa State — Slippery Roads (Pablo Bolivar Rework)",
+     "start": 1295,
+     "mmss": "21:35",
+     "fuente": "shazam"
+    },
+    {
+     "i": 5,
+     "track": "Martin Roth - Deep Style (Original Mix)",
+     "start": 1595,
+     "mmss": "26:35",
+     "fuente": "shazam"
+    },
+    {
+     "i": 6,
+     "track": "Fulltone - Depth Over Distance (Original Mix)",
+     "start": 1935,
+     "mmss": "32:15",
+     "fuente": "shazam"
+    },
+    {
+     "i": 7,
+     "track": "Claudio Ricci & Jepe - Midilove (Original Mix)",
+     "start": 2295,
+     "mmss": "38:15",
+     "fuente": "shazam"
+    },
+    {
+     "i": 8,
+     "track": "Echonomist, Alexandros Miaris - A Different Frame (Mita Gami Remix)",
+     "start": 2455,
+     "mmss": "40:55",
+     "fuente": "shazam"
+    },
+    {
+     "i": 9,
+     "track": "Nico Martinez - Trambo (Original Mix)",
+     "start": 2725,
+     "mmss": "45:25",
+     "fuente": "estimado"
+    },
+    {
+     "i": 10,
+     "track": "foglight - Shapeshifter (Original Mix)",
+     "start": 2995,
+     "mmss": "49:55",
+     "fuente": "shazam"
+    },
+    {
+     "i": 11,
+     "track": "Alex O'Rion - Blackout (Original Mix)",
+     "start": 3255,
+     "mmss": "54:15",
+     "fuente": "shazam"
+    },
+    {
+     "i": 12,
+     "track": "Yuvée - Freydies (Extended Mix)",
+     "start": 3515,
+     "mmss": "58:35",
+     "fuente": "shazam"
+    },
+    {
+     "i": 13,
+     "track": "GHEIST - Der Blaue Reiter (Original Mix)",
+     "start": 3543,
+     "mmss": "59:03",
+     "fuente": "estimado"
+    },
+    {
+     "i": 14,
+     "track": "Evren Furtuna, Gorkem Han - Night (Extended Mix)",
+     "start": 3572,
+     "mmss": "59:32",
+     "fuente": "estimado"
+    }
+   ],
+   "escuchado": [
+    {
+     "seg": 5,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 25,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 45,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 65,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 85,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 105,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 125,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 145,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 165,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 185,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 205,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 225,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 245,
+     "artista": "Tom Szirtes",
+     "tema": "Constitution Hill"
+    },
+    {
+     "seg": 265,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 285,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 305,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 325,
+     "artista": "Nomada.ec",
+     "tema": "Juego Del Calamar"
+    },
+    {
+     "seg": 345,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 365,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 385,
+     "artista": "Zone+",
+     "tema": "Slow Down"
+    },
+    {
+     "seg": 425,
+     "artista": "Alvaro Albarran",
+     "tema": "Tubah - Single"
+    },
+    {
+     "seg": 465,
+     "artista": "Terrik Mode",
+     "tema": "Mars People"
+    },
+    {
+     "seg": 545,
+     "artista": "Far&High",
+     "tema": "Dizzy"
+    },
+    {
+     "seg": 565,
+     "artista": "Rone",
+     "tema": "Bora Vocal"
+    },
+    {
+     "seg": 605,
+     "artista": "The DangerFeel Newbies",
+     "tema": "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+    },
+    {
+     "seg": 625,
+     "artista": "The DangerFeel Newbies",
+     "tema": "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+    },
+    {
+     "seg": 645,
+     "artista": "Nina Kraviz",
+     "tema": "tarde (melchior productions ltd late mix)"
+    },
+    {
+     "seg": 665,
+     "artista": "Festiva",
+     "tema": "Cerberus"
+    },
+    {
+     "seg": 685,
+     "artista": "DJ Free & STRIKZ",
+     "tema": "Feel So Good"
+    },
+    {
+     "seg": 725,
+     "artista": "Marshall Jefferson & Solardo",
+     "tema": "Move Your Body"
+    },
+    {
+     "seg": 745,
+     "artista": "Glori",
+     "tema": "Instant Crush Re-structure"
+    },
+    {
+     "seg": 765,
+     "artista": "Rinia Rinia",
+     "tema": "B2"
+    },
+    {
+     "seg": 785,
+     "artista": "OZBEK",
+     "tema": "Rooftop"
+    },
+    {
+     "seg": 805,
+     "artista": "OZBEK",
+     "tema": "Rooftop"
+    },
+    {
+     "seg": 825,
+     "artista": "Laguna",
+     "tema": "Spiller from Rio (Extended Mix)"
+    },
+    {
+     "seg": 865,
+     "artista": "OZBEK",
+     "tema": "Rooftop"
+    },
+    {
+     "seg": 885,
+     "artista": "Yara Lina",
+     "tema": "Missing"
+    },
+    {
+     "seg": 905,
+     "artista": "CamelPhat & Elderbrook",
+     "tema": "Cola"
+    },
+    {
+     "seg": 925,
+     "artista": "Cassius",
+     "tema": "Go Up (feat. Cat Power & Pharrell Williams) [Butch Remix]"
+    },
+    {
+     "seg": 945,
+     "artista": "Madonna",
+     "tema": "Hung Up (SDP Extended Vocal)"
+    },
+    {
+     "seg": 965,
+     "artista": "Moreno & Prieto & Sortech",
+     "tema": "300 Cash"
+    },
+    {
+     "seg": 985,
+     "artista": "Jesse Rose & Avon Stringer",
+     "tema": "Pressure"
+    },
+    {
+     "seg": 1005,
+     "artista": "Öwnboss & SEVEK",
+     "tema": "Move Your Body (Extended Mix)"
+    },
+    {
+     "seg": 1085,
+     "artista": "Run-DMC",
+     "tema": "It's Like That"
+    },
+    {
+     "seg": 1185,
+     "artista": "Riva Starr",
+     "tema": "Feel It"
+    },
+    {
+     "seg": 1305,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1325,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1345,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1365,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1385,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1405,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1425,
+     "artista": "Shion Sakamoto",
+     "tema": "Reincarnation"
+    },
+    {
+     "seg": 1445,
+     "artista": "Eric Prydz & Empire Of The Sun",
+     "tema": "We Are Mirage"
+    },
+    {
+     "seg": 1465,
+     "artista": "Two MoroN",
+     "tema": "Launch"
+    },
+    {
+     "seg": 1485,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1505,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1525,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1545,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1565,
+     "artista": "The End Of Eternity",
+     "tema": "Inhibitions for Electric Guitar"
+    },
+    {
+     "seg": 1585,
+     "artista": "Tigerskin & Alfa State",
+     "tema": "Slippery Roads (Pablo Bolivar Remix)"
+    },
+    {
+     "seg": 1605,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1625,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1645,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1665,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1685,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1705,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1725,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1745,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1765,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1785,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1805,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1825,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1845,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1865,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1885,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1905,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1925,
+     "artista": "Martin Roth",
+     "tema": "Deep Style (Original Mix)"
+    },
+    {
+     "seg": 1945,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 1965,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 1985,
+     "artista": "Chris Drifter",
+     "tema": "Flashback (Matt Time Remix)"
+    },
+    {
+     "seg": 2005,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2025,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2045,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2065,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2085,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2105,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2125,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2145,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2165,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2185,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2205,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2225,
+     "artista": "Fulltone",
+     "tema": "Depth Over Distance"
+    },
+    {
+     "seg": 2305,
+     "artista": "Claudio Ricci & Jepe",
+     "tema": "Midilove"
+    },
+    {
+     "seg": 2325,
+     "artista": "Claudio Ricci & Jepe",
+     "tema": "Midilove"
+    },
+    {
+     "seg": 2345,
+     "artista": "Claudio Ricci & Jepe",
+     "tema": "Midilove"
+    },
+    {
+     "seg": 2365,
+     "artista": "Claudio Ricci & Jepe",
+     "tema": "Midilove"
+    },
+    {
+     "seg": 2385,
+     "artista": "Claudio Ricci & Jepe",
+     "tema": "Midilove"
+    },
+    {
+     "seg": 2405,
+     "artista": "Claudio Ricci & Jepe",
+     "tema": "Midilove"
+    },
+    {
+     "seg": 2425,
+     "artista": "Claudio Ricci & Jepe",
+     "tema": "Midilove"
+    },
+    {
+     "seg": 2445,
+     "artista": "Claudio Ricci & Jepe",
+     "tema": "Midilove"
+    },
+    {
+     "seg": 2465,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2485,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2505,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2525,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2545,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2565,
+     "artista": "Don Africa",
+     "tema": "Do The"
+    },
+    {
+     "seg": 2585,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2605,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2625,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2645,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2665,
+     "artista": "Echonomist & Alexandros Miaris",
+     "tema": "A Different Frame (Mita Gami Remix)"
+    },
+    {
+     "seg": 2685,
+     "artista": "The DangerFeel Newbies",
+     "tema": "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+    },
+    {
+     "seg": 2705,
+     "artista": "Todd Terry",
+     "tema": "Jumpin Original"
+    },
+    {
+     "seg": 2725,
+     "artista": "CamelPhat & Elderbrook",
+     "tema": "Cola"
+    },
+    {
+     "seg": 2745,
+     "artista": "Dave Storm",
+     "tema": "Happy Endz (Deep Inc Remix)"
+    },
+    {
+     "seg": 2765,
+     "artista": "Faithless",
+     "tema": "Salva Mea"
+    },
+    {
+     "seg": 2785,
+     "artista": "Dave Storm",
+     "tema": "Happy Endz (Deep Inc Remix)"
+    },
+    {
+     "seg": 2805,
+     "artista": "Paperclip People",
+     "tema": "Throw (Slam's RTM Remix)"
+    },
+    {
+     "seg": 2825,
+     "artista": "Dance Spirit & Adisyn",
+     "tema": "Portal From Mars"
+    },
+    {
+     "seg": 2845,
+     "artista": "The DangerFeel Newbies",
+     "tema": "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+    },
+    {
+     "seg": 2865,
+     "artista": "Amine Edge & DANCE & Blaze (Kevin Hedge)",
+     "tema": "Lovelee Dae"
+    },
+    {
+     "seg": 2885,
+     "artista": "Amine Edge & DANCE & Blaze (Kevin Hedge)",
+     "tema": "Lovelee Dae"
+    },
+    {
+     "seg": 2905,
+     "artista": "Samim",
+     "tema": "Heater (Tube & Berger Remix)"
+    },
+    {
+     "seg": 2925,
+     "artista": "Luca Lozano & Mr. Ho",
+     "tema": "Different Circles (Nicson Remix)"
+    },
+    {
+     "seg": 2945,
+     "artista": "RÜFÜS DU SOL",
+     "tema": "You Were Right (Club Mix)"
+    },
+    {
+     "seg": 2985,
+     "artista": "Terrik Mode",
+     "tema": "Mars People"
+    },
+    {
+     "seg": 3005,
+     "artista": "foglight",
+     "tema": "Shapeshifter"
+    },
+    {
+     "seg": 3025,
+     "artista": "Bambook",
+     "tema": "Give It Up (Audiofly Remix)"
+    },
+    {
+     "seg": 3045,
+     "artista": "foglight",
+     "tema": "Shapeshifter"
+    },
+    {
+     "seg": 3065,
+     "artista": "foglight",
+     "tema": "Shapeshifter"
+    },
+    {
+     "seg": 3085,
+     "artista": "foglight",
+     "tema": "Shapeshifter"
+    },
+    {
+     "seg": 3105,
+     "artista": "foglight",
+     "tema": "Shapeshifter"
+    },
+    {
+     "seg": 3125,
+     "artista": "foglight",
+     "tema": "Shapeshifter"
+    },
+    {
+     "seg": 3145,
+     "artista": "Rem Siman & Juan Brizuela",
+     "tema": "Possibility"
+    },
+    {
+     "seg": 3165,
+     "artista": "foglight",
+     "tema": "Shapeshifter"
+    },
+    {
+     "seg": 3185,
+     "artista": "Rendher",
+     "tema": "Low Rider"
+    },
+    {
+     "seg": 3205,
+     "artista": "DJ Chus",
+     "tema": "Amapola"
+    },
+    {
+     "seg": 3225,
+     "artista": "Bontan",
+     "tema": "Talking Slow"
+    },
+    {
+     "seg": 3245,
+     "artista": "LEON (Italy) & Shaf Huse",
+     "tema": "Can't Truss"
+    },
+    {
+     "seg": 3265,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3285,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3305,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3325,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3345,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3365,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3385,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3405,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3445,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3465,
+     "artista": "Alan Dixon",
+     "tema": "La Danza"
+    },
+    {
+     "seg": 3485,
+     "artista": "Alex O'Rion",
+     "tema": "Blackout"
+    },
+    {
+     "seg": 3505,
+     "artista": "Shouse",
+     "tema": "Love Tonight"
+    },
+    {
+     "seg": 3525,
+     "artista": "Yuvee",
+     "tema": "Freydies"
+    },
+    {
+     "seg": 3545,
+     "artista": "Yuvee",
+     "tema": "Freydies"
+    },
+    {
+     "seg": 3565,
+     "artista": "Yuvee",
+     "tema": "Freydies (Extended Mix)"
+    },
+    {
+     "seg": 3585,
+     "artista": "Yuvee",
+     "tema": "Freydies"
+    }
+   ]
+  },
+  {
+   "artist": "Less is more",
+   "offset": 3600,
+   "length": 4678,
+   "reconocidos": 12,
+   "total": 12,
+   "temas": [
+    {
+     "i": 0,
+     "track": "Iorie, Karlinski - Sigmund Archer (Original Mix) [Serafin Audio Imprint]",
+     "start": 995,
+     "mmss": "16:35",
+     "fuente": "shazam"
+    },
+    {
+     "i": 1,
+     "track": "Marc DePulse - Don't Come (Original Mix) [JEAHMON! Records]",
+     "start": 1435,
+     "mmss": "23:55",
+     "fuente": "shazam"
+    },
+    {
+     "i": 2,
+     "track": "Artic White - Rosea (Original Mix) [Sprout]",
+     "start": 1635,
+     "mmss": "27:15",
+     "fuente": "shazam"
+    },
+    {
+     "i": 3,
+     "track": "Darlyn Vlys - Quantum (Original Mix) [Sincopat]",
+     "start": 2035,
+     "mmss": "33:55",
+     "fuente": "shazam"
+    },
+    {
+     "i": 4,
+     "track": "Township Rebellion, Roemisch - Midsommar (Original Mix) [HILOMATIK]",
+     "start": 2295,
+     "mmss": "38:15",
+     "fuente": "shazam"
+    },
+    {
+     "i": 5,
+     "track": "John B.,Solee,Iorie,Township Rebelion - Sequences (Extended Mix) [HILOMATIK]",
+     "start": 2675,
+     "mmss": "44:35",
+     "fuente": "shazam"
+    },
+    {
+     "i": 6,
+     "track": "Black Mirage - 84 Avenue, Jou Nielsen, Paul Ikky (Durante Extended Remix) [Univack]",
+     "start": 2875,
+     "mmss": "47:55",
+     "fuente": "shazam"
+    },
+    {
+     "i": 7,
+     "track": "Joyce, Stephan Zovsky - You Know I Dont (James Harcourt Remix) [Sueslide]",
+     "start": 3195,
+     "mmss": "53:15",
+     "fuente": "shazam"
+    },
+    {
+     "i": 8,
+     "track": "Daniel Watts - How Can I Be Sure I am Really Awake (Original Mix) [NEIN RECORDS]",
+     "start": 3535,
+     "mmss": "58:55",
+     "fuente": "shazam"
+    },
+    {
+     "i": 9,
+     "track": "Phunkadelica, Dina Summer - Stars Align (Extended Mix) [Eskimo Recordings]",
+     "start": 3675,
+     "mmss": "61:15",
+     "fuente": "shazam"
+    },
+    {
+     "i": 10,
+     "track": "Versalife - Machine Life (Roman Flügel Remix) [20/20 Vision Recordings]",
+     "start": 3855,
+     "mmss": "64:15",
+     "fuente": "shazam"
+    },
+    {
+     "i": 11,
+     "track": "Room Service (DE) - Holiday (Original Mix) [Future Romance]",
+     "start": 4295,
+     "mmss": "71:35",
+     "fuente": "shazam"
+    }
+   ],
+   "escuchado": [
+    {
+     "seg": 5,
+     "artista": "Yuvee",
+     "tema": "Freydies"
+    },
+    {
+     "seg": 25,
+     "artista": "Yuvee",
+     "tema": "Freydies"
+    },
+    {
+     "seg": 45,
+     "artista": "Yuvee",
+     "tema": "Freydies (Extended Mix)"
+    },
+    {
+     "seg": 65,
+     "artista": "Yuvee",
+     "tema": "Freydies (Extended Mix)"
+    },
+    {
+     "seg": 85,
+     "artista": "Yuvee",
+     "tema": "Freydies (Extended Mix)"
+    },
+    {
+     "seg": 105,
+     "artista": "Yuvee",
+     "tema": "Freydies"
+    },
+    {
+     "seg": 125,
+     "artista": "Yuvee",
+     "tema": "Freydies"
+    },
+    {
+     "seg": 145,
+     "artista": "Yuvee",
+     "tema": "Freydies"
+    },
+    {
+     "seg": 165,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 185,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 205,
+     "artista": "Cybordelics",
+     "tema": "Adventures of Dama (feat. James Davis) [Bodo Felusch-Gimme a Beat Mix]"
+    },
+    {
+     "seg": 225,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 245,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 265,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 285,
+     "artista": "MALDONADO",
+     "tema": "O Artista"
+    },
+    {
+     "seg": 305,
+     "artista": "Röyksopp & Fever Ray",
+     "tema": "What Else Is There? (DJ Tennis Remix)"
+    },
+    {
+     "seg": 325,
+     "artista": "Addicted Craze",
+     "tema": "Hold Me Tight (Pulsedriver Remix Edit)"
+    },
+    {
+     "seg": 345,
+     "artista": "SEREBRO",
+     "tema": "Я тебя не отдам (Remix)"
+    },
+    {
+     "seg": 365,
+     "artista": "SEREBRO",
+     "tema": "Я тебя не отдам (Remix)"
+    },
+    {
+     "seg": 385,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 405,
+     "artista": "Spark of Darkness",
+     "tema": "Blackout Disco"
+    },
+    {
+     "seg": 425,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 445,
+     "artista": "Rod Gunth",
+     "tema": "Be Patient"
+    },
+    {
+     "seg": 465,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 485,
+     "artista": "B.E.B.",
+     "tema": "Paradise (Ibiza Summer Mix)"
+    },
+    {
+     "seg": 505,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 525,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 545,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 565,
+     "artista": "GHEIST",
+     "tema": "Der blaue Reiter"
+    },
+    {
+     "seg": 585,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 605,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 625,
+     "artista": "dj dimash kanjeng",
+     "tema": "My Eyes Is Blind to Much"
+    },
+    {
+     "seg": 645,
+     "artista": "Day at my office",
+     "tema": "Midnight Relay"
+    },
+    {
+     "seg": 665,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 685,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 705,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 725,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 745,
+     "artista": "Reverend Otto",
+     "tema": "Bass Anomoly"
+    },
+    {
+     "seg": 765,
+     "artista": "Best Running Music",
+     "tema": "Muscle Memory"
+    },
+    {
+     "seg": 785,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 805,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 825,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 845,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 865,
+     "artista": "kogkaBGM",
+     "tema": "Electric Pulse"
+    },
+    {
+     "seg": 885,
+     "artista": "NooMonk AI",
+     "tema": "Skyline Heat"
+    },
+    {
+     "seg": 905,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 925,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 945,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 965,
+     "artista": "Evren Furtuna & Görkem Han",
+     "tema": "Night (Extended Mix)"
+    },
+    {
+     "seg": 1005,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1025,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1045,
+     "artista": "Phil Monday",
+     "tema": "Apollo (Nico P Remix)"
+    },
+    {
+     "seg": 1065,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1085,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1105,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1125,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1145,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1165,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1185,
+     "artista": "Claudio Topputo & Fabrizio Maselli",
+     "tema": "My Hands (Santi Fernández Remix)"
+    },
+    {
+     "seg": 1205,
+     "artista": "Claudio Topputo & Fabrizio Maselli",
+     "tema": "My Hands (Santi Fernández Remix)"
+    },
+    {
+     "seg": 1225,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1245,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1265,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1285,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1305,
+     "artista": "Iorie & Karlinski",
+     "tema": "Sigmund Archer"
+    },
+    {
+     "seg": 1325,
+     "artista": "CamelPhat & ARTBAT",
+     "tema": "For a Feeling (feat. RHODES)"
+    },
+    {
+     "seg": 1345,
+     "artista": "CamelPhat & ARTBAT",
+     "tema": "For a Feeling (feat. RHODES)"
+    },
+    {
+     "seg": 1365,
+     "artista": "Marc DePulse & Rafael Cerato",
+     "tema": "Make a Show (Malandra Jr. Remix) [feat. Hadar]"
+    },
+    {
+     "seg": 1385,
+     "artista": "Marc DePulse & Rafael Cerato",
+     "tema": "Make a Show (Malandra Jr. Remix) [feat. Hadar]"
+    },
+    {
+     "seg": 1405,
+     "artista": "Marc DePulse & Rafael Cerato",
+     "tema": "Make a Show (Malandra Jr. Remix) [feat. Hadar]"
+    },
+    {
+     "seg": 1425,
+     "artista": "Marc DePulse & Rafael Cerato",
+     "tema": "Make a Show (Malandra Jr. Remix) [feat. Hadar]"
+    },
+    {
+     "seg": 1445,
+     "artista": "Marc DePulse",
+     "tema": "Don't Come"
+    },
+    {
+     "seg": 1465,
+     "artista": "Marc DePulse & Rafael Cerato",
+     "tema": "Make a Show (Malandra Jr. Remix) [feat. Hadar]"
+    },
+    {
+     "seg": 1485,
+     "artista": "Marc DePulse & Rafael Cerato",
+     "tema": "Make a Show (Malandra Jr. Remix) [feat. Hadar]"
+    },
+    {
+     "seg": 1505,
+     "artista": "Marc DePulse",
+     "tema": "Don't Come"
+    },
+    {
+     "seg": 1525,
+     "artista": "Marc DePulse",
+     "tema": "Don't Come"
+    },
+    {
+     "seg": 1545,
+     "artista": "Marc DePulse & Rafael Cerato",
+     "tema": "Make a Show (Malandra Jr. Remix) [feat. Hadar]"
+    },
+    {
+     "seg": 1565,
+     "artista": "Marc DePulse & Rafael Cerato",
+     "tema": "Make a Show (Malandra Jr. Remix) [feat. Hadar]"
+    },
+    {
+     "seg": 1585,
+     "artista": "Marc DePulse & Rafael Cerato",
+     "tema": "Make a Show (Malandra Jr. Remix) [feat. Hadar]"
+    },
+    {
+     "seg": 1605,
+     "artista": "Greg Beato",
+     "tema": "Pma"
+    },
+    {
+     "seg": 1625,
+     "artista": "Mysterious People, Kings Of Tomorrow & Sandy Rivera",
+     "tema": "Love Revolution (Mood II Swing Remix 2)"
+    },
+    {
+     "seg": 1645,
+     "artista": "Artic White, D'nox & Kamilo Sanclemente",
+     "tema": "Rosea (D-Nox, Kamilo Sanclemente Remix)"
+    },
+    {
+     "seg": 1665,
+     "artista": "Eddie Amador",
+     "tema": "House Music (Robosonic Remix)"
+    },
+    {
+     "seg": 1685,
+     "artista": "Greg Beato",
+     "tema": "Pma"
+    },
+    {
+     "seg": 1705,
+     "artista": "Eddie Amador",
+     "tema": "House Music (Robosonic Remix)"
+    },
+    {
+     "seg": 1725,
+     "artista": "Artic White, D'nox & Kamilo Sanclemente",
+     "tema": "Rosea (D-Nox, Kamilo Sanclemente Remix)"
+    },
+    {
+     "seg": 1745,
+     "artista": "Munir Amastha",
+     "tema": "Can You Feel the Night (One Opinion Remix) [feat. Sauli Harper]"
+    },
+    {
+     "seg": 1765,
+     "artista": "Robin S.",
+     "tema": "Show Me Love"
+    },
+    {
+     "seg": 1785,
+     "artista": "Greg Beato",
+     "tema": "Pma"
+    },
+    {
+     "seg": 1805,
+     "artista": "James Mac & Vall",
+     "tema": "Try Again"
+    },
+    {
+     "seg": 1825,
+     "artista": "BAYKER & GHEIST",
+     "tema": "Howl"
+    },
+    {
+     "seg": 1845,
+     "artista": "Artic White, D'nox & Kamilo Sanclemente",
+     "tema": "Rosea (D-Nox, Kamilo Sanclemente Remix)"
+    },
+    {
+     "seg": 1865,
+     "artista": "Somebody Hear Me",
+     "tema": "True Love"
+    },
+    {
+     "seg": 1885,
+     "artista": "Artic White",
+     "tema": "Rosea"
+    },
+    {
+     "seg": 1905,
+     "artista": "Greg Beato",
+     "tema": "Pma"
+    },
+    {
+     "seg": 1925,
+     "artista": "Robin S.",
+     "tema": "Show Me Love (Original)"
+    },
+    {
+     "seg": 1945,
+     "artista": "Dj Afonso de Vic",
+     "tema": "Shake It"
+    },
+    {
+     "seg": 1965,
+     "artista": "Festiva",
+     "tema": "Cerberus"
+    },
+    {
+     "seg": 1985,
+     "artista": "MEDUZA & Goodboys",
+     "tema": "Piece Of Your Heart"
+    },
+    {
+     "seg": 2005,
+     "artista": "Robin S.",
+     "tema": "Show Me Love (Original)"
+    },
+    {
+     "seg": 2025,
+     "artista": "Greg Beato",
+     "tema": "Pma"
+    },
+    {
+     "seg": 2045,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2065,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2085,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2105,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2125,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2145,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2165,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2185,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2205,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2225,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2245,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2265,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2285,
+     "artista": "Darlyn Vlys",
+     "tema": "Quantum"
+    },
+    {
+     "seg": 2305,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2325,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2345,
+     "artista": "Naum Gabo",
+     "tema": "Hantas"
+    },
+    {
+     "seg": 2365,
+     "artista": "Starky 47",
+     "tema": "Flaming Phoenix (Extended Mix)"
+    },
+    {
+     "seg": 2385,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2405,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2425,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2445,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2465,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2485,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2505,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2525,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2545,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2565,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2585,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2605,
+     "artista": "Township Rebellion & Roemisch",
+     "tema": "Midsommar"
+    },
+    {
+     "seg": 2625,
+     "artista": "Calvin Harris & Sam Smith",
+     "tema": "Promises (Sonny Fodera Remix)"
+    },
+    {
+     "seg": 2645,
+     "artista": "Calvin Harris & Sam Smith",
+     "tema": "Promises (Sonny Fodera Remix)"
+    },
+    {
+     "seg": 2665,
+     "artista": "Mike Dunn",
+     "tema": "If I Can't Get Down"
+    },
+    {
+     "seg": 2685,
+     "artista": "Township Rebellion, Solee, Iorie & John B",
+     "tema": "Sequences"
+    },
+    {
+     "seg": 2705,
+     "artista": "Township Rebellion, Solee, Iorie & John B",
+     "tema": "Sequences"
+    },
+    {
+     "seg": 2725,
+     "artista": "Township Rebellion, Solee, Iorie & John B",
+     "tema": "Sequences"
+    },
+    {
+     "seg": 2745,
+     "artista": "Township Rebellion, Solee, Iorie & John B",
+     "tema": "Sequences"
+    },
+    {
+     "seg": 2765,
+     "artista": "Township Rebellion, Solee, Iorie & John B",
+     "tema": "Sequences"
+    },
+    {
+     "seg": 2785,
+     "artista": "Township Rebellion, Solee, Iorie & John B",
+     "tema": "Sequences"
+    },
+    {
+     "seg": 2805,
+     "artista": "Masters At Work",
+     "tema": "To Be in Love (MAW '99 Mix) [feat. India]"
+    },
+    {
+     "seg": 2825,
+     "artista": "Township Rebellion, Solee, Iorie & John B",
+     "tema": "Sequences"
+    },
+    {
+     "seg": 2845,
+     "artista": "Township Rebellion, Solee, Iorie & John B",
+     "tema": "Sequences"
+    },
+    {
+     "seg": 2865,
+     "artista": "Township Rebellion, Solee, Iorie & John B",
+     "tema": "Sequences"
+    },
+    {
+     "seg": 2885,
+     "artista": "Jou Nielsen, Paul Ikky & 84 Avenue",
+     "tema": "Black Mirage (Durante Remix)"
+    },
+    {
+     "seg": 2905,
+     "artista": "Jou Nielsen, Paul Ikky & 84 Avenue",
+     "tema": "Black Mirage (Durante Remix)"
+    },
+    {
+     "seg": 2925,
+     "artista": "FISHER",
+     "tema": "Stop It"
+    },
+    {
+     "seg": 2945,
+     "artista": "Jou Nielsen, Paul Ikky & 84 Avenue",
+     "tema": "Black Mirage (Durante Remix)"
+    },
+    {
+     "seg": 2965,
+     "artista": "Jou Nielsen, Paul Ikky & 84 Avenue",
+     "tema": "Black Mirage (Durante Remix)"
+    },
+    {
+     "seg": 2985,
+     "artista": "HUGEL, Topic & Arash",
+     "tema": "I Adore You (feat. Daecolm)"
+    },
+    {
+     "seg": 3005,
+     "artista": "Jou Nielsen, Paul Ikky & 84 Avenue",
+     "tema": "Black Mirage (Durante Remix)"
+    },
+    {
+     "seg": 3025,
+     "artista": "Jou Nielsen, Paul Ikky & 84 Avenue",
+     "tema": "Black Mirage (Durante Remix)"
+    },
+    {
+     "seg": 3045,
+     "artista": "Ohmme",
+     "tema": "Excess (Original Mix)"
+    },
+    {
+     "seg": 3065,
+     "artista": "Ohmme",
+     "tema": "Excess (Original Mix)"
+    },
+    {
+     "seg": 3085,
+     "artista": "Disclosure",
+     "tema": "Expressing What Matters"
+    },
+    {
+     "seg": 3105,
+     "artista": "Ohmme",
+     "tema": "Excess (Original Mix)"
+    },
+    {
+     "seg": 3125,
+     "artista": "Festiva",
+     "tema": "Cerberus"
+    },
+    {
+     "seg": 3145,
+     "artista": "Jou Nielsen, Paul Ikky & 84 Avenue",
+     "tema": "Black Mirage (Durante Remix)"
+    },
+    {
+     "seg": 3165,
+     "artista": "Shouse",
+     "tema": "Love Tonight"
+    },
+    {
+     "seg": 3185,
+     "artista": "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "tema": "Tribaile (Len Mora & Joaquin Postigo)"
+    },
+    {
+     "seg": 3205,
+     "artista": "Stephan Zovsky & James Harcourt",
+     "tema": "You Know I Dont (feat. JOYCE) [James Harcourt Remix]"
+    },
+    {
+     "seg": 3225,
+     "artista": "Stephan Zovsky & James Harcourt",
+     "tema": "You Know I Dont (feat. JOYCE) [James Harcourt Remix]"
+    },
+    {
+     "seg": 3245,
+     "artista": "Stephan Zovsky & Andre Kronert",
+     "tema": "You Know I Dont (feat. JOYCE) [Andre Kronert Remix]"
+    },
+    {
+     "seg": 3265,
+     "artista": "Luca Lozano & Mr. Ho",
+     "tema": "Different Circles (Nicson Remix)"
+    },
+    {
+     "seg": 3285,
+     "artista": "Stephan Zovsky & James Harcourt",
+     "tema": "You Know I Dont (feat. JOYCE) [James Harcourt Remix]"
+    },
+    {
+     "seg": 3305,
+     "artista": "Stephan Zovsky & James Harcourt",
+     "tema": "You Know I Dont (feat. JOYCE) [James Harcourt Remix]"
+    },
+    {
+     "seg": 3325,
+     "artista": "Stephan Zovsky & James Harcourt",
+     "tema": "You Know I Dont (feat. JOYCE) [James Harcourt Remix]"
+    },
+    {
+     "seg": 3345,
+     "artista": "Stephan Zovsky & Andre Kronert",
+     "tema": "You Know I Dont (feat. JOYCE) [Andre Kronert Remix]"
+    },
+    {
+     "seg": 3365,
+     "artista": "Stephan Zovsky & James Harcourt",
+     "tema": "You Know I Dont (feat. JOYCE) [James Harcourt Remix]"
+    },
+    {
+     "seg": 3385,
+     "artista": "Stephan Zovsky & James Harcourt",
+     "tema": "You Know I Dont (feat. JOYCE) [James Harcourt Remix]"
+    },
+    {
+     "seg": 3405,
+     "artista": "Stephan Zovsky & James Harcourt",
+     "tema": "You Know I Dont (feat. JOYCE) [James Harcourt Remix]"
+    },
+    {
+     "seg": 3425,
+     "artista": "Wisin & Yandel",
+     "tema": "Algo Me Gusta De Ti (feat. Chris Brown & T-Pain)"
+    },
+    {
+     "seg": 3445,
+     "artista": "Saliva Commandos",
+     "tema": "Street Noise (David Morales Diridim Mix)"
+    },
+    {
+     "seg": 3465,
+     "artista": "Chris Fortier & Neil Kolo",
+     "tema": "All I Got (Chris Fortier 20yr Dub)"
+    },
+    {
+     "seg": 3485,
+     "artista": "Chris Fortier & Neil Kolo",
+     "tema": "All I Got (Chris Fortier 20yr Dub)"
+    },
+    {
+     "seg": 3505,
+     "artista": "CRBRVS",
+     "tema": "Insomnia"
+    },
+    {
+     "seg": 3525,
+     "artista": "Lwk",
+     "tema": "Archetype (Original Mix)"
+    },
+    {
+     "seg": 3545,
+     "artista": "Daniel Watts",
+     "tema": "How Can I Be Sure I am Really Awake?"
+    },
+    {
+     "seg": 3565,
+     "artista": "Daniel Watts",
+     "tema": "How Can I Be Sure I am Really Awake?"
+    },
+    {
+     "seg": 3585,
+     "artista": "Alexandro Korzh",
+     "tema": "Night Life (Radio Edit)"
+    },
+    {
+     "seg": 3605,
+     "artista": "Daniel Watts",
+     "tema": "How Can I Be Sure I am Really Awake?"
+    },
+    {
+     "seg": 3625,
+     "artista": "R.A.W.",
+     "tema": "Unbe (Erick 'More' Mix)"
+    },
+    {
+     "seg": 3645,
+     "artista": "Daniel Watts",
+     "tema": "How Can I Be Sure I am Really Awake?"
+    },
+    {
+     "seg": 3665,
+     "artista": "Daniel Watts",
+     "tema": "How Can I Be Sure I am Really Awake?"
+    },
+    {
+     "seg": 3685,
+     "artista": "Phunkadelica & Dina Summer",
+     "tema": "Stars Align (Extended Mix)"
+    },
+    {
+     "seg": 3705,
+     "artista": "Phunkadelica & Dina Summer",
+     "tema": "Stars Align (Extended Mix)"
+    },
+    {
+     "seg": 3725,
+     "artista": "Phunkadelica & Dina Summer",
+     "tema": "Stars Align (Extended Mix)"
+    },
+    {
+     "seg": 3745,
+     "artista": "Phunkadelica & Dina Summer",
+     "tema": "Stars Align (Extended Mix)"
+    },
+    {
+     "seg": 3765,
+     "artista": "Phunkadelica & Dina Summer",
+     "tema": "Stars Align (Extended Mix)"
+    },
+    {
+     "seg": 3785,
+     "artista": "Phunkadelica & Dina Summer",
+     "tema": "Stars Align (Extended Mix)"
+    },
+    {
+     "seg": 3805,
+     "artista": "Phunkadelica & Dina Summer",
+     "tema": "Stars Align (Extended Mix)"
+    },
+    {
+     "seg": 3825,
+     "artista": "Phunkadelica & Dina Summer",
+     "tema": "Stars Align (Extended Mix)"
+    },
+    {
+     "seg": 3845,
+     "artista": "Phunkadelica & Dina Summer",
+     "tema": "Stars Align (Extended Mix)"
+    },
+    {
+     "seg": 3865,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 3885,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 3905,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 3925,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 3945,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 3965,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 3985,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4005,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4025,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4045,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4065,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4085,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4105,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4125,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4145,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4165,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4185,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4205,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4225,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4245,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4265,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4285,
+     "artista": "Versalife",
+     "tema": "Machine Life (Roman Flügel Remix)"
+    },
+    {
+     "seg": 4305,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4325,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4345,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4365,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4385,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4405,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4425,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4445,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4465,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4485,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4505,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4525,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4545,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4565,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4585,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4605,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4625,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    },
+    {
+     "seg": 4645,
+     "artista": "The Who",
+     "tema": "Baba O'Riley"
+    },
+    {
+     "seg": 4665,
+     "artista": "Room Service (DE)",
+     "tema": "Holiday"
+    }
+   ]
+  }
+ ],
+ "minutos_proceso": 182.8
+}
