@@ -1,18 +1,25 @@
-name: Prueba - minutos de cada tema
+name: Minutos de cada tema
 
+# Escucha los episodios con tracklist que todavía no tienen minutos (de a 2 por noche) y deja el resultado
+# en tracktimes/all.json. Supabase lo trae solo cada hora.
 on:
+  schedule:
+    - cron: "17 7 * * *"     # 4:17 AM Argentina
   workflow_dispatch:
     inputs:
-      only: { description: "Números de episodio (ej: 390, 388). Vacío = los 3 más nuevos con tracklist", default: "" }
-      step: { description: "Cada cuántos segundos escucha", default: "20" }
+      only: { description: "Números de episodio (ej: 390, 388). Vacío = los siguientes sin minutos", default: "" }
+      count: { description: "Cuántos episodios por corrida", default: "2" }
+      step: { description: "Cada cuántos segundos escucha", default: "40" }
 
 permissions:
   contents: write
 
+concurrency: { group: tracktimes, cancel-in-progress: false }
+
 jobs:
   tiempos:
     runs-on: ubuntu-latest
-    timeout-minutes: 240
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -24,7 +31,8 @@ jobs:
       - name: Escuchar y ubicar los temas
         env:
           ONLY: ${{ inputs.only }}
-          STEP: ${{ inputs.step }}
+          COUNT: ${{ inputs.count || '2' }}
+          STEP: ${{ inputs.step || '40' }}
         run: python tracktimes.py
       - name: Guardar resultados
         if: always()
@@ -32,4 +40,4 @@ jobs:
           git config user.name "metanoia-bot"
           git config user.email "bot@metanoia.ar"
           git add tracktimes
-          git diff --cached --quiet || (git commit -m "Prueba: minutos de cada tema" && (git push || (git pull --rebase -X theirs && git push)))
+          git diff --cached --quiet || (git commit -m "Minutos de cada tema" && (git push || (git pull --rebase -X theirs && git push)))
