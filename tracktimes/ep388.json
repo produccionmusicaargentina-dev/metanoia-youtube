@@ -1,0 +1,878 @@
+{
+ "ep": 388,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Depascuale",
+   "start": 0,
+   "times": [
+    0,
+    225,
+    625,
+    945,
+    1225,
+    1585,
+    1945,
+    2305,
+    2625,
+    3065,
+    3345
+   ],
+   "ok": 11,
+   "n": 11
+  }
+ ],
+ "escuchado": [
+  [
+   45,
+   "Beyhude & Eretna",
+   "Petra II"
+  ],
+  [
+   85,
+   "De Mthuda & Da Muziqal Chef",
+   "MamGobhozi (feat. Azana)"
+  ],
+  [
+   125,
+   "Thomas Bainas & Meditelectro",
+   "Sonata"
+  ],
+  [
+   165,
+   "KKK",
+   "RAVE (将军进行曲)"
+  ],
+  [
+   205,
+   "Beyhude & Eretna",
+   "Petra II"
+  ],
+  [
+   245,
+   "Be Svendsen",
+   "Nabia"
+  ],
+  [
+   285,
+   "Mikzin SA",
+   "Last Goodbyes (feat. Mdee101)"
+  ],
+  [
+   325,
+   "Be Svendsen",
+   "Nabia"
+  ],
+  [
+   365,
+   "Be Svendsen",
+   "Nabia"
+  ],
+  [
+   405,
+   "Be Svendsen",
+   "Nabia"
+  ],
+  [
+   445,
+   "QuayR Musiq, LastBornDiroba & Leemckrazy",
+   "Sabela (feat. Mellow & Sleazy)"
+  ],
+  [
+   485,
+   "Medd",
+   "Sunset Streets"
+  ],
+  [
+   525,
+   "Be Svendsen",
+   "Nabia"
+  ],
+  [
+   565,
+   "Be Svendsen",
+   "Nabia"
+  ],
+  [
+   605,
+   "Be Svendsen",
+   "Nabia"
+  ],
+  [
+   645,
+   "Mikhail Catan",
+   "Starry Night"
+  ],
+  [
+   685,
+   "Trompies",
+   "Malabulanbu (feat. Macasket)"
+  ],
+  [
+   725,
+   "Vintix Jr.",
+   "Underground Gang"
+  ],
+  [
+   765,
+   "Vintix Jr.",
+   "Underground Gang"
+  ],
+  [
+   805,
+   "Chriz (BR)",
+   "Deep In Universe"
+  ],
+  [
+   845,
+   "Marina Eiffel",
+   "Menschen Der Zukunft"
+  ],
+  [
+   885,
+   "Mikhail Catan",
+   "Starry Night"
+  ],
+  [
+   925,
+   "Mikhail Catan",
+   "Starry Night"
+  ],
+  [
+   965,
+   "Unja",
+   "Kohu"
+  ],
+  [
+   1005,
+   "Unja",
+   "Kohu"
+  ],
+  [
+   1045,
+   "Unja",
+   "Kohu"
+  ],
+  [
+   1085,
+   "Unja",
+   "Kohu"
+  ],
+  [
+   1125,
+   "Unja",
+   "Kohu"
+  ],
+  [
+   1165,
+   "Unja",
+   "Kohu"
+  ],
+  [
+   1205,
+   "Unja",
+   "Kohu"
+  ],
+  [
+   1245,
+   "Wanduta",
+   "Calypso (Extended Mix)"
+  ],
+  [
+   1285,
+   "Wanduta",
+   "Calypso (Extended Mix)"
+  ],
+  [
+   1325,
+   "Wanduta",
+   "Calypso (Extended Mix)"
+  ],
+  [
+   1365,
+   "Wanduta",
+   "Calypso (Extended Mix)"
+  ],
+  [
+   1405,
+   "Wanduta",
+   "Calypso (Extended Mix)"
+  ],
+  [
+   1445,
+   "Wanduta",
+   "Calypso (Extended Mix)"
+  ],
+  [
+   1485,
+   "Wanduta",
+   "Calypso (Extended Mix)"
+  ],
+  [
+   1525,
+   "Wanduta",
+   "Calypso (Extended Mix)"
+  ],
+  [
+   1565,
+   "Wanduta",
+   "Calypso (Extended Mix)"
+  ],
+  [
+   1605,
+   "Ed Noodle & Mark Mywords",
+   "Opgetrommeld"
+  ],
+  [
+   1645,
+   "Ed Noodle & Mark Mywords",
+   "Opgetrommeld"
+  ],
+  [
+   1685,
+   "Ed Noodle & Mark Mywords",
+   "Opgetrommeld"
+  ],
+  [
+   1725,
+   "Ed Noodle & Mark Mywords",
+   "Opgetrommeld"
+  ],
+  [
+   1765,
+   "Ed Noodle & Mark Mywords",
+   "Opgetrommeld"
+  ],
+  [
+   1805,
+   "Ed Noodle & Mark Mywords",
+   "Opgetrommeld"
+  ],
+  [
+   1845,
+   "Ed Noodle & Mark Mywords",
+   "Opgetrommeld"
+  ],
+  [
+   1885,
+   "Ed Noodle & Mark Mywords",
+   "Opgetrommeld"
+  ],
+  [
+   1925,
+   "Ed Noodle & Mark Mywords",
+   "Opgetrommeld"
+  ],
+  [
+   1965,
+   "Last Gentleman On Playa",
+   "Juzu (MiRET Remix)"
+  ],
+  [
+   2005,
+   "Last Gentleman On Playa",
+   "Juzu (MiRET Remix)"
+  ],
+  [
+   2045,
+   "Last Gentleman On Playa",
+   "Juzu (MiRET Remix)"
+  ],
+  [
+   2085,
+   "Last Gentleman On Playa",
+   "Juzu (MiRET Remix)"
+  ],
+  [
+   2125,
+   "Last Gentleman On Playa",
+   "Juzu (MiRET Remix)"
+  ],
+  [
+   2165,
+   "Last Gentleman On Playa",
+   "Juzu (MiRET Remix)"
+  ],
+  [
+   2205,
+   "Last Gentleman On Playa",
+   "Juzu (MiRET Remix)"
+  ],
+  [
+   2245,
+   "The Jazz Explorers",
+   "Electric Serenity"
+  ],
+  [
+   2285,
+   "Last Gentleman On Playa",
+   "Juzu (MiRET Remix)"
+  ],
+  [
+   2325,
+   "Miret, JPattersson & Timboletti",
+   "La Penúltima (Timboletti Remix)"
+  ],
+  [
+   2365,
+   "Miret, JPattersson & Timboletti",
+   "La Penúltima (Timboletti Remix)"
+  ],
+  [
+   2405,
+   "Miret & JPattersson",
+   "La Penúltima"
+  ],
+  [
+   2445,
+   "Miret, JPattersson & Timboletti",
+   "La Penúltima (Timboletti Remix)"
+  ],
+  [
+   2485,
+   "Miret & JPattersson",
+   "La Penúltima"
+  ],
+  [
+   2525,
+   "Miret, JPattersson & Timboletti",
+   "La Penúltima (Timboletti Remix)"
+  ],
+  [
+   2565,
+   "Miret, JPattersson & Timboletti",
+   "La Penúltima (Timboletti Remix)"
+  ],
+  [
+   2605,
+   "Miret & JPattersson",
+   "La Penúltima"
+  ],
+  [
+   2645,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   2685,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   2725,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   2765,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   2805,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   2845,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   2885,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   2925,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   2965,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   3005,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   3045,
+   "JPattersson",
+   "A Whale's Tale (Okuma Remix)"
+  ],
+  [
+   3085,
+   "Somko, Mixwell & MAGISUS",
+   "Light House"
+  ],
+  [
+   3125,
+   "Soma Piano, Source SA & Ciga M",
+   "Conversation (feat. Phemelo Saxer) [Soutside Shandis]"
+  ],
+  [
+   3165,
+   "Somko, Mixwell & MAGISUS",
+   "Light House"
+  ],
+  [
+   3205,
+   "Somko, Mixwell & MAGISUS",
+   "Light House"
+  ],
+  [
+   3245,
+   "Somko, Mixwell & MAGISUS",
+   "Light House"
+  ],
+  [
+   3285,
+   "Somko, Mixwell & MAGISUS",
+   "Light House"
+  ],
+  [
+   3325,
+   "Somko, Mixwell & MAGISUS",
+   "Light House"
+  ],
+  [
+   3365,
+   "XICO & Zero Bala Sounds",
+   "Samba Senegalês"
+  ],
+  [
+   3405,
+   "XICO & Zero Bala Sounds",
+   "Samba Senegalês"
+  ],
+  [
+   3445,
+   "XICO & Zero Bala Sounds",
+   "Samba Senegalês"
+  ],
+  [
+   3485,
+   "XICO & Zero Bala Sounds",
+   "Samba Senegalês"
+  ],
+  [
+   3525,
+   "The Cube Guys",
+   "Drunk (Tech-Qila Radio Edit)"
+  ],
+  [
+   3565,
+   "XICO & Zero Bala Sounds",
+   "Samba Senegalês"
+  ],
+  [
+   3605,
+   "The Cube Guys",
+   "Drunk (Tech-Qila Radio Edit)"
+  ],
+  [
+   3645,
+   "XICO & Zero Bala Sounds",
+   "Samba Senegalês"
+  ],
+  [
+   3685,
+   "Maae",
+   "The Man"
+  ],
+  [
+   3725,
+   "Maae",
+   "The Man"
+  ],
+  [
+   3765,
+   "Maae",
+   "The Man"
+  ],
+  [
+   3805,
+   "Maae",
+   "The Man"
+  ],
+  [
+   3845,
+   "Paul Losev",
+   "Why (Extended Mix)"
+  ],
+  [
+   3885,
+   "Paul Losev",
+   "Why (Extended Mix)"
+  ],
+  [
+   3925,
+   "Paul Losev",
+   "Why (Extended Mix)"
+  ],
+  [
+   3965,
+   "Paul Losev",
+   "Why (Extended Mix)"
+  ],
+  [
+   4005,
+   "Paul Losev",
+   "Why (Extended Mix)"
+  ],
+  [
+   4045,
+   "Madness Ba",
+   "Anywhere"
+  ],
+  [
+   4085,
+   "Gorje Hewek, Makebo & Amonita",
+   "Never Been"
+  ],
+  [
+   4125,
+   "Mike Kohl",
+   "In the Morning"
+  ],
+  [
+   4165,
+   "Mike Kohl",
+   "In the Morning"
+  ],
+  [
+   4205,
+   "Mike Kohl",
+   "In the Morning"
+  ],
+  [
+   4245,
+   "Mike Kohl",
+   "In the Morning"
+  ],
+  [
+   4285,
+   "Mike Kohl",
+   "In the Morning"
+  ],
+  [
+   4325,
+   "Mike Kohl",
+   "In the Morning"
+  ],
+  [
+   4365,
+   "ZuluMafia & Coco Moloi",
+   "Living in the Volt"
+  ],
+  [
+   4405,
+   "Hole Box & JFR",
+   "Deep Inside (JFR Remix)"
+  ],
+  [
+   4445,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   4485,
+   "Rawkeysgroup",
+   "Bhukutelani (feat. Tarps)"
+  ],
+  [
+   4525,
+   "Tony Igy",
+   "Astronomia (Santti, Dan K Remix)"
+  ],
+  [
+   4565,
+   "Hole Box & JFR",
+   "Deep Inside (JFR Remix)"
+  ],
+  [
+   4605,
+   "Makebo & Volen Sentir",
+   "Alchemist"
+  ],
+  [
+   4645,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   4685,
+   "Khen",
+   "Babylon (Volen Sentir Remix)"
+  ],
+  [
+   4725,
+   "Vlad Caia",
+   "Sidepoint"
+  ],
+  [
+   4765,
+   "Mr. Belt & Wezol, Bendah & LIMITED LIFE",
+   "I Feel Love (Extended Mix)"
+  ],
+  [
+   4805,
+   "Khen",
+   "Babylon (Volen Sentir Remix)"
+  ],
+  [
+   4845,
+   "Khen",
+   "Babylon (Volen Sentir Remix)"
+  ],
+  [
+   4885,
+   "Khen",
+   "Babylon (Volen Sentir Remix)"
+  ],
+  [
+   4925,
+   "Khen",
+   "Babylon (Volen Sentir Remix)"
+  ],
+  [
+   4965,
+   "Khen",
+   "Babylon (Volen Sentir Remix)"
+  ],
+  [
+   5005,
+   "Michael A",
+   "Eternal Fade"
+  ],
+  [
+   5045,
+   "Michael A",
+   "Eternal Fade"
+  ],
+  [
+   5085,
+   "Michael A",
+   "Eternal Fade"
+  ],
+  [
+   5125,
+   "Michael A",
+   "Eternal Fade"
+  ],
+  [
+   5165,
+   "Joel Corry & Da Hool",
+   "The Parade"
+  ],
+  [
+   5205,
+   "Miro & Quivver",
+   "Paradise (Quivver Extended Remix)"
+  ],
+  [
+   5245,
+   "Ohmme",
+   "Excess (Original Mix)"
+  ],
+  [
+   5285,
+   "Alle Farben",
+   "She Moves (Far Away) [feat. Graham Candy] [Extended Mix]"
+  ],
+  [
+   5325,
+   "South Bloom",
+   "Let Me in (Volen Sentir Secret Technique)"
+  ],
+  [
+   5365,
+   "Miro & Quivver",
+   "Paradise (Quivver Extended Remix)"
+  ],
+  [
+   5405,
+   "Miro & Quivver",
+   "Paradise (Quivver Extended Remix)"
+  ],
+  [
+   5445,
+   "Miro & Quivver",
+   "Paradise (Quivver Extended Remix)"
+  ],
+  [
+   5485,
+   "Jesse Rose & Avon Stringer",
+   "Pressure"
+  ],
+  [
+   5525,
+   "Agents Of Time",
+   "Friend Of Mine (feat. Ross Quinn)"
+  ],
+  [
+   5565,
+   "Öwnboss & SEVEK",
+   "Move Your Body"
+  ],
+  [
+   5605,
+   "Shouse",
+   "Love Tonight"
+  ],
+  [
+   5645,
+   "Alle Farben",
+   "She Moves (Far Away) [feat. Graham Candy] [Extended Mix]"
+  ],
+  [
+   5685,
+   "Infusion",
+   "Legacy (Freedo Mosho, Maze 28, GMJ, Matter Rework)"
+  ],
+  [
+   5725,
+   "Infusion",
+   "Legacy (Freedo Mosho, Maze 28, GMJ, Matter Rework)"
+  ],
+  [
+   5765,
+   "Gasho & Maxi Raffone",
+   "Good News (Original)"
+  ],
+  [
+   5805,
+   "Shouse",
+   "Love Tonight"
+  ],
+  [
+   5845,
+   "Festiva",
+   "Cerberus"
+  ],
+  [
+   5885,
+   "Infusion",
+   "Legacy (Freedo Mosho, Maze 28, GMJ, Matter Rework)"
+  ],
+  [
+   5925,
+   "Influence & Yonsh",
+   "Zero Patience"
+  ],
+  [
+   5965,
+   "Influence & Yonsh",
+   "Zero Patience"
+  ],
+  [
+   6005,
+   "Influence & Yonsh",
+   "Zero Patience"
+  ],
+  [
+   6045,
+   "Influence & Yonsh",
+   "Zero Patience"
+  ],
+  [
+   6085,
+   "Influence & Yonsh",
+   "Zero Patience"
+  ],
+  [
+   6125,
+   "Influence & Yonsh",
+   "Zero Patience"
+  ],
+  [
+   6165,
+   "Influence & Yonsh",
+   "Zero Patience"
+  ],
+  [
+   6205,
+   "Influence & Yonsh",
+   "Zero Patience"
+  ],
+  [
+   6245,
+   "Influence & Yonsh",
+   "Zero Patience"
+  ],
+  [
+   6285,
+   "VORTEX",
+   "Sandstorm Synth (Set Live)"
+  ],
+  [
+   6445,
+   "brando",
+   "Look into My Eyes (Hugel & Hugo Cantarra Extended Remix)"
+  ],
+  [
+   6525,
+   "Ohmme",
+   "Excess (Original Mix)"
+  ],
+  [
+   6565,
+   "OFFAIAH",
+   "Trouble"
+  ],
+  [
+   6605,
+   "Block & Crown",
+   "Intergalactic Kiss"
+  ],
+  [
+   6645,
+   "HOSH & 1979",
+   "Midnight (The Hanging Tree) [feat. Jalja]"
+  ],
+  [
+   6685,
+   "Chris Fortier & Neil Kolo",
+   "All I Got (Chris Fortier 20yr Dub)"
+  ],
+  [
+   6845,
+   "Chris Fortier & Neil Kolo",
+   "All I Got (Chris Fortier 20yr Dub)"
+  ],
+  [
+   6885,
+   "Chris Fortier & Neil Kolo",
+   "All I Got (Chris Fortier 20yr Dub)"
+  ],
+  [
+   6925,
+   "Marcos Salas",
+   "Obreros"
+  ],
+  [
+   6965,
+   "Dosem",
+   "All Locations (Edit)"
+  ],
+  [
+   7005,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   7045,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   7085,
+   "Enrico Sangiuliano",
+   "Astral Projection"
+  ]
+ ],
+ "minutos_proceso": 80.7
+}

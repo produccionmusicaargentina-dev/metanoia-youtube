@@ -1,0 +1,680 @@
+{
+ "ep": 391,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "David Nandez",
+   "start": 0,
+   "times": [
+    0,
+    385,
+    665,
+    945,
+    1225,
+    1465,
+    1745,
+    1985,
+    2257,
+    2529,
+    2801,
+    3073,
+    3345
+   ],
+   "ok": 7,
+   "n": 13
+  }
+ ],
+ "escuchado": [
+  [
+   45,
+   "Brian Cid",
+   "Symbiosis"
+  ],
+  [
+   85,
+   "Makebo & Volen Sentir",
+   "Alchemist"
+  ],
+  [
+   125,
+   "Brian Cid",
+   "Symbiosis"
+  ],
+  [
+   165,
+   "Brian Cid",
+   "Symbiosis"
+  ],
+  [
+   205,
+   "Brian Cid",
+   "Symbiosis"
+  ],
+  [
+   245,
+   "Brian Cid",
+   "Symbiosis"
+  ],
+  [
+   285,
+   "Imany",
+   "You Will Never Know (Ivan Spell & Daniel Magre Remix)"
+  ],
+  [
+   325,
+   "Marc Marzenit",
+   "Perron (Wehbba Remix)"
+  ],
+  [
+   365,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   405,
+   "GMJ & Matter",
+   "Keepers"
+  ],
+  [
+   445,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   485,
+   "GMJ & Matter",
+   "Keepers"
+  ],
+  [
+   525,
+   "GMJ & Matter",
+   "Keepers"
+  ],
+  [
+   565,
+   "Seeb",
+   "Breathe (feat. Neev)"
+  ],
+  [
+   605,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   885,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   925,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   1165,
+   "Jaques Le Noir",
+   "Balance"
+  ],
+  [
+   1205,
+   "Makebo & Volen Sentir",
+   "Alchemist"
+  ],
+  [
+   1245,
+   "Juan Deminicis",
+   "The Circle"
+  ],
+  [
+   1285,
+   "Juan Deminicis",
+   "The Circle"
+  ],
+  [
+   1325,
+   "Juan Deminicis",
+   "The Circle"
+  ],
+  [
+   1365,
+   "Juan Deminicis",
+   "The Circle"
+  ],
+  [
+   1405,
+   "Planet Funk & Makebo",
+   "Chase the Sun (Makebo Remix - Extended Mix)"
+  ],
+  [
+   1445,
+   "Maae",
+   "The Man"
+  ],
+  [
+   1485,
+   "Tonaco",
+   "Philomena (Abity & Juan Ibañez Remix)"
+  ],
+  [
+   1525,
+   "Tonaco",
+   "Philomena (Abity & Juan Ibañez Remix)"
+  ],
+  [
+   1565,
+   "Tonaco",
+   "Philomena (Abity & Juan Ibañez Remix)"
+  ],
+  [
+   1605,
+   "Tonaco",
+   "Philomena (Abity & Juan Ibañez Remix)"
+  ],
+  [
+   1645,
+   "Tonaco",
+   "Philomena (Abity & Juan Ibañez Remix)"
+  ],
+  [
+   1685,
+   "The Shapeshifters",
+   "Lola's Theme"
+  ],
+  [
+   1725,
+   "Alex Rozz",
+   "En El Otro Pantalon"
+  ],
+  [
+   1765,
+   "Tomas Garcia",
+   "Cave Creatures"
+  ],
+  [
+   1805,
+   "Bambook",
+   "Give It Up (Audiofly Remix)"
+  ],
+  [
+   1845,
+   "Bambook",
+   "Give It Up (Audiofly Remix)"
+  ],
+  [
+   1885,
+   "Tomas Garcia",
+   "Cave Creatures"
+  ],
+  [
+   1925,
+   "Tomas Garcia",
+   "Cave Creatures"
+  ],
+  [
+   1965,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   2005,
+   "Kebin van Reeken",
+   "Sax Talk"
+  ],
+  [
+   2045,
+   "Fred again.., Duoteque & Orion Sun",
+   "ItsNotREEAALLLLLLLL"
+  ],
+  [
+   2085,
+   "Kebin van Reeken",
+   "Sax Talk"
+  ],
+  [
+   2125,
+   "Kebin van Reeken",
+   "Sax Talk"
+  ],
+  [
+   2165,
+   "Kebin van Reeken",
+   "Sax Talk"
+  ],
+  [
+   2205,
+   "Kebin van Reeken",
+   "Sax Talk"
+  ],
+  [
+   2245,
+   "Vlad Caia",
+   "Sidepoint"
+  ],
+  [
+   2765,
+   "Bambook",
+   "Give It Up (Audiofly Remix)"
+  ],
+  [
+   2805,
+   "Planet Funk & Makebo",
+   "Chase the Sun (Makebo Remix - Extended Mix)"
+  ],
+  [
+   2845,
+   "Paperclip People",
+   "Throw (Slam's RTM Remix)"
+  ],
+  [
+   2885,
+   "Andre Volodin & Karina Smirnova",
+   "Cage (Ad Brown Dub Mix)"
+  ],
+  [
+   2925,
+   "Ms. Ursula",
+   "We Walk With The Fire"
+  ],
+  [
+   3005,
+   "Andre Volodin & Karina Smirnova",
+   "Cage (Ad Brown Dub Mix)"
+  ],
+  [
+   3205,
+   "Bilateral",
+   "Atterraggio"
+  ],
+  [
+   3285,
+   "Acill Djoxs",
+   "DJ I WANA FEEL LIKE MELODY PAP RANDOM Dj Trabas Selow+Reverb"
+  ],
+  [
+   3365,
+   "Miss Kittin",
+   "Life Is My Teacher (Simon Vuarambon Remix - Edit)"
+  ],
+  [
+   3405,
+   "Miss Kittin",
+   "Life Is My Teacher (Simon Vuarambon Remix - Edit)"
+  ],
+  [
+   3445,
+   "Miss Kittin",
+   "Life Is My Teacher (Simon Vuarambon Remix - Edit)"
+  ],
+  [
+   3485,
+   "Miss Kittin",
+   "Life Is My Teacher (Simon Vuarambon Remix - Edit)"
+  ],
+  [
+   3525,
+   "Miss Kittin",
+   "Life Is My Teacher (Simon Vuarambon Remix - Edit)"
+  ],
+  [
+   3565,
+   "Miss Kittin",
+   "Life Is My Teacher (Simon Vuarambon Remix - Edit)"
+  ],
+  [
+   3605,
+   "Miss Kittin",
+   "Life Is My Teacher (Simon Vuarambon Remix - Edit)"
+  ],
+  [
+   3645,
+   "Miss Kittin",
+   "Life Is My Teacher (Simon Vuarambon Remix - Edit)"
+  ],
+  [
+   3805,
+   "K!KO",
+   "Wazzoo (feat. TOTEM) [Extended Mix]"
+  ],
+  [
+   3845,
+   "Hippnotik",
+   "Doimodul"
+  ],
+  [
+   3885,
+   "Bambook",
+   "Give It Up (Audiofly Remix)"
+  ],
+  [
+   3925,
+   "Andrea Toma",
+   "Master Loop"
+  ],
+  [
+   3965,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   4005,
+   "Juan Deminicis & Alto Astral",
+   "Letting Go"
+  ],
+  [
+   4045,
+   "Juan Deminicis & Alto Astral",
+   "Letting Go"
+  ],
+  [
+   4085,
+   "Juan Deminicis & Alto Astral",
+   "Letting Go"
+  ],
+  [
+   4125,
+   "Juan Deminicis & Alto Astral",
+   "Letting Go"
+  ],
+  [
+   4165,
+   "Juan Deminicis & Alto Astral",
+   "Letting Go"
+  ],
+  [
+   4205,
+   "Juan Deminicis & Alto Astral",
+   "Letting Go"
+  ],
+  [
+   4245,
+   "Juan Deminicis & Alto Astral",
+   "Letting Go"
+  ],
+  [
+   4285,
+   "Juan Deminicis & Alto Astral",
+   "Letting Go"
+  ],
+  [
+   4325,
+   "Juan Deminicis & Alto Astral",
+   "Letting Go"
+  ],
+  [
+   4365,
+   "COQUEIT",
+   "Exhaust"
+  ],
+  [
+   4405,
+   "COQUEIT",
+   "Exhaust"
+  ],
+  [
+   4445,
+   "COQUEIT",
+   "Exhaust"
+  ],
+  [
+   4485,
+   "Andrew Bennett",
+   "Alive"
+  ],
+  [
+   4525,
+   "COQUEIT",
+   "Exhaust"
+  ],
+  [
+   4565,
+   "A'Studio",
+   "Sos (feat. POLINA) [Skylark Remix - Nic Fanciulli Edit]"
+  ],
+  [
+   4605,
+   "COQUEIT",
+   "Exhaust"
+  ],
+  [
+   4645,
+   "COQUEIT",
+   "Exhaust"
+  ],
+  [
+   4685,
+   "Way Out West",
+   "Tuesday Maybe"
+  ],
+  [
+   4725,
+   "Way Out West",
+   "Tuesday Maybe"
+  ],
+  [
+   4765,
+   "Way Out West",
+   "Tuesday Maybe"
+  ],
+  [
+   4805,
+   "Way Out West",
+   "Tuesday Maybe"
+  ],
+  [
+   4845,
+   "Jomimomol",
+   "Neon Code"
+  ],
+  [
+   4885,
+   "Connie",
+   "Funky Little Beat"
+  ],
+  [
+   4925,
+   "Way Out West",
+   "Tuesday Maybe"
+  ],
+  [
+   4965,
+   "Jerome Isma-Ae",
+   "Baharat (Ruben Karapetyan Remix)"
+  ],
+  [
+   5005,
+   "Didier Sinclair",
+   "Lovely Flight"
+  ],
+  [
+   5045,
+   "Paradise Junkies",
+   "Final Escape"
+  ],
+  [
+   5085,
+   "DJ Abyss",
+   "Neon Phantom (Dole & Kom Radio Edit)"
+  ],
+  [
+   5125,
+   "AntAbel",
+   "Don't Miss You"
+  ],
+  [
+   5205,
+   "David Guetta, MistaJam & John Newman",
+   "If You Really Love Me (How Will I Know)"
+  ],
+  [
+   5245,
+   "Chymamusique",
+   "We Are To Be (feat. Kaylow) [Main Mix]"
+  ],
+  [
+   5285,
+   "Planet Soul",
+   "Set U Free (Fever Mix)"
+  ],
+  [
+   5325,
+   "The DangerFeel Newbies",
+   "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+  ],
+  [
+   5365,
+   "X-Press 2",
+   "Say What! (London Underground Mix)"
+  ],
+  [
+   5405,
+   "The DangerFeel Newbies",
+   "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+  ],
+  [
+   5445,
+   "Gorje Hewek, Makebo & Amonita",
+   "Never Been"
+  ],
+  [
+   5485,
+   "Victoria Blackstone & Carlos Gatto",
+   "Alive (Vitaly Shturm Remix)"
+  ],
+  [
+   5525,
+   "Victoria Blackstone & Carlos Gatto",
+   "Alive (Vitaly Shturm Remix)"
+  ],
+  [
+   5565,
+   "Gorje Hewek, Makebo & Amonita",
+   "Never Been"
+  ],
+  [
+   5605,
+   "Victoria Blackstone & Carlos Gatto",
+   "Alive (Vitaly Shturm Remix)"
+  ],
+  [
+   5645,
+   "Will Daley & ARJ (IR)",
+   "Through Portals"
+  ],
+  [
+   5685,
+   "Will Daley & ARJ (IR)",
+   "Through Portals"
+  ],
+  [
+   5725,
+   "Will Daley & ARJ (IR)",
+   "Through Portals"
+  ],
+  [
+   5765,
+   "Will Daley & ARJ (IR)",
+   "Through Portals"
+  ],
+  [
+   5805,
+   "Will Daley & ARJ (IR)",
+   "Through Portals"
+  ],
+  [
+   5845,
+   "Will Daley & ARJ (IR)",
+   "Through Portals"
+  ],
+  [
+   5885,
+   "Will Daley & ARJ (IR)",
+   "Through Portals"
+  ],
+  [
+   5925,
+   "Will Daley & ARJ (IR)",
+   "Through Portals"
+  ],
+  [
+   5965,
+   "Gareth Stirling",
+   "Wallop"
+  ],
+  [
+   6005,
+   "D.General, V.Underground & Earful Soul",
+   "Praise Him"
+  ],
+  [
+   6045,
+   "D.General & Artwork Sounds",
+   "Say Yeah"
+  ],
+  [
+   6085,
+   "Louie Vega & Jay 'Sinister' Sealee",
+   "Diamond Life (feat. Julie McKnight) [Dance Ritual Mix]"
+  ],
+  [
+   6285,
+   "Louie Vega & Jay 'Sinister' Sealee",
+   "Diamond Life (feat. Julie McKnight) [Dance Ritual Mix]"
+  ],
+  [
+   6405,
+   "Marc Marzenit",
+   "Perron (Wehbba Remix)"
+  ],
+  [
+   6605,
+   "220 KID & GRACEY",
+   "Don’t Need Love (Extended Version)"
+  ],
+  [
+   6645,
+   "The Return",
+   "New Day"
+  ],
+  [
+   6685,
+   "FISHER",
+   "You Little Beauty"
+  ],
+  [
+   6725,
+   "Diskoteka Avariya",
+   "Ciao, Bambina! (feat. Blestyaschie)"
+  ],
+  [
+   6765,
+   "Michael Bennett",
+   "Clandestine (DJ Ruby Remix)"
+  ],
+  [
+   6805,
+   "Michael Bennett",
+   "Clandestine (DJ Ruby Remix)"
+  ],
+  [
+   6845,
+   "Michael Bennett",
+   "Clandestine (DJ Ruby Remix)"
+  ],
+  [
+   6885,
+   "Munir Amastha",
+   "Can You Feel the Night (One Opinion Remix) [feat. Sauli Harper]"
+  ],
+  [
+   6925,
+   "Allen (Italy) & Filix",
+   "Dusty Palace"
+  ],
+  [
+   6965,
+   "Diskoteka Avariya",
+   "Ciao, Bambina! (feat. Blestyaschie)"
+  ]
+ ],
+ "minutos_proceso": 83.2
+}
