@@ -1,0 +1,35 @@
+name: Prueba - minutos de cada tema
+
+on:
+  workflow_dispatch:
+    inputs:
+      only: { description: "Números de episodio (ej: 390, 388). Vacío = los 3 más nuevos con tracklist", default: "" }
+      step: { description: "Cada cuántos segundos escucha", default: "20" }
+
+permissions:
+  contents: write
+
+jobs:
+  tiempos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Herramientas
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q -U yt-dlp shazamio rapidfuzz
+      - name: Escuchar y ubicar los temas
+        env:
+          ONLY: ${{ inputs.only }}
+          STEP: ${{ inputs.step }}
+        run: python tracktimes.py
+      - name: Guardar resultados
+        if: always()
+        run: |
+          git config user.name "metanoia-bot"
+          git config user.email "bot@metanoia.ar"
+          git add tracktimes
+          git diff --cached --quiet || (git commit -m "Prueba: minutos de cada tema" && (git push || (git pull --rebase -X theirs && git push)))
