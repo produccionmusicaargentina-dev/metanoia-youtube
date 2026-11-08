@@ -22,6 +22,25 @@
    ],
    "ok": 7,
    "n": 13
+  },
+  {
+   "artist": "Lucas Hernan",
+   "start": 3558,
+   "times": [
+    0,
+    214,
+    427,
+    787,
+    1107,
+    1507,
+    1907,
+    2067,
+    2440,
+    2814,
+    3187
+   ],
+   "ok": 6,
+   "n": 11
   }
  ],
  "escuchado": [
@@ -362,8 +381,8 @@
   ],
   [
    4045,
-   "Juan Deminicis & Alto Astral",
-   "Letting Go"
+   "The SouL Pops & Trevoy Johnson",
+   "This Masquerade"
   ],
   [
    4085,
@@ -616,11 +635,6 @@
    "Diamond Life (feat. Julie McKnight) [Dance Ritual Mix]"
   ],
   [
-   6285,
-   "Louie Vega & Jay 'Sinister' Sealee",
-   "Diamond Life (feat. Julie McKnight) [Dance Ritual Mix]"
-  ],
-  [
    6405,
    "Marc Marzenit",
    "Perron (Wehbba Remix)"
@@ -676,5 +690,5 @@
    "Ciao, Bambina! (feat. Blestyaschie)"
   ]
  ],
- "minutos_proceso": 83.2
+ "minutos_proceso": 81.9
 }
