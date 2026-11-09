@@ -1,0 +1,1014 @@
+{
+ "ep": 380,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Belu Alma",
+   "start": 0,
+   "times": [
+    0,
+    505,
+    865,
+    1145,
+    1545,
+    1905,
+    2225,
+    2585,
+    2905,
+    3305
+   ],
+   "ok": 10,
+   "n": 10
+  },
+  {
+   "artist": "Less is more",
+   "start": 3825,
+   "times": [
+    0,
+    200,
+    480,
+    920,
+    1160,
+    1360,
+    1560,
+    1840,
+    2080,
+    2440,
+    2640,
+    3040,
+    3240,
+    3680
+   ],
+   "ok": 14,
+   "n": 14
+  }
+ ],
+ "escuchado": [
+  [
+   5,
+   "Daniel Neuland & Sahra Bass",
+   "Bretterling"
+  ],
+  [
+   45,
+   "Altraajamz",
+   "Starzo"
+  ],
+  [
+   85,
+   "Wigbert",
+   "Balance"
+  ],
+  [
+   125,
+   "Gorge",
+   "Higher"
+  ],
+  [
+   205,
+   "Gorge",
+   "Higher"
+  ],
+  [
+   245,
+   "Stephan Crown & EiZer G",
+   "Bouncing"
+  ],
+  [
+   285,
+   "Gorge",
+   "Higher"
+  ],
+  [
+   325,
+   "Gorge",
+   "Higher"
+  ],
+  [
+   365,
+   "Gorge",
+   "Higher"
+  ],
+  [
+   405,
+   "Culoe De Song",
+   "Webaba"
+  ],
+  [
+   445,
+   "Nicolas Soria",
+   "Last Forever"
+  ],
+  [
+   485,
+   "Lello B.",
+   "L.O.V.E (Lello B Remix)"
+  ],
+  [
+   525,
+   "Rosa Anschütz",
+   "Diopter (Billka Edit)"
+  ],
+  [
+   565,
+   "Rosa Anschütz",
+   "Diopter (Billka Edit)"
+  ],
+  [
+   605,
+   "Rosa Anschütz",
+   "Diopter (Billka Edit)"
+  ],
+  [
+   645,
+   "Rosa Anschütz",
+   "Diopter (Billka Edit)"
+  ],
+  [
+   685,
+   "Rosa Anschütz",
+   "Diopter (Billka Edit)"
+  ],
+  [
+   725,
+   "Rosa Anschütz",
+   "Diopter (Billka Edit)"
+  ],
+  [
+   765,
+   "Rosa Anschütz",
+   "Diopter (Billka Edit)"
+  ],
+  [
+   805,
+   "Rosa Anschütz",
+   "Diopter (Billka Edit)"
+  ],
+  [
+   845,
+   "Gareth Stirling",
+   "Wallop"
+  ],
+  [
+   885,
+   "Budakid",
+   "Dream Atlas"
+  ],
+  [
+   925,
+   "Budakid",
+   "Dream Atlas"
+  ],
+  [
+   965,
+   "Sistersweet & KYOTTO",
+   "Magic Disco (Kyotto Remix)"
+  ],
+  [
+   1005,
+   "Budakid",
+   "Dream Atlas"
+  ],
+  [
+   1045,
+   "Budakid",
+   "Dream Atlas"
+  ],
+  [
+   1085,
+   "Budakid",
+   "Dream Atlas"
+  ],
+  [
+   1125,
+   "Budakid",
+   "Dream Atlas"
+  ],
+  [
+   1165,
+   "Jero Nougues",
+   "Panta Rhei (Ben Summers Remix)"
+  ],
+  [
+   1205,
+   "Jero Nougues",
+   "Panta Rhei (Ben Summers Remix)"
+  ],
+  [
+   1245,
+   "Jero Nougues",
+   "Panta Rhei (Ben Summers Remix)"
+  ],
+  [
+   1285,
+   "Jero Nougues",
+   "Panta Rhei (Ben Summers Remix)"
+  ],
+  [
+   1325,
+   "Jero Nougues",
+   "Panta Rhei (Ben Summers Remix)"
+  ],
+  [
+   1365,
+   "Jero Nougues",
+   "Panta Rhei (Ben Summers Remix)"
+  ],
+  [
+   1405,
+   "Jero Nougues",
+   "Panta Rhei (Ben Summers Remix)"
+  ],
+  [
+   1445,
+   "Jero Nougues",
+   "Panta Rhei (Ben Summers Remix)"
+  ],
+  [
+   1485,
+   "Jero Nougues",
+   "Panta Rhei (Ben Summers Remix)"
+  ],
+  [
+   1525,
+   "Julien Jabre",
+   "Swimming Places (Purple Disco Machine Re - Work)"
+  ],
+  [
+   1565,
+   "Dabeat",
+   "Naural (Extended Mix)"
+  ],
+  [
+   1605,
+   "UNKLE & Keinemusik",
+   "Only You (feat. Miink & Wil Malone) [&ME Remix]"
+  ],
+  [
+   1645,
+   "Dabeat",
+   "Naural (Extended Mix)"
+  ],
+  [
+   1685,
+   "Dabeat",
+   "Naural (Extended Mix)"
+  ],
+  [
+   1725,
+   "Dabeat",
+   "Naural (Extended Mix)"
+  ],
+  [
+   1765,
+   "Dabeat",
+   "Naural (Extended Mix)"
+  ],
+  [
+   1805,
+   "Dabeat",
+   "Naural (Extended Mix)"
+  ],
+  [
+   1845,
+   "Lello B.",
+   "L.O.V.E (Lello B Remix)"
+  ],
+  [
+   1885,
+   "Bambook",
+   "Give It Up (Audiofly Remix)"
+  ],
+  [
+   1925,
+   "Andre Moret",
+   "Kryon"
+  ],
+  [
+   1965,
+   "Andre Moret",
+   "Kryon"
+  ],
+  [
+   2005,
+   "Josef Lupo",
+   "Lumiere (Josef Lupo's \"Always 12\" Mix)"
+  ],
+  [
+   2045,
+   "UNKLE & Keinemusik",
+   "Only You (feat. Miink & Wil Malone) [&ME Remix]"
+  ],
+  [
+   2085,
+   "Andre Moret",
+   "Kryon"
+  ],
+  [
+   2125,
+   "Andre Moret",
+   "Kryon"
+  ],
+  [
+   2165,
+   "Andre Moret",
+   "Kryon"
+  ],
+  [
+   2205,
+   "Andre Moret",
+   "Kryon"
+  ],
+  [
+   2245,
+   "Dilby",
+   "Body Talk"
+  ],
+  [
+   2285,
+   "Dilby",
+   "Body Talk"
+  ],
+  [
+   2325,
+   "Dilby",
+   "Body Talk"
+  ],
+  [
+   2365,
+   "Dilby",
+   "Body Talk"
+  ],
+  [
+   2405,
+   "Dilby",
+   "Body Talk"
+  ],
+  [
+   2445,
+   "Dilby",
+   "Body Talk"
+  ],
+  [
+   2485,
+   "Dilby",
+   "Body Talk"
+  ],
+  [
+   2525,
+   "Dilby",
+   "Body Talk"
+  ],
+  [
+   2565,
+   "Dilby",
+   "Body Talk"
+  ],
+  [
+   2605,
+   "Julian Nates",
+   "Shifting Currents"
+  ],
+  [
+   2645,
+   "Julian Nates",
+   "Shifting Currents"
+  ],
+  [
+   2685,
+   "Julian Nates",
+   "Shifting Currents"
+  ],
+  [
+   2725,
+   "Julian Nates",
+   "Shifting Currents"
+  ],
+  [
+   2765,
+   "Shavonne",
+   "So, Tell Me, Tell Me (Vocal Mix)"
+  ],
+  [
+   2805,
+   "Julian Nates",
+   "Shifting Currents"
+  ],
+  [
+   2845,
+   "Julian Nates",
+   "Shifting Currents"
+  ],
+  [
+   2885,
+   "Julian Nates",
+   "Shifting Currents"
+  ],
+  [
+   2925,
+   "Jelly For The Babies & Kebin van Reeken",
+   "I Am Free (Not Demure Remix)"
+  ],
+  [
+   2965,
+   "Jelly For The Babies & Kebin van Reeken",
+   "I Am Free (Not Demure Remix)"
+  ],
+  [
+   3005,
+   "Jelly For The Babies & Kebin van Reeken",
+   "I Am Free (Not Demure Remix)"
+  ],
+  [
+   3045,
+   "Cappo & Mondragon",
+   "Comedown"
+  ],
+  [
+   3085,
+   "Jelly For The Babies & Kebin van Reeken",
+   "I Am Free (Not Demure Remix)"
+  ],
+  [
+   3125,
+   "Barberio & Echo Daft",
+   "Watoto (Extended Mix)"
+  ],
+  [
+   3165,
+   "Jelly For The Babies & Kebin van Reeken",
+   "I Am Free (Not Demure Remix)"
+  ],
+  [
+   3205,
+   "Lucius Young",
+   "Tiempo (Mondragon Remix)"
+  ],
+  [
+   3245,
+   "Alpha Funk",
+   "La Sonrisa Del Payaso"
+  ],
+  [
+   3285,
+   "Jelly For The Babies & Kebin van Reeken",
+   "I Am Free (Not Demure Remix)"
+  ],
+  [
+   3325,
+   "Different Ray",
+   "Aurum"
+  ],
+  [
+   3365,
+   "Different Ray",
+   "Aurum"
+  ],
+  [
+   3405,
+   "Different Ray",
+   "Aurum"
+  ],
+  [
+   3445,
+   "Different Ray",
+   "Aurum"
+  ],
+  [
+   3485,
+   "Different Ray",
+   "Aurum"
+  ],
+  [
+   3525,
+   "Sébastien Léger",
+   "Gaufrette"
+  ],
+  [
+   3565,
+   "Different Ray",
+   "Aurum"
+  ],
+  [
+   3605,
+   "Different Ray",
+   "Aurum"
+  ],
+  [
+   3645,
+   "DJ Maestro",
+   "He Needs Me (Gramophonedzie Remix)"
+  ],
+  [
+   3685,
+   "Oxia",
+   "Domino (Rework)"
+  ],
+  [
+   3725,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   3765,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   3805,
+   "DJ Maestro",
+   "He Needs Me (Gramophonedzie Remix)"
+  ],
+  [
+   3845,
+   "Astral Base & Digital Mess",
+   "Turbulence (Extended Mix)"
+  ],
+  [
+   3885,
+   "Chymamusique, Artwork Sounds & Fatso 98",
+   "Somandla (feat. Ze2)"
+  ],
+  [
+   3925,
+   "OZBEK",
+   "Rooftop"
+  ],
+  [
+   3965,
+   "Blagoj Rambabov",
+   "Right to Be Wrong"
+  ],
+  [
+   4005,
+   "Blagoj Rambabov",
+   "Right to Be Wrong"
+  ],
+  [
+   4045,
+   "Diego R.",
+   "Free Energy"
+  ],
+  [
+   4085,
+   "Diego R.",
+   "Free Energy"
+  ],
+  [
+   4125,
+   "Diego R.",
+   "Free Energy"
+  ],
+  [
+   4165,
+   "Diego R.",
+   "Free Energy"
+  ],
+  [
+   4205,
+   "Elio Riso & Lucio Spain",
+   "Breaking Minds"
+  ],
+  [
+   4245,
+   "Elio Riso & Lucio Spain",
+   "Breaking Minds"
+  ],
+  [
+   4285,
+   "CamelPhat & Elderbrook",
+   "Cola (Denis First Remix)"
+  ],
+  [
+   4325,
+   "K Loveski & B SØUL",
+   "Palindrome"
+  ],
+  [
+   4365,
+   "K Loveski & B SØUL",
+   "Palindrome"
+  ],
+  [
+   4405,
+   "K Loveski & B SØUL",
+   "Palindrome"
+  ],
+  [
+   4445,
+   "K Loveski & B SØUL",
+   "Palindrome"
+  ],
+  [
+   4485,
+   "K Loveski & B SØUL",
+   "Palindrome"
+  ],
+  [
+   4525,
+   "K Loveski & B SØUL",
+   "Palindrome"
+  ],
+  [
+   4565,
+   "K Loveski & B SØUL",
+   "Palindrome"
+  ],
+  [
+   4605,
+   "K Loveski & B SØUL",
+   "Palindrome"
+  ],
+  [
+   4645,
+   "K Loveski & B SØUL",
+   "Palindrome"
+  ],
+  [
+   4685,
+   "Starkato",
+   "Python"
+  ],
+  [
+   4725,
+   "Madness Ba",
+   "Anywhere"
+  ],
+  [
+   4765,
+   "Aman Anand",
+   "Ruminate"
+  ],
+  [
+   4805,
+   "Aman Anand",
+   "Ruminate"
+  ],
+  [
+   4845,
+   "Aman Anand",
+   "Ruminate"
+  ],
+  [
+   4885,
+   "Aman Anand",
+   "Ruminate"
+  ],
+  [
+   4925,
+   "Aman Anand",
+   "Ruminate"
+  ],
+  [
+   4965,
+   "Gaetano C & DePandis",
+   "Saw"
+  ],
+  [
+   5005,
+   "Tim Parelias, Leo Bakiri & IN RED",
+   "Lydian Disco"
+  ],
+  [
+   5045,
+   "Tim Parelias, Leo Bakiri & IN RED",
+   "Lydian Disco"
+  ],
+  [
+   5085,
+   "Tim Parelias, Leo Bakiri & IN RED",
+   "Lydian Disco"
+  ],
+  [
+   5125,
+   "Tim Parelias, Leo Bakiri & IN RED",
+   "Lydian Disco"
+  ],
+  [
+   5165,
+   "CYBEXX",
+   "Playa"
+  ],
+  [
+   5205,
+   "Robby East",
+   "Do Not Disturb"
+  ],
+  [
+   5245,
+   "Robby East",
+   "Do Not Disturb"
+  ],
+  [
+   5285,
+   "Robby East",
+   "Do Not Disturb"
+  ],
+  [
+   5325,
+   "LiTB",
+   "Figure1 - Extended Mix"
+  ],
+  [
+   5365,
+   "Robby East",
+   "Do Not Disturb"
+  ],
+  [
+   5405,
+   "Marner",
+   "Stay with Me"
+  ],
+  [
+   5445,
+   "Marner",
+   "Stay with Me"
+  ],
+  [
+   5485,
+   "Marner",
+   "Stay with Me"
+  ],
+  [
+   5525,
+   "Marner",
+   "Stay with Me"
+  ],
+  [
+   5565,
+   "Marner",
+   "Stay with Me"
+  ],
+  [
+   5605,
+   "Marner",
+   "Stay with Me"
+  ],
+  [
+   5645,
+   "Marner",
+   "Stay with Me"
+  ],
+  [
+   5685,
+   "CHLOE (Thévenin)",
+   "Drifter (Extended Version)"
+  ],
+  [
+   5725,
+   "CHLOE (Thévenin)",
+   "Drifter (Extended Version)"
+  ],
+  [
+   5765,
+   "CHLOE (Thévenin)",
+   "Drifter (Extended Version)"
+  ],
+  [
+   5805,
+   "CHLOE (Thévenin)",
+   "Drifter (Extended Version)"
+  ],
+  [
+   5845,
+   "CHLOE (Thévenin)",
+   "Drifter (Extended Version)"
+  ],
+  [
+   5885,
+   "CHLOE (Thévenin)",
+   "Drifter (Extended Version)"
+  ],
+  [
+   5925,
+   "Xinobi & Meta_",
+   "The Stars (Misha Remix)"
+  ],
+  [
+   5965,
+   "Xinobi & Meta_",
+   "The Stars (Misha Remix)"
+  ],
+  [
+   6005,
+   "Xinobi & Meta_",
+   "The Stars"
+  ],
+  [
+   6045,
+   "Xinobi & Meta_",
+   "The Stars (Misha Remix)"
+  ],
+  [
+   6085,
+   "Xinobi & Meta_",
+   "The Stars"
+  ],
+  [
+   6125,
+   "Xinobi & Meta_",
+   "The Stars (DJEFF Remix)"
+  ],
+  [
+   6165,
+   "Xinobi & Meta_",
+   "The Stars (Misha Remix)"
+  ],
+  [
+   6205,
+   "Xinobi & Meta_",
+   "The Stars (Misha Remix)"
+  ],
+  [
+   6245,
+   "Analog Sense",
+   "Feeling Alive"
+  ],
+  [
+   6285,
+   "Reflect Future",
+   "Alive"
+  ],
+  [
+   6325,
+   "Reflect Future",
+   "Alive"
+  ],
+  [
+   6365,
+   "Reflect Future",
+   "Alive"
+  ],
+  [
+   6405,
+   "Reflect Future",
+   "Alive"
+  ],
+  [
+   6445,
+   "Reflect Future",
+   "Alive"
+  ],
+  [
+   6485,
+   "Yves Eaux, Tash & Haft",
+   "Fortuna (HAFT Remix)"
+  ],
+  [
+   6525,
+   "Purple Disco Machine",
+   "Playbox"
+  ],
+  [
+   6565,
+   "Yves Eaux & Tash",
+   "Fortuna"
+  ],
+  [
+   6605,
+   "Yves Eaux, Tash & Haft",
+   "Fortuna (HAFT Remix)"
+  ],
+  [
+   6645,
+   "Yves Eaux & Tash",
+   "Fortuna"
+  ],
+  [
+   6685,
+   "Purple Disco Machine",
+   "Playbox"
+  ],
+  [
+   6725,
+   "Purple Disco Machine",
+   "Playbox"
+  ],
+  [
+   6805,
+   "Guille Placencia & George Privatti",
+   "What a Bam"
+  ],
+  [
+   6845,
+   "Liran Shoshan, Felipe Accioly & Ray Papito",
+   "Playboy (Andrei Stan Instrumental Mix)"
+  ],
+  [
+   6885,
+   "Dulus",
+   "Felt Love"
+  ],
+  [
+   6925,
+   "Dulus",
+   "Felt Love"
+  ],
+  [
+   6965,
+   "Kerstin Ott & Helene Fischer",
+   "Regenbogenfarben"
+  ],
+  [
+   7005,
+   "Sound Remedy",
+   "Paradise"
+  ],
+  [
+   7045,
+   "Orbital",
+   "Belfast"
+  ],
+  [
+   7085,
+   "Steve Lawler",
+   "Sass"
+  ],
+  [
+   7125,
+   "Steve Lawler",
+   "Sass"
+  ],
+  [
+   7165,
+   "The Loop Brothers",
+   "Frequency"
+  ],
+  [
+   7205,
+   "Andre Volodin & Karina Smirnova",
+   "Cage (Ad Brown Dub Mix)"
+  ],
+  [
+   7245,
+   "Steve Lawler",
+   "Sass"
+  ],
+  [
+   7285,
+   "Steve Lawler",
+   "Sass"
+  ],
+  [
+   7325,
+   "Steve Lawler",
+   "Sass"
+  ],
+  [
+   7365,
+   "Steve Lawler",
+   "Sass"
+  ],
+  [
+   7405,
+   "Steve Lawler",
+   "Sass"
+  ],
+  [
+   7445,
+   "Steve Lawler",
+   "Sass"
+  ],
+  [
+   7485,
+   "Steve Lawler",
+   "Sass"
+  ],
+  [
+   7525,
+   "SNYL & Bonnie Spacey",
+   "Guilty (Alexandros Djkevingr Remix)"
+  ],
+  [
+   7565,
+   "Mhammed El Alami",
+   "Starting Over"
+  ],
+  [
+   7605,
+   "SNYL & Bonnie Spacey",
+   "Guilty (Alexandros Djkevingr Remix)"
+  ],
+  [
+   7645,
+   "SNYL & Bonnie Spacey",
+   "Guilty (Alexandros Djkevingr Remix)"
+  ],
+  [
+   7685,
+   "SNYL & Bonnie Spacey",
+   "Guilty (Alexandros Djkevingr Remix)"
+  ],
+  [
+   7725,
+   "SNYL & Bonnie Spacey",
+   "Guilty (Alexandros Djkevingr Remix)"
+  ],
+  [
+   7765,
+   "SNYL & Bonnie Spacey",
+   "Guilty (Alexandros Djkevingr Remix)"
+  ]
+ ],
+ "minutos_proceso": 88.8
+}

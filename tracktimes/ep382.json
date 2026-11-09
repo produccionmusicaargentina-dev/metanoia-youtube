@@ -1,0 +1,895 @@
+{
+ "ep": 382,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "D Mayer",
+   "start": 0,
+   "times": [
+    0,
+    465,
+    785,
+    985,
+    1185,
+    1545,
+    1825,
+    2025,
+    2345,
+    2665,
+    2985,
+    3305,
+    3625,
+    4025
+   ],
+   "ok": 12,
+   "n": 14
+  },
+  {
+   "artist": "Orbital 365",
+   "start": 4425,
+   "times": [
+    0,
+    440,
+    920,
+    1120,
+    1520,
+    1800,
+    2200,
+    2480,
+    2960,
+    3180,
+    3400
+   ],
+   "ok": 10,
+   "n": 11
+  }
+ ],
+ "escuchado": [
+  [
+   5,
+   "Kasper Koman",
+   "⁠⁠Different Plain (Extended Mix)"
+  ],
+  [
+   45,
+   "Chris Fortier & Neil Kolo",
+   "All I Got (Chris Fortier 20yr Dub)"
+  ],
+  [
+   85,
+   "Crystal Waters",
+   "100% Pure Love"
+  ],
+  [
+   125,
+   "Chris Fortier & Neil Kolo",
+   "All I Got (Chris Fortier 20yr Dub)"
+  ],
+  [
+   165,
+   "Robin S.",
+   "Show Me Love"
+  ],
+  [
+   205,
+   "Robin S.",
+   "Show Me Love"
+  ],
+  [
+   245,
+   "CamelPhat & Elderbrook",
+   "Cola"
+  ],
+  [
+   285,
+   "BLR & Rave & Crave",
+   "Taj"
+  ],
+  [
+   325,
+   "X-Press 2",
+   "Say What! (London Underground Mix)"
+  ],
+  [
+   365,
+   "X-Press 2",
+   "Say What! (London Underground Mix)"
+  ],
+  [
+   405,
+   "CamelPhat & Elderbrook",
+   "Cola"
+  ],
+  [
+   445,
+   "Luca Lozano & Mr. Ho",
+   "Different Circles (Nicson Remix)"
+  ],
+  [
+   485,
+   "Ezequiel Arias",
+   "Perfect Dream"
+  ],
+  [
+   525,
+   "Ezequiel Arias",
+   "Perfect Dream"
+  ],
+  [
+   565,
+   "Ezequiel Arias",
+   "Perfect Dream"
+  ],
+  [
+   605,
+   "Ezequiel Arias",
+   "Perfect Dream"
+  ],
+  [
+   645,
+   "Ezequiel Arias",
+   "Perfect Dream"
+  ],
+  [
+   685,
+   "Ezequiel Arias",
+   "Perfect Dream"
+  ],
+  [
+   725,
+   "Madness Ba",
+   "Anywhere"
+  ],
+  [
+   765,
+   "South Bloom",
+   "Let Me in (Volen Sentir Secret Technique)"
+  ],
+  [
+   805,
+   "Matt Oliver",
+   "Rust Signal"
+  ],
+  [
+   845,
+   "Matt Oliver",
+   "Rust Signal"
+  ],
+  [
+   885,
+   "Aleteo Vip HD",
+   "Lomilo afrohouse"
+  ],
+  [
+   925,
+   "Matt Oliver",
+   "Rust Signal"
+  ],
+  [
+   965,
+   "Marcos Barrios, Len Mora & Joaquin Postigo",
+   "Tribaile (Len Mora & Joaquin Postigo)"
+  ],
+  [
+   1005,
+   "Soire",
+   "Clay Floor"
+  ],
+  [
+   1045,
+   "Davi & Definition",
+   "Désolé"
+  ],
+  [
+   1085,
+   "Jaqk",
+   "A Little Deep"
+  ],
+  [
+   1125,
+   "Soire",
+   "I Know I Need"
+  ],
+  [
+   1205,
+   "Zankee Gulati",
+   "Kerring"
+  ],
+  [
+   1245,
+   "Zankee Gulati",
+   "Kerring"
+  ],
+  [
+   1285,
+   "Zankee Gulati",
+   "Kerring"
+  ],
+  [
+   1325,
+   "Zankee Gulati",
+   "Kerring"
+  ],
+  [
+   1365,
+   "German Brigante",
+   "Solitude"
+  ],
+  [
+   1405,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   1445,
+   "Gorje Hewek, Makebo & Amonita",
+   "Never Been"
+  ],
+  [
+   1485,
+   "South Bloom",
+   "Let Me in (Volen Sentir Secret Technique)"
+  ],
+  [
+   1525,
+   "Tiga & Boys Noize",
+   "100 (Johnny Aux Remix) [Mixed]"
+  ],
+  [
+   1565,
+   "Gee Funk",
+   "Lost in Dream"
+  ],
+  [
+   1605,
+   "Gee Funk",
+   "Lost in Dream"
+  ],
+  [
+   1645,
+   "Gee Funk",
+   "Lost in Dream"
+  ],
+  [
+   1845,
+   "Ignacio Tuzio",
+   "Cerca"
+  ],
+  [
+   1885,
+   "Ignacio Tuzio",
+   "Cerca"
+  ],
+  [
+   1925,
+   "Ignacio Tuzio",
+   "Cerca"
+  ],
+  [
+   1965,
+   "Ignacio Tuzio",
+   "Cerca"
+  ],
+  [
+   2005,
+   "Ignacio Tuzio",
+   "Cerca"
+  ],
+  [
+   2045,
+   "HAFT",
+   "Aeryon"
+  ],
+  [
+   2085,
+   "Makebo & Volen Sentir",
+   "Alchemist"
+  ],
+  [
+   2125,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   2165,
+   "HAFT",
+   "Aeryon"
+  ],
+  [
+   2205,
+   "HAFT",
+   "Aeryon"
+  ],
+  [
+   2245,
+   "HAFT",
+   "Aeryon"
+  ],
+  [
+   2285,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   2325,
+   "HAFT",
+   "Aeryon"
+  ],
+  [
+   2365,
+   "Makebo & Volen Sentir",
+   "Alchemist"
+  ],
+  [
+   2405,
+   "MOS Music",
+   "Müptela"
+  ],
+  [
+   2605,
+   "John Summit",
+   "Deep End"
+  ],
+  [
+   2645,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   2685,
+   "Makebo",
+   "Balance (ULF030)"
+  ],
+  [
+   2725,
+   "The DangerFeel Newbies",
+   "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+  ],
+  [
+   2765,
+   "CamelPhat & Elderbrook",
+   "Cola"
+  ],
+  [
+   2805,
+   "Makebo",
+   "Balance (ULF030)"
+  ],
+  [
+   2845,
+   "Makebo",
+   "Balance (ULF030)"
+  ],
+  [
+   2885,
+   "Zimmie Gix",
+   "Absolute Chill"
+  ],
+  [
+   2925,
+   "CamelPhat & Elderbrook",
+   "Cola"
+  ],
+  [
+   2965,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   3005,
+   "Kebin van Reeken",
+   "The Unknown"
+  ],
+  [
+   3045,
+   "Kebin van Reeken",
+   "The Unknown"
+  ],
+  [
+   3085,
+   "Kebin van Reeken",
+   "The Unknown"
+  ],
+  [
+   3125,
+   "Kebin van Reeken",
+   "The Unknown"
+  ],
+  [
+   3165,
+   "Kebin van Reeken",
+   "The Unknown"
+  ],
+  [
+   3205,
+   "Kebin van Reeken",
+   "The Unknown"
+  ],
+  [
+   3245,
+   "Kebin van Reeken",
+   "The Unknown"
+  ],
+  [
+   3365,
+   "Jam & Spoon",
+   "Right in the Night (feat. Plavka) [Morttagua Extended Remix]"
+  ],
+  [
+   3405,
+   "IsoKarl",
+   "Liquid Thunder"
+  ],
+  [
+   3445,
+   "Jimmy Sax",
+   "No Man No Cry (Jimmy Sax Version)"
+  ],
+  [
+   3525,
+   "Kungs & Cookin' On 3 Burners",
+   "This Girl"
+  ],
+  [
+   3565,
+   "Chuzero x Mr Six21 Dj Dance & Peace Maker",
+   "Shoma Shoma"
+  ],
+  [
+   3605,
+   "Tony Romera, ASDEK & Karina Ramage",
+   "All I Know (Edit)"
+  ],
+  [
+   3645,
+   "Sam Sick",
+   "Mescaline"
+  ],
+  [
+   3685,
+   "RÜFÜS DU SOL",
+   "Innerbloom"
+  ],
+  [
+   3725,
+   "Sam Sick",
+   "Mescaline"
+  ],
+  [
+   3765,
+   "Sam Sick",
+   "Mescaline"
+  ],
+  [
+   3805,
+   "Sam Sick",
+   "Mescaline"
+  ],
+  [
+   3845,
+   "The Weeknd",
+   "Take My Breath (Extended Version)"
+  ],
+  [
+   3885,
+   "Sam Sick",
+   "Mescaline"
+  ],
+  [
+   3925,
+   "Sam Sick",
+   "Mescaline"
+  ],
+  [
+   3965,
+   "Sam Sick",
+   "Mescaline"
+  ],
+  [
+   4005,
+   "Sam Sick",
+   "Mescaline"
+  ],
+  [
+   4045,
+   "London Grammar",
+   "Hey Now"
+  ],
+  [
+   4085,
+   "London Grammar",
+   "Hey Now"
+  ],
+  [
+   4125,
+   "London Grammar",
+   "Hey Now"
+  ],
+  [
+   4165,
+   "London Grammar",
+   "Hey Now"
+  ],
+  [
+   4205,
+   "London Grammar",
+   "Hey Now"
+  ],
+  [
+   4245,
+   "Robovinity",
+   "Hey Now (Robovinity Unofficial Remix) [London Grammar]"
+  ],
+  [
+   4285,
+   "London Grammar",
+   "Hey Now"
+  ],
+  [
+   4325,
+   "London Grammar",
+   "Hey Now"
+  ],
+  [
+   4405,
+   "Christian Burkhardt",
+   "Stopover Goa"
+  ],
+  [
+   4445,
+   "Rocio Portillo",
+   "Vivere (Maze 28 Remix)"
+  ],
+  [
+   4485,
+   "Daily",
+   "Kalavalier"
+  ],
+  [
+   4525,
+   "Rocio Portillo",
+   "Vivere (Maze 28 Remix)"
+  ],
+  [
+   4565,
+   "Rocio Portillo",
+   "Vivere (Maze 28 Remix)"
+  ],
+  [
+   4605,
+   "Rocio Portillo",
+   "Vivere (Maze 28 Remix)"
+  ],
+  [
+   4645,
+   "Rocio Portillo",
+   "Vivere (Maze 28 Remix)"
+  ],
+  [
+   4685,
+   "Rocio Portillo",
+   "Vivere (Maze 28 Remix)"
+  ],
+  [
+   4725,
+   "Rocio Portillo",
+   "Vivere (Maze 28 Remix)"
+  ],
+  [
+   4765,
+   "Rocio Portillo",
+   "Vivere (Maze 28 Remix)"
+  ],
+  [
+   4845,
+   "Biologik & Amber Long",
+   "Tell Me Again (Tvardovsky Dub Remix)"
+  ],
+  [
+   4885,
+   "Cendryma & Kebin van Reeken",
+   "Circles (Kebin van Reeken Remix)"
+  ],
+  [
+   4925,
+   "Cendryma & Kebin van Reeken",
+   "Circles (Kebin van Reeken Remix)"
+  ],
+  [
+   4965,
+   "Cendryma & Kebin van Reeken",
+   "Circles (Kebin van Reeken Remix)"
+  ],
+  [
+   5005,
+   "Cendryma & Kebin van Reeken",
+   "Circles (Kebin van Reeken Remix)"
+  ],
+  [
+   5045,
+   "Cendryma & Kebin van Reeken",
+   "Circles (Kebin van Reeken Remix)"
+  ],
+  [
+   5085,
+   "Cendryma & Kebin van Reeken",
+   "Circles (Kebin van Reeken Remix)"
+  ],
+  [
+   5125,
+   "Cendryma & Kebin van Reeken",
+   "Circles (Kebin van Reeken Remix)"
+  ],
+  [
+   5165,
+   "Cendryma & Kebin van Reeken",
+   "Circles (Kebin van Reeken Remix)"
+  ],
+  [
+   5205,
+   "Cendryma & Kebin van Reeken",
+   "Circles (Kebin van Reeken Remix)"
+  ],
+  [
+   5365,
+   "Cendryma",
+   "Enter"
+  ],
+  [
+   5405,
+   "Kraft",
+   "Tribute"
+  ],
+  [
+   5565,
+   "GMJ & Matter",
+   "Cryo"
+  ],
+  [
+   5605,
+   "GMJ & Matter",
+   "Cryo"
+  ],
+  [
+   5645,
+   "GMJ & Matter",
+   "Cryo (ULF010)"
+  ],
+  [
+   5685,
+   "GMJ & Matter",
+   "Cryo"
+  ],
+  [
+   5725,
+   "Sounom & Sagou",
+   "Everyday Moments (Kamilo Sanclemente Remix)"
+  ],
+  [
+   5765,
+   "GMJ & Matter",
+   "Cryo"
+  ],
+  [
+   5805,
+   "GMJ & Matter",
+   "Cryo"
+  ],
+  [
+   5885,
+   "Joeski & Gorge",
+   "Jogo"
+  ],
+  [
+   5925,
+   "E-Type",
+   "Russian Lullaby (Dogshit Le Club Mix)"
+  ],
+  [
+   5965,
+   "Juani Bria & Berdu",
+   "Atalaya"
+  ],
+  [
+   6005,
+   "Juani Bria & Berdu",
+   "Atalaya"
+  ],
+  [
+   6045,
+   "Juani Bria & Berdu",
+   "Atalaya"
+  ],
+  [
+   6085,
+   "Juani Bria & Berdu",
+   "Atalaya"
+  ],
+  [
+   6125,
+   "Juani Bria & Berdu",
+   "Atalaya"
+  ],
+  [
+   6165,
+   "Joeski & Gorge",
+   "Jogo"
+  ],
+  [
+   6205,
+   "Juani Bria & Berdu",
+   "Atalaya"
+  ],
+  [
+   6245,
+   "K Loveski & Viki Lee",
+   "Time"
+  ],
+  [
+   6285,
+   "K Loveski & Viki Lee",
+   "Time"
+  ],
+  [
+   6325,
+   "K Loveski & Viki Lee",
+   "Time"
+  ],
+  [
+   6365,
+   "K Loveski & Viki Lee",
+   "Time"
+  ],
+  [
+   6405,
+   "K Loveski & Viki Lee",
+   "Time"
+  ],
+  [
+   6445,
+   "Chimo Bayo",
+   "Asi Me Gusta a Mi"
+  ],
+  [
+   6485,
+   "K Loveski & Viki Lee",
+   "Time"
+  ],
+  [
+   6565,
+   "Viper",
+   "Titty Twister (Zzino & Gus Carver Retwisted)"
+  ],
+  [
+   6605,
+   "TONY FERRARELLO",
+   "Across The Blue"
+  ],
+  [
+   6645,
+   "Dabeat & Kamilo Sanclemente",
+   "Endless Roads"
+  ],
+  [
+   6685,
+   "Dabeat & Kamilo Sanclemente",
+   "Endless Roads"
+  ],
+  [
+   6725,
+   "Dabeat & Kamilo Sanclemente",
+   "Endless Roads"
+  ],
+  [
+   6765,
+   "Dabeat & Kamilo Sanclemente",
+   "Endless Roads"
+  ],
+  [
+   6805,
+   "Dabeat & Kamilo Sanclemente",
+   "Endless Roads"
+  ],
+  [
+   6845,
+   "Dabeat & Kamilo Sanclemente",
+   "Endless Roads"
+  ],
+  [
+   6885,
+   "Gaetano C & DePandis",
+   "Saw"
+  ],
+  [
+   6925,
+   "Kasey Taylor, GMJ & Matter",
+   "Fess (ULF029)"
+  ],
+  [
+   6965,
+   "Kasey Taylor, GMJ & Matter",
+   "Fess (ULF029)"
+  ],
+  [
+   7005,
+   "Kasey Taylor, GMJ & Matter",
+   "Fess (ULF029)"
+  ],
+  [
+   7045,
+   "Kasey Taylor, GMJ & Matter",
+   "Fess (ULF029)"
+  ],
+  [
+   7085,
+   "Paperclip People",
+   "Throw (Slam's RTM Remix)"
+  ],
+  [
+   7125,
+   "Kasey Taylor, GMJ & Matter",
+   "Fess (ULF029)"
+  ],
+  [
+   7165,
+   "Marcos Barrios, Len Mora & Joaquin Postigo",
+   "Tribaile (Len Mora & Joaquin Postigo)"
+  ],
+  [
+   7205,
+   "VORTEX",
+   "Sandstorm Synth (Set Live)"
+  ],
+  [
+   7285,
+   "Ziger",
+   "Feel the Bass"
+  ],
+  [
+   7325,
+   "Dosem & Prok & Fitch",
+   "Doors"
+  ],
+  [
+   7365,
+   "Greg Beato",
+   "Pma"
+  ],
+  [
+   7405,
+   "Mariano Favre",
+   "Obscurial"
+  ],
+  [
+   7485,
+   "Hibernate",
+   "Push Me (feat. Lynn Moffatt)"
+  ],
+  [
+   7565,
+   "Speedy Kenta",
+   "Este Infinito"
+  ],
+  [
+   7605,
+   "Speedy Kenta",
+   "Este Infinito"
+  ],
+  [
+   7845,
+   "Maze 28",
+   "Stardust"
+  ],
+  [
+   7885,
+   "Maze 28",
+   "Stardust"
+  ],
+  [
+   7925,
+   "J. Gazca",
+   "Reset And Start Over"
+  ]
+ ],
+ "minutos_proceso": 96.4
+}
