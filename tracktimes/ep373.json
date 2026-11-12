@@ -1,0 +1,930 @@
+{
+ "ep": 373,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Clem",
+   "start": 0,
+   "times": [
+    0,
+    385,
+    785,
+    1185,
+    1425,
+    1505,
+    1765,
+    2025,
+    2465,
+    2705,
+    3065,
+    3345
+   ],
+   "ok": 10,
+   "n": 12
+  },
+  {
+   "artist": "Diego",
+   "start": 3705,
+   "times": [
+    0,
+    400,
+    480,
+    800,
+    1080,
+    1440,
+    1540,
+    1640,
+    2120,
+    2360,
+    2680,
+    3080,
+    3360
+   ],
+   "ok": 12,
+   "n": 13
+  }
+ ],
+ "escuchado": [
+  [
+   45,
+   "Marsh",
+   "Little Darling (Extended Mix)"
+  ],
+  [
+   85,
+   "Marsh",
+   "Little Darling (Extended Mix)"
+  ],
+  [
+   125,
+   "Marsh",
+   "Little Darling (Extended Mix)"
+  ],
+  [
+   165,
+   "Marsh",
+   "Little Darling (Extended Mix)"
+  ],
+  [
+   205,
+   "Marsh",
+   "Little Darling (Extended Mix)"
+  ],
+  [
+   245,
+   "Marsh",
+   "Little Darling (Extended Mix)"
+  ],
+  [
+   285,
+   "Laughing Man & Viktor Udvari",
+   "Shades"
+  ],
+  [
+   325,
+   "Marsh",
+   "Little Darling (Extended Mix)"
+  ],
+  [
+   365,
+   "KI Creighton",
+   "Bullseye (PAX 'VAults' Remix)"
+  ],
+  [
+   405,
+   "Above & Beyond & Zoë Johnston",
+   "Quicksand (Don't Go)"
+  ],
+  [
+   445,
+   "Above & Beyond & Zoë Johnston",
+   "Quicksand (Don't Go)"
+  ],
+  [
+   485,
+   "Above & Beyond & Zoë Johnston",
+   "Quicksand (Don't Go) [Extended Mix]"
+  ],
+  [
+   525,
+   "Above & Beyond & Zoë Johnston",
+   "Quicksand (Don't Go) [Extended Mix]"
+  ],
+  [
+   565,
+   "Above & Beyond & Zoë Johnston",
+   "Quicksand (Don't Go) [Extended Mix]"
+  ],
+  [
+   605,
+   "Above & Beyond & Zoë Johnston",
+   "Quicksand (Don't Go) [Extended Mix]"
+  ],
+  [
+   645,
+   "Elio Riso & Lucio Spain",
+   "Breaking Minds"
+  ],
+  [
+   685,
+   "Elio Riso & Lucio Spain",
+   "Breaking Minds"
+  ],
+  [
+   725,
+   "Elio Riso & Lucio Spain",
+   "Breaking Minds"
+  ],
+  [
+   765,
+   "Elio Riso & Lucio Spain",
+   "Breaking Minds"
+  ],
+  [
+   805,
+   "Elio Riso & Lucio Spain",
+   "Breaking Minds"
+  ],
+  [
+   845,
+   "Elio Riso & Lucio Spain",
+   "Breaking Minds"
+  ],
+  [
+   885,
+   "Elio Riso & Lucio Spain",
+   "Breaking Minds"
+  ],
+  [
+   925,
+   "Solee",
+   "Shanti"
+  ],
+  [
+   965,
+   "Robiin",
+   "Cada Vez (Wayne Madiedo Remix)"
+  ],
+  [
+   1005,
+   "Mojito",
+   "Этим летом"
+  ],
+  [
+   1045,
+   "Blaze & Bicep",
+   "Lovelee Dae (Bicep Remix)"
+  ],
+  [
+   1085,
+   "Robiin",
+   "Cada Vez (Wayne Madiedo Remix)"
+  ],
+  [
+   1125,
+   "Strike",
+   "U Sure Do"
+  ],
+  [
+   1165,
+   "X-Press 2",
+   "Say What! (London Underground Mix)"
+  ],
+  [
+   1205,
+   "Marsh",
+   "Hymn"
+  ],
+  [
+   1245,
+   "Strike",
+   "U Sure Do (Guest List Mix)"
+  ],
+  [
+   1285,
+   "Eddie Amador",
+   "House Music (Message Mix)"
+  ],
+  [
+   1325,
+   "Gigi D'Agostino",
+   "Star"
+  ],
+  [
+   1365,
+   "Giu Diana",
+   "Your Mine"
+  ],
+  [
+   1405,
+   "Joey Harmless",
+   "So Shady"
+  ],
+  [
+   1445,
+   "Estiva",
+   "Via Balearia"
+  ],
+  [
+   1485,
+   "OZBEK",
+   "Rooftop"
+  ],
+  [
+   1525,
+   "Sander Kleinenberg & THEMBA",
+   "Cuts Deep (feat. taktd) [Extended Mix]"
+  ],
+  [
+   1565,
+   "Sander Kleinenberg & THEMBA",
+   "Cuts Deep (feat. taktd) [Extended Mix]"
+  ],
+  [
+   1605,
+   "Sander Kleinenberg & THEMBA",
+   "Cuts Deep (feat. taktd) [Extended Mix]"
+  ],
+  [
+   1645,
+   "Acapella 54",
+   "Sweet Dreams (Alexander Metzger Mix)"
+  ],
+  [
+   1685,
+   "Sander Kleinenberg & THEMBA",
+   "Cuts Deep (feat. taktd) [Extended Mix]"
+  ],
+  [
+   1725,
+   "Sander Kleinenberg & THEMBA",
+   "Cuts Deep (feat. taktd) [Extended Mix]"
+  ],
+  [
+   1765,
+   "Sander Kleinenberg & THEMBA",
+   "Cuts Deep (feat. taktd) [Extended Mix]"
+  ],
+  [
+   1805,
+   "Sander Kleinenberg & THEMBA",
+   "Cuts Deep (feat. taktd) [Extended Mix]"
+  ],
+  [
+   1845,
+   "Rick Marshall",
+   "Don't Stop"
+  ],
+  [
+   1885,
+   "Monstercat Silk Showcase",
+   "Monstercat Silk Showcase 606 (Hosted by a.M.R)"
+  ],
+  [
+   1925,
+   "Rick Marshall",
+   "Don't Stop"
+  ],
+  [
+   1965,
+   "Monstercat Silk Showcase",
+   "Monstercat Silk Showcase 606 (Hosted by a.M.R)"
+  ],
+  [
+   2005,
+   "Monstercat Silk Showcase",
+   "Monstercat Silk Showcase 606 (Hosted by a.M.R)"
+  ],
+  [
+   2045,
+   "Kasablanca",
+   "Synthetic Blues (Extended Mix)"
+  ],
+  [
+   2085,
+   "Kasablanca",
+   "Synthetic Blues (Extended Mix)"
+  ],
+  [
+   2125,
+   "Kasablanca",
+   "Synthetic Blues (Extended Mix)"
+  ],
+  [
+   2165,
+   "Rynix I",
+   "Deep Techno"
+  ],
+  [
+   2205,
+   "Kasablanca",
+   "Synthetic Blues (Extended Mix)"
+  ],
+  [
+   2245,
+   "Kasablanca",
+   "Synthetic Blues"
+  ],
+  [
+   2285,
+   "George Ellinas",
+   "Rainmaker (Extended Club Mix)"
+  ],
+  [
+   2325,
+   "Jonathan Alferi",
+   "To the Rhythm (Extended Mix)"
+  ],
+  [
+   2365,
+   "BADDIES ONLY",
+   "Aquí Las Colombianas (feat. Martina Camargo) [Extended Mix]"
+  ],
+  [
+   2405,
+   "Nick Curly",
+   "Underground (Dennis Ferrer Remix) [Mixed]"
+  ],
+  [
+   2445,
+   "Eddie Amador",
+   "House Music (Robosonic Remix)"
+  ],
+  [
+   2485,
+   "Above & Beyond & Zoë Johnston",
+   "Carry Me Home"
+  ],
+  [
+   2525,
+   "Nick Curly",
+   "Underground (Dennis Ferrer Remix) [Mixed]"
+  ],
+  [
+   2565,
+   "Above & Beyond & Zoë Johnston",
+   "Carry Me Home (Extended Mix)"
+  ],
+  [
+   2605,
+   "Nick Curly",
+   "Underground (Dennis Ferrer Remix) [Mixed]"
+  ],
+  [
+   2645,
+   "Above & Beyond & Zoë Johnston",
+   "Carry Me Home (Extended Mix)"
+  ],
+  [
+   2685,
+   "Eddie Amador",
+   "House Music (Robosonic Remix)"
+  ],
+  [
+   2725,
+   "Marsh",
+   "Calling (Extended Mix)"
+  ],
+  [
+   2765,
+   "Sneaker Pimps",
+   "Spin Spin Sugar (Armand's Dark Garage Mix)"
+  ],
+  [
+   2805,
+   "Eddie Amador",
+   "House Music (Message Mix)"
+  ],
+  [
+   2845,
+   "Chicane",
+   "Offshore (Disco Citizens Remix)"
+  ],
+  [
+   2885,
+   "The Goooniez",
+   "A****Loch (Dabruck & Klein Remix)"
+  ],
+  [
+   2925,
+   "Sneaker Pimps",
+   "Spin Spin Sugar (Armand's Dark Garage Mix)"
+  ],
+  [
+   2965,
+   "Eddie Amador",
+   "House Music (Message Mix)"
+  ],
+  [
+   3005,
+   "Eddie Amador",
+   "House Music (Message Mix)"
+  ],
+  [
+   3045,
+   "Lello B.",
+   "L.O.V.E (Lello B Remix)"
+  ],
+  [
+   3085,
+   "Estiva",
+   "Via Infinita"
+  ],
+  [
+   3125,
+   "Estiva",
+   "Via Infinita"
+  ],
+  [
+   3165,
+   "Estiva",
+   "Via Infinita (Marsh Remix)"
+  ],
+  [
+   3205,
+   "Estiva",
+   "Via Infinita"
+  ],
+  [
+   3245,
+   "Estiva",
+   "Via Infinita"
+  ],
+  [
+   3285,
+   "HOSH & 1979",
+   "Midnight (The Hanging Tree) [feat. Jalja]"
+  ],
+  [
+   3325,
+   "HOSH & 1979",
+   "Midnight (The Hanging Tree) [feat. Jalja]"
+  ],
+  [
+   3365,
+   "Tinlicker",
+   "Always Will (feat. Nathan Nicholson) [Mees Salomé Extended Mix]"
+  ],
+  [
+   3405,
+   "Tinlicker",
+   "Always Will (feat. Nathan Nicholson) [Mees Salomé Extended Mix]"
+  ],
+  [
+   3445,
+   "Tinlicker",
+   "Always Will (feat. Nathan Nicholson) [Mees Salomé Extended Mix]"
+  ],
+  [
+   3485,
+   "Tinlicker",
+   "Always Will (feat. Nathan Nicholson) [Mees Salomé Extended Mix]"
+  ],
+  [
+   3525,
+   "Tinlicker",
+   "Always Will (feat. Nathan Nicholson) [Mees Salomé Extended Mix]"
+  ],
+  [
+   3565,
+   "Tinlicker",
+   "Always Will (feat. Nathan Nicholson) [Mees Salomé Extended Mix]"
+  ],
+  [
+   3605,
+   "Tinlicker",
+   "Always Will (feat. Nathan Nicholson) [Mees Salomé Extended Mix]"
+  ],
+  [
+   3645,
+   "Tinlicker",
+   "Always Will (feat. Nathan Nicholson) [Mees Salomé Extended Mix]"
+  ],
+  [
+   3685,
+   "Tinlicker",
+   "Always Will (feat. Nathan Nicholson) [Mees Salomé Extended Mix]"
+  ],
+  [
+   3725,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   3765,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   3805,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   3845,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   3885,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   3925,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   3965,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   4005,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   4045,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   4085,
+   "Switch",
+   "A Bit Patchy (Eric Prydz Remix) [Mixed]"
+  ],
+  [
+   4125,
+   "Pablo Fierro",
+   "El Carinoso (Gregor Salto Remix)"
+  ],
+  [
+   4165,
+   "Pablo Fierro",
+   "El Carinoso (Gregor Salto Remix)"
+  ],
+  [
+   4205,
+   "Baruck",
+   "Remind You"
+  ],
+  [
+   4245,
+   "Jodie Harsh",
+   "The Night Is Yours"
+  ],
+  [
+   4285,
+   "Parker Gordon",
+   "Amen (Extended Mix)"
+  ],
+  [
+   4325,
+   "Baruck",
+   "Remind You"
+  ],
+  [
+   4365,
+   "Jodie Harsh",
+   "The Night Is Yours"
+  ],
+  [
+   4405,
+   "Baruck",
+   "Remind You"
+  ],
+  [
+   4445,
+   "Baruck",
+   "Remind You"
+  ],
+  [
+   4485,
+   "Pablo Fierro",
+   "El Carinoso (Gregor Salto Remix)"
+  ],
+  [
+   4525,
+   "Wigbert",
+   "Balance"
+  ],
+  [
+   4565,
+   "Black Circle",
+   "Inner Tension"
+  ],
+  [
+   4605,
+   "Black Circle",
+   "Inner Tension"
+  ],
+  [
+   4645,
+   "Black Circle",
+   "Inner Tension"
+  ],
+  [
+   4685,
+   "The Highwomen",
+   "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")"
+  ],
+  [
+   4725,
+   "Black Circle",
+   "Inner Tension"
+  ],
+  [
+   4765,
+   "Oxia",
+   "Domino"
+  ],
+  [
+   4805,
+   "Contribe",
+   "Batucada"
+  ],
+  [
+   4845,
+   "Contribe",
+   "Batucada"
+  ],
+  [
+   4885,
+   "Contribe",
+   "Batucada"
+  ],
+  [
+   4925,
+   "Contribe",
+   "Batucada"
+  ],
+  [
+   4965,
+   "Contribe",
+   "Batucada"
+  ],
+  [
+   5045,
+   "Contribe",
+   "Batucada"
+  ],
+  [
+   5125,
+   "Bad Bunny & Los Pleneros de la Cresta",
+   "CAFé CON RON"
+  ],
+  [
+   5165,
+   "Toman",
+   "Booty Smoothie"
+  ],
+  [
+   5285,
+   "Toman",
+   "Booty Smoothie"
+  ],
+  [
+   5325,
+   "Jesus Nava",
+   "Fucking Puta"
+  ],
+  [
+   5365,
+   "Cicada",
+   "Beautiful (Michael Gray Vocal Remix)"
+  ],
+  [
+   5405,
+   "Cicada",
+   "Beautiful (Michael Gray Vocal Remix)"
+  ],
+  [
+   5445,
+   "Cicada",
+   "Beautiful (Michael Gray Vocal Remix)"
+  ],
+  [
+   5485,
+   "Cicada",
+   "Beautiful (Michael Gray Vocal Remix)"
+  ],
+  [
+   5525,
+   "E. Elizabeth Franklin",
+   "Xylophone Bright & Twilight Sparkle Resonance Theory"
+  ],
+  [
+   5565,
+   "Cicada",
+   "Beautiful (Michael Gray Vocal Remix)"
+  ],
+  [
+   5605,
+   "Cicada",
+   "Beautiful (Michael Gray Vocal Remix)"
+  ],
+  [
+   5645,
+   "Cicada",
+   "Beautiful (Michael Gray Vocal Remix)"
+  ],
+  [
+   5685,
+   "Cicada",
+   "Beautiful (Michael Gray Vocal Remix)"
+  ],
+  [
+   5725,
+   "Rosabel",
+   "La Puta (Ralph's Miami Time Mix) [Ralph's Miami Time Mix]"
+  ],
+  [
+   5765,
+   "Jesus Nava",
+   "Fucking Puta"
+  ],
+  [
+   5805,
+   "Maximin Neustado",
+   "Dark Matter Disco"
+  ],
+  [
+   5845,
+   "Acid Pauli",
+   "Gefällt Mir Nicht"
+  ],
+  [
+   5925,
+   "Teddy Pendergrass",
+   "I Don't Love You Anymore (Damian Lazarus Re-Shape)"
+  ],
+  [
+   5965,
+   "Acid Pauli",
+   "Gefällt Mir Nicht"
+  ],
+  [
+   6005,
+   "Acid Pauli",
+   "Gefällt Mir Nicht"
+  ],
+  [
+   6045,
+   "Daniel Gros",
+   "Shorty Joe (Nick da Cruz & Bill Wilson Remix)"
+  ],
+  [
+   6085,
+   "Aera",
+   "Litoral"
+  ],
+  [
+   6125,
+   "Aera",
+   "Litoral"
+  ],
+  [
+   6165,
+   "AlfonsVP",
+   "B's Bordello (Bonar Bradberry Edit)"
+  ],
+  [
+   6205,
+   "Aera",
+   "Litoral"
+  ],
+  [
+   6245,
+   "Anthony e Mario Productions",
+   "A' campagnola a modo mio (Base in SOL)"
+  ],
+  [
+   6285,
+   "Aera",
+   "Litoral"
+  ],
+  [
+   6325,
+   "Aera",
+   "Litoral"
+  ],
+  [
+   6365,
+   "Aera",
+   "Litoral"
+  ],
+  [
+   6405,
+   "Robag Wruhme",
+   "Donnerkuppel"
+  ],
+  [
+   6445,
+   "Robag Wruhme",
+   "Donnerkuppel"
+  ],
+  [
+   6485,
+   "Robag Wruhme",
+   "Donnerkuppel"
+  ],
+  [
+   6525,
+   "Robag Wruhme",
+   "Donnerkuppel"
+  ],
+  [
+   6565,
+   "Robag Wruhme",
+   "Donnerkuppel"
+  ],
+  [
+   6605,
+   "Robag Wruhme",
+   "Donnerkuppel"
+  ],
+  [
+   6645,
+   "Robag Wruhme",
+   "Donnerkuppel"
+  ],
+  [
+   6685,
+   "Robag Wruhme",
+   "Donnerkuppel"
+  ],
+  [
+   6765,
+   "Joe Montana",
+   "Electric Dreams"
+  ],
+  [
+   6805,
+   "Eelke Kleijn",
+   "Feel It, See It"
+  ],
+  [
+   6845,
+   "Sellens",
+   "Back Down (Off Key Remix)"
+  ],
+  [
+   6885,
+   "Eelke Kleijn",
+   "Feel It, See It"
+  ],
+  [
+   6925,
+   "Eelke Kleijn",
+   "Feel It, See It"
+  ],
+  [
+   6965,
+   "Alex Dolby & Santos",
+   "Raw Road (Carlo Lio Remix)"
+  ],
+  [
+   7005,
+   "Fred again.., Duoteque & Orion Sun",
+   "ItsNotREEAALLLLLLLL"
+  ],
+  [
+   7045,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   7085,
+   "Remcord",
+   "Vision 76"
+  ],
+  [
+   7125,
+   "Remcord",
+   "Vision 76"
+  ],
+  [
+   7165,
+   "Remcord",
+   "Vision 76"
+  ],
+  [
+   7205,
+   "Hot'n'Juicy & Mousse T.",
+   "Horny ('98 Radio Edit)"
+  ],
+  [
+   7245,
+   "Remcord",
+   "Vision 76"
+  ],
+  [
+   7285,
+   "Remcord",
+   "Vision 76"
+  ]
+ ],
+ "minutos_proceso": 85.6
+}

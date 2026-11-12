@@ -1,0 +1,948 @@
+{
+ "ep": 376,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Thomas Ullrich",
+   "start": 0,
+   "times": [
+    0,
+    345,
+    945,
+    1065,
+    1305,
+    1945,
+    2185,
+    2665,
+    2825,
+    3105,
+    3385,
+    3865
+   ],
+   "ok": 11,
+   "n": 12
+  },
+  {
+   "artist": "Less is more",
+   "start": 4025,
+   "times": [
+    0,
+    360,
+    480,
+    680,
+    1080,
+    1320,
+    1400,
+    1680,
+    1820,
+    1960,
+    2240,
+    2480,
+    2720,
+    2880,
+    3280,
+    3480
+   ],
+   "ok": 15,
+   "n": 16
+  }
+ ],
+ "escuchado": [
+  [
+   5,
+   "Fejká",
+   "Hiraeth (feat. Kim Van Loo) [Rohne Remix]"
+  ],
+  [
+   45,
+   "Fejká",
+   "Hiraeth (feat. Kim Van Loo) [Rohne Remix]"
+  ],
+  [
+   85,
+   "Fejká",
+   "Hiraeth (feat. Kim Van Loo) [Rohne Remix]"
+  ],
+  [
+   125,
+   "Fejká",
+   "Hiraeth (feat. Kim Van Loo) [Rohne Remix]"
+  ],
+  [
+   165,
+   "Fejká",
+   "Hiraeth (feat. Kim Van Loo) [Rohne Remix]"
+  ],
+  [
+   205,
+   "Fejká",
+   "Hiraeth (feat. Kim Van Loo) [Rohne Remix]"
+  ],
+  [
+   245,
+   "Fejká",
+   "Hiraeth (feat. Kim Van Loo) [Rohne Remix]"
+  ],
+  [
+   285,
+   "Fejká",
+   "Hiraeth (feat. Kim Van Loo) [Rohne Remix]"
+  ],
+  [
+   325,
+   "Zairi Torrez",
+   "Progressive World (2Qimic Remix)"
+  ],
+  [
+   365,
+   "Monolink",
+   "Mesmerized (Henrik Schwarz Remix)"
+  ],
+  [
+   405,
+   "BeatSaga",
+   "VACAY VIBESS"
+  ],
+  [
+   445,
+   "Monolink",
+   "Mesmerized (Henrik Schwarz Remix)"
+  ],
+  [
+   485,
+   "Monolink",
+   "Mesmerized (Henrik Schwarz Remix)"
+  ],
+  [
+   525,
+   "Zairi Torrez",
+   "Progressive World (2Qimic Remix)"
+  ],
+  [
+   565,
+   "Monolink",
+   "Mesmerized (Henrik Schwarz Remix)"
+  ],
+  [
+   605,
+   "KI Creighton",
+   "Bullseye (PAX 'VAults' Remix)"
+  ],
+  [
+   645,
+   "Strike",
+   "U Sure Do"
+  ],
+  [
+   685,
+   "Nina Kraviz",
+   "tarde (melchior productions ltd late mix)"
+  ],
+  [
+   725,
+   "Diplo & SIDEPIECE",
+   "On My Mind"
+  ],
+  [
+   765,
+   "HOSH & 1979",
+   "Midnight (The Hanging Tree) [feat. Jalja]"
+  ],
+  [
+   805,
+   "Dom Dolla",
+   "San Frandisco"
+  ],
+  [
+   845,
+   "Strike",
+   "U Sure Do"
+  ],
+  [
+   885,
+   "Strike",
+   "U Sure Do"
+  ],
+  [
+   925,
+   "HOSH & 1979",
+   "Midnight (The Hanging Tree) [feat. Jalja]"
+  ],
+  [
+   965,
+   "Tush",
+   "Push (Ian Pooley Remix)"
+  ],
+  [
+   1005,
+   "Agoria, NOEMIE & Rami Khalife",
+   "Teardrops (Don't Stop The Music) [Nick Morgan Remix]"
+  ],
+  [
+   1045,
+   "dj chizzy",
+   "Vol 3"
+  ],
+  [
+   1085,
+   "Thorsten Hammer",
+   "Hopefully"
+  ],
+  [
+   1125,
+   "Austin Pettit",
+   "Fractal"
+  ],
+  [
+   1165,
+   "Thorsten Hammer",
+   "Hopefully"
+  ],
+  [
+   1245,
+   "Kaosklap",
+   "Road to Nowhere"
+  ],
+  [
+   1285,
+   "Kaosklap",
+   "Road to Nowhere"
+  ],
+  [
+   1325,
+   "Tuccillo & The Checkup",
+   "Aguas Congas (Reboots Extrapicante Rework)"
+  ],
+  [
+   1365,
+   "Tuccillo & The Checkup",
+   "Aguas Congas (Reboots Extrapicante Rework)"
+  ],
+  [
+   1405,
+   "Tuccillo & The Checkup",
+   "Aguas Congas (Reboots Extrapicante Rework)"
+  ],
+  [
+   1445,
+   "Tuccillo & The Checkup",
+   "Aguas Congas (Reboots Extrapicante Rework)"
+  ],
+  [
+   1485,
+   "Tuccillo & The Checkup",
+   "Aguas Congas (Reboots Extrapicante Rework)"
+  ],
+  [
+   1525,
+   "Tuccillo & The Checkup",
+   "Aguas Congas (Reboots Extrapicante Rework)"
+  ],
+  [
+   1565,
+   "Tuccillo & The Checkup",
+   "Aguas Congas (Reboots Extrapicante Rework)"
+  ],
+  [
+   1605,
+   "Tuccillo & The Checkup",
+   "Aguas Congas (Reboots Extrapicante Rework)"
+  ],
+  [
+   1645,
+   "Tuccillo & The Checkup",
+   "Aguas Congas (Reboots Extrapicante Rework)"
+  ],
+  [
+   1685,
+   "Boris Brejcha",
+   "Timelapse"
+  ],
+  [
+   1725,
+   "Paperclip People",
+   "Throw (Slam's RTM Remix)"
+  ],
+  [
+   1765,
+   "The Blackout Allstars, Sheila E., Tito Puente, Dave Valentin, Grover Washington, Paquito D'Rivera, Ray Barretto & Tito Nieves",
+   "I Like It (Like That) [Radio Mix]"
+  ],
+  [
+   1805,
+   "Sandy B",
+   "Make the World Go Round (Deep Dish Radio Edit)"
+  ],
+  [
+   1845,
+   "Nick Curly",
+   "Underground (Dennis Ferrer Remix) [Mixed]"
+  ],
+  [
+   1885,
+   "Eelke Kleijn",
+   "Transmission (Joris Voorn Remix)"
+  ],
+  [
+   1925,
+   "Chymamusique",
+   "We Are To Be (feat. Kaylow) [Main Mix]"
+  ],
+  [
+   1965,
+   "Easttown",
+   "Balancing"
+  ],
+  [
+   2005,
+   "Nick Curly",
+   "Underground (Dennis Ferrer Remix) [Mixed]"
+  ],
+  [
+   2205,
+   "Brunello & Vargas",
+   "Ghost Dance"
+  ],
+  [
+   2285,
+   "Brunello & Vargas",
+   "Ghost Dance"
+  ],
+  [
+   2365,
+   "Township Rebellion",
+   "Ramses"
+  ],
+  [
+   2405,
+   "Los Corraleros de Majagual",
+   "La Burrita"
+  ],
+  [
+   2445,
+   "Monolink",
+   "Return to Oz"
+  ],
+  [
+   2485,
+   "Rampa, Sparrow (CH) & Sparrow & Barbossa",
+   "Champion"
+  ],
+  [
+   2525,
+   "Rampa, Sparrow (CH) & Sparrow & Barbossa",
+   "Champion"
+  ],
+  [
+   2565,
+   "Rampa, Sparrow (CH) & Sparrow & Barbossa",
+   "Champion"
+  ],
+  [
+   2605,
+   "Fatima Yamaha",
+   "What's a Girl to Do"
+  ],
+  [
+   2645,
+   "Rampa, Sparrow (CH) & Sparrow & Barbossa",
+   "Champion"
+  ],
+  [
+   2685,
+   "Juan Buitrago",
+   "Hopefulness"
+  ],
+  [
+   2805,
+   "Biscits",
+   "Wait A Minute"
+  ],
+  [
+   2845,
+   "Agoria, NOEMIE & Rami Khalife",
+   "Teardrops (Don't Stop The Music) [Nick Morgan Remix]"
+  ],
+  [
+   2925,
+   "Agoria, NOEMIE & Rami Khalife",
+   "Teardrops (Don't Stop The Music) [Nick Morgan Remix]"
+  ],
+  [
+   2965,
+   "Agoria, NOEMIE & Rami Khalife",
+   "Teardrops (Don't Stop The Music) [Nick Morgan Remix]"
+  ],
+  [
+   3005,
+   "Agoria, NOEMIE & Rami Khalife",
+   "Teardrops (Don't Stop The Music) [Nick Morgan Remix]"
+  ],
+  [
+   3045,
+   "Agoria, NOEMIE & Rami Khalife",
+   "Teardrops (Don't Stop The Music) [Nick Morgan Remix]"
+  ],
+  [
+   3085,
+   "Aaron H-Smith",
+   "Satara (Juanito Remix)"
+  ],
+  [
+   3125,
+   "Afrøtelize",
+   "Jamaican (Bam Bam)"
+  ],
+  [
+   3205,
+   "Mega Trending",
+   "Background Music Bass Boss (Remix)"
+  ],
+  [
+   3325,
+   "DJ Sasha Mukana",
+   "Progressive Night Drive"
+  ],
+  [
+   3405,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3445,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3485,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3525,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3565,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3605,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3645,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3685,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3725,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3765,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3805,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   3845,
+   "Nick Curly",
+   "Bahia (Extended Mix)"
+  ],
+  [
+   3885,
+   "Chris Zippel & Michael Ritter",
+   "Fly Into Bliss"
+  ],
+  [
+   3925,
+   "Chris Zippel & Michael Ritter",
+   "Fly Into Bliss"
+  ],
+  [
+   3965,
+   "The Funeral Crasher",
+   "All the Things You Love"
+  ],
+  [
+   4005,
+   "Chris Zippel & Michael Ritter",
+   "Fly Into Bliss"
+  ],
+  [
+   4045,
+   "Coss & Zettka",
+   "Neon Eyes (Extended Mix)"
+  ],
+  [
+   4085,
+   "Coss & Zettka",
+   "Neon Eyes (Extended Mix)"
+  ],
+  [
+   4125,
+   "Coss & Zettka",
+   "Neon Eyes (Extended Mix)"
+  ],
+  [
+   4165,
+   "Coss & Zettka",
+   "Neon Eyes (Extended Mix)"
+  ],
+  [
+   4205,
+   "Coss & Zettka",
+   "Neon Eyes (Extended Mix)"
+  ],
+  [
+   4245,
+   "Coss & Zettka",
+   "Neon Eyes (Extended Mix)"
+  ],
+  [
+   4285,
+   "Silversky",
+   "Breathing In the Night"
+  ],
+  [
+   4325,
+   "Coss & Zettka",
+   "Neon Eyes (Extended Mix)"
+  ],
+  [
+   4365,
+   "Coss & Zettka",
+   "Neon Eyes (Extended Mix)"
+  ],
+  [
+   4405,
+   "Maor Buzaglo & Atlantis",
+   "Candela"
+  ],
+  [
+   4445,
+   "Alastair Lane",
+   "Libertad"
+  ],
+  [
+   4485,
+   "Maor Buzaglo & Atlantis",
+   "Candela"
+  ],
+  [
+   4525,
+   "Deer Jade",
+   "Acid Groove Theory"
+  ],
+  [
+   4565,
+   "Deer Jade",
+   "Acid Groove Theory"
+  ],
+  [
+   4605,
+   "Deer Jade",
+   "Acid Groove Theory"
+  ],
+  [
+   4645,
+   "Deer Jade",
+   "Acid Groove Theory"
+  ],
+  [
+   4685,
+   "Deer Jade",
+   "Acid Groove Theory"
+  ],
+  [
+   4725,
+   "Juan Hansen, Franco BA & Miko Franconi",
+   "Inside My Mind"
+  ],
+  [
+   4765,
+   "Juan Hansen, Franco BA & Miko Franconi",
+   "Inside My Mind"
+  ],
+  [
+   4805,
+   "Juan Hansen, Franco BA & Miko Franconi",
+   "Inside My Mind"
+  ],
+  [
+   4845,
+   "Juan Hansen, Franco BA & Miko Franconi",
+   "Inside My Mind"
+  ],
+  [
+   4885,
+   "Juan Hansen, Franco BA & Miko Franconi",
+   "Inside My Mind"
+  ],
+  [
+   4925,
+   "Juan Hansen, Franco BA & Miko Franconi",
+   "Inside My Mind"
+  ],
+  [
+   4965,
+   "Fabio Orru",
+   "I'm Nothing (Ivanshee Remix)"
+  ],
+  [
+   5005,
+   "Alex H.",
+   "Auf Wiedersehen"
+  ],
+  [
+   5085,
+   "KREAM",
+   "Arrival"
+  ],
+  [
+   5125,
+   "Rokazer",
+   "Ritual (Extended Mix)"
+  ],
+  [
+   5165,
+   "Rokazer",
+   "Ritual (Extended Mix)"
+  ],
+  [
+   5205,
+   "Rokazer",
+   "Ritual (Extended Mix)"
+  ],
+  [
+   5245,
+   "HUGEL, Stefy De Cicco & Hugo Cantarra",
+   "4 to the Floor (feat. Nikol Apatini)"
+  ],
+  [
+   5285,
+   "MXWLL",
+   "Free Your Mind"
+  ],
+  [
+   5325,
+   "Solee",
+   "Shanti"
+  ],
+  [
+   5365,
+   "Amtrac",
+   "High Speed Ring"
+  ],
+  [
+   5405,
+   "Coolzone",
+   "Nasty Jamz"
+  ],
+  [
+   5445,
+   "Deer Jade",
+   "Space Dance (Extended Mix)"
+  ],
+  [
+   5485,
+   "Todd Terry",
+   "Jumpin Original"
+  ],
+  [
+   5525,
+   "Deer Jade",
+   "Space Dance (Extended Mix)"
+  ],
+  [
+   5565,
+   "Deer Jade",
+   "Space Dance (Extended Mix)"
+  ],
+  [
+   5605,
+   "Deer Jade",
+   "Space Dance (Extended Mix)"
+  ],
+  [
+   5645,
+   "Eddie Amador",
+   "House Music (Message Mix)"
+  ],
+  [
+   5685,
+   "Mood II Swing",
+   "Closer (feat. Carole Sylvan) [The Deepshakerz Extended Rework]"
+  ],
+  [
+   5725,
+   "E.F.G. & Nessie",
+   "Higher"
+  ],
+  [
+   5765,
+   "DEADWALKMAN",
+   "Rhythm 11"
+  ],
+  [
+   5805,
+   "Sellens",
+   "Back Down (Off Key Remix)"
+  ],
+  [
+   5845,
+   "Marsh & ALLKNIGHT",
+   "Run Away"
+  ],
+  [
+   5885,
+   "Kungs & Cookin' On 3 Burners",
+   "This Girl"
+  ],
+  [
+   5925,
+   "Giangi Cappai",
+   "I need u now (Eight-seven mix)"
+  ],
+  [
+   6005,
+   "Jepe",
+   "Tonal"
+  ],
+  [
+   6045,
+   "Jepe",
+   "Tonal"
+  ],
+  [
+   6085,
+   "Jepe",
+   "Tonal"
+  ],
+  [
+   6125,
+   "Jepe",
+   "Tonal"
+  ],
+  [
+   6165,
+   "Jepe",
+   "Tonal"
+  ],
+  [
+   6205,
+   "Jepe",
+   "Tonal"
+  ],
+  [
+   6245,
+   "Jepe",
+   "Tonal"
+  ],
+  [
+   6285,
+   "In Fields",
+   "Beginnings (Get a Room! Remix)"
+  ],
+  [
+   6325,
+   "In Fields",
+   "Beginnings (Get a Room! Remix)"
+  ],
+  [
+   6365,
+   "In Fields",
+   "Beginnings (Get a Room! Remix)"
+  ],
+  [
+   6405,
+   "In Fields",
+   "Beginnings (Get a Room! Remix)"
+  ],
+  [
+   6445,
+   "Alexis sensation",
+   "Like Wooh Wooh"
+  ],
+  [
+   6485,
+   "In Fields",
+   "Beginnings (Get a Room! Remix)"
+  ],
+  [
+   6525,
+   "Kiko",
+   "Heatwave"
+  ],
+  [
+   6565,
+   "Kiko",
+   "Heatwave"
+  ],
+  [
+   6605,
+   "Kiko",
+   "Heatwave"
+  ],
+  [
+   6645,
+   "Kiko",
+   "Heatwave"
+  ],
+  [
+   6685,
+   "Kiko",
+   "Heatwave"
+  ],
+  [
+   6725,
+   "Kiko",
+   "Heatwave"
+  ],
+  [
+   6765,
+   "Zimmer & Local Suicide",
+   "The Night"
+  ],
+  [
+   6805,
+   "Zimmer & Local Suicide",
+   "The Night"
+  ],
+  [
+   6845,
+   "Zimmer & Local Suicide",
+   "The Night"
+  ],
+  [
+   6885,
+   "Zimmer & Local Suicide",
+   "The Night"
+  ],
+  [
+   6925,
+   "FA BE",
+   "Freedom"
+  ],
+  [
+   6965,
+   "FA BE",
+   "Freedom (mOat Terrace Remix)"
+  ],
+  [
+   7005,
+   "FA BE",
+   "Freedom"
+  ],
+  [
+   7045,
+   "FA BE",
+   "Freedom"
+  ],
+  [
+   7085,
+   "FA BE",
+   "Freedom"
+  ],
+  [
+   7125,
+   "FA BE",
+   "Freedom"
+  ],
+  [
+   7165,
+   "FA BE",
+   "Freedom (mOat Terrace Remix)"
+  ],
+  [
+   7205,
+   "Nick Curly",
+   "Underground (Dennis Ferrer Remix) [Mixed]"
+  ],
+  [
+   7245,
+   "Fred again.., Duoteque & Orion Sun",
+   "ItsNotREEAALLLLLLLL"
+  ],
+  [
+   7285,
+   "Dice",
+   "Drifting (Madison Remix)"
+  ],
+  [
+   7325,
+   "Niv Ast & Aviv Bens",
+   "Jonah Banana"
+  ],
+  [
+   7365,
+   "Niv Ast & Aviv Bens",
+   "Jonah Banana"
+  ],
+  [
+   7405,
+   "Space Motion & REVOL(ofc)",
+   "Rico (Radio Edit)"
+  ],
+  [
+   7445,
+   "Paul Kalkbrenner",
+   "Feed Your Head"
+  ],
+  [
+   7485,
+   "DJ Calma",
+   "Silent Distance"
+  ],
+  [
+   7525,
+   "TEED",
+   "Always With Me (Eden Burns Remix)"
+  ],
+  [
+   7565,
+   "Joe Mesmar",
+   "Feeling My Mind"
+  ],
+  [
+   7605,
+   "TEED",
+   "Always With Me (Eden Burns Remix)"
+  ],
+  [
+   7645,
+   "TEED",
+   "Always With Me (Eden Burns Remix)"
+  ],
+  [
+   7685,
+   "Paul Kalkbrenner",
+   "Feed Your Head"
+  ],
+  [
+   7725,
+   "Scott Martin",
+   "No Point Trying"
+  ],
+  [
+   7765,
+   "TEED",
+   "Always With Me (Eden Burns Remix)"
+  ]
+ ],
+ "minutos_proceso": 81.7
+}
