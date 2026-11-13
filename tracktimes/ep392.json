@@ -1,0 +1,818 @@
+{
+ "ep": 392,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "B.I.R.DD",
+   "start": 0,
+   "times": [
+    0,
+    392,
+    785,
+    1105,
+    1305,
+    1505,
+    1785,
+    2105,
+    2465,
+    2645,
+    2825,
+    3085,
+    3345
+   ],
+   "ok": 9,
+   "n": 13
+  },
+  {
+   "artist": "Nobilis",
+   "start": 3785,
+   "times": [
+    0,
+    440,
+    700,
+    960,
+    1360,
+    1700,
+    2040,
+    2220,
+    2400,
+    3240
+   ],
+   "ok": 6,
+   "n": 10
+  }
+ ],
+ "escuchado": [
+  [
+   5,
+   "Bondarev",
+   "Manshivaan"
+  ],
+  [
+   45,
+   "Larsh",
+   "Es Tabs (Analog Sense Remix)"
+  ],
+  [
+   85,
+   "Larsh",
+   "Es Tabs (Analog Sense Remix)"
+  ],
+  [
+   125,
+   "Larsh",
+   "Es Tabs (Analog Sense Remix)"
+  ],
+  [
+   165,
+   "Larsh",
+   "Es Tabs (Analog Sense Remix)"
+  ],
+  [
+   205,
+   "Larsh",
+   "Es Tabs (Analog Sense Remix)"
+  ],
+  [
+   245,
+   "Larsh",
+   "Es Tabs (Analog Sense Remix)"
+  ],
+  [
+   285,
+   "Larsh",
+   "Es Tabs (Analog Sense Remix)"
+  ],
+  [
+   325,
+   "Larsh",
+   "Es Tabs (Analog Sense Remix)"
+  ],
+  [
+   445,
+   "Claptone",
+   "No Eyes (feat. JAW)"
+  ],
+  [
+   645,
+   "Stego",
+   "Pa-Ri-Ra-Pa"
+  ],
+  [
+   685,
+   "secondu",
+   "vishap trance"
+  ],
+  [
+   805,
+   "Ilias Katelanos, Molac & Plecta",
+   "Maga"
+  ],
+  [
+   845,
+   "Sir Newton",
+   "Pressure Wave Party"
+  ],
+  [
+   885,
+   "Ilias Katelanos, Molac & Plecta",
+   "Maga"
+  ],
+  [
+   925,
+   "jfan",
+   "Nebular Adventures"
+  ],
+  [
+   965,
+   "Ilias Katelanos, Molac & Plecta",
+   "Maga"
+  ],
+  [
+   1005,
+   "Stego",
+   "Pa-Ri-Ra-Pa"
+  ],
+  [
+   1045,
+   "Stego",
+   "Pa-Ri-Ra-Pa"
+  ],
+  [
+   1085,
+   "Todd Terry",
+   "Jumpin Original"
+  ],
+  [
+   1125,
+   "Zankee Gulati",
+   "Goofball"
+  ],
+  [
+   1165,
+   "Coldplay",
+   "Charlie Brown"
+  ],
+  [
+   1205,
+   "Zankee Gulati",
+   "Goofball"
+  ],
+  [
+   1245,
+   "Zankee Gulati",
+   "Goofball"
+  ],
+  [
+   1285,
+   "Robin S.",
+   "Luv 4 Luv (Stonebridge Club Mix)"
+  ],
+  [
+   1325,
+   "Zankee Gulati",
+   "Plonker"
+  ],
+  [
+   1365,
+   "Betoko",
+   "Jupiterness"
+  ],
+  [
+   1405,
+   "Zankee Gulati",
+   "Plonker"
+  ],
+  [
+   1445,
+   "Lello B.",
+   "L.O.V.E (Lello B Remix)"
+  ],
+  [
+   1485,
+   "Zankee Gulati",
+   "Plonker"
+  ],
+  [
+   1525,
+   "Tojogo",
+   "Seven One Five"
+  ],
+  [
+   1565,
+   "Tojogo",
+   "Seven One Five"
+  ],
+  [
+   1605,
+   "Presence",
+   "Better Day (Bookworm Dub Mix)"
+  ],
+  [
+   1645,
+   "Tojogo",
+   "Seven One Five"
+  ],
+  [
+   1685,
+   "Tojogo",
+   "Seven One Five"
+  ],
+  [
+   1725,
+   "Tojogo",
+   "Seven One Five"
+  ],
+  [
+   1765,
+   "Koki",
+   "Birds of a Feather (Iker Sadaba 80s Remix)"
+  ],
+  [
+   1805,
+   "Matthew Sona & HMWL",
+   "You Got It"
+  ],
+  [
+   1845,
+   "AndreiD",
+   "Voyage (Remix)"
+  ],
+  [
+   1885,
+   "Halifa Sk Dorayi",
+   "Rakiyar So"
+  ],
+  [
+   1925,
+   "CamelPhat",
+   "Spektrum (feat. Ali Love)"
+  ],
+  [
+   1965,
+   "DJ LAWY",
+   "LOVE IT (VIBE)"
+  ],
+  [
+   2005,
+   "Riton & Oliver Heldens",
+   "Turn Me On (feat. Vula)"
+  ],
+  [
+   2045,
+   "Marc Marzenit",
+   "Perron (Wehbba Remix)"
+  ],
+  [
+   2085,
+   "Mackinsey Boyd",
+   "Duvet"
+  ],
+  [
+   2125,
+   "Faero & IGCIØ",
+   "Dreamcatcher"
+  ],
+  [
+   2165,
+   "Faero & IGCIØ",
+   "Dreamcatcher"
+  ],
+  [
+   2205,
+   "DJ BORING",
+   "Winona"
+  ],
+  [
+   2245,
+   "Faero & IGCIØ",
+   "Dreamcatcher"
+  ],
+  [
+   2285,
+   "Nick Morgan",
+   "Shook Part 3"
+  ],
+  [
+   2445,
+   "Artic Monkeys",
+   "I Wanna Be Yours (2013 Remastered)"
+  ],
+  [
+   2485,
+   "Blancah, Neoclassic & Hicky & Kalo",
+   "Travessia (Hicky & Kalo Remix)"
+  ],
+  [
+   2525,
+   "Kudbeu & Kana",
+   "Hypnotic"
+  ],
+  [
+   2565,
+   "Blancah, Neoclassic & Hicky & Kalo",
+   "Travessia (Hicky & Kalo Remix)"
+  ],
+  [
+   2605,
+   "Blancah, Neoclassic & Hicky & Kalo",
+   "Travessia (Hicky & Kalo Remix)"
+  ],
+  [
+   2645,
+   "Oxia",
+   "Domino (Rework)"
+  ],
+  [
+   2685,
+   "Blancah, Neoclassic & Hicky & Kalo",
+   "Travessia (Hicky & Kalo Remix)"
+  ],
+  [
+   2725,
+   "Blancah, Neoclassic & Hicky & Kalo",
+   "Travessia (Hicky & Kalo Remix)"
+  ],
+  [
+   2765,
+   "Blancah, Neoclassic & Hicky & Kalo",
+   "Travessia (Hicky & Kalo Remix)"
+  ],
+  [
+   2805,
+   "Bruno Oloviani",
+   "Space Quest (Dub Edit)"
+  ],
+  [
+   2845,
+   "Vešča, Nahue Sintes & JOSEFINA",
+   "Oblivion"
+  ],
+  [
+   2885,
+   "AndreiD",
+   "Voyage (Remix)"
+  ],
+  [
+   2925,
+   "Vešča, Nahue Sintes & JOSEFINA",
+   "Oblivion"
+  ],
+  [
+   2965,
+   "Vešča, Nahue Sintes & JOSEFINA",
+   "Oblivion"
+  ],
+  [
+   3005,
+   "Jam & Spoon",
+   "Right in the Night (feat. Plavka) [Morttagua Extended Remix]"
+  ],
+  [
+   3045,
+   "Vešča, Nahue Sintes & JOSEFINA",
+   "Oblivion"
+  ],
+  [
+   3205,
+   "Mieli Lehto",
+   "Autobahn Horizons"
+  ],
+  [
+   3325,
+   "Makebo & Volen Sentir",
+   "Alchemist"
+  ],
+  [
+   3365,
+   "Kamilo Sanclemente",
+   "No Regrets (Artic White Extended Remix)"
+  ],
+  [
+   3405,
+   "Kamilo Sanclemente",
+   "No Regrets (Artic White Extended Remix)"
+  ],
+  [
+   3445,
+   "Kamilo Sanclemente",
+   "No Regrets (Artic White Extended Remix)"
+  ],
+  [
+   3485,
+   "Kamilo Sanclemente",
+   "No Regrets (Artic White Extended Remix)"
+  ],
+  [
+   3525,
+   "Kamilo Sanclemente",
+   "No Regrets (Artic White Extended Remix)"
+  ],
+  [
+   3565,
+   "Kamilo Sanclemente",
+   "No Regrets (Artic White Extended Remix)"
+  ],
+  [
+   3605,
+   "Kamilo Sanclemente",
+   "No Regrets (Artic White Extended Remix)"
+  ],
+  [
+   3645,
+   "Kamilo Sanclemente",
+   "No Regrets (Artic White Extended Remix)"
+  ],
+  [
+   3685,
+   "Vlad Caia",
+   "Sidepoint"
+  ],
+  [
+   3805,
+   "Altraajamz & SGVO",
+   "Ezam'durana"
+  ],
+  [
+   3845,
+   "Bridgit Mendler",
+   "Ready or Not (DJ M3 Remix) [Extended]"
+  ],
+  [
+   4125,
+   "Beatchuggers",
+   "Forever Man (How Many Times) [Earth N Days Remix]"
+  ],
+  [
+   4165,
+   "Monolink",
+   "Father Ocean (Ben Böhmer Remix)"
+  ],
+  [
+   4205,
+   "Kelvin Momo & Nontokozo Mkhize",
+   "Thandolwam"
+  ],
+  [
+   4245,
+   "Kamilo Sanclemente",
+   "Evergreen (Alex O'Rion Remix)"
+  ],
+  [
+   4285,
+   "Kamilo Sanclemente",
+   "Evergreen (Alex O'Rion Remix)"
+  ],
+  [
+   4325,
+   "Kamilo Sanclemente",
+   "Evergreen (Alex O'Rion Remix)"
+  ],
+  [
+   4365,
+   "Dance Spirit & Adisyn",
+   "Portal From Mars"
+  ],
+  [
+   4405,
+   "Simon Vuarambon",
+   "Grey Area (Josh Wink vs. Simon Vuarambon)"
+  ],
+  [
+   4445,
+   "Munir Amastha",
+   "Can You Feel the Night (One Opinion Remix) [feat. Sauli Harper]"
+  ],
+  [
+   4485,
+   "Dj mbuso",
+   "Mamorena"
+  ],
+  [
+   4525,
+   "Villablanca",
+   "One (More Time RMX)"
+  ],
+  [
+   4605,
+   "Soulmade AR",
+   "Thunderdome"
+  ],
+  [
+   4645,
+   "Corin Virel",
+   "Where Immortals meets Reserve"
+  ],
+  [
+   4725,
+   "Ohmme",
+   "Little Helper 341-5"
+  ],
+  [
+   4765,
+   "DJ Bird",
+   "Feel the Rhytm (SHRI IND Remix)"
+  ],
+  [
+   4805,
+   "DJ Bird",
+   "Feel the Rhytm (SHRI IND Remix)"
+  ],
+  [
+   4845,
+   "DJ Bird",
+   "Feel the Rhytm (SHRI IND Remix)"
+  ],
+  [
+   4885,
+   "DJ Bird",
+   "Feel the Rhytm (SHRI IND Remix)"
+  ],
+  [
+   4925,
+   "DJ Bird",
+   "Feel the Rhytm (SHRI IND Remix)"
+  ],
+  [
+   4965,
+   "DJ Bird",
+   "Feel the Rhytm (SHRI IND Remix)"
+  ],
+  [
+   5005,
+   "DJ Bird",
+   "Feel the Rhytm (SHRI IND Remix)"
+  ],
+  [
+   5045,
+   "DJ Bird",
+   "Feel the Rhytm (SHRI IND Remix)"
+  ],
+  [
+   5085,
+   "The Jargons & ZuluMafia",
+   "Sinday"
+  ],
+  [
+   5125,
+   "Solo Thato",
+   "Someday"
+  ],
+  [
+   5165,
+   "Alejo Fochi & Iovino",
+   "Cano"
+  ],
+  [
+   5205,
+   "Jesse Rose & Avon Stringer",
+   "Pressure"
+  ],
+  [
+   5245,
+   "Moshu & Mihai V",
+   "Shakedown & Boogie"
+  ],
+  [
+   5285,
+   "Alejo Fochi & Iovino",
+   "Cano"
+  ],
+  [
+   5325,
+   "Alejo Fochi & Iovino",
+   "Cano"
+  ],
+  [
+   5365,
+   "Alejo Fochi & Iovino",
+   "Cano"
+  ],
+  [
+   5405,
+   "Rick Marshall",
+   "Don't Stop"
+  ],
+  [
+   5445,
+   "Alejo Fochi & Iovino",
+   "Cano"
+  ],
+  [
+   5485,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   5525,
+   "Rita Ora",
+   "Let You Love Me (Tpaul Remix)"
+  ],
+  [
+   5565,
+   "Calvin Harris & Disciples",
+   "How Deep Is Your Love (Disciples & Unorthodox Remix)"
+  ],
+  [
+   5725,
+   "Biscits",
+   "Wait A Minute"
+  ],
+  [
+   5765,
+   "Jonas Blue & Malive",
+   "Edge of Desire"
+  ],
+  [
+   5805,
+   "Agoria, NOEMIE & Rami Khalife",
+   "Teardrops (Don't Stop The Music) [Nick Morgan Remix]"
+  ],
+  [
+   5845,
+   "Sashy & Veytik",
+   "Echoes of You (Veytik Remix)"
+  ],
+  [
+   5885,
+   "Sashy & Veytik",
+   "Echoes of You (Veytik Remix)"
+  ],
+  [
+   5925,
+   "Sashy & Veytik",
+   "Echoes of You (Veytik Remix)"
+  ],
+  [
+   5965,
+   "Sashy & Veytik",
+   "Echoes of You (Veytik Remix)"
+  ],
+  [
+   6005,
+   "Sashy & Veytik",
+   "Echoes of You (Veytik Remix)"
+  ],
+  [
+   6045,
+   "Sashy & Veytik",
+   "Echoes of You (Veytik Remix)"
+  ],
+  [
+   6085,
+   "Sashy & Veytik",
+   "Echoes of You (Veytik Remix)"
+  ],
+  [
+   6125,
+   "South Bloom",
+   "Let Me in (Volen Sentir Secret Technique)"
+  ],
+  [
+   6165,
+   "Sashy & Veytik",
+   "Echoes of You (Veytik Remix)"
+  ],
+  [
+   6205,
+   "Cendryma",
+   "Flatten Mode"
+  ],
+  [
+   6245,
+   "Cendryma",
+   "Flatten Mode"
+  ],
+  [
+   6285,
+   "Cendryma",
+   "Flatten Mode"
+  ],
+  [
+   6325,
+   "Cendryma",
+   "Flatten Mode"
+  ],
+  [
+   6365,
+   "Cendryma",
+   "Flatten Mode"
+  ],
+  [
+   6405,
+   "Cendryma",
+   "Flatten Mode"
+  ],
+  [
+   6445,
+   "Cendryma",
+   "Flatten Mode"
+  ],
+  [
+   6485,
+   "Planet Funk & Makebo",
+   "Chase the Sun (Makebo Remix - Extended Mix)"
+  ],
+  [
+   6525,
+   "Biscits",
+   "Wait A Minute"
+  ],
+  [
+   6565,
+   "Company B",
+   "Fascinated"
+  ],
+  [
+   6605,
+   "Rick Marshall",
+   "Don't Stop"
+  ],
+  [
+   6645,
+   "Cognac & Lapie",
+   "Rise of the Phoenix (Solo Thato Remix)"
+  ],
+  [
+   6685,
+   "Slync & Tania Haroshka",
+   "Life Is On Air (Pete Herbert Dub Remix)"
+  ],
+  [
+   6725,
+   "DJ Pantelis",
+   "With or Without You (Radio Edit)"
+  ],
+  [
+   6765,
+   "Walmanner",
+   "Living In Matrix"
+  ],
+  [
+   6805,
+   "Elton John & Dua Lipa",
+   "Cold Heart (Claptone Remix)"
+  ],
+  [
+   6845,
+   "Rick Marshall",
+   "Don't Stop"
+  ],
+  [
+   6885,
+   "Davi & Definition",
+   "Désolé"
+  ],
+  [
+   6925,
+   "Pawsitive Soul",
+   "Oscar_mbo_x_jazzworx_vuka_pawstive rare touch"
+  ],
+  [
+   6965,
+   "Agoria, NOEMIE & Rami Khalife",
+   "Teardrops (Don't Stop The Music) [Nick Morgan Remix]"
+  ],
+  [
+   7005,
+   "Kabusa Oriental Choir & David Acekeyz",
+   "Cornerstone"
+  ],
+  [
+   7045,
+   "GMJ & Matter",
+   "Northern Line"
+  ],
+  [
+   7085,
+   "GMJ & Matter",
+   "Northern Line"
+  ],
+  [
+   7125,
+   "Frankey & Sandrino",
+   "Acamar"
+  ],
+  [
+   7165,
+   "Todd Terje",
+   "Inspector Norse"
+  ],
+  [
+   7205,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   7245,
+   "Marc Molina",
+   "More Than Physical (Manuel Palmitesta Remix)"
+  ],
+  [
+   7285,
+   "GMJ & Matter",
+   "Northern Line"
+  ]
+ ],
+ "minutos_proceso": 87.2
+}

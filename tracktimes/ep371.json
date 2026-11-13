@@ -1,0 +1,882 @@
+{
+ "ep": 371,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    345,
+    625,
+    825,
+    1065,
+    1425,
+    1665,
+    1945,
+    2225,
+    2385,
+    2705,
+    2945,
+    3225,
+    3425,
+    3625
+   ],
+   "ok": 14,
+   "n": 15
+  },
+  {
+   "artist": "DNS",
+   "start": 3825,
+   "times": [
+    0,
+    360,
+    640,
+    960,
+    1200,
+    1640,
+    1880,
+    2120,
+    2480,
+    2760,
+    3040,
+    3440
+   ],
+   "ok": 11,
+   "n": 12
+  }
+ ],
+ "escuchado": [
+  [
+   5,
+   "lvnd",
+   "Long Awaited"
+  ],
+  [
+   45,
+   "lvnd",
+   "Long Awaited"
+  ],
+  [
+   85,
+   "lvnd",
+   "Long Awaited"
+  ],
+  [
+   125,
+   "lvnd",
+   "Long Awaited"
+  ],
+  [
+   165,
+   "lvnd",
+   "Long Awaited"
+  ],
+  [
+   205,
+   "Burg",
+   "28 Minutes to Cairo"
+  ],
+  [
+   245,
+   "lvnd",
+   "Long Awaited"
+  ],
+  [
+   285,
+   "lvnd",
+   "Long Awaited"
+  ],
+  [
+   325,
+   "lvnd",
+   "Long Awaited"
+  ],
+  [
+   365,
+   "Belaria",
+   "Natural Chemical"
+  ],
+  [
+   405,
+   "Belaria",
+   "Natural Chemical"
+  ],
+  [
+   445,
+   "Belaria",
+   "Natural Chemical"
+  ],
+  [
+   485,
+   "Belaria",
+   "Natural Chemical"
+  ],
+  [
+   525,
+   "Belaria",
+   "Natural Chemical"
+  ],
+  [
+   565,
+   "Belaria",
+   "Natural Chemical"
+  ],
+  [
+   605,
+   "Belaria",
+   "Natural Chemical"
+  ],
+  [
+   645,
+   "Slow Bar. & Rio de la Luz",
+   "Neap Tide"
+  ],
+  [
+   725,
+   "Slow Bar. & Rio de la Luz",
+   "Neap Tide"
+  ],
+  [
+   765,
+   "Slow Bar. & Rio de la Luz",
+   "Neap Tide"
+  ],
+  [
+   805,
+   "Slow Bar. & Rio de la Luz",
+   "Neap Tide"
+  ],
+  [
+   845,
+   "Rapossa & Ampermut",
+   "Above Clouds (Shellsee Remix)"
+  ],
+  [
+   885,
+   "Rapossa & Ampermut",
+   "Above Clouds (Shellsee Remix)"
+  ],
+  [
+   925,
+   "Rapossa & Ampermut",
+   "Above Clouds (Shellsee Remix)"
+  ],
+  [
+   965,
+   "Rapossa & Ampermut",
+   "Above Clouds (Shellsee Remix)"
+  ],
+  [
+   1005,
+   "Rapossa & Ampermut",
+   "Above Clouds (Shellsee Remix)"
+  ],
+  [
+   1045,
+   "Rapossa & Ampermut",
+   "Above Clouds (Shellsee Remix)"
+  ],
+  [
+   1085,
+   "Laaar",
+   "Dream for Dreaming"
+  ],
+  [
+   1125,
+   "Laaar",
+   "Dream for Dreaming"
+  ],
+  [
+   1165,
+   "Laaar",
+   "Dream for Dreaming"
+  ],
+  [
+   1205,
+   "Laaar",
+   "Dream for Dreaming"
+  ],
+  [
+   1245,
+   "Laaar",
+   "Dream for Dreaming"
+  ],
+  [
+   1285,
+   "Laaar",
+   "Dream for Dreaming"
+  ],
+  [
+   1325,
+   "Laaar",
+   "Dream for Dreaming"
+  ],
+  [
+   1365,
+   "Laaar",
+   "Dream for Dreaming"
+  ],
+  [
+   1405,
+   "똥욜이 농산물판매",
+   "우리 착한 매형"
+  ],
+  [
+   1445,
+   "Saraabb & Laaar",
+   "Nebula (Laaar Remix)"
+  ],
+  [
+   1485,
+   "Saraabb & Laaar",
+   "Nebula (Laaar Remix)"
+  ],
+  [
+   1525,
+   "Saraabb & Laaar",
+   "Nebula (Laaar Remix)"
+  ],
+  [
+   1565,
+   "ZEROMAX MUSIC",
+   "Mystique"
+  ],
+  [
+   1605,
+   "Saraabb & Laaar",
+   "Nebula (Laaar Remix)"
+  ],
+  [
+   1645,
+   "Saraabb & Laaar",
+   "Nebula (Laaar Remix)"
+  ],
+  [
+   1685,
+   "Jonas Schilling",
+   "7 Colours"
+  ],
+  [
+   1725,
+   "Jonas Schilling",
+   "7 Colours"
+  ],
+  [
+   1765,
+   "Jonas Schilling",
+   "7 Colours"
+  ],
+  [
+   1805,
+   "Jonas Schilling",
+   "7 Colours"
+  ],
+  [
+   1845,
+   "Elina Torvain",
+   "Indulgence Garden"
+  ],
+  [
+   1885,
+   "Jonas Schilling",
+   "7 Colours"
+  ],
+  [
+   1925,
+   "Jonas Schilling",
+   "7 Colours"
+  ],
+  [
+   1965,
+   "Geplantes Nichtstun",
+   "Ader"
+  ],
+  [
+   2005,
+   "Geplantes Nichtstun",
+   "Ader"
+  ],
+  [
+   2045,
+   "Geplantes Nichtstun",
+   "Ader"
+  ],
+  [
+   2085,
+   "Geplantes Nichtstun",
+   "Ader"
+  ],
+  [
+   2125,
+   "Geplantes Nichtstun",
+   "Ader"
+  ],
+  [
+   2165,
+   "Dialoque",
+   "The Way (Trippin Jaguar Remix)"
+  ],
+  [
+   2205,
+   "Geplantes Nichtstun",
+   "Ader"
+  ],
+  [
+   2245,
+   "Think City",
+   "Sangeet"
+  ],
+  [
+   2285,
+   "Think City",
+   "Sangeet"
+  ],
+  [
+   2325,
+   "Think City",
+   "Sangeet"
+  ],
+  [
+   2365,
+   "Think City",
+   "Sangeet"
+  ],
+  [
+   2405,
+   "Coss",
+   "Chamba"
+  ],
+  [
+   2445,
+   "Coss",
+   "Chamba"
+  ],
+  [
+   2525,
+   "Malaps Deep",
+   "Mpumalanga to Gauteng"
+  ],
+  [
+   2565,
+   "Gee KaYy D\"Roba x JayyBee Feat. Jayybee & Deejayy Lee",
+   "Cat_Burns_Go_Amapiano_Revist_Ft_Deejayy_Lee"
+  ],
+  [
+   2645,
+   "Thoughts Of Domenico",
+   "Sleeping Cities"
+  ],
+  [
+   2725,
+   "Murmur Tooth & Lars Moston",
+   "At the Bottom of the Ocean"
+  ],
+  [
+   2765,
+   "Murmur Tooth & Lars Moston",
+   "At the Bottom of the Ocean"
+  ],
+  [
+   2805,
+   "Murmur Tooth & Lars Moston",
+   "At the Bottom of the Ocean"
+  ],
+  [
+   2845,
+   "Rod Stewart",
+   "Maggie May"
+  ],
+  [
+   2885,
+   "Murmur Tooth & Lars Moston",
+   "At the Bottom of the Ocean"
+  ],
+  [
+   2925,
+   "Why T",
+   "I.T.E"
+  ],
+  [
+   2965,
+   "K2W0 & Daniel Hokum",
+   "The Who (Daniel Hokum Remix)"
+  ],
+  [
+   3005,
+   "K2W0 & Daniel Hokum",
+   "The Who (Daniel Hokum Remix)"
+  ],
+  [
+   3045,
+   "K2W0 & Daniel Hokum",
+   "The Who (Daniel Hokum Remix)"
+  ],
+  [
+   3085,
+   "K2W0 & Daniel Hokum",
+   "The Who (Daniel Hokum Remix)"
+  ],
+  [
+   3245,
+   "Diereva",
+   "Nit a Res (Narcisse (Mex) Remix)"
+  ],
+  [
+   3285,
+   "Bambook",
+   "Give It Up (Audiofly Remix)"
+  ],
+  [
+   3325,
+   "Diereva",
+   "Nit a Res (Narcisse (Mex) Remix)"
+  ],
+  [
+   3365,
+   "Diereva",
+   "Nit a Res (Narcisse (Mex) Remix)"
+  ],
+  [
+   3445,
+   "Friends of Hannes & Allies for Everyone",
+   "Zustand Zwei (Allies For Everyone Remix)"
+  ],
+  [
+   3485,
+   "Friends of Hannes & Allies for Everyone",
+   "Zustand Zwei (Allies For Everyone Remix)"
+  ],
+  [
+   3525,
+   "Retro Euphoria",
+   "Tapeworm Sonata"
+  ],
+  [
+   3565,
+   "Friends of Hannes & Allies for Everyone",
+   "Zustand Zwei (Allies For Everyone Remix)"
+  ],
+  [
+   3605,
+   "Friends of Hannes & Allies for Everyone",
+   "Zustand Zwei (Allies For Everyone Remix)"
+  ],
+  [
+   3645,
+   "Friends of Hannes & Allies for Everyone",
+   "Zustand Zwei (Allies For Everyone Remix)"
+  ],
+  [
+   3685,
+   "Friends of Hannes & Allies for Everyone",
+   "Zustand Zwei (Allies For Everyone Remix)"
+  ],
+  [
+   3765,
+   "OFFAIAH",
+   "Trouble"
+  ],
+  [
+   3805,
+   "Madness Ba",
+   "Anywhere"
+  ],
+  [
+   3845,
+   "Erdi Irmak",
+   "Whatever (Radio Edit)"
+  ],
+  [
+   3885,
+   "Erdi Irmak",
+   "Whatever (Radio Edit)"
+  ],
+  [
+   3925,
+   "Erdi Irmak",
+   "Whatever (Radio Edit)"
+  ],
+  [
+   3965,
+   "Helder Boy",
+   "Tema Celebrate, Pt. 2 (feat. Mr Benety)"
+  ],
+  [
+   4005,
+   "Erdi Irmak",
+   "Whatever (Radio Edit)"
+  ],
+  [
+   4045,
+   "Erdi Irmak",
+   "Whatever (Radio Edit)"
+  ],
+  [
+   4085,
+   "Erdi Irmak",
+   "Whatever (Radio Edit)"
+  ],
+  [
+   4125,
+   "Erdi Irmak",
+   "Whatever (Radio Edit)"
+  ],
+  [
+   4205,
+   "Amber Stomp",
+   "330x14 (Volen Sentir Deep Jungle Ceremony)"
+  ],
+  [
+   4245,
+   "Amber Stomp",
+   "330x14 (Volen Sentir Deep Jungle Ceremony)"
+  ],
+  [
+   4285,
+   "Amber Stomp",
+   "330x14 (Volen Sentir Deep Jungle Ceremony)"
+  ],
+  [
+   4325,
+   "Amber Stomp",
+   "330x14 (Volen Sentir Deep Jungle Ceremony)"
+  ],
+  [
+   4365,
+   "Amber Stomp",
+   "330x14 (Volen Sentir Deep Jungle Ceremony)"
+  ],
+  [
+   4405,
+   "South Bloom",
+   "Let Me in (Volen Sentir Secret Technique)"
+  ],
+  [
+   4445,
+   "Amber Stomp",
+   "330x14 (Volen Sentir Deep Jungle Ceremony)"
+  ],
+  [
+   4485,
+   "Venke",
+   "Golden Hour"
+  ],
+  [
+   4525,
+   "Venke",
+   "Golden Hour"
+  ],
+  [
+   4565,
+   "Venke",
+   "Golden Hour"
+  ],
+  [
+   4605,
+   "Venke",
+   "Golden Hour"
+  ],
+  [
+   4645,
+   "Logjiask",
+   "Starlight Voltage"
+  ],
+  [
+   4685,
+   "Venke",
+   "Golden Hour"
+  ],
+  [
+   4725,
+   "Venke",
+   "Golden Hour"
+  ],
+  [
+   4765,
+   "Venke",
+   "Golden Hour"
+  ],
+  [
+   4805,
+   "Lucho Bragagnolo",
+   "Inercia"
+  ],
+  [
+   4845,
+   "Lucho Bragagnolo",
+   "Inercia"
+  ],
+  [
+   4885,
+   "Lucho Bragagnolo",
+   "Inercia"
+  ],
+  [
+   4925,
+   "Echos Surreal AI Art",
+   "Yippee yay yeah"
+  ],
+  [
+   4965,
+   "Alan Dixon, mOat & Tom Diesel",
+   "The Underground (Extended Mix)"
+  ],
+  [
+   5005,
+   "Jerome Isma-Ae",
+   "Baharat (Ruben Karapetyan Remix)"
+  ],
+  [
+   5045,
+   "Tato Seco & Ewan Rill",
+   "Serendipia (Ewan Rill Remix) [Mixed]"
+  ],
+  [
+   5085,
+   "Tato Seco & Ewan Rill",
+   "Serendipia (Ewan Rill Remix) [Mixed]"
+  ],
+  [
+   5125,
+   "Tato Seco & Ewan Rill",
+   "Serendipia (Ewan Rill Remix) [Mixed]"
+  ],
+  [
+   5165,
+   "Tato Seco & Ewan Rill",
+   "Serendipia (Ewan Rill Remix) [Mixed]"
+  ],
+  [
+   5205,
+   "Tato Seco & Ewan Rill",
+   "Serendipia (Ewan Rill Remix) [Mixed]"
+  ],
+  [
+   5245,
+   "Tato Seco & Ewan Rill",
+   "Serendipia (Ewan Rill Remix) [Mixed]"
+  ],
+  [
+   5285,
+   "Tato Seco & Ewan Rill",
+   "Serendipia (Ewan Rill Remix) [Mixed]"
+  ],
+  [
+   5325,
+   "Davi & Definition",
+   "Désolé"
+  ],
+  [
+   5365,
+   "Gareth Stirling",
+   "Wallop"
+  ],
+  [
+   5485,
+   "Moderat",
+   "Eating Hooks (Siriusmo Remix)"
+  ],
+  [
+   5525,
+   "Paperclip People",
+   "Throw (Slam's RTM Remix)"
+  ],
+  [
+   5565,
+   "Anthony Yarranton",
+   "Nestor (Extended Mix)"
+  ],
+  [
+   5605,
+   "BLR & Rave & Crave",
+   "Taj"
+  ],
+  [
+   5685,
+   "Anthony e Mario Productions",
+   "A' campagnola a modo mio (Base in SOL)"
+  ],
+  [
+   5805,
+   "Toby Anderground",
+   "Jungleboom"
+  ],
+  [
+   5925,
+   "Company B",
+   "Fascinated"
+  ],
+  [
+   5965,
+   "Laure Cesario & HYPENOTICA",
+   "Annunaki"
+  ],
+  [
+   6005,
+   "Eugenio Taicuz",
+   "Tibet"
+  ],
+  [
+   6045,
+   "Laure Cesario & HYPENOTICA",
+   "Annunaki"
+  ],
+  [
+   6085,
+   "Laure Cesario & HYPENOTICA",
+   "Annunaki"
+  ],
+  [
+   6125,
+   "Luu Deep, SGVO & Deep Essentials",
+   "Ginger"
+  ],
+  [
+   6165,
+   "Matchy",
+   "Irreversible"
+  ],
+  [
+   6205,
+   "Laure Cesario & HYPENOTICA",
+   "Annunaki"
+  ],
+  [
+   6245,
+   "Moby",
+   "Natural Blues (Reinier Zonneveld Homage Remix)"
+  ],
+  [
+   6285,
+   "Kamasutra",
+   "Kamasutra Express (Train Version)"
+  ],
+  [
+   6325,
+   "Gai Barone",
+   "Limbic (Nicolas Viana Extended Remix)"
+  ],
+  [
+   6365,
+   "Gai Barone",
+   "Limbic (Nicolas Viana Extended Remix)"
+  ],
+  [
+   6405,
+   "Gai Barone",
+   "Limbic (Nicolas Viana Extended Remix)"
+  ],
+  [
+   6445,
+   "Gai Barone",
+   "Limbic (Nicolas Viana Extended Remix)"
+  ],
+  [
+   6485,
+   "Gai Barone",
+   "Limbic (Nicolas Viana Extended Remix)"
+  ],
+  [
+   6525,
+   "Kamasutra",
+   "Kamasutra Express (Train Version)"
+  ],
+  [
+   6565,
+   "Laura Van Dam",
+   "4AM (Extended Mix)"
+  ],
+  [
+   6605,
+   "Praneeth.D",
+   "Overcompressed Feelings"
+  ],
+  [
+   6645,
+   "Praneeth.D",
+   "Overcompressed Feelings"
+  ],
+  [
+   6685,
+   "Praneeth.D",
+   "Overcompressed Feelings"
+  ],
+  [
+   6725,
+   "Praneeth.D",
+   "Overcompressed Feelings"
+  ],
+  [
+   6765,
+   "Praneeth.D",
+   "Overcompressed Feelings"
+  ],
+  [
+   6805,
+   "Praneeth.D",
+   "Overcompressed Feelings"
+  ],
+  [
+   6845,
+   "Praneeth.D",
+   "Overcompressed Feelings"
+  ],
+  [
+   6885,
+   "Kamilo Sanclemente",
+   "Iceberg (Haft Remix)"
+  ],
+  [
+   6925,
+   "Kamilo Sanclemente",
+   "Iceberg (Haft Remix)"
+  ],
+  [
+   6965,
+   "Kamilo Sanclemente",
+   "Iceberg (Haft Remix)"
+  ],
+  [
+   7005,
+   "Kamilo Sanclemente",
+   "Iceberg (Haft Remix)"
+  ],
+  [
+   7045,
+   "Kamilo Sanclemente",
+   "Iceberg (Haft Remix)"
+  ],
+  [
+   7085,
+   "Kamilo Sanclemente",
+   "Iceberg (Haft Remix)"
+  ],
+  [
+   7125,
+   "Kamilo Sanclemente",
+   "Iceberg (Haft Remix)"
+  ],
+  [
+   7165,
+   "Kamilo Sanclemente",
+   "Iceberg (Haft Remix)"
+  ],
+  [
+   7205,
+   "Kamilo Sanclemente",
+   "Iceberg (Haft Remix)"
+  ],
+  [
+   7245,
+   "Tim Bliss",
+   "Summer Love (Extended Mix)"
+  ],
+  [
+   7285,
+   "Richard Bass",
+   "Higher Voices (Extended Mix)"
+  ]
+ ],
+ "minutos_proceso": 85.0
+}
