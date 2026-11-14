@@ -1,0 +1,1163 @@
+{
+ "ep": 364,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    225,
+    705,
+    905,
+    1185,
+    1625,
+    1945,
+    2385,
+    2545,
+    2785,
+    3105,
+    3265,
+    3585,
+    3945,
+    4105,
+    4265,
+    4465,
+    4745
+   ],
+   "ok": 18,
+   "n": 18,
+   "escuchado": [
+    [
+     5,
+     "Verdo",
+     "Ballad (Philipp Lauer Trance I Caries Remix)"
+    ],
+    [
+     45,
+     "Sides",
+     "Cape Town"
+    ],
+    [
+     85,
+     "Verdo",
+     "Ballad (Philipp Lauer Trance I Caries Remix)"
+    ],
+    [
+     125,
+     "Erotic Drum Band",
+     "Dance In Your Pants"
+    ],
+    [
+     165,
+     "Verdo",
+     "Ballad (Philipp Lauer Trance I Caries Remix)"
+    ],
+    [
+     205,
+     "Verdo",
+     "Ballad (Philipp Lauer Trance I Caries Remix)"
+    ],
+    [
+     245,
+     "Leonardo Britto",
+     "Quantum"
+    ],
+    [
+     285,
+     "Leonardo Britto",
+     "Quantum"
+    ],
+    [
+     325,
+     "Leonardo Britto",
+     "Quantum"
+    ],
+    [
+     365,
+     "Leonardo Britto",
+     "Quantum"
+    ],
+    [
+     405,
+     "Antoine Pete",
+     "Chasing Shadows"
+    ],
+    [
+     445,
+     "Leonardo Britto",
+     "Quantum"
+    ],
+    [
+     485,
+     "Leonardo Britto",
+     "Quantum"
+    ],
+    [
+     525,
+     "Monolink",
+     "Return to Oz"
+    ],
+    [
+     565,
+     "Leonardo Britto",
+     "Quantum"
+    ],
+    [
+     605,
+     "Leonardo Britto",
+     "Quantum"
+    ],
+    [
+     645,
+     "R3HAB, Inna & Sash!",
+     "Rock My Body (Extended Mix)"
+    ],
+    [
+     685,
+     "Vlad Caia",
+     "Sidepoint"
+    ],
+    [
+     725,
+     "Shayan Pasha",
+     "Apollo"
+    ],
+    [
+     765,
+     "Ralph Noah & U-Gin",
+     "L'appuntamento"
+    ],
+    [
+     805,
+     "Ralph Noah & U-Gin",
+     "L'appuntamento"
+    ],
+    [
+     845,
+     "Ralph Noah & U-Gin",
+     "L'appuntamento"
+    ],
+    [
+     885,
+     "Shayan Pasha",
+     "Perfectionism"
+    ],
+    [
+     925,
+     "Prana Flow, panz. & Paul Brenning",
+     "Spirit Rise (Zakir Remix)"
+    ],
+    [
+     965,
+     "Elio Riso & Lucio Spain",
+     "Breaking Minds"
+    ],
+    [
+     1005,
+     "Elio Riso & Lucio Spain",
+     "Breaking Minds"
+    ],
+    [
+     1045,
+     "Prana Flow, panz. & Paul Brenning",
+     "Spirit Rise (Zakir Remix)"
+    ],
+    [
+     1085,
+     "Prana Flow, panz. & Paul Brenning",
+     "Spirit Rise"
+    ],
+    [
+     1125,
+     "Prana Flow, panz. & Paul Brenning",
+     "Spirit Rise (Zakir Remix)"
+    ],
+    [
+     1165,
+     "Prana Flow, panz. & Paul Brenning",
+     "Spirit Rise"
+    ],
+    [
+     1205,
+     "Ruls & Kris Dur",
+     "Sonoluminesence"
+    ],
+    [
+     1245,
+     "Ruls & Kris Dur",
+     "Sonoluminesence"
+    ],
+    [
+     1285,
+     "Ruls & Kris Dur",
+     "Sonoluminesence"
+    ],
+    [
+     1325,
+     "George Ellinas",
+     "Rainmaker (Extended Club Mix)"
+    ],
+    [
+     1365,
+     "Ruls & Kris Dur",
+     "Sonoluminesence"
+    ],
+    [
+     1405,
+     "Ruls & Kris Dur",
+     "Sonoluminesence"
+    ],
+    [
+     1445,
+     "Ruls & Kris Dur",
+     "Sonoluminesence"
+    ],
+    [
+     1485,
+     "Ruls & Kris Dur",
+     "Sonoluminesence"
+    ],
+    [
+     1525,
+     "Ruls & Kris Dur",
+     "Sonoluminesence"
+    ],
+    [
+     1565,
+     "Ruls & Kris Dur",
+     "Sonoluminesence"
+    ],
+    [
+     1605,
+     "Bojo Mujo",
+     "Summer rain"
+    ],
+    [
+     1645,
+     "Leaman",
+     "Milky Way"
+    ],
+    [
+     1685,
+     "Leaman",
+     "Milky Way"
+    ],
+    [
+     1725,
+     "Leaman",
+     "Milky Way"
+    ],
+    [
+     1765,
+     "Leaman",
+     "Milky Way"
+    ],
+    [
+     1805,
+     "Leaman",
+     "Milky Way"
+    ],
+    [
+     1845,
+     "Leaman",
+     "Milky Way"
+    ],
+    [
+     1885,
+     "Jonny Calypso",
+     "Teenager 2K15"
+    ],
+    [
+     1925,
+     "Chris Drifter",
+     "Flashback (Matt Time Remix)"
+    ],
+    [
+     1965,
+     "Alan Schultz",
+     "Drizzle"
+    ],
+    [
+     2005,
+     "Alan Schultz",
+     "Drizzle"
+    ],
+    [
+     2045,
+     "George Kraniotakis",
+     "Lost in the Silence"
+    ],
+    [
+     2085,
+     "Daniel Pikl",
+     "Journey Beyond"
+    ],
+    [
+     2125,
+     "The Weeknd",
+     "Take My Breath"
+    ],
+    [
+     2165,
+     "Marc Ustari",
+     "Marc Ustari - Alone Together"
+    ],
+    [
+     2205,
+     "TECH IT DEEP",
+     "Maria Maria (Extended)"
+    ],
+    [
+     2245,
+     "Groove P",
+     "Hold On Honey (feat. Adeva) [Extended Mix]"
+    ],
+    [
+     2285,
+     "Rain Radio & DJ Craig Gorman",
+     "Talk About (Extended Mix)"
+    ],
+    [
+     2325,
+     "Samim",
+     "Heater (Tube & Berger Remix)"
+    ],
+    [
+     2365,
+     "Madonna",
+     "Causing a Commotion"
+    ],
+    [
+     2405,
+     "Maze 28",
+     "Dusty"
+    ],
+    [
+     2445,
+     "Mpho.Wav & Bongi Dube",
+     "Go Around (Mpho.Wav Remix)"
+    ],
+    [
+     2485,
+     "Maze 28",
+     "Dusty"
+    ],
+    [
+     2525,
+     "Samim",
+     "Heater (Tube & Berger Remix)"
+    ],
+    [
+     2565,
+     "Dodi Palese",
+     "What Happens Then"
+    ],
+    [
+     2605,
+     "Dodi Palese",
+     "What Happens Then"
+    ],
+    [
+     2645,
+     "Dodi Palese",
+     "What Happens Then"
+    ],
+    [
+     2685,
+     "Dodi Palese",
+     "What Happens Then"
+    ],
+    [
+     2725,
+     "Ilan Bluestone & Jerome Isma-Ae",
+     "Tension (feat. Jerome Isma-Ae)"
+    ],
+    [
+     2765,
+     "PROFF",
+     "Love On A Real Train (Tangerine Dream Cover)"
+    ],
+    [
+     2805,
+     "Luch",
+     "Shepard's Tone"
+    ],
+    [
+     2845,
+     "Luch",
+     "Shepard's Tone"
+    ],
+    [
+     2885,
+     "Luch",
+     "Shepard's Tone"
+    ],
+    [
+     2925,
+     "Luch",
+     "Shepard's Tone"
+    ],
+    [
+     2965,
+     "Luch",
+     "Shepard's Tone"
+    ],
+    [
+     3005,
+     "Luch",
+     "Shepard's Tone"
+    ],
+    [
+     3045,
+     "Luch",
+     "Shepard's Tone"
+    ],
+    [
+     3085,
+     "Luch",
+     "Shepard's Tone"
+    ],
+    [
+     3125,
+     "James Mac",
+     "My Way"
+    ],
+    [
+     3165,
+     "James Mac",
+     "My Way"
+    ],
+    [
+     3205,
+     "James Mac",
+     "My Way"
+    ],
+    [
+     3245,
+     "James Mac",
+     "My Way"
+    ],
+    [
+     3285,
+     "Adam Ten & Volkoder",
+     "Got Me Crazy"
+    ],
+    [
+     3325,
+     "Adam Ten & Volkoder",
+     "Got Me Crazy"
+    ],
+    [
+     3365,
+     "Adam Ten & Volkoder",
+     "Got Me Crazy"
+    ],
+    [
+     3405,
+     "Adam Ten & Volkoder",
+     "Got Me Crazy (Extended Mix)"
+    ],
+    [
+     3445,
+     "Adam Ten & Volkoder",
+     "Got Me Crazy"
+    ],
+    [
+     3485,
+     "Adam Ten & Volkoder",
+     "Got Me Crazy"
+    ],
+    [
+     3525,
+     "Paul Kalkbrenner",
+     "Feed Your Head"
+    ],
+    [
+     3565,
+     "ZERB & Sofiya Nzau",
+     "Mwaki"
+    ],
+    [
+     3605,
+     "Undercatt",
+     "Vortex (Edit)"
+    ],
+    [
+     3645,
+     "Steve Smooth",
+     "I'm Not Sorry (feat. Krystal Malik) [Steve Smooth & Kalendr Remix]"
+    ],
+    [
+     3685,
+     "Undercatt",
+     "Vortex (Edit)"
+    ],
+    [
+     3725,
+     "Undercatt",
+     "Vortex (Edit)"
+    ],
+    [
+     3765,
+     "Undercatt",
+     "Vortex (Edit)"
+    ],
+    [
+     3805,
+     "Maae",
+     "The Man"
+    ],
+    [
+     3845,
+     "Samvel T",
+     "Sunrise"
+    ],
+    [
+     3885,
+     "Marshmello",
+     "Alone"
+    ],
+    [
+     3925,
+     "Betoko",
+     "Jupiterness"
+    ],
+    [
+     3965,
+     "Ian O'Donovan",
+     "Ascent (Radio Edit)"
+    ],
+    [
+     4005,
+     "Digital Department",
+     "Disconnection"
+    ],
+    [
+     4045,
+     "Jam & Spoon",
+     "Right in the Night (feat. Plavka) [Morttagua Extended Remix]"
+    ],
+    [
+     4085,
+     "Fabio Orru",
+     "I'm Nothing (Ivanshee Remix)"
+    ],
+    [
+     4125,
+     "Kadosh (IL) & Simple Symmetry",
+     "Quartz"
+    ],
+    [
+     4165,
+     "Kadosh (IL) & Simple Symmetry",
+     "Quartz"
+    ],
+    [
+     4205,
+     "Kadosh (IL) & Simple Symmetry",
+     "Quartz"
+    ],
+    [
+     4245,
+     "Kadosh (IL) & Simple Symmetry",
+     "Quartz"
+    ],
+    [
+     4285,
+     "Deer Jade",
+     "So Divine"
+    ],
+    [
+     4325,
+     "Deer Jade",
+     "So Divine"
+    ],
+    [
+     4365,
+     "Deer Jade",
+     "So Divine"
+    ],
+    [
+     4405,
+     "Deer Jade",
+     "So Divine"
+    ],
+    [
+     4445,
+     "Deer Jade",
+     "So Divine"
+    ],
+    [
+     4485,
+     "Quivver",
+     "Keep on Runnin' (Mixed)"
+    ],
+    [
+     4525,
+     "Calvin Harris & Sam Smith",
+     "Promises (Sonny Fodera Disco Mix)"
+    ],
+    [
+     4565,
+     "Quivver",
+     "Keep on Runnin' (Mixed)"
+    ],
+    [
+     4605,
+     "Quivver",
+     "Keep on Runnin' (Mixed)"
+    ],
+    [
+     4645,
+     "Quivver",
+     "Keep on Runnin' (Mixed)"
+    ],
+    [
+     4685,
+     "Quivver",
+     "Keep on Runnin' (Mixed)"
+    ],
+    [
+     4725,
+     "Quivver",
+     "Keep on Runnin' (Mixed)"
+    ],
+    [
+     4765,
+     "SAAND",
+     "It's a Long Night"
+    ],
+    [
+     4805,
+     "SAAND",
+     "It's a Long Night"
+    ],
+    [
+     4845,
+     "SAAND",
+     "It's a Long Night"
+    ],
+    [
+     4885,
+     "SAAND",
+     "It's a Long Night"
+    ],
+    [
+     4925,
+     "SAAND",
+     "It's a Long Night"
+    ],
+    [
+     4965,
+     "SAAND",
+     "It's a Long Night"
+    ],
+    [
+     5005,
+     "SAAND",
+     "It's a Long Night"
+    ],
+    [
+     5045,
+     "SAAND",
+     "It's a Long Night"
+    ]
+   ]
+  },
+  {
+   "artist": "Manu Tabaroni",
+   "start": 0,
+   "times": [
+    0,
+    425,
+    665,
+    905,
+    1185,
+    1465,
+    1905,
+    2065,
+    2265,
+    2545,
+    3025,
+    3225,
+    3625
+   ],
+   "ok": 12,
+   "n": 13,
+   "escuchado": [
+    [
+     5,
+     "CamelPhat & ARTBAT",
+     "For a Feeling (feat. RHODES)"
+    ],
+    [
+     45,
+     "ODESZA",
+     "The Last Goodbye (feat. Bettye LaVette)"
+    ],
+    [
+     85,
+     "Dj Afonso de Vic",
+     "Shake It"
+    ],
+    [
+     125,
+     "Shouse",
+     "Love Tonight"
+    ],
+    [
+     165,
+     "Nick Curly",
+     "Underground (Dennis Ferrer Remix) [Mixed]"
+    ],
+    [
+     205,
+     "Sistersweet & STEREO MUNK",
+     "Behind the Corner (STEREO MUNK Remix)"
+    ],
+    [
+     245,
+     "Abakus",
+     "Dreamer"
+    ],
+    [
+     285,
+     "Solo Thato",
+     "Someday"
+    ],
+    [
+     325,
+     "Sistersweet & STEREO MUNK",
+     "Behind the Corner (STEREO MUNK Remix)"
+    ],
+    [
+     365,
+     "Young dumza",
+     "Ungakhali (Special Version)"
+    ],
+    [
+     405,
+     "Kelvin Momo & Babalwa M",
+     "Mkhuzeni (feat. Da Muziqal Chef)"
+    ],
+    [
+     445,
+     "Julian Liander, Brian David & Mauro Masi",
+     "Flux"
+    ],
+    [
+     485,
+     "Julian Liander, Brian David & Mauro Masi",
+     "Flux"
+    ],
+    [
+     525,
+     "Tyron SA",
+     "Angel"
+    ],
+    [
+     565,
+     "Julian Liander, Brian David & Mauro Masi",
+     "Flux"
+    ],
+    [
+     605,
+     "Davi & Definition",
+     "Désolé"
+    ],
+    [
+     645,
+     "Julian Liander, Brian David & Mauro Masi",
+     "Flux"
+    ],
+    [
+     685,
+     "Abity",
+     "Hitme"
+    ],
+    [
+     725,
+     "Abity",
+     "Hitme"
+    ],
+    [
+     765,
+     "Abity",
+     "Hitme"
+    ],
+    [
+     805,
+     "Abity",
+     "Hitme"
+    ],
+    [
+     845,
+     "Abity",
+     "Hitme"
+    ],
+    [
+     885,
+     "Abity",
+     "Hitme"
+    ],
+    [
+     925,
+     "Montw",
+     "Infinite"
+    ],
+    [
+     965,
+     "The Jargons & ZuluMafia",
+     "Sinday"
+    ],
+    [
+     1005,
+     "Montw",
+     "Infinite"
+    ],
+    [
+     1045,
+     "Stixx & Babalwa M",
+     "Amablomo (feat. De Rose)"
+    ],
+    [
+     1085,
+     "The Jargons & ZuluMafia",
+     "Sinday"
+    ],
+    [
+     1125,
+     "K-391, Alan Walker & Tungevaag",
+     "Play - Niya & Alan Walker Remix (feat. Mangoo & Niya)"
+    ],
+    [
+     1165,
+     "The Jargons & ZuluMafia",
+     "Sinday"
+    ],
+    [
+     1205,
+     "Andy Keys & KingTouch",
+     "Comics (Club Mix)"
+    ],
+    [
+     1245,
+     "The Jargons & ZuluMafia",
+     "Sinday"
+    ],
+    [
+     1285,
+     "Montw",
+     "Infinite"
+    ],
+    [
+     1325,
+     "Montw",
+     "Infinite"
+    ],
+    [
+     1445,
+     "SoullShvker, Solo Thato & Classified Junior",
+     "Dance Pluck"
+    ],
+    [
+     1485,
+     "Montw",
+     "Trick"
+    ],
+    [
+     1525,
+     "Stixx & Babalwa M",
+     "Thobela"
+    ],
+    [
+     1565,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique)"
+    ],
+    [
+     1605,
+     "Stixx & Babalwa M",
+     "Thobela"
+    ],
+    [
+     1645,
+     "Montw",
+     "Trick"
+    ],
+    [
+     1685,
+     "Montw",
+     "Trick"
+    ],
+    [
+     1725,
+     "Stixx & Babalwa M",
+     "Thobela"
+    ],
+    [
+     1765,
+     "Montw",
+     "Trick"
+    ],
+    [
+     1805,
+     "Hraach",
+     "Dle Yaman (116 Deep Mix)"
+    ],
+    [
+     1845,
+     "Weir",
+     "Innerbloom (feat. Tanner Fruit & Cassie Wilson)"
+    ],
+    [
+     1885,
+     "Weir",
+     "Innerbloom (feat. Tanner Fruit & Cassie Wilson)"
+    ],
+    [
+     1925,
+     "Fran Garay",
+     "Kuentzmann"
+    ],
+    [
+     1965,
+     "Fran Garay",
+     "Kuentzmann"
+    ],
+    [
+     2005,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     2045,
+     "Fran Garay",
+     "Kuentzmann"
+    ],
+    [
+     2085,
+     "Taylan",
+     "Tailspin (Redspace Remix)"
+    ],
+    [
+     2125,
+     "Taylan",
+     "Tailspin (Redspace Remix)"
+    ],
+    [
+     2165,
+     "Taylan",
+     "Tailspin (Redspace Remix)"
+    ],
+    [
+     2205,
+     "Salvation Pablo & Luke Matthews",
+     "I Hope You Find"
+    ],
+    [
+     2245,
+     "Taylan",
+     "Tailspin (Redspace Remix)"
+    ],
+    [
+     2285,
+     "Faero, Brian Creao & Agustin Massari",
+     "Glowrth (Evegrem Remix)"
+    ],
+    [
+     2325,
+     "Art Alfie",
+     "Hideouts"
+    ],
+    [
+     2365,
+     "Tyron SA",
+     "Angel"
+    ],
+    [
+     2405,
+     "UNKLE & Keinemusik",
+     "Only You (feat. Miink & Wil Malone) [&ME Remix]"
+    ],
+    [
+     2445,
+     "Faero, Brian Creao & Agustin Massari",
+     "Glowrth (Evegrem Remix)"
+    ],
+    [
+     2485,
+     "UNKLE & Keinemusik",
+     "Only You (feat. Miink & Wil Malone) [&ME Remix]"
+    ],
+    [
+     2525,
+     "Faero, Brian Creao & Agustin Massari",
+     "Glowrth (Evegrem Remix)"
+    ],
+    [
+     2565,
+     "Ignacio Hernández",
+     "Holy Place (Extended Mix)"
+    ],
+    [
+     2605,
+     "Ignacio Hernández",
+     "Holy Place (Extended Mix)"
+    ],
+    [
+     2645,
+     "Ignacio Hernández",
+     "Holy Place (Extended Mix)"
+    ],
+    [
+     2685,
+     "Bedouin, Luch & Karl Williams",
+     "The Only One (Radio Edit)"
+    ],
+    [
+     2725,
+     "Ignacio Hernández",
+     "Holy Place (Extended Mix)"
+    ],
+    [
+     2765,
+     "Ignacio Hernández",
+     "Holy Place (Extended Mix)"
+    ],
+    [
+     2805,
+     "Tate McRae",
+     "Greedy (David Mackay & Hoax Remix)"
+    ],
+    [
+     2845,
+     "Ignacio Hernández",
+     "Holy Place (Extended Mix)"
+    ],
+    [
+     2885,
+     "Busta 929",
+     "iMali Yomgobholo (feat. Civil Soul)"
+    ],
+    [
+     2925,
+     "Busta 929",
+     "iMali Yomgobholo (feat. Civil Soul)"
+    ],
+    [
+     2965,
+     "Jonny Calypso",
+     "Teenager 2K15"
+    ],
+    [
+     3005,
+     "Maarka",
+     "Rectal Molly (Original Mix)"
+    ],
+    [
+     3045,
+     "Larry Hayes",
+     "While Ago"
+    ],
+    [
+     3085,
+     "Larry Hayes",
+     "While Ago"
+    ],
+    [
+     3125,
+     "Maarka",
+     "Rectal Molly (Original Mix)"
+    ],
+    [
+     3165,
+     "Larry Hayes",
+     "While Ago"
+    ],
+    [
+     3205,
+     "Larry Hayes",
+     "While Ago"
+    ],
+    [
+     3245,
+     "Taylan",
+     "Rituals"
+    ],
+    [
+     3285,
+     "Taylan",
+     "Rituals"
+    ],
+    [
+     3325,
+     "Taylan",
+     "Rituals"
+    ],
+    [
+     3365,
+     "Taylan",
+     "Rituals"
+    ],
+    [
+     3405,
+     "Taylan",
+     "Rituals"
+    ],
+    [
+     3445,
+     "Taylan",
+     "Rituals"
+    ],
+    [
+     3485,
+     "Taylan",
+     "Rituals"
+    ],
+    [
+     3525,
+     "Taylan",
+     "Rituals"
+    ],
+    [
+     3565,
+     "Taylan",
+     "Rituals"
+    ],
+    [
+     3645,
+     "Robert R. Hardy",
+     "In the Midst of Agony"
+    ],
+    [
+     3685,
+     "Robert R. Hardy",
+     "In the Midst of Agony"
+    ],
+    [
+     3725,
+     "Workout Unit",
+     "Miles Without Urgency"
+    ],
+    [
+     3805,
+     "Robert R. Hardy",
+     "In the Midst of Agony"
+    ],
+    [
+     3845,
+     "Robert R. Hardy",
+     "In the Midst of Agony"
+    ],
+    [
+     3925,
+     "Robert R. Hardy",
+     "In the Midst of Agony"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 105.0
+}

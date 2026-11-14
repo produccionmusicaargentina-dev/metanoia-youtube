@@ -1,0 +1,713 @@
+{
+ "ep": 369,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "DJ Sabsonic",
+   "start": 0,
+   "times": [
+    0,
+    372,
+    745,
+    945,
+    1305,
+    1745,
+    2065,
+    2385,
+    2745,
+    3065
+   ],
+   "ok": 9,
+   "n": 10
+  },
+  {
+   "artist": "Brian Creao",
+   "start": 3385,
+   "times": [
+    0,
+    320,
+    640,
+    960,
+    1240,
+    1520,
+    1800,
+    2080,
+    2360,
+    2655,
+    2950,
+    3245,
+    3540
+   ],
+   "ok": 2,
+   "n": 13
+  }
+ ],
+ "escuchado": [
+  [
+   45,
+   "Diplo & SIDEPIECE",
+   "On My Mind"
+  ],
+  [
+   85,
+   "Diplo & SIDEPIECE",
+   "On My Mind"
+  ],
+  [
+   125,
+   "Maae",
+   "The Man"
+  ],
+  [
+   165,
+   "Sandy B",
+   "Make the World Go Round (Knuckleheadz Remix)"
+  ],
+  [
+   205,
+   "Polo & Agustín Ficarra",
+   "Herengracht"
+  ],
+  [
+   245,
+   "Oxia",
+   "Domino"
+  ],
+  [
+   285,
+   "Planet Funk & Makebo",
+   "Chase the Sun (Makebo Remix - Extended Mix)"
+  ],
+  [
+   325,
+   "Munfell Muzik",
+   "Eny"
+  ],
+  [
+   365,
+   "Claptone",
+   "No Eyes (feat. JAW)"
+  ],
+  [
+   405,
+   "Munfell Muzik",
+   "Eny"
+  ],
+  [
+   445,
+   "Madness Ba",
+   "Anywhere"
+  ],
+  [
+   485,
+   "Ivan",
+   "Fotonovela (Chapter II) [Remasterizado 2025]"
+  ],
+  [
+   525,
+   "Munfell Muzik",
+   "Eny"
+  ],
+  [
+   565,
+   "Munfell Muzik",
+   "Eny"
+  ],
+  [
+   605,
+   "Claptone",
+   "No Eyes (feat. JAW)"
+  ],
+  [
+   645,
+   "The Shapeshifters",
+   "Lola's Theme"
+  ],
+  [
+   685,
+   "The Shapeshifters",
+   "Lola's Theme"
+  ],
+  [
+   725,
+   "Madness Ba",
+   "Anywhere"
+  ],
+  [
+   765,
+   "BetterDaze & Juan GK",
+   "Beyond the Light (Juan GK Remix)"
+  ],
+  [
+   805,
+   "BetterDaze & Juan GK",
+   "Beyond the Light (Juan GK Remix)"
+  ],
+  [
+   845,
+   "BetterDaze & Juan GK",
+   "Beyond the Light (Juan GK Remix)"
+  ],
+  [
+   885,
+   "The Shapeshifters",
+   "Lola's Theme"
+  ],
+  [
+   925,
+   "BetterDaze & Juan GK",
+   "Beyond the Light (Juan GK Remix)"
+  ],
+  [
+   965,
+   "Luciano Capomassi",
+   "Awake (Mati Vaira Remix)"
+  ],
+  [
+   1005,
+   "Kudbeu & Kana",
+   "Bubblin'"
+  ],
+  [
+   1045,
+   "Luciano Capomassi",
+   "Awake (Mati Vaira Remix)"
+  ],
+  [
+   1085,
+   "Luciano Capomassi",
+   "Awake (Mati Vaira Remix)"
+  ],
+  [
+   1125,
+   "Triple Noize",
+   "Horizon"
+  ],
+  [
+   1165,
+   "Luciano Capomassi",
+   "Awake (Mati Vaira Remix)"
+  ],
+  [
+   1205,
+   "Luciano Capomassi",
+   "Awake (Mati Vaira Remix)"
+  ],
+  [
+   1245,
+   "Luciano Capomassi",
+   "Awake (Mati Vaira Remix)"
+  ],
+  [
+   1285,
+   "Luciano Capomassi",
+   "Awake (Mati Vaira Remix)"
+  ],
+  [
+   1325,
+   "Seycel",
+   "Ascent"
+  ],
+  [
+   1365,
+   "Seycel",
+   "Ascent"
+  ],
+  [
+   1405,
+   "A. Parkov",
+   "Cognitive Reserve"
+  ],
+  [
+   1445,
+   "Seycel",
+   "Ascent"
+  ],
+  [
+   1485,
+   "Black Bass Mix",
+   "Sway"
+  ],
+  [
+   1525,
+   "DJ Shitiz, Alphaster & Shitiz",
+   "Cherry Blossom Nights"
+  ],
+  [
+   1565,
+   "Seycel",
+   "Ascent"
+  ],
+  [
+   1605,
+   "Sound on beats",
+   "Pulse Serenade"
+  ],
+  [
+   1645,
+   "Janiyoon",
+   "Glimmer"
+  ],
+  [
+   1685,
+   "Claudio Topputo & Fabrizio Maselli",
+   "My Hands (Santi Fernández Remix)"
+  ],
+  [
+   1725,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   1765,
+   "GMJ & Matter",
+   "Conduits (Extended Mix)"
+  ],
+  [
+   1805,
+   "GMJ & Matter",
+   "Conduits (Extended Mix)"
+  ],
+  [
+   1845,
+   "GMJ & Matter",
+   "Conduits (Extended Mix)"
+  ],
+  [
+   1885,
+   "GMJ & Matter",
+   "Conduits (Extended Mix)"
+  ],
+  [
+   1925,
+   "GMJ & Matter",
+   "Conduits (Extended Mix)"
+  ],
+  [
+   1965,
+   "GMJ & Matter",
+   "Conduits (Extended Mix)"
+  ],
+  [
+   2005,
+   "GMJ & Matter",
+   "Conduits (Extended Mix)"
+  ],
+  [
+   2045,
+   "Davide Mazzilli",
+   "The Beat"
+  ],
+  [
+   2085,
+   "Hobin Rude",
+   "Low Light Memory"
+  ],
+  [
+   2125,
+   "Hobin Rude",
+   "Low Light Memory"
+  ],
+  [
+   2165,
+   "Hobin Rude",
+   "Low Light Memory"
+  ],
+  [
+   2205,
+   "Hobin Rude",
+   "Low Light Memory"
+  ],
+  [
+   2245,
+   "Hobin Rude",
+   "Low Light Memory"
+  ],
+  [
+   2285,
+   "HilalDeep",
+   "Funked Me"
+  ],
+  [
+   2325,
+   "Hobin Rude",
+   "Low Light Memory"
+  ],
+  [
+   2365,
+   "Hobin Rude",
+   "Low Light Memory"
+  ],
+  [
+   2405,
+   "Will Daley",
+   "Sapphire"
+  ],
+  [
+   2445,
+   "Miguel Bastida",
+   "Xaxaxa"
+  ],
+  [
+   2485,
+   "Laughing Man & Viktor Udvari",
+   "Shades"
+  ],
+  [
+   2525,
+   "Tiga & Boys Noize",
+   "100 (Johnny Aux Remix) [Mixed]"
+  ],
+  [
+   2565,
+   "Will Daley",
+   "Sapphire"
+  ],
+  [
+   2605,
+   "Chronical Deep",
+   "One Love (Clapback Mix)"
+  ],
+  [
+   2645,
+   "Will Daley",
+   "Sapphire"
+  ],
+  [
+   2685,
+   "Will Daley",
+   "Sapphire"
+  ],
+  [
+   2725,
+   "Will Daley",
+   "Sapphire"
+  ],
+  [
+   2765,
+   "Alejo Fochi",
+   "Nova Passage"
+  ],
+  [
+   2805,
+   "Alejo Fochi",
+   "Nova Passage"
+  ],
+  [
+   2845,
+   "Alejo Fochi",
+   "Nova Passage"
+  ],
+  [
+   2885,
+   "DJ Chus",
+   "Amapola"
+  ],
+  [
+   2925,
+   "Alejo Fochi",
+   "Nova Passage"
+  ],
+  [
+   2965,
+   "Alejo Fochi",
+   "Nova Passage"
+  ],
+  [
+   3005,
+   "Alejo Fochi",
+   "Nova Passage"
+  ],
+  [
+   3045,
+   "Marco & Tarma",
+   "No Body"
+  ],
+  [
+   3085,
+   "Cary Crank, Solvān & Taylan",
+   "Freedom of a High (Taylan & Solvān Remix)"
+  ],
+  [
+   3125,
+   "kryptogram",
+   "How Long Have You Been Away? (Extended)"
+  ],
+  [
+   3165,
+   "Massano",
+   "The Feeling"
+  ],
+  [
+   3205,
+   "Julian Lennon",
+   "Too Late for Goodbyes"
+  ],
+  [
+   3245,
+   "Cary Crank, Solvān & Taylan",
+   "Freedom of a High (Taylan & Solvān Remix)"
+  ],
+  [
+   3285,
+   "Cary Crank, Solvān & Taylan",
+   "Freedom of a High (Taylan & Solvān Remix)"
+  ],
+  [
+   3325,
+   "Cary Crank, Solvān & Taylan",
+   "Freedom of a High (Taylan & Solvān Remix)"
+  ],
+  [
+   3365,
+   "Julian Lennon",
+   "Too Late for Goodbyes"
+  ],
+  [
+   3405,
+   "Julian Lennon",
+   "Too Late for Goodbyes"
+  ],
+  [
+   3445,
+   "Township Rebellion",
+   "Ramses"
+  ],
+  [
+   3805,
+   "VORTEX",
+   "Sandstorm Synth (Set Live)"
+  ],
+  [
+   3845,
+   "Lofi God & DSYG",
+   "Santa Fe"
+  ],
+  [
+   3885,
+   "Mzade",
+   "Beemer"
+  ],
+  [
+   4005,
+   "Blackjoy",
+   "Untitled"
+  ],
+  [
+   4245,
+   "Nonsubject",
+   "Present Existence"
+  ],
+  [
+   4325,
+   "Weir",
+   "Innerbloom (feat. Tanner Fruit & Cassie Wilson)"
+  ],
+  [
+   4365,
+   "Clarian",
+   "Television Days (Guy J Remix)"
+  ],
+  [
+   4405,
+   "Clarian",
+   "Television Days (Guy J Remix)"
+  ],
+  [
+   4445,
+   "Clarian",
+   "Television Days (Guy J Remix)"
+  ],
+  [
+   4485,
+   "Clarian",
+   "Television Days (Guy J Remix)"
+  ],
+  [
+   4525,
+   "Clarian",
+   "Television Days (Guy J Remix)"
+  ],
+  [
+   4565,
+   "Clarian",
+   "Television Days (Guy J Remix)"
+  ],
+  [
+   4605,
+   "Clarian",
+   "Television Days (Guy J Remix)"
+  ],
+  [
+   4645,
+   "Clarian",
+   "Television Days (Guy J Remix)"
+  ],
+  [
+   4685,
+   "The Mixwells",
+   "My Whole Life (feat. Ladi Adiosoul)"
+  ],
+  [
+   4805,
+   "Clarian",
+   "Television Days (Guy J Remix)"
+  ],
+  [
+   4965,
+   "KQwanel604 & Daano",
+   "Jazzitude II"
+  ],
+  [
+   5045,
+   "Mphow Nine2wo & Gabriel RSA",
+   "Dopeness"
+  ],
+  [
+   5125,
+   "Achex",
+   "No Trouble (Extended Mix)"
+  ],
+  [
+   5165,
+   "Ion Ludwig",
+   "Classilion"
+  ],
+  [
+   5205,
+   "Tarandino",
+   "Mwaki (Club Mix)"
+  ],
+  [
+   5245,
+   "Berg",
+   "Montag"
+  ],
+  [
+   5325,
+   "OZBEK",
+   "Rooftop"
+  ],
+  [
+   5485,
+   "CocoSA & Artwork Sounds",
+   "uThando Lwakho (feat. Afrotraction & Sipho Magudulela)"
+  ],
+  [
+   5765,
+   "Marwos",
+   "Broken Protocol"
+  ],
+  [
+   5805,
+   "Marwos",
+   "Broken Protocol"
+  ],
+  [
+   5845,
+   "Marwos",
+   "Broken Protocol"
+  ],
+  [
+   5885,
+   "The Mixwells",
+   "My Whole Life (feat. Ladi Adiosoul)"
+  ],
+  [
+   5925,
+   "Marwos",
+   "Broken Protocol"
+  ],
+  [
+   5965,
+   "Marwos",
+   "Broken Protocol"
+  ],
+  [
+   6005,
+   "Marwos",
+   "Broken Protocol"
+  ],
+  [
+   6285,
+   "SolyMar & Megamen",
+   "All I Need"
+  ],
+  [
+   6325,
+   "Calvin Harris & Sam Smith",
+   "Promises (Sonny Fodera Disco Mix)"
+  ],
+  [
+   6365,
+   "Amine Edge & DANCE & Blaze (Kevin Hedge)",
+   "Lovelee Dae"
+  ],
+  [
+   6405,
+   "SolyMar & Megamen",
+   "All I Need"
+  ],
+  [
+   6485,
+   "Gusto",
+   "Disco's Revenge (Mole Hole Dirty Mix)"
+  ],
+  [
+   6525,
+   "SolyMar & Megamen",
+   "All I Need"
+  ],
+  [
+   6565,
+   "Chymamusique",
+   "We Are To Be (feat. Kaylow) [Main Mix]"
+  ],
+  [
+   6605,
+   "Qubiko",
+   "Desire"
+  ],
+  [
+   6645,
+   "Calvin Harris & Sam Smith",
+   "Promises (Sonny Fodera Disco Mix)"
+  ],
+  [
+   6685,
+   "Buray",
+   "İstersen (Mahmut Orhan Remix)"
+  ],
+  [
+   6725,
+   "GeeGun",
+   "Дни и ночи"
+  ],
+  [
+   6805,
+   "Acado & Modest Crow",
+   "Again"
+  ],
+  [
+   6845,
+   "Foals",
+   "Late Night (Solomun Remix)"
+  ],
+  [
+   6925,
+   "Cornucopia",
+   "Early Morning (Sunrise Set 2025 (Emotional Dance Mix))"
+  ],
+  [
+   7125,
+   "South Bloom",
+   "Let Me in (Volen Sentir Secret Technique)"
+  ],
+  [
+   7165,
+   "Sandy B",
+   "Make the World Go Round (Deep Dish Radio Edit)"
+  ]
+ ],
+ "minutos_proceso": 81.3
+}
