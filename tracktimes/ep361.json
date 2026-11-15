@@ -1,0 +1,462 @@
+{
+ "ep": 361,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Vazquez AR",
+   "start": 0,
+   "times": [
+    0,
+    385,
+    825,
+    1065,
+    1465,
+    1745,
+    1852,
+    1958,
+    2065,
+    3345
+   ],
+   "ok": 8,
+   "n": 10,
+   "escuchado": [
+    [
+     5,
+     "Tête de la Course & Mandy Jones",
+     "True"
+    ],
+    [
+     45,
+     "Ias Ferndale & Aurel den Bossa",
+     "Follow Me"
+    ],
+    [
+     85,
+     "Ias Ferndale & Aurel den Bossa",
+     "Follow Me"
+    ],
+    [
+     125,
+     "Ias Ferndale & Aurel den Bossa",
+     "Follow Me"
+    ],
+    [
+     165,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     205,
+     "Ias Ferndale & Aurel den Bossa",
+     "Follow Me"
+    ],
+    [
+     245,
+     "Ias Ferndale & Aurel den Bossa",
+     "Follow Me"
+    ],
+    [
+     285,
+     "Ias Ferndale & Aurel den Bossa",
+     "Follow Me"
+    ],
+    [
+     325,
+     "The Shapeshifters",
+     "Lola's Theme"
+    ],
+    [
+     365,
+     "Festiva",
+     "Cerberus"
+    ],
+    [
+     405,
+     "Missus",
+     "Magnetik Attraction"
+    ],
+    [
+     445,
+     "Kudbeu & Kana",
+     "The Groove"
+    ],
+    [
+     485,
+     "Donna Summer",
+     "Bad Girls (Gigamesh Remix)"
+    ],
+    [
+     525,
+     "Missus",
+     "Magnetik Attraction"
+    ],
+    [
+     565,
+     "Alan Fitzpatrick",
+     "Rumours"
+    ],
+    [
+     605,
+     "Missus",
+     "Magnetik Attraction"
+    ],
+    [
+     645,
+     "Donna Summer",
+     "Bad Girls (Gigamesh Remix)"
+    ],
+    [
+     685,
+     "Au/Ra & CamelPhat",
+     "Panic Room"
+    ],
+    [
+     725,
+     "The Shapeshifters",
+     "Lola's Theme"
+    ],
+    [
+     765,
+     "Rhythm&Soul",
+     "1998"
+    ],
+    [
+     805,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     845,
+     "Moonwatch3r",
+     "Night Vibez"
+    ],
+    [
+     885,
+     "Moonwatch3r",
+     "Night Vibez"
+    ],
+    [
+     925,
+     "Moonwatch3r",
+     "Night Vibez"
+    ],
+    [
+     965,
+     "Fabio Orru",
+     "I'm Nothing (Ivanshee Remix)"
+    ],
+    [
+     1005,
+     "Zairi Torrez",
+     "Progressive World (2Qimic Remix)"
+    ],
+    [
+     1045,
+     "Moonwatch3r",
+     "Night Vibez"
+    ],
+    [
+     1085,
+     "Tobi Amuchastegui",
+     "You Are Not Alone"
+    ],
+    [
+     1125,
+     "Tobi Amuchastegui",
+     "You Are Not Alone"
+    ],
+    [
+     1165,
+     "Tobi Amuchastegui",
+     "You Are Not Alone"
+    ],
+    [
+     1205,
+     "Tobi Amuchastegui",
+     "You Are Not Alone"
+    ],
+    [
+     1245,
+     "Tobi Amuchastegui",
+     "You Are Not Alone"
+    ],
+    [
+     1285,
+     "Tobi Amuchastegui",
+     "You Are Not Alone"
+    ],
+    [
+     1325,
+     "Tobi Amuchastegui",
+     "You Are Not Alone"
+    ],
+    [
+     1365,
+     "Tobi Amuchastegui",
+     "You Are Not Alone"
+    ],
+    [
+     1405,
+     "Alex Rozz",
+     "En El Otro Pantalon"
+    ],
+    [
+     1445,
+     "Tobi Amuchastegui",
+     "You Are Not Alone"
+    ],
+    [
+     1485,
+     "Taylan",
+     "Free Fall"
+    ],
+    [
+     1525,
+     "Taylan",
+     "Free Fall"
+    ],
+    [
+     1565,
+     "Olivier Grossbard",
+     "Get Crazy"
+    ],
+    [
+     1605,
+     "Nate Chapman (US)",
+     "Purple Rain"
+    ],
+    [
+     1645,
+     "Taylan",
+     "Free Fall"
+    ],
+    [
+     1685,
+     "Cajmere & Dajae",
+     "Brighter Days (Marco Lys Remix)"
+    ],
+    [
+     1725,
+     "Oxia",
+     "Domino (Rework)"
+    ],
+    [
+     1765,
+     "Quivver & Dave Seaman",
+     "Cowbells of Nuneaton"
+    ],
+    [
+     1805,
+     "Diplo & SIDEPIECE",
+     "On My Mind"
+    ],
+    [
+     1845,
+     "Quivver & Dave Seaman",
+     "Cowbells of Nuneaton"
+    ],
+    [
+     1885,
+     "Quivver & Dave Seaman",
+     "Cowbells of Nuneaton"
+    ],
+    [
+     1925,
+     "Enzo Siragusa & Nima Gorji",
+     "Foreal (Seb Zito Remix)"
+    ],
+    [
+     1965,
+     "Maae",
+     "The Man"
+    ],
+    [
+     2005,
+     "Gusto",
+     "Disco's Revenge (Mole Hole Dirty Mix)"
+    ],
+    [
+     2045,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     2085,
+     "Influence",
+     "Magic Land (Cedren & Manu-L Remix)"
+    ],
+    [
+     2125,
+     "Influence",
+     "Magic Land (Cedren & Manu-L Remix)"
+    ],
+    [
+     2165,
+     "Influence",
+     "Magic Land (Cedren & Manu-L Remix)"
+    ],
+    [
+     2205,
+     "Influence",
+     "Magic Land (Cedren & Manu-L Remix)"
+    ],
+    [
+     2245,
+     "Tinlicker",
+     "Sleepwalker"
+    ],
+    [
+     2285,
+     "Influence",
+     "Magic Land (Cedren & Manu-L Remix)"
+    ],
+    [
+     2325,
+     "Influence",
+     "Magic Land (Cedren & Manu-L Remix)"
+    ],
+    [
+     2365,
+     "Influence",
+     "Magic Land (Cedren & Manu-L Remix)"
+    ],
+    [
+     2405,
+     "B.I.G (AR) & Juan Barrera",
+     "Reboot"
+    ],
+    [
+     2445,
+     "B.I.G (AR) & Juan Barrera",
+     "Reboot"
+    ],
+    [
+     2485,
+     "B.I.G (AR) & Juan Barrera",
+     "Reboot"
+    ],
+    [
+     2525,
+     "Robin S.",
+     "Show Me Love"
+    ],
+    [
+     2565,
+     "Andrea Bertolini",
+     "Switch Back"
+    ],
+    [
+     2605,
+     "B.I.G (AR) & Juan Barrera",
+     "Reboot"
+    ],
+    [
+     2645,
+     "B.I.G (AR) & Juan Barrera",
+     "Reboot"
+    ],
+    [
+     2685,
+     "B.I.G (AR) & Juan Barrera",
+     "Reboot"
+    ],
+    [
+     2725,
+     "B.I.G (AR) & Juan Barrera",
+     "Reboot"
+    ],
+    [
+     2765,
+     "Echo Daft, STEREO MUNK & Dublew",
+     "Embers (Callecat Remix)"
+    ],
+    [
+     2805,
+     "Frankey & Sandrino",
+     "Acamar"
+    ],
+    [
+     2845,
+     "Artic White",
+     "Spazio 77 (Extended Mix)"
+    ],
+    [
+     2885,
+     "Musica para Hacer Ejercicios y Perder Peso",
+     "Tabata Cardio Interval Training Music"
+    ],
+    [
+     2925,
+     "Echo Daft, STEREO MUNK & Dublew",
+     "Embers (Callecat Remix)"
+    ],
+    [
+     2965,
+     "Echo Daft, STEREO MUNK & Dublew",
+     "Embers"
+    ],
+    [
+     3005,
+     "Novastar IP",
+     "Cascading Dreams"
+    ],
+    [
+     3045,
+     "Echo Daft, STEREO MUNK & Dublew",
+     "Embers (Callecat Remix)"
+    ],
+    [
+     3085,
+     "Echo Daft, STEREO MUNK & Dublew",
+     "Embers (Callecat Remix)"
+    ],
+    [
+     3165,
+     "PAX & Rui Da Silva",
+     "Touch Me (Pax & Rui Da Silva Extended Version)"
+    ],
+    [
+     3205,
+     "MATRANG",
+     "Медуза"
+    ],
+    [
+     3245,
+     "Satoshi Tomiie",
+     "Resonant"
+    ],
+    [
+     3285,
+     "Andre Salmon",
+     "Verkro"
+    ],
+    [
+     3325,
+     "Approaching Nirvana",
+     "Stop"
+    ],
+    [
+     3365,
+     "Toledo",
+     "Galatari (Original)"
+    ],
+    [
+     3405,
+     "Satoshi Tomiie",
+     "Resonant"
+    ],
+    [
+     3445,
+     "MATRANG",
+     "Медуза"
+    ],
+    [
+     3485,
+     "Mousse T.",
+     "Horny (98 Extended Mix) [feat. Hot'n'Juicy]"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 33.2
+}

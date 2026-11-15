@@ -1,0 +1,481 @@
+{
+ "ep": 362,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "GUSA MUSIC",
+   "start": 0,
+   "times": [
+    0,
+    545,
+    785,
+    1305,
+    1665,
+    2025,
+    2545,
+    2905,
+    3385
+   ],
+   "ok": 9,
+   "n": 9,
+   "escuchado": [
+    [
+     45,
+     "Juliana & Kolleyio",
+     "Serenity"
+    ],
+    [
+     85,
+     "Juliana & Kolleyio",
+     "Serenity"
+    ],
+    [
+     125,
+     "Juliana & Kolleyio",
+     "Serenity"
+    ],
+    [
+     165,
+     "Juliana & Kolleyio",
+     "Serenity"
+    ],
+    [
+     205,
+     "Juliana & Kolleyio",
+     "Serenity"
+    ],
+    [
+     245,
+     "Juliana & Kolleyio",
+     "Serenity"
+    ],
+    [
+     285,
+     "Juliana & Kolleyio",
+     "Serenity"
+    ],
+    [
+     325,
+     "Juliana & Kolleyio",
+     "Serenity"
+    ],
+    [
+     365,
+     "Juliana & Kolleyio",
+     "Serenity"
+    ],
+    [
+     405,
+     "Sonate",
+     "Living On a Star"
+    ],
+    [
+     445,
+     "Peace-Phonik, Sambo Sq & Lawrence SA",
+     "By Your Grace"
+    ],
+    [
+     485,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     525,
+     "Zo",
+     "We Are On the Move (Joey Negro Revival Mix) [feat. Erro & Phonte]"
+    ],
+    [
+     565,
+     "Gastón Sosa",
+     "Amep"
+    ],
+    [
+     605,
+     "Gastón Sosa",
+     "Amep"
+    ],
+    [
+     645,
+     "Gastón Sosa",
+     "Amep"
+    ],
+    [
+     685,
+     "Rhythm&Soul",
+     "1998"
+    ],
+    [
+     725,
+     "Sellens",
+     "Back Down (Off Key Remix)"
+    ],
+    [
+     765,
+     "Au/Ra & CamelPhat",
+     "Panic Room"
+    ],
+    [
+     805,
+     "Taylan, KNVWN & Hobin Rude",
+     "Wanna Be With You (Hobin Rude Remix)"
+    ],
+    [
+     845,
+     "Altraajamz & SGVO",
+     "Ezam'durana"
+    ],
+    [
+     885,
+     "Taylan, KNVWN & Hobin Rude",
+     "Wanna Be With You (Hobin Rude Remix)"
+    ],
+    [
+     925,
+     "Panos Pissitelis & Junior Mi",
+     "Freaky"
+    ],
+    [
+     965,
+     "Taylan & KNVWN",
+     "Wanna Be With You"
+    ],
+    [
+     1005,
+     "Taylan & KNVWN",
+     "Wanna Be With You"
+    ],
+    [
+     1045,
+     "Taylan, KNVWN & Hobin Rude",
+     "Wanna Be With You (Hobin Rude Remix)"
+    ],
+    [
+     1085,
+     "Taylan, KNVWN & Hobin Rude",
+     "Wanna Be With You (Hobin Rude Remix)"
+    ],
+    [
+     1125,
+     "UMngomezulu",
+     "Let it Go (feat. Brandon Dhludhlu)"
+    ],
+    [
+     1165,
+     "The Observers",
+     "For A Reason (Mr. Shane SA Remix)"
+    ],
+    [
+     1205,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     1245,
+     "Dosem & Prok & Fitch",
+     "Doors"
+    ],
+    [
+     1285,
+     "Marc Marzenit",
+     "Perron (Wehbba Remix)"
+    ],
+    [
+     1325,
+     "Elliot Moriarty",
+     "Memories"
+    ],
+    [
+     1365,
+     "Cthe",
+     "Abo Mvelo (Afro-tech Remix) [Mixed]"
+    ],
+    [
+     1405,
+     "Elliot Moriarty",
+     "Memories"
+    ],
+    [
+     1445,
+     "Elliot Moriarty",
+     "Memories"
+    ],
+    [
+     1485,
+     "Elliot Moriarty",
+     "Memories"
+    ],
+    [
+     1525,
+     "Elliot Moriarty",
+     "Memories"
+    ],
+    [
+     1565,
+     "Elliot Moriarty",
+     "Memories"
+    ],
+    [
+     1605,
+     "Elliot Moriarty",
+     "Memories"
+    ],
+    [
+     1645,
+     "Boryana",
+     "Inception"
+    ],
+    [
+     1685,
+     "James Halon",
+     "Un Rēve (Narces Remix)"
+    ],
+    [
+     1725,
+     "James Halon",
+     "Un Rēve (Narces Remix)"
+    ],
+    [
+     1765,
+     "Northern Project",
+     "Kashmir"
+    ],
+    [
+     1805,
+     "Greg Beato",
+     "Pma"
+    ],
+    [
+     1845,
+     "Greg Beato",
+     "Pma"
+    ],
+    [
+     1885,
+     "James Halon",
+     "Un Rēve (Narces Remix)"
+    ],
+    [
+     1925,
+     "Luca Lozano & Mr. Ho",
+     "Different Circles (Nicson Remix)"
+    ],
+    [
+     1965,
+     "Greg Beato",
+     "Pma"
+    ],
+    [
+     2005,
+     "Luca Lozano & Mr. Ho",
+     "Different Circles (Nicson Remix)"
+    ],
+    [
+     2045,
+     "Jochem Hamerling",
+     "The Final Orbit of Mercury (Extended Mix)"
+    ],
+    [
+     2085,
+     "Jochem Hamerling",
+     "The Final Orbit of Mercury (Extended Mix)"
+    ],
+    [
+     2125,
+     "Jochem Hamerling",
+     "The Final Orbit of Mercury (Extended Mix)"
+    ],
+    [
+     2165,
+     "Jochem Hamerling",
+     "The Final Orbit of Mercury (Extended Mix)"
+    ],
+    [
+     2205,
+     "Jochem Hamerling",
+     "The Final Orbit of Mercury (Extended Mix)"
+    ],
+    [
+     2245,
+     "Jochem Hamerling",
+     "The Final Orbit of Mercury (Extended Mix)"
+    ],
+    [
+     2285,
+     "Jochem Hamerling",
+     "The Final Orbit of Mercury (Extended Mix)"
+    ],
+    [
+     2325,
+     "Jochem Hamerling",
+     "The Final Orbit of Mercury (Extended Mix)"
+    ],
+    [
+     2365,
+     "Panos Pissitelis & Junior Mi",
+     "Freaky"
+    ],
+    [
+     2405,
+     "Davi & Definition",
+     "Désolé"
+    ],
+    [
+     2445,
+     "Maae",
+     "Descartes"
+    ],
+    [
+     2485,
+     "Maae",
+     "Descartes"
+    ],
+    [
+     2525,
+     "Robosonic & Klangkuenstler",
+     "Nuts"
+    ],
+    [
+     2565,
+     "GMJ & Matter",
+     "Telomeres"
+    ],
+    [
+     2605,
+     "Enrique Gongora",
+     "XTC (Serge Gee Remix)"
+    ],
+    [
+     2645,
+     "GMJ & Matter",
+     "Telomeres"
+    ],
+    [
+     2685,
+     "Gaetano C & DePandis",
+     "Saw"
+    ],
+    [
+     2725,
+     "GMJ & Matter",
+     "Telomeres"
+    ],
+    [
+     2765,
+     "Ralph Noah & U-Gin",
+     "L'appuntamento"
+    ],
+    [
+     2805,
+     "Maae",
+     "Descartes"
+    ],
+    [
+     2845,
+     "Ohmme",
+     "Excess (Original Mix)"
+    ],
+    [
+     2885,
+     "Riva Starr",
+     "Feel It"
+    ],
+    [
+     2925,
+     "Federico Cepeda",
+     "To Learn"
+    ],
+    [
+     2965,
+     "Federico Cepeda",
+     "To Learn"
+    ],
+    [
+     3005,
+     "Federico Cepeda",
+     "To Learn"
+    ],
+    [
+     3045,
+     "Federico Cepeda",
+     "To Learn"
+    ],
+    [
+     3085,
+     "Federico Cepeda",
+     "To Learn"
+    ],
+    [
+     3125,
+     "Federico Cepeda",
+     "To Learn"
+    ],
+    [
+     3165,
+     "Federico Cepeda",
+     "To Learn"
+    ],
+    [
+     3205,
+     "C-Block",
+     "So Strung Out (The Distance & Riddick Edit)"
+    ],
+    [
+     3245,
+     "Chris Drifter",
+     "Flashback (Matt Time Remix)"
+    ],
+    [
+     3285,
+     "Foals",
+     "Late Night (Solomun Remix)"
+    ],
+    [
+     3325,
+     "Nox Vahn & Marsh",
+     "Come Together (Extended Mix)"
+    ],
+    [
+     3365,
+     "Sounom & Sagou",
+     "Everyday Moments (Kamilo Sanclemente Remix)"
+    ],
+    [
+     3405,
+     "K Loveski & Nicolas Benedetti",
+     "Tarab (Extended Mix)"
+    ],
+    [
+     3445,
+     "Sitze, Convinzed & Matam (DE)",
+     "Smooth Operator"
+    ],
+    [
+     3485,
+     "K Loveski & Nicolas Benedetti",
+     "Tarab (Extended Mix)"
+    ],
+    [
+     3525,
+     "Swing Beats",
+     "Electric Elevation"
+    ],
+    [
+     3565,
+     "K Loveski & Nicolas Benedetti",
+     "Tarab (Extended Mix)"
+    ],
+    [
+     3605,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique)"
+    ],
+    [
+     3645,
+     "Gaetano C & DePandis",
+     "Saw"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 42.8
+}
