@@ -166,7 +166,12 @@ const todo = plan(DB);
 log(`Episodios para subir ahora: ${todo.map((x) => x.ep.n).join(", ") || "ninguno"}${DRY ? " (prueba: no sube a YouTube)" : ""}`);
 const yt = DRY ? null : youtube();
 if (yt) {   // probar el permiso antes de gastar tiempo armando videos
-  try { const me = await yt.channels.list({ part: ["snippet"], mine: true }); log(`Canal de YouTube: ${me.data.items?.[0]?.snippet?.title || "(sin canal)"}`); }
+  try {
+    const me = await yt.channels.list({ part: ["snippet"], mine: true }); const ch = me.data.items?.[0];
+    log(`Canal de YouTube: ${ch?.snippet?.title || "(sin canal)"}`);
+    if (ch) fs.writeFileSync("channel.json", JSON.stringify({ id: ch.id, title: ch.snippet.title, handle: ch.snippet.customUrl || "",
+      url: ch.snippet.customUrl ? `https://www.youtube.com/${ch.snippet.customUrl}` : `https://www.youtube.com/channel/${ch.id}` }, null, 1));
+  }
   catch (e) {
     const m = String(e.message || e);
     log("ERROR con el permiso de YouTube: " + m);
@@ -175,6 +180,24 @@ if (yt) {   // probar el permiso antes de gastar tiempo armando videos
     process.exit(1);
   }
 }
+// ¿cuáles de los videos subidos ya están públicos? (la web y los newsletters solo muestran los públicos)
+if (yt && done.length) {
+  try {
+    let changed = 0;
+    for (let i = 0; i < done.length; i += 50) {
+      const chunk = done.slice(i, i + 50);
+      const r = await yt.videos.list({ part: ["status"], id: chunk.map((d) => d.youtube) });
+      const st = new Map((r.data.items || []).map((v) => [v.id, v.status?.privacyStatus]));
+      for (const d of chunk) {
+        const pub = st.get(d.youtube) === "public";
+        if (d.public !== pub || (!st.has(d.youtube) && !d.gone)) { d.public = pub; if (!st.has(d.youtube)) d.gone = true; changed++; }
+      }
+    }
+    if (changed) saveDone();
+    log(`Videos públicos en YouTube: ${done.filter((d) => d.public).length} de ${done.length}`);
+  } catch (e) { log("(no pude revisar qué videos están públicos: " + e.message + ")"); }
+}
+
 let ok = 0, fail = 0;
 for (const item of todo) {
   const dir = path.join(WORK, `ep${item.ep.n}`); fs.mkdirSync(dir, { recursive: true });

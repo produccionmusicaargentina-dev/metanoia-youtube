@@ -54,5 +54,5 @@ jobs:
           [ -f uploaded.json ] || exit 0
           git config user.name "metanoia-bot"
           git config user.email "bot@metanoia.ar"
-          git add uploaded.json
+          git add uploaded.json channel.json 2>/dev/null || git add uploaded.json
           git diff --cached --quiet || (git commit -m "YouTube: episodios subidos $(date -u +%F)" && (git push || (git pull --rebase -X theirs && git push)))
