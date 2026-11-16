@@ -1,0 +1,977 @@
+{
+ "ep": 359,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    385,
+    785,
+    1065,
+    1265,
+    1425,
+    1825,
+    1985,
+    2225,
+    2545,
+    2825,
+    3045,
+    3265,
+    3545,
+    3865
+   ],
+   "ok": 14,
+   "n": 15,
+   "escuchado": [
+    [
+     5,
+     "ELEVEN (FR)",
+     "Mentiras"
+    ],
+    [
+     45,
+     "ELEVEN (FR)",
+     "Mentiras"
+    ],
+    [
+     85,
+     "ELEVEN (FR)",
+     "Mentiras"
+    ],
+    [
+     125,
+     "ELEVEN (FR)",
+     "Mentiras"
+    ],
+    [
+     165,
+     "ELEVEN (FR)",
+     "Mentiras"
+    ],
+    [
+     205,
+     "MANNA",
+     "Ares"
+    ],
+    [
+     245,
+     "ELEVEN (FR)",
+     "Mentiras"
+    ],
+    [
+     285,
+     "ELEVEN (FR)",
+     "Mentiras"
+    ],
+    [
+     325,
+     "ELEVEN (FR)",
+     "Mentiras"
+    ],
+    [
+     365,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     405,
+     "Sebastian Glazba & Coloü Befu",
+     "Panacea (Monuloku Remix)"
+    ],
+    [
+     445,
+     "Sebastian Glazba & Coloü Befu",
+     "Panacea (Monuloku Remix)"
+    ],
+    [
+     485,
+     "CamelPhat & Cristoph",
+     "Breathe (feat. Jem Cooke)"
+    ],
+    [
+     525,
+     "Sebastian Glazba & Coloü Befu",
+     "Panacea (Monuloku Remix)"
+    ],
+    [
+     565,
+     "Foals",
+     "Late Night (Solomun Remix)"
+    ],
+    [
+     605,
+     "Foals",
+     "Late Night (Solomun Remix)"
+    ],
+    [
+     645,
+     "Jerome Isma-Ae",
+     "Baharat (Ruben Karapetyan Remix)"
+    ],
+    [
+     685,
+     "Sebastian Glazba & Coloü Befu",
+     "Panacea (Monuloku Remix)"
+    ],
+    [
+     725,
+     "Barberio & Echo Daft",
+     "Watoto (Extended Mix)"
+    ],
+    [
+     765,
+     "Criss Source",
+     "Hugs n'Kisses"
+    ],
+    [
+     805,
+     "Raz Alon",
+     "Mon Amour"
+    ],
+    [
+     845,
+     "Bjasic Food",
+     "Eldur"
+    ],
+    [
+     885,
+     "MEDUZA & Goodboys",
+     "Piece Of Your Heart"
+    ],
+    [
+     925,
+     "Raz Alon",
+     "Mon Amour"
+    ],
+    [
+     965,
+     "Qubiko",
+     "Desire"
+    ],
+    [
+     1005,
+     "Raz Alon",
+     "Mon Amour"
+    ],
+    [
+     1045,
+     "Disclosure",
+     "Expressing What Matters"
+    ],
+    [
+     1085,
+     "Muerta",
+     "Perfecto"
+    ],
+    [
+     1125,
+     "Muerta",
+     "Perfecto"
+    ],
+    [
+     1165,
+     "Muerta",
+     "Perfecto"
+    ],
+    [
+     1205,
+     "Bebe",
+     "Siempre Me Quedará"
+    ],
+    [
+     1245,
+     "Muerta",
+     "Perfecto"
+    ],
+    [
+     1285,
+     "Arta (AE)",
+     "Differently (Extended Mix)"
+    ],
+    [
+     1325,
+     "Arta (AE)",
+     "Differently (Extended Mix)"
+    ],
+    [
+     1365,
+     "Arta (AE)",
+     "Differently (Extended Mix)"
+    ],
+    [
+     1405,
+     "Arta (AE)",
+     "Differently (Extended Mix)"
+    ],
+    [
+     1445,
+     "Verdo",
+     "Boulevardier"
+    ],
+    [
+     1485,
+     "Verdo",
+     "Boulevardier"
+    ],
+    [
+     1525,
+     "Verdo",
+     "Boulevardier"
+    ],
+    [
+     1565,
+     "Verdo",
+     "Boulevardier"
+    ],
+    [
+     1605,
+     "Verdo",
+     "Boulevardier"
+    ],
+    [
+     1645,
+     "Verdo",
+     "Boulevardier"
+    ],
+    [
+     1685,
+     "Verdo",
+     "Boulevardier"
+    ],
+    [
+     1725,
+     "Stoto",
+     "Stay Until the Morning"
+    ],
+    [
+     1765,
+     "Eelke Kleijn",
+     "Transmission (Joris Voorn Remix)"
+    ],
+    [
+     1805,
+     "Wh0 & Kideko",
+     "Soul Searcher (Extended Mix)"
+    ],
+    [
+     1845,
+     "Eugene Becker",
+     "Deconstruction (Extended Mix)"
+    ],
+    [
+     1885,
+     "Eugene Becker",
+     "Deconstruction (Extended Mix)"
+    ],
+    [
+     1925,
+     "Chymamusique",
+     "We Are To Be (feat. Kaylow) [Main Mix]"
+    ],
+    [
+     1965,
+     "Andrea Frisina & Irregular Synth",
+     "Dub City"
+    ],
+    [
+     2005,
+     "Juan Hansen",
+     "My Own Game (Oliver Koletzki Remix)"
+    ],
+    [
+     2045,
+     "Juan Hansen",
+     "My Own Game (Oliver Koletzki Remix)"
+    ],
+    [
+     2085,
+     "Juan Hansen",
+     "My Own Game (Oliver Koletzki Remix)"
+    ],
+    [
+     2125,
+     "Juan Hansen",
+     "My Own Game (Oliver Koletzki Remix)"
+    ],
+    [
+     2165,
+     "Juan Hansen",
+     "My Own Game (Oliver Koletzki Remix)"
+    ],
+    [
+     2205,
+     "Juan Hansen",
+     "My Own Game (Oliver Koletzki Remix)"
+    ],
+    [
+     2245,
+     "Adam Ten & Maori",
+     "Spring Girl"
+    ],
+    [
+     2285,
+     "Adam Ten & Maori",
+     "Spring Girl"
+    ],
+    [
+     2325,
+     "Adam Ten & Maori",
+     "Spring Girl"
+    ],
+    [
+     2365,
+     "Adam Ten & Maori",
+     "Spring Girl"
+    ],
+    [
+     2405,
+     "Adam Ten & Maori",
+     "Spring Girl"
+    ],
+    [
+     2445,
+     "Adam Ten & Maori",
+     "Spring Girl"
+    ],
+    [
+     2485,
+     "Adam Ten & Maori",
+     "Spring Girl"
+    ],
+    [
+     2565,
+     "Faithless",
+     "We Come 1 (Radio Edit)"
+    ],
+    [
+     2645,
+     "Faithless",
+     "We Come 1 (Live)"
+    ],
+    [
+     2685,
+     "Ewan Rill",
+     "Open World"
+    ],
+    [
+     2725,
+     "Kiz Pattison",
+     "Time"
+    ],
+    [
+     2845,
+     "Kasablanca & Innellea",
+     "Lost"
+    ],
+    [
+     2885,
+     "Kasablanca & Innellea",
+     "Lost"
+    ],
+    [
+     2925,
+     "Kasablanca & Innellea",
+     "Lost"
+    ],
+    [
+     2965,
+     "Kasablanca & Innellea",
+     "Lost"
+    ],
+    [
+     3005,
+     "Kasablanca & Innellea",
+     "Lost"
+    ],
+    [
+     3045,
+     "Kasablanca & Innellea",
+     "Lost"
+    ],
+    [
+     3085,
+     "Kasablanca & Innellea",
+     "Lost"
+    ],
+    [
+     3125,
+     "Giangi Cappai",
+     "I need u now (Eight-seven mix)"
+    ],
+    [
+     3165,
+     "SQL",
+     "Warhola"
+    ],
+    [
+     3205,
+     "Glenn Morrison",
+     "Contact"
+    ],
+    [
+     3245,
+     "Kungs",
+     "Clap Your Hands (Live Edit)"
+    ],
+    [
+     3285,
+     "Yolanda Be Cool",
+     "Get Down (feat. Traxman) [Gabss Remix]"
+    ],
+    [
+     3325,
+     "Yolanda Be Cool",
+     "Get Down (feat. Traxman) [Gabss Remix]"
+    ],
+    [
+     3365,
+     "Yolanda Be Cool",
+     "Get Down (feat. Traxman) [Gabss Remix]"
+    ],
+    [
+     3405,
+     "Yolanda Be Cool",
+     "Get Down (feat. Traxman) [Gabss Remix]"
+    ],
+    [
+     3445,
+     "Yolanda Be Cool",
+     "Get Down (feat. Traxman) [Gabss Remix]"
+    ],
+    [
+     3485,
+     "Yolanda Be Cool",
+     "Get Down (feat. Traxman) [Gabss Remix]"
+    ],
+    [
+     3525,
+     "Yolanda Be Cool",
+     "Get Down (feat. Traxman) [Gabss Remix]"
+    ],
+    [
+     3565,
+     "G-FORCE",
+     "Conquered (Radio Edit)"
+    ],
+    [
+     3605,
+     "Eleven.Five & Arielle Maren",
+     "Remember (Blood Groove & Kikis Remix)"
+    ],
+    [
+     3645,
+     "G-FORCE",
+     "Conquered (Radio Edit)"
+    ],
+    [
+     3685,
+     "G-FORCE",
+     "Conquered (Radio Edit)"
+    ],
+    [
+     3725,
+     "G-FORCE",
+     "Conquered (Radio Edit)"
+    ],
+    [
+     3765,
+     "Piero Farho",
+     "Time"
+    ],
+    [
+     3805,
+     "Zarel Amelio",
+     "Pompous"
+    ],
+    [
+     3845,
+     "Les Castizos & Nolek",
+     "El Fuego (Extended Mix)"
+    ],
+    [
+     3885,
+     "Fedele",
+     "Gentle Dance"
+    ],
+    [
+     3925,
+     "Fedele",
+     "Gentle Dance"
+    ],
+    [
+     3965,
+     "Piero Farho",
+     "Time"
+    ],
+    [
+     4005,
+     "Fedele",
+     "Gentle Dance"
+    ]
+   ]
+  },
+  {
+   "artist": "Planty Snips",
+   "start": 0,
+   "times": [
+    0,
+    545,
+    825,
+    1185,
+    1505,
+    1825,
+    2145,
+    2505,
+    2785,
+    3225
+   ],
+   "ok": 10,
+   "n": 10,
+   "escuchado": [
+    [
+     5,
+     "Fred again.., Duoteque & Orion Sun",
+     "ItsNotREEAALLLLLLLL"
+    ],
+    [
+     45,
+     "Fred again.., Duoteque & Orion Sun",
+     "ItsNotREEAALLLLLLLL"
+    ],
+    [
+     85,
+     "Lee Burridge & Lost Desert",
+     "Ash & Ember (Extended Mix)"
+    ],
+    [
+     125,
+     "Lee Burridge & Lost Desert",
+     "Ash & Ember (Extended Mix)"
+    ],
+    [
+     165,
+     "Lee Burridge & Lost Desert",
+     "Ash & Ember (Extended Mix)"
+    ],
+    [
+     205,
+     "Lee Burridge & Lost Desert",
+     "Ash & Ember (Extended Mix)"
+    ],
+    [
+     245,
+     "Lee Burridge & Lost Desert",
+     "Ash & Ember (Extended Mix)"
+    ],
+    [
+     285,
+     "Lee Burridge & Lost Desert",
+     "Ash & Ember (Extended Mix)"
+    ],
+    [
+     325,
+     "Fred again.., Duoteque & Orion Sun",
+     "ItsNotREEAALLLLLLLL"
+    ],
+    [
+     365,
+     "Lee Burridge & Lost Desert",
+     "Ash & Ember (Extended Mix)"
+    ],
+    [
+     405,
+     "Lee Burridge & Lost Desert",
+     "Ash & Ember (Extended Mix)"
+    ],
+    [
+     445,
+     "Roland Clark & Urban Soul",
+     "What Do I Gotta Do (Eric Kupper Club Mix)"
+    ],
+    [
+     485,
+     "Nick Curly",
+     "Bahia (Extended Mix)"
+    ],
+    [
+     525,
+     "Cunnie Williams",
+     "Saturday (Mousse T.'s Welcome to the Star Hotel Mix) [feat. Monie Love]"
+    ],
+    [
+     565,
+     "Facundo Ignacio, Emmanuel Morales & Martin Gardoqui",
+     "Data Jungle (Arbey Gonzalez Remix)"
+    ],
+    [
+     605,
+     "Oliver Koletzki",
+     "Planetarium (Short Edit)"
+    ],
+    [
+     645,
+     "Beatchuggers",
+     "Forever Man (How Many Times) [Earth N Days Remix]"
+    ],
+    [
+     685,
+     "Facundo Ignacio, Emmanuel Morales & Martin Gardoqui",
+     "Data Jungle (Arbey Gonzalez Remix)"
+    ],
+    [
+     725,
+     "Frankey & Sandrino",
+     "Acamar"
+    ],
+    [
+     765,
+     "Frankey & Sandrino",
+     "Acamar"
+    ],
+    [
+     805,
+     "Blagoj Rambabov",
+     "Right to Be Wrong"
+    ],
+    [
+     845,
+     "Anhauser",
+     "Airwave"
+    ],
+    [
+     885,
+     "Planet Funk & Makebo",
+     "Chase the Sun (Makebo Remix - Extended Mix)"
+    ],
+    [
+     925,
+     "HUGEL & LOVRA",
+     "Madonna"
+    ],
+    [
+     965,
+     "Anhauser",
+     "Airwave"
+    ],
+    [
+     1005,
+     "Exotiq Fiive02",
+     "Daydream"
+    ],
+    [
+     1045,
+     "Red Eyes",
+     "Long Ago"
+    ],
+    [
+     1085,
+     "Anhauser",
+     "Airwave"
+    ],
+    [
+     1125,
+     "Red Eyes",
+     "Long Ago"
+    ],
+    [
+     1165,
+     "Diplo & SIDEPIECE",
+     "On My Mind"
+    ],
+    [
+     1205,
+     "Nichols+Roark",
+     "Paper Power (Julieta Kühnle Remix)"
+    ],
+    [
+     1245,
+     "Mr. Belt & Wezol, Bendah & LIMITED LIFE",
+     "I Feel Love (Extended Mix)"
+    ],
+    [
+     1285,
+     "Nichols+Roark",
+     "Paper Power (Julieta Kühnle Remix)"
+    ],
+    [
+     1325,
+     "Nichols+Roark",
+     "Paper Power"
+    ],
+    [
+     1365,
+     "Nichols+Roark",
+     "Paper Power (Julieta Kühnle Remix)"
+    ],
+    [
+     1405,
+     "Mr. Belt & Wezol, Bendah & LIMITED LIFE",
+     "I Feel Love (Extended Mix)"
+    ],
+    [
+     1445,
+     "Oxia",
+     "Domino (Rework)"
+    ],
+    [
+     1485,
+     "Paperclip People",
+     "Throw (Slam's RTM Remix)"
+    ],
+    [
+     1525,
+     "Northcat",
+     "Questions"
+    ],
+    [
+     1565,
+     "CRBRVS",
+     "Insomnia"
+    ],
+    [
+     1605,
+     "Northcat",
+     "Questions"
+    ],
+    [
+     1645,
+     "Northcat",
+     "Questions"
+    ],
+    [
+     1685,
+     "Northcat",
+     "Questions"
+    ],
+    [
+     1725,
+     "Greenville Massive",
+     "Heute Nacht"
+    ],
+    [
+     1765,
+     "Northcat",
+     "Questions"
+    ],
+    [
+     1805,
+     "Planet Of Souls & Lily Papas",
+     "One (PROFF Reshuffle)"
+    ],
+    [
+     1845,
+     "MoodFreak & Bendeck",
+     "Izanagi"
+    ],
+    [
+     1885,
+     "MoodFreak & Bendeck",
+     "Izanagi"
+    ],
+    [
+     1925,
+     "MoodFreak & Bendeck",
+     "Izanagi"
+    ],
+    [
+     1965,
+     "MoodFreak & Bendeck",
+     "Izanagi"
+    ],
+    [
+     2005,
+     "MoodFreak & Bendeck",
+     "Izanagi"
+    ],
+    [
+     2045,
+     "MoodFreak & Bendeck",
+     "Izanagi"
+    ],
+    [
+     2085,
+     "Sylvan Haze",
+     "Fresh Love"
+    ],
+    [
+     2125,
+     "Munfell Muzik",
+     "Eny"
+    ],
+    [
+     2165,
+     "ANUQRAM & Second Sine",
+     "Wake Me Up"
+    ],
+    [
+     2205,
+     "ANUQRAM & Second Sine",
+     "Wake Me Up"
+    ],
+    [
+     2245,
+     "ANUQRAM & Second Sine",
+     "Wake Me Up"
+    ],
+    [
+     2285,
+     "ANUQRAM & Second Sine",
+     "Wake Me Up"
+    ],
+    [
+     2325,
+     "ANUQRAM & Second Sine",
+     "Wake Me Up"
+    ],
+    [
+     2365,
+     "ANUQRAM & Second Sine",
+     "Wake Me Up"
+    ],
+    [
+     2405,
+     "Marc Marzenit",
+     "Perron (Wehbba Remix)"
+    ],
+    [
+     2445,
+     "Aaron H-Smith",
+     "Satara (Juanito Remix)"
+    ],
+    [
+     2485,
+     "Aaron H-Smith",
+     "Satara (Juanito Remix)"
+    ],
+    [
+     2525,
+     "Ruben Karapetyan & Haft",
+     "Cycling Through Amsterdam (HAFT Remix)"
+    ],
+    [
+     2565,
+     "Ruben Karapetyan & Haft",
+     "Cycling Through Amsterdam (HAFT Remix)"
+    ],
+    [
+     2605,
+     "Ruben Karapetyan & Haft",
+     "Cycling Through Amsterdam (HAFT Remix)"
+    ],
+    [
+     2645,
+     "Ruben Karapetyan & Haft",
+     "Cycling Through Amsterdam (HAFT Remix)"
+    ],
+    [
+     2685,
+     "Ruben Karapetyan & Haft",
+     "Cycling Through Amsterdam (HAFT Remix)"
+    ],
+    [
+     2725,
+     "Ruben Karapetyan & Haft",
+     "Cycling Through Amsterdam (HAFT Remix)"
+    ],
+    [
+     2765,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     2805,
+     "Taylan",
+     "Ghost Rider"
+    ],
+    [
+     2845,
+     "Ziger",
+     "Feel the Bass"
+    ],
+    [
+     2885,
+     "Ziger",
+     "Feel the Bass"
+    ],
+    [
+     2925,
+     "Taylan",
+     "Ghost Rider"
+    ],
+    [
+     2965,
+     "Taylan",
+     "Ghost Rider"
+    ],
+    [
+     3005,
+     "Taylan",
+     "Ghost Rider"
+    ],
+    [
+     3045,
+     "Taylan",
+     "Ghost Rider"
+    ],
+    [
+     3085,
+     "Taylan",
+     "Ghost Rider"
+    ],
+    [
+     3125,
+     "Taylan",
+     "Ghost Rider"
+    ],
+    [
+     3165,
+     "EDRDO",
+     "Sins"
+    ],
+    [
+     3205,
+     "Paul C & Paolo Martini",
+     "Klong (Max Chapman & Apollo 84 Remix)"
+    ],
+    [
+     3245,
+     "MoodFreak & Alex Narrow",
+     "Asylum"
+    ],
+    [
+     3285,
+     "MoodFreak & Alex Narrow",
+     "Asylum"
+    ],
+    [
+     3325,
+     "MoodFreak & Alex Narrow",
+     "Asylum"
+    ],
+    [
+     3365,
+     "MoodFreak & Alex Narrow",
+     "Asylum"
+    ],
+    [
+     3405,
+     "MoodFreak & Alex Narrow",
+     "Asylum"
+    ],
+    [
+     3445,
+     "The Soundlovers",
+     "Surrender (Birretta Mix)"
+    ],
+    [
+     3485,
+     "DJ Vibe",
+     "The Underground"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 86.1
+}

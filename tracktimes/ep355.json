@@ -1,0 +1,1043 @@
+{
+ "ep": 355,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    385,
+    705,
+    1185,
+    1385,
+    1585,
+    1705,
+    2105,
+    2185,
+    2545,
+    2785,
+    3065,
+    3345,
+    3625,
+    3825,
+    4065
+   ],
+   "ok": 15,
+   "n": 16,
+   "escuchado": [
+    [
+     5,
+     "Mailoh",
+     "Carefree Life"
+    ],
+    [
+     45,
+     "Weir",
+     "Innerbloom (feat. Tanner Fruit & Cassie Wilson)"
+    ],
+    [
+     85,
+     "Mailoh",
+     "Carefree Life"
+    ],
+    [
+     125,
+     "Mailoh",
+     "Carefree Life"
+    ],
+    [
+     165,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     205,
+     "Mailoh",
+     "Carefree Life"
+    ],
+    [
+     245,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     285,
+     "Ultra Naté & Roland Clark",
+     "The First Time Free (Claptone Remix)"
+    ],
+    [
+     325,
+     "Artic White, D'nox & Kamilo Sanclemente",
+     "Rosea (D-Nox, Kamilo Sanclemente Remix)"
+    ],
+    [
+     365,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     405,
+     "Jepe",
+     "Memoire"
+    ],
+    [
+     445,
+     "Jepe",
+     "Memoire"
+    ],
+    [
+     485,
+     "Jepe",
+     "Memoire"
+    ],
+    [
+     525,
+     "Jepe",
+     "Memoire"
+    ],
+    [
+     565,
+     "Jepe",
+     "Memoire"
+    ],
+    [
+     605,
+     "Jepe",
+     "Memoire"
+    ],
+    [
+     645,
+     "Jepe",
+     "Memoire"
+    ],
+    [
+     685,
+     "Eddie Amador",
+     "House Music (Robosonic Remix)"
+    ],
+    [
+     725,
+     "Matur",
+     "Teri Marzi (Extended Mix)"
+    ],
+    [
+     765,
+     "Matur",
+     "Teri Marzi"
+    ],
+    [
+     805,
+     "Matur",
+     "Teri Marzi"
+    ],
+    [
+     845,
+     "Matur",
+     "Teri Marzi"
+    ],
+    [
+     885,
+     "Matur",
+     "Teri Marzi"
+    ],
+    [
+     925,
+     "Matur",
+     "Teri Marzi"
+    ],
+    [
+     965,
+     "Matur",
+     "Teri Marzi"
+    ],
+    [
+     1005,
+     "Festiva",
+     "Cerberus"
+    ],
+    [
+     1045,
+     "Davvi & Modern Disco Boys",
+     "Ne Pars Jamais"
+    ],
+    [
+     1085,
+     "Sam Mkhize",
+     "Simple"
+    ],
+    [
+     1125,
+     "Stan Kolev",
+     "Eternal Fade"
+    ],
+    [
+     1165,
+     "Sam Mkhize",
+     "Simple"
+    ],
+    [
+     1205,
+     "Soldatov & M-Sol DEEP",
+     "Her Mystery"
+    ],
+    [
+     1245,
+     "Soulxa",
+     "Cafe Del Mar"
+    ],
+    [
+     1285,
+     "Sidekick",
+     "Deep Fear (Phobia Radio Edit)"
+    ],
+    [
+     1325,
+     "Sidekick",
+     "Deep Fear (Phobia Radio Edit)"
+    ],
+    [
+     1365,
+     "Bringols",
+     "Endless Summer (The Generik Vocal Cut Mix)"
+    ],
+    [
+     1405,
+     "Purple Disco Machine & Benjamin Ingrosso",
+     "Honey Boy (feat. Nile Rodgers & Shenseea)"
+    ],
+    [
+     1445,
+     "Sidekick",
+     "Deep Fear (Phobia Radio Edit)"
+    ],
+    [
+     1485,
+     "AVISION",
+     "Big Shot (Paco Osuna Remix)"
+    ],
+    [
+     1525,
+     "DJ Vibe & Hallo Varga",
+     "Life"
+    ],
+    [
+     1565,
+     "Michel De Hey & Mirko",
+     "Some Change Please (Pitto Remix)"
+    ],
+    [
+     1605,
+     "Lorelei",
+     "Rêverie (Caroux Version)"
+    ],
+    [
+     1645,
+     "Lorelei",
+     "Rêverie (Caroux Version)"
+    ],
+    [
+     1685,
+     "KITSCHKRIEG, Blumengarten & Shirin David",
+     "Gut Genug (mit Blumengarten & Shirin David)"
+    ],
+    [
+     1725,
+     "Notre Dame",
+     "Candy Cloud"
+    ],
+    [
+     1765,
+     "Notre Dame",
+     "Candy Cloud"
+    ],
+    [
+     1805,
+     "Notre Dame",
+     "Candy Cloud"
+    ],
+    [
+     1845,
+     "Notre Dame",
+     "Candy Cloud"
+    ],
+    [
+     1885,
+     "Notre Dame",
+     "Candy Cloud"
+    ],
+    [
+     1925,
+     "Notre Dame",
+     "Candy Cloud"
+    ],
+    [
+     1965,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     2005,
+     "Gaetano C & DePandis",
+     "Saw"
+    ],
+    [
+     2045,
+     "Maae",
+     "The Man"
+    ],
+    [
+     2085,
+     "Bad Intentions",
+     "Monster (Extended Mix)"
+    ],
+    [
+     2125,
+     "Matan Caspi",
+     "Crystal Ball"
+    ],
+    [
+     2165,
+     "Matan Caspi",
+     "Crystal Ball"
+    ],
+    [
+     2205,
+     "Romulus",
+     "Burning Sand"
+    ],
+    [
+     2245,
+     "Romulus",
+     "Burning Sand"
+    ],
+    [
+     2285,
+     "Romulus",
+     "Burning Sand"
+    ],
+    [
+     2325,
+     "Romulus",
+     "Burning Sand"
+    ],
+    [
+     2365,
+     "Romulus",
+     "Burning Sand"
+    ],
+    [
+     2405,
+     "Romulus",
+     "Burning Sand"
+    ],
+    [
+     2445,
+     "Marcus Meinhardt",
+     "Felecity (Atlantik Remix)"
+    ],
+    [
+     2485,
+     "Crystal Waters",
+     "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) [Radio Mix]"
+    ],
+    [
+     2525,
+     "Lord Fred Sebatta",
+     "Sam Wange"
+    ],
+    [
+     2565,
+     "Eliosix",
+     "Drifting Winds (Extended Mix)"
+    ],
+    [
+     2605,
+     "Eliosix",
+     "Drifting Winds (Extended Mix)"
+    ],
+    [
+     2645,
+     "Eliosix",
+     "Drifting Winds (Extended Mix)"
+    ],
+    [
+     2685,
+     "Frankey & Sandrino",
+     "Acamar"
+    ],
+    [
+     2725,
+     "Eliosix",
+     "Drifting Winds (Extended Mix)"
+    ],
+    [
+     2765,
+     "Sophie and the Giants & Purple Disco Machine",
+     "Paradise"
+    ],
+    [
+     2805,
+     "DJ Zombi & Guy Davidov",
+     "Disco Boy (Bonafique Radio Edit)"
+    ],
+    [
+     2845,
+     "DJ Zombi & Guy Davidov",
+     "Disco Boy (Bonafique Radio Edit)"
+    ],
+    [
+     2885,
+     "DJ Zombi & Guy Davidov",
+     "Disco Boy (Bonafique Radio Edit)"
+    ],
+    [
+     2925,
+     "DJ Zombi & Guy Davidov",
+     "Disco Boy (Bonafique Radio Edit)"
+    ],
+    [
+     2965,
+     "DJ Zombi & Guy Davidov",
+     "Disco Boy (Bonafique Radio Edit)"
+    ],
+    [
+     3005,
+     "DJ Zombi & Guy Davidov",
+     "Disco Boy (Bonafique Radio Edit)"
+    ],
+    [
+     3045,
+     "Mystica",
+     "Bliss (MYSTICA MIX)"
+    ],
+    [
+     3085,
+     "Stereo Underground",
+     "Dopamine"
+    ],
+    [
+     3125,
+     "Stereo Underground",
+     "Dopamine"
+    ],
+    [
+     3165,
+     "Starsailor",
+     "Four To the Floor (Thin White Duke Mix)"
+    ],
+    [
+     3205,
+     "Stereo Underground",
+     "Dopamine"
+    ],
+    [
+     3245,
+     "Stereo Underground",
+     "Dopamine"
+    ],
+    [
+     3285,
+     "Rnbstylerz",
+     "Like Wooh Wooh"
+    ],
+    [
+     3325,
+     "Dylan Warren",
+     "Emphasis"
+    ],
+    [
+     3365,
+     "Romain Garcia",
+     "Next To You (Extended Mix)"
+    ],
+    [
+     3405,
+     "Romain Garcia",
+     "Next To You"
+    ],
+    [
+     3445,
+     "Romain Garcia",
+     "Next To You"
+    ],
+    [
+     3485,
+     "Romain Garcia",
+     "Next To You"
+    ],
+    [
+     3525,
+     "Romain Garcia",
+     "Next To You"
+    ],
+    [
+     3565,
+     "Romain Garcia",
+     "Next To You"
+    ],
+    [
+     3605,
+     "Dosem & Prok & Fitch",
+     "Doors"
+    ],
+    [
+     3645,
+     "Jonathan & Papillon",
+     "Lockedown"
+    ],
+    [
+     3685,
+     "Jonathan & Papillon",
+     "Lockedown"
+    ],
+    [
+     3725,
+     "Jonathan & Papillon",
+     "Lockedown"
+    ],
+    [
+     3765,
+     "Optimuss",
+     "Inmolation"
+    ],
+    [
+     3805,
+     "TECH IT DEEP",
+     "Maria Maria (Extended)"
+    ],
+    [
+     3845,
+     "Tom Zeta",
+     "Loco In The Coco"
+    ],
+    [
+     3885,
+     "Tom Zeta",
+     "Loco In The Coco"
+    ],
+    [
+     3925,
+     "Tom Zeta",
+     "Loco In The Coco"
+    ],
+    [
+     3965,
+     "Tom Zeta",
+     "Loco In The Coco"
+    ],
+    [
+     4005,
+     "Tom Zeta",
+     "Loco In The Coco"
+    ],
+    [
+     4045,
+     "Tom Zeta",
+     "Loco In The Coco"
+    ],
+    [
+     4085,
+     "De Ambassade",
+     "Verloren"
+    ],
+    [
+     4125,
+     "De Ambassade",
+     "Verloren"
+    ],
+    [
+     4165,
+     "De Ambassade",
+     "Verloren"
+    ],
+    [
+     4205,
+     "De Ambassade",
+     "Verloren"
+    ],
+    [
+     4245,
+     "De Ambassade",
+     "Verloren"
+    ],
+    [
+     4285,
+     "After12",
+     "Happy Feelings"
+    ]
+   ]
+  },
+  {
+   "artist": "Javier Omar",
+   "start": 0,
+   "times": [
+    0,
+    465,
+    785,
+    1225,
+    1585,
+    1865,
+    2185,
+    2625,
+    2945,
+    3345
+   ],
+   "ok": 10,
+   "n": 10,
+   "escuchado": [
+    [
+     5,
+     "Dj Anker",
+     "Anker Retromix"
+    ],
+    [
+     45,
+     "Bambook",
+     "Give It Up (Audiofly Remix)"
+    ],
+    [
+     85,
+     "London Grammar",
+     "Hey Now (Sasha Remix)"
+    ],
+    [
+     125,
+     "Bambook",
+     "Give It Up (Audiofly Remix)"
+    ],
+    [
+     165,
+     "London Grammar",
+     "Hey Now (Sasha Remix)"
+    ],
+    [
+     205,
+     "London Grammar",
+     "Hey Now"
+    ],
+    [
+     245,
+     "London Grammar",
+     "Hey Now"
+    ],
+    [
+     285,
+     "London Grammar",
+     "Hey Now (Sasha Remix)"
+    ],
+    [
+     325,
+     "London Grammar",
+     "Hey Now (Sasha Remix)"
+    ],
+    [
+     365,
+     "London Grammar",
+     "Hey Now"
+    ],
+    [
+     405,
+     "London Grammar",
+     "Hey Now (Sasha Remix)"
+    ],
+    [
+     445,
+     "London Grammar",
+     "Hey Now (Sasha Remix)"
+    ],
+    [
+     485,
+     "MAMI",
+     "Seasons"
+    ],
+    [
+     525,
+     "Alvaro Albarran",
+     "Tubah - Single"
+    ],
+    [
+     565,
+     "Monolink",
+     "Return to Oz"
+    ],
+    [
+     605,
+     "Michel De Hey & Mirko",
+     "Some Change Please (Pitto Remix)"
+    ],
+    [
+     645,
+     "Soulxa",
+     "Cafe Del Mar"
+    ],
+    [
+     685,
+     "Khaled Abdrabo",
+     "Exhausted"
+    ],
+    [
+     725,
+     "Billie Eilish",
+     "Ilomilo (Band&Dos Remix)"
+    ],
+    [
+     765,
+     "Bobo Town",
+     "Van Hell"
+    ],
+    [
+     805,
+     "Kamilo Sanclemente & Mauro Aguirre",
+     "Medha"
+    ],
+    [
+     845,
+     "Sagi Kariv & Forever Tel Aviv",
+     "Spin (feat. Bjorn)"
+    ],
+    [
+     885,
+     "HUGEL, Stefy De Cicco & Hugo Cantarra",
+     "4 to the Floor (feat. Nikol Apatini)"
+    ],
+    [
+     925,
+     "Cash Cash & Taylor Dayne",
+     "Tell It To My Heart"
+    ],
+    [
+     965,
+     "Black Circle",
+     "Reasons (feat. Bobbi Fallon)"
+    ],
+    [
+     1005,
+     "Kamilo Sanclemente & Mauro Aguirre",
+     "Medha"
+    ],
+    [
+     1045,
+     "Kamilo Sanclemente & Mauro Aguirre",
+     "Medha"
+    ],
+    [
+     1085,
+     "Kamilo Sanclemente & Mauro Aguirre",
+     "Medha"
+    ],
+    [
+     1125,
+     "Ziger",
+     "Feel the Bass"
+    ],
+    [
+     1165,
+     "John Julius Knight & Roland Clark",
+     "This Is House (Mattei & Omich Extended Remix)"
+    ],
+    [
+     1205,
+     "Festiva",
+     "Cerberus"
+    ],
+    [
+     1245,
+     "Weird Sounding Dude",
+     "Winters Poetry"
+    ],
+    [
+     1285,
+     "Planet Funk & Makebo",
+     "Chase the Sun (Makebo Remix - Extended Mix)"
+    ],
+    [
+     1325,
+     "Weird Sounding Dude",
+     "Winters Poetry"
+    ],
+    [
+     1365,
+     "Weird Sounding Dude",
+     "Winters Poetry"
+    ],
+    [
+     1405,
+     "Christian Smith",
+     "Mileage Run (ULF034) [Dmitry Molosh Remix]"
+    ],
+    [
+     1445,
+     "Solee",
+     "Shanti"
+    ],
+    [
+     1485,
+     "Weird Sounding Dude",
+     "Winters Poetry"
+    ],
+    [
+     1525,
+     "Weird Sounding Dude",
+     "Winters Poetry"
+    ],
+    [
+     1565,
+     "Oushe",
+     "Daveena"
+    ],
+    [
+     1605,
+     "Dmitry Molosh",
+     "Step by Step (feat. Sasha Bartashevich) [Original Dub Mix]"
+    ],
+    [
+     1645,
+     "Dmitry Molosh",
+     "Step by Step (feat. Sasha Bartashevich) [Original Dub Mix]"
+    ],
+    [
+     1685,
+     "Dmitry Molosh",
+     "Step by Step (feat. Sasha Bartashevich) [Original Dub Mix]"
+    ],
+    [
+     1725,
+     "Dmitry Molosh",
+     "Step by Step (feat. Sasha Bartashevich) [Original Dub Mix]"
+    ],
+    [
+     1765,
+     "Dmitry Molosh",
+     "Step by Step (feat. Sasha Bartashevich) [Original Dub Mix]"
+    ],
+    [
+     1805,
+     "Dmitry Molosh",
+     "Step by Step (feat. Sasha Bartashevich) [Original Dub Mix]"
+    ],
+    [
+     1845,
+     "Dmitry Molosh",
+     "Step by Step (feat. Sasha Bartashevich) [Original Dub Mix]"
+    ],
+    [
+     1885,
+     "Paul Thomas",
+     "Jumbo (Extended Mix)"
+    ],
+    [
+     1925,
+     "Flash Brothers",
+     "Hazy March (Paul Thomas Remix)"
+    ],
+    [
+     1965,
+     "Paul Thomas",
+     "Jumbo (Extended Mix)"
+    ],
+    [
+     2005,
+     "Paul Thomas",
+     "Jumbo (Extended Mix)"
+    ],
+    [
+     2045,
+     "Paul Thomas",
+     "Jumbo (Extended Mix)"
+    ],
+    [
+     2085,
+     "Paul Thomas",
+     "Jumbo (Extended Mix)"
+    ],
+    [
+     2125,
+     "Paul Thomas",
+     "Jumbo (Extended Mix)"
+    ],
+    [
+     2165,
+     "Paul Thomas",
+     "Jumbo (Extended Mix)"
+    ],
+    [
+     2205,
+     "Dowden",
+     "Hallstatt"
+    ],
+    [
+     2245,
+     "Dowden",
+     "Hallstatt"
+    ],
+    [
+     2285,
+     "Todd Terry",
+     "Jumpin Original"
+    ],
+    [
+     2325,
+     "Julien Jabre",
+     "War (Eltonnick Remix) [Mixed]"
+    ],
+    [
+     2365,
+     "Dowden",
+     "Hallstatt"
+    ],
+    [
+     2405,
+     "Dowden",
+     "Hallstatt"
+    ],
+    [
+     2445,
+     "Dowden",
+     "Hallstatt"
+    ],
+    [
+     2485,
+     "Dowden",
+     "Hallstatt"
+    ],
+    [
+     2525,
+     "Panos Pissitelis & Junior Mi",
+     "Freaky"
+    ],
+    [
+     2565,
+     "Gareth Stirling",
+     "Wallop"
+    ],
+    [
+     2605,
+     "Bambook",
+     "Give It Up (Audiofly Remix)"
+    ],
+    [
+     2645,
+     "Morttagua",
+     "Sirians"
+    ],
+    [
+     2685,
+     "Morttagua",
+     "Sirians"
+    ],
+    [
+     2725,
+     "Morttagua",
+     "Sirians"
+    ],
+    [
+     2765,
+     "Morttagua",
+     "Sirians"
+    ],
+    [
+     2805,
+     "Morttagua",
+     "Sirians"
+    ],
+    [
+     2845,
+     "Morttagua",
+     "Sirians"
+    ],
+    [
+     2885,
+     "Morttagua",
+     "Sirians"
+    ],
+    [
+     2925,
+     "PAX & Rui Da Silva",
+     "Touch Me (Pax & Rui Da Silva Extended Version)"
+    ],
+    [
+     2965,
+     "Jody Barr",
+     "A Burning Memory"
+    ],
+    [
+     3005,
+     "OZBEK",
+     "Rooftop"
+    ],
+    [
+     3045,
+     "Jody Barr",
+     "A Burning Memory"
+    ],
+    [
+     3085,
+     "Robosonic & Klangkuenstler",
+     "Nuts"
+    ],
+    [
+     3125,
+     "Purple Disco Machine & Kungs",
+     "Substitution (feat. Julian Perretta)"
+    ],
+    [
+     3165,
+     "Sean & Dee",
+     "Game Of Thrones Theme (Reinterpretation Mix)"
+    ],
+    [
+     3205,
+     "5ALVO",
+     "Wrightwood"
+    ],
+    [
+     3245,
+     "Miroslav Vrlik",
+     "It's Snowing"
+    ],
+    [
+     3285,
+     "Agoria, NOEMIE & Rami Khalife",
+     "Teardrops (Don't Stop The Music) [Nick Morgan Remix]"
+    ],
+    [
+     3325,
+     "Инна Вальтер",
+     "Не для тебя (New Version)"
+    ],
+    [
+     3365,
+     "Paul Thomas",
+     "Joheja (Tomb Extended Remix)"
+    ],
+    [
+     3405,
+     "Paul Thomas",
+     "Joheja (Tomb Extended Remix)"
+    ],
+    [
+     3445,
+     "Paul Thomas",
+     "Joheja (Extended Mix)"
+    ],
+    [
+     3485,
+     "Paul Thomas",
+     "Joheja (Tomb Extended Remix)"
+    ],
+    [
+     3525,
+     "S.A.M.",
+     "Spotlight (feat. Sarah Ikumu) [Mousse T. Extended Shizzle Mix]"
+    ],
+    [
+     3565,
+     "Acraze",
+     "Do It To It (feat. Cherish)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 90.0
+}
