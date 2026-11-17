@@ -1,0 +1,1003 @@
+{
+ "ep": 351,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    265,
+    505,
+    705,
+    1025,
+    1345,
+    1585,
+    1745,
+    1985,
+    2185,
+    2545,
+    2785,
+    3185,
+    3385,
+    3545
+   ],
+   "ok": 15,
+   "n": 15,
+   "escuchado": [
+    [
+     5,
+     "ZHU",
+     "Faded"
+    ],
+    [
+     45,
+     "Made In TLV",
+     "Magneto"
+    ],
+    [
+     85,
+     "Made In TLV",
+     "Magneto"
+    ],
+    [
+     125,
+     "Made In TLV",
+     "Magneto"
+    ],
+    [
+     165,
+     "Made In TLV",
+     "Magneto"
+    ],
+    [
+     205,
+     "Made In TLV",
+     "Magneto"
+    ],
+    [
+     245,
+     "Made In TLV",
+     "Magneto"
+    ],
+    [
+     285,
+     "HIGHLITE",
+     "Postman"
+    ],
+    [
+     325,
+     "Naarly, Sickluv & Thabza De Soul",
+     "What I Need"
+    ],
+    [
+     365,
+     "HIGHLITE",
+     "Postman"
+    ],
+    [
+     405,
+     "HIGHLITE",
+     "Postman"
+    ],
+    [
+     445,
+     "HIGHLITE",
+     "Postman"
+    ],
+    [
+     485,
+     "Hurts & Purple Disco Machine",
+     "Wonderful Life '25 (Extended)"
+    ],
+    [
+     525,
+     "Harden & Super Flu",
+     "Breathe (Super Flu Remix)"
+    ],
+    [
+     565,
+     "Harden & Super Flu",
+     "Breathe (Super Flu Remix)"
+    ],
+    [
+     605,
+     "Harden & Super Flu",
+     "Breathe (Super Flu Remix)"
+    ],
+    [
+     645,
+     "NYC RAAL",
+     "Afterlight Pulse"
+    ],
+    [
+     685,
+     "Harden & Super Flu",
+     "Breathe (Super Flu Remix)"
+    ],
+    [
+     725,
+     "Empire Of The Sun",
+     "We Are The People (Adam Sellouk Remix)"
+    ],
+    [
+     765,
+     "Empire Of The Sun",
+     "We Are The People (Adam Sellouk Remix)"
+    ],
+    [
+     805,
+     "Dylan Warren",
+     "Emphasis"
+    ],
+    [
+     845,
+     "Empire Of The Sun",
+     "We Are The People"
+    ],
+    [
+     885,
+     "Empire Of The Sun",
+     "We Are The People (Adam Sellouk Remix)"
+    ],
+    [
+     925,
+     "Empire Of The Sun",
+     "We Are The People (Adam Sellouk Remix)"
+    ],
+    [
+     965,
+     "Empire Of The Sun",
+     "We Are The People (Adam Sellouk Remix)"
+    ],
+    [
+     1005,
+     "Empire Of The Sun",
+     "We Are The People (Adam Sellouk Remix)"
+    ],
+    [
+     1045,
+     "Luch",
+     "Anti Conti"
+    ],
+    [
+     1085,
+     "Luch",
+     "Anti Conti"
+    ],
+    [
+     1125,
+     "Luch",
+     "Anti Conti"
+    ],
+    [
+     1165,
+     "Luch",
+     "Anti Conti"
+    ],
+    [
+     1205,
+     "Luch",
+     "Anti Conti"
+    ],
+    [
+     1245,
+     "Luch",
+     "Anti Conti"
+    ],
+    [
+     1285,
+     "kensun",
+     "Beautifully Stranded"
+    ],
+    [
+     1365,
+     "Bonafique & KADI (IL)",
+     "Jazzmin"
+    ],
+    [
+     1405,
+     "Ituana",
+     "Clocks (Sign of the Times Remix)"
+    ],
+    [
+     1445,
+     "George Ellinas",
+     "Rainmaker (Extended Club Mix)"
+    ],
+    [
+     1485,
+     "Röyksopp & Fever Ray",
+     "What Else Is There? (DJ Tennis Remix)"
+    ],
+    [
+     1525,
+     "DJ Jose",
+     "Bring Me Back (Alex H Dub Mix)"
+    ],
+    [
+     1565,
+     "Buray",
+     "İstersen (Mahmut Orhan Remix)"
+    ],
+    [
+     1605,
+     "Atric & Frida Darko",
+     "Hush"
+    ],
+    [
+     1645,
+     "Atric & Frida Darko",
+     "Hush"
+    ],
+    [
+     1685,
+     "Atric & Frida Darko",
+     "Hush (Extended Mix)"
+    ],
+    [
+     1725,
+     "Atric & Frida Darko",
+     "Hush"
+    ],
+    [
+     1765,
+     "DUB PEPPER & Jebby Jay",
+     "Feel It"
+    ],
+    [
+     1805,
+     "DUB PEPPER & Jebby Jay",
+     "Feel It"
+    ],
+    [
+     1845,
+     "DUB PEPPER & Jebby Jay",
+     "Feel It"
+    ],
+    [
+     1885,
+     "DUB PEPPER & Jebby Jay",
+     "Feel It"
+    ],
+    [
+     1925,
+     "DUB PEPPER & Jebby Jay",
+     "Feel It"
+    ],
+    [
+     1965,
+     "DUB PEPPER & Jebby Jay",
+     "Feel It"
+    ],
+    [
+     2005,
+     "ALADAG",
+     "Awake"
+    ],
+    [
+     2045,
+     "ALADAG",
+     "Awake"
+    ],
+    [
+     2085,
+     "ALADAG",
+     "Awake"
+    ],
+    [
+     2125,
+     "ALADAG",
+     "Awake"
+    ],
+    [
+     2165,
+     "Dana Ruh",
+     "\"Sei\": Track 3"
+    ],
+    [
+     2205,
+     "Âme",
+     "Don't Waste My Time (feat. Jens Kuross)"
+    ],
+    [
+     2245,
+     "Âme",
+     "Don't Waste My Time (feat. Jens Kuross)"
+    ],
+    [
+     2285,
+     "Âme",
+     "Don't Waste My Time (feat. Jens Kuross)"
+    ],
+    [
+     2325,
+     "Âme",
+     "Don't Waste My Time (feat. Jens Kuross)"
+    ],
+    [
+     2365,
+     "Âme",
+     "Don't Waste My Time (feat. Jens Kuross)"
+    ],
+    [
+     2405,
+     "Âme",
+     "Don't Waste My Time (feat. Jens Kuross)"
+    ],
+    [
+     2445,
+     "Âme",
+     "Don't Waste My Time (feat. Jens Kuross)"
+    ],
+    [
+     2485,
+     "Âme",
+     "Don't Waste My Time (feat. Jens Kuross)"
+    ],
+    [
+     2525,
+     "Fiorious",
+     "I'm Not Defeated (Catz 'n Dogz Extended Pride Mix)"
+    ],
+    [
+     2565,
+     "Deer Jade",
+     "Voyage Infini"
+    ],
+    [
+     2605,
+     "Deer Jade",
+     "Voyage Infini"
+    ],
+    [
+     2645,
+     "Deer Jade",
+     "Voyage Infini"
+    ],
+    [
+     2685,
+     "Deer Jade",
+     "Voyage Infini"
+    ],
+    [
+     2725,
+     "Deer Jade",
+     "Voyage Infini"
+    ],
+    [
+     2765,
+     "Deer Jade",
+     "Voyage Infini"
+    ],
+    [
+     2805,
+     "PBR Streetgang",
+     "V.V.P.V."
+    ],
+    [
+     2845,
+     "PBR Streetgang",
+     "V.V.P.V."
+    ],
+    [
+     2885,
+     "PBR Streetgang",
+     "V.V.P.V."
+    ],
+    [
+     2925,
+     "PBR Streetgang",
+     "V.V.P.V."
+    ],
+    [
+     2965,
+     "PBR Streetgang",
+     "V.V.P.V."
+    ],
+    [
+     3005,
+     "PBR Streetgang",
+     "V.V.P.V."
+    ],
+    [
+     3045,
+     "PBR Streetgang",
+     "V.V.P.V."
+    ],
+    [
+     3085,
+     "Chris Fortier & Neil Kolo",
+     "All I Got (Chris Fortier 20yr Dub)"
+    ],
+    [
+     3125,
+     "Donna Summer",
+     "I Feel Love"
+    ],
+    [
+     3165,
+     "Timofei Ponomarev",
+     "Мне нравится, что вы больны не мной"
+    ],
+    [
+     3205,
+     "Luke Garcia",
+     "Lemons (Erly Tepshi Remix)"
+    ],
+    [
+     3245,
+     "Luke Garcia",
+     "Lemons (Erly Tepshi Remix)"
+    ],
+    [
+     3285,
+     "Iker Jiménez",
+     "Horizoon"
+    ],
+    [
+     3325,
+     "Approaching Nirvana",
+     "Stop"
+    ],
+    [
+     3365,
+     "Luke Garcia",
+     "Lemons (Erly Tepshi Remix)"
+    ],
+    [
+     3405,
+     "Matt & George Z",
+     "Down Low (Extended Mix)"
+    ],
+    [
+     3445,
+     "Matt & George Z",
+     "Down Low (Extended Mix)"
+    ],
+    [
+     3485,
+     "Matt & George Z",
+     "Down Low (Extended Mix)"
+    ],
+    [
+     3525,
+     "Matt & George Z",
+     "Down Low (Extended Mix)"
+    ],
+    [
+     3565,
+     "Kiko & Olivier Giacomotto",
+     "Seduction"
+    ],
+    [
+     3605,
+     "Kiko & Olivier Giacomotto",
+     "Seduction"
+    ],
+    [
+     3645,
+     "Kiko & Olivier Giacomotto",
+     "Seduction"
+    ],
+    [
+     3685,
+     "Kiko & Olivier Giacomotto",
+     "Seduction"
+    ],
+    [
+     3725,
+     "Kiko & Olivier Giacomotto",
+     "Seduction"
+    ],
+    [
+     3765,
+     "Matrixxman",
+     "Sexual Frustration"
+    ]
+   ]
+  },
+  {
+   "artist": "Diana Telenta",
+   "start": 0,
+   "times": [
+    0,
+    585,
+    865,
+    1065,
+    1465,
+    1705,
+    2065,
+    2585,
+    2825,
+    3105,
+    3425
+   ],
+   "ok": 11,
+   "n": 11,
+   "escuchado": [
+    [
+     5,
+     "Cofrix",
+     "Yumnrel"
+    ],
+    [
+     45,
+     "KREAM",
+     "Arrival"
+    ],
+    [
+     85,
+     "Purple Disco Machine & Sophie and the Giants",
+     "In The Dark (Oliver Heldens Remix)"
+    ],
+    [
+     125,
+     "Substuff",
+     "Prophecy Against Darkness"
+    ],
+    [
+     165,
+     "Kimo Sounds",
+     "Another Chance"
+    ],
+    [
+     205,
+     "Lukas Bilz",
+     "Uplift"
+    ],
+    [
+     245,
+     "Lukas Bilz",
+     "Uplift"
+    ],
+    [
+     285,
+     "Lukas Bilz",
+     "Uplift"
+    ],
+    [
+     325,
+     "Garji",
+     "Lights Off"
+    ],
+    [
+     365,
+     "CamelPhat & ARTBAT",
+     "For a Feeling (feat. RHODES)"
+    ],
+    [
+     405,
+     "Radio Slave",
+     "Another Club"
+    ],
+    [
+     445,
+     "John Styler",
+     "Adm"
+    ],
+    [
+     485,
+     "TuraniQa & Airsand",
+     "Better of Alone (Radio Edit)"
+    ],
+    [
+     525,
+     "Planet Soul",
+     "Set U Free (Fever Mix)"
+    ],
+    [
+     565,
+     "Smooth Sailin'",
+     "Ghost"
+    ],
+    [
+     605,
+     "Timo Veranta & Tour øf Soul",
+     "Calisto"
+    ],
+    [
+     645,
+     "Elaraaa",
+     "worry (super slowed)"
+    ],
+    [
+     685,
+     "Planet Soul",
+     "Set U Free (Fever Mix)"
+    ],
+    [
+     725,
+     "SolyMar & Megamen",
+     "All I Need"
+    ],
+    [
+     765,
+     "Namatjira",
+     "Abdominal"
+    ],
+    [
+     805,
+     "TuraniQa & Airsand",
+     "Better of Alone (Radio Edit)"
+    ],
+    [
+     845,
+     "Monastetiq",
+     "Deep Inside (Betoko Remix)"
+    ],
+    [
+     885,
+     "Melarmony",
+     "This Time (Extended Mix)"
+    ],
+    [
+     925,
+     "AFROJACK",
+     "The Spark (feat. Spree Wilson)"
+    ],
+    [
+     965,
+     "Michael Kruck",
+     "Transposer"
+    ],
+    [
+     1005,
+     "Lello B.",
+     "L.O.V.E (Lello B Remix)"
+    ],
+    [
+     1045,
+     "mostafa ryad",
+     "The Industry - Outer Space,Pt. 5"
+    ],
+    [
+     1085,
+     "Blancah & Aaron Suiss",
+     "The Garden of Morning Calm (Aaron Suiss Remix)"
+    ],
+    [
+     1125,
+     "Blancah",
+     "The Garden of Morning Calm (Hernan Cattaneo & Mercurio Remix)"
+    ],
+    [
+     1165,
+     "Blancah",
+     "The Garden of Morning Calm (Hernan Cattaneo & Mercurio Remix)"
+    ],
+    [
+     1205,
+     "Blancah",
+     "The Garden of Morning Calm (Hernan Cattaneo & Mercurio Remix)"
+    ],
+    [
+     1245,
+     "Blancah",
+     "The Garden of Morning Calm (Hernan Cattaneo & Mercurio Remix)"
+    ],
+    [
+     1285,
+     "Blancah",
+     "The Garden of Morning Calm (Hernan Cattaneo & Mercurio Remix)"
+    ],
+    [
+     1325,
+     "Matt Sassari",
+     "Give It to Me"
+    ],
+    [
+     1365,
+     "Sweet n Candy",
+     "Plasma"
+    ],
+    [
+     1405,
+     "Luca Debonaire",
+     "The Thrill Of The Beats"
+    ],
+    [
+     1445,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     1485,
+     "Supacooks",
+     "Breaking Walls"
+    ],
+    [
+     1525,
+     "Supacooks",
+     "Breaking Walls"
+    ],
+    [
+     1565,
+     "Supacooks",
+     "Breaking Walls"
+    ],
+    [
+     1605,
+     "Aiwaska",
+     "Tengri (Extended Mix)"
+    ],
+    [
+     1645,
+     "Shouse",
+     "Love Tonight"
+    ],
+    [
+     1685,
+     "Planet Funk & Makebo",
+     "Chase the Sun (Makebo Remix - Extended Mix)"
+    ],
+    [
+     1725,
+     "Tryger",
+     "Prince of Persia"
+    ],
+    [
+     1765,
+     "Several Spirits",
+     "Blue Coast (Red Eye Mix)"
+    ],
+    [
+     1805,
+     "Thomas Schumacher & Victor Ruiz",
+     "Apollo"
+    ],
+    [
+     1845,
+     "Agents Of Time",
+     "Friend Of Mine (feat. Ross Quinn)"
+    ],
+    [
+     1885,
+     "OTIOT",
+     "Let The People Shout"
+    ],
+    [
+     1925,
+     "Marnik & SMACK",
+     "Gam Gam"
+    ],
+    [
+     1965,
+     "Becky Hill & David Guetta",
+     "Remember (Benny Benassi Remix)"
+    ],
+    [
+     2005,
+     "Tryger",
+     "Prince of Persia"
+    ],
+    [
+     2045,
+     "Purple Disco Machine",
+     "Playbox"
+    ],
+    [
+     2085,
+     "Helsloot",
+     "Is This What You Want (Extended Mix)"
+    ],
+    [
+     2125,
+     "Helsloot",
+     "Is This What You Want (Extended Mix)"
+    ],
+    [
+     2165,
+     "Helsloot",
+     "Is This What You Want (Extended Mix)"
+    ],
+    [
+     2205,
+     "Tobias Schulz",
+     "Ah Johnny"
+    ],
+    [
+     2245,
+     "Purple Disco Machine",
+     "Bad Company"
+    ],
+    [
+     2285,
+     "Helsloot",
+     "Is This What You Want (Extended Mix)"
+    ],
+    [
+     2325,
+     "Helsloot",
+     "Is This What You Want (Extended Mix)"
+    ],
+    [
+     2365,
+     "Helsloot",
+     "Is This What You Want (Extended Mix)"
+    ],
+    [
+     2405,
+     "Dosem & Prok & Fitch",
+     "Doors"
+    ],
+    [
+     2445,
+     "Gareth Stirling",
+     "Wallop"
+    ],
+    [
+     2485,
+     "Thomas Schumacher & Victor Ruiz",
+     "Apollo"
+    ],
+    [
+     2525,
+     "Soundridemusic",
+     "Future"
+    ],
+    [
+     2565,
+     "Soundridemusic",
+     "Future"
+    ],
+    [
+     2605,
+     "Ziger",
+     "Pleasure"
+    ],
+    [
+     2645,
+     "Ziger",
+     "Feel the Bass"
+    ],
+    [
+     2685,
+     "Paperclip People",
+     "Throw (Slam's RTM Remix)"
+    ],
+    [
+     2725,
+     "Sequo",
+     "Mwaki"
+    ],
+    [
+     2765,
+     "Jam & Spoon",
+     "Right in the Night (feat. Plavka) [Morttagua Extended Remix]"
+    ],
+    [
+     2805,
+     "Dj Izzy Duzzit",
+     "Selena Mix"
+    ],
+    [
+     2845,
+     "Jos & Eli",
+     "Overdose"
+    ],
+    [
+     2885,
+     "Jos & Eli",
+     "Overdose"
+    ],
+    [
+     2925,
+     "Nightrush",
+     "Black Night, White Light"
+    ],
+    [
+     2965,
+     "Lipps, Inc.",
+     "Funkytown (Long Version)"
+    ],
+    [
+     3005,
+     "Nils Hoffmann",
+     "Far Behind (feat. Panama) [Extended Mix]"
+    ],
+    [
+     3045,
+     "Jark Prongo",
+     "Complete Control (2011 Edit)"
+    ],
+    [
+     3085,
+     "MEDUZA",
+     "Tell It To My Heart (feat. Hozier)"
+    ],
+    [
+     3125,
+     "Deep Inside",
+     "Soul Scape (Extended Mix) [Mixed]"
+    ],
+    [
+     3165,
+     "Azzurri Balo Beat",
+     "Oh Le Oh Le"
+    ],
+    [
+     3205,
+     "Thomas Schumacher & Victor Ruiz",
+     "Apollo"
+    ],
+    [
+     3245,
+     "Deep Inside",
+     "Soul Scape (Extended Mix) [Mixed]"
+    ],
+    [
+     3285,
+     "Deep Inside",
+     "Soul Scape (Extended Mix) [Mixed]"
+    ],
+    [
+     3325,
+     "Deep Inside",
+     "Soul Scape (Extended Mix) [Mixed]"
+    ],
+    [
+     3365,
+     "Rigopolar",
+     "Espiral"
+    ],
+    [
+     3405,
+     "Azzurri Balo Beat",
+     "Oh Le Oh Le"
+    ],
+    [
+     3445,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ],
+    [
+     3485,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ],
+    [
+     3525,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ],
+    [
+     3565,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ],
+    [
+     3605,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ],
+    [
+     3645,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ],
+    [
+     3685,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ],
+    [
+     3725,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ],
+    [
+     3765,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ],
+    [
+     3805,
+     "Monolink",
+     "Return to Oz (ARTBAT Remix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 88.1
+}

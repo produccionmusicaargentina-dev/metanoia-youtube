@@ -1,0 +1,424 @@
+{
+ "ep": 354,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Joaquin Tibaldi",
+   "start": 0,
+   "times": [
+    0,
+    305,
+    465,
+    825,
+    1025,
+    1505,
+    1705,
+    1985,
+    2305,
+    2465,
+    2865,
+    3034
+   ],
+   "ok": 11,
+   "n": 12,
+   "escuchado": [
+    [
+     5,
+     "dj. herediax",
+     "Breath of Two Souls"
+    ],
+    [
+     45,
+     "Matter",
+     "Elsewhere"
+    ],
+    [
+     85,
+     "Lello B.",
+     "L.O.V.E (Lello B Remix)"
+    ],
+    [
+     125,
+     "Matter",
+     "Elsewhere"
+    ],
+    [
+     165,
+     "S.A.M.",
+     "Spotlight (feat. Sarah Ikumu) [Mousse T. Extended Shizzle Mix]"
+    ],
+    [
+     205,
+     "Ralph Noah & U-Gin",
+     "L'appuntamento"
+    ],
+    [
+     245,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique)"
+    ],
+    [
+     285,
+     "Matter",
+     "Elsewhere"
+    ],
+    [
+     325,
+     "Meeting Molly",
+     "Double Tree"
+    ],
+    [
+     365,
+     "Meeting Molly",
+     "Double Tree"
+    ],
+    [
+     405,
+     "Meeting Molly",
+     "Double Tree"
+    ],
+    [
+     445,
+     "Meeting Molly",
+     "Double Tree"
+    ],
+    [
+     485,
+     "Michael A",
+     "Immensity"
+    ],
+    [
+     525,
+     "Tommy Vercetti",
+     "Pressure Drop"
+    ],
+    [
+     565,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     605,
+     "Michael A",
+     "Immensity"
+    ],
+    [
+     645,
+     "Michael A",
+     "Immensity"
+    ],
+    [
+     685,
+     "Michael A",
+     "Immensity"
+    ],
+    [
+     725,
+     "Desta Cullen",
+     "Dream"
+    ],
+    [
+     765,
+     "Alvaro Albarran",
+     "Tubah - Single"
+    ],
+    [
+     805,
+     "Halo Varga",
+     "My Sound"
+    ],
+    [
+     845,
+     "Halo Varga",
+     "Future!"
+    ],
+    [
+     885,
+     "Halo Varga",
+     "My Sound"
+    ],
+    [
+     925,
+     "Halo Varga",
+     "Future (Guy J Remix)"
+    ],
+    [
+     965,
+     "Halo Varga",
+     "Future (Guy J Remix)"
+    ],
+    [
+     1005,
+     "Halo Varga",
+     "Future (Guy J Remix)"
+    ],
+    [
+     1045,
+     "Jiminy Hop",
+     "A Tour (Simos Tagias Remix)"
+    ],
+    [
+     1085,
+     "Jiminy Hop",
+     "A Tour (Simos Tagias Remix)"
+    ],
+    [
+     1125,
+     "Jiminy Hop",
+     "A Tour (Simos Tagias Remix)"
+    ],
+    [
+     1165,
+     "Jiminy Hop",
+     "A Tour (Simos Tagias Remix)"
+    ],
+    [
+     1205,
+     "Jiminy Hop",
+     "A Tour (Simos Tagias Remix)"
+    ],
+    [
+     1245,
+     "Jiminy Hop",
+     "A Tour (Simos Tagias Remix)"
+    ],
+    [
+     1285,
+     "Jiminy Hop",
+     "A Tour (Simos Tagias Remix)"
+    ],
+    [
+     1325,
+     "Sébastien Léger",
+     "Extassy"
+    ],
+    [
+     1365,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique)"
+    ],
+    [
+     1405,
+     "Jonatas C",
+     "Jack"
+    ],
+    [
+     1445,
+     "DJ Chus & Harry Romero",
+     "Celebrate Life (Extended Mix)"
+    ],
+    [
+     1485,
+     "David Glass",
+     "In My Heart"
+    ],
+    [
+     1525,
+     "Guy J",
+     "No Drama"
+    ],
+    [
+     1565,
+     "Bad Bunny & Los Pleneros de la Cresta",
+     "CAFé CON RON"
+    ],
+    [
+     1605,
+     "Jonatas C",
+     "Jack"
+    ],
+    [
+     1645,
+     "Jesse Rose & Avon Stringer",
+     "Pressure"
+    ],
+    [
+     1685,
+     "Ralph Noah & U-Gin",
+     "L'appuntamento"
+    ],
+    [
+     1725,
+     "GMJ & Matter",
+     "Telomeres"
+    ],
+    [
+     1765,
+     "GMJ & Matter",
+     "Telomeres"
+    ],
+    [
+     1805,
+     "GMJ & Matter",
+     "Telomeres"
+    ],
+    [
+     1845,
+     "GMJ & Matter",
+     "Telomeres"
+    ],
+    [
+     1885,
+     "Caiwo",
+     "Playing Games (Digitaria Remix)"
+    ],
+    [
+     1925,
+     "GMJ & Matter",
+     "Telomeres"
+    ],
+    [
+     1965,
+     "Rhythm&Soul",
+     "1998"
+    ],
+    [
+     2005,
+     "3.14",
+     "Reminder"
+    ],
+    [
+     2045,
+     "3.14",
+     "Reminder"
+    ],
+    [
+     2085,
+     "3.14",
+     "Reminder"
+    ],
+    [
+     2125,
+     "3.14",
+     "Reminder"
+    ],
+    [
+     2165,
+     "3.14",
+     "Reminder"
+    ],
+    [
+     2205,
+     "3.14",
+     "Reminder"
+    ],
+    [
+     2245,
+     "Sidekick",
+     "Deep Fear (Glauko & Neil Amarey Afro Remix)"
+    ],
+    [
+     2285,
+     "3.14",
+     "Reminder"
+    ],
+    [
+     2325,
+     "Michael A",
+     "Impact"
+    ],
+    [
+     2365,
+     "Michael A",
+     "Impact"
+    ],
+    [
+     2405,
+     "Dave Storm",
+     "Happy Endz (Deep Inc Remix)"
+    ],
+    [
+     2445,
+     "Michael A",
+     "Impact"
+    ],
+    [
+     2485,
+     "Maze 28",
+     "Leave the World Behind"
+    ],
+    [
+     2525,
+     "Maze 28",
+     "Leave the World Behind"
+    ],
+    [
+     2565,
+     "Maze 28",
+     "Leave the World Behind"
+    ],
+    [
+     2605,
+     "Maze 28",
+     "Leave the World Behind"
+    ],
+    [
+     2645,
+     "Format:B",
+     "Chunky"
+    ],
+    [
+     2685,
+     "Format:B",
+     "Chunky"
+    ],
+    [
+     2725,
+     "Erre",
+     "Always the Same Eyes (Andres Luque Remix)"
+    ],
+    [
+     2765,
+     "MEDUZA & Goodboys",
+     "Piece Of Your Heart"
+    ],
+    [
+     2805,
+     "Frankey & Sandrino",
+     "Acamar"
+    ],
+    [
+     2845,
+     "Solomun",
+     "Something We All Adore"
+    ],
+    [
+     2885,
+     "Guy J",
+     "We Do It Best"
+    ],
+    [
+     2925,
+     "Frankey & Sandrino",
+     "Acamar"
+    ],
+    [
+     2965,
+     "Guy J",
+     "We Do It Best"
+    ],
+    [
+     3005,
+     "Guy J",
+     "We Do It Best"
+    ],
+    [
+     3045,
+     "Tanya Louise",
+     "Deep in You (Rob's Vibey Dub)"
+    ],
+    [
+     3085,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     3125,
+     "Planet Funk & Makebo",
+     "Chase the Sun (Makebo Remix - Extended Mix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 37.8
+}
