@@ -1,0 +1,459 @@
+{
+ "ep": 349,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "MANTIJ",
+   "start": 0,
+   "times": [
+    0,
+    328,
+    657,
+    985,
+    1425,
+    1705,
+    1985,
+    2265,
+    2545,
+    2785,
+    3185,
+    3522
+   ],
+   "ok": 7,
+   "n": 12,
+   "escuchado": [
+    [
+     5,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     85,
+     "Guille Placencia & George Privatti",
+     "What a Bam"
+    ],
+    [
+     125,
+     "Yohai Mor",
+     "The Itzkoim"
+    ],
+    [
+     165,
+     "Aman Anand & Da Luka",
+     "Mythical Creatures"
+    ],
+    [
+     325,
+     "Weird Sounding Dude",
+     "Edge of the Ocean"
+    ],
+    [
+     365,
+     "Weird Sounding Dude",
+     "Edge of the Ocean"
+    ],
+    [
+     405,
+     "Sidekick",
+     "Deep Fear (Glauko & Neil Amarey Afro Remix)"
+    ],
+    [
+     445,
+     "Notre Dame",
+     "Nobody Told Me"
+    ],
+    [
+     485,
+     "Bad Bunny & JHAYCO",
+     "DÁKITI"
+    ],
+    [
+     525,
+     "Bad Bunny & JHAYCO",
+     "DÁKITI"
+    ],
+    [
+     565,
+     "Fabio Fuso",
+     "Obscurity"
+    ],
+    [
+     605,
+     "Weird Sounding Dude",
+     "Edge of the Ocean"
+    ],
+    [
+     645,
+     "Sidekick",
+     "Deep Fear (Glauko & Neil Amarey Afro Remix)"
+    ],
+    [
+     685,
+     "Weird Sounding Dude",
+     "Edge of the Ocean"
+    ],
+    [
+     725,
+     "Weekend Heroes",
+     "Off Limit (Cid Inc. Remix)"
+    ],
+    [
+     765,
+     "Ali Bakgor",
+     "In a Dream (Extended)"
+    ],
+    [
+     805,
+     "Weekend Heroes",
+     "Off Limit (Cid Inc. Remix)"
+    ],
+    [
+     845,
+     "Weekend Heroes",
+     "Off Limit (Cid Inc. Remix)"
+    ],
+    [
+     885,
+     "Weekend Heroes",
+     "Off Limit (Cid Inc. Remix)"
+    ],
+    [
+     925,
+     "Weekend Heroes",
+     "Off Limit (Cid Inc. Remix)"
+    ],
+    [
+     965,
+     "Weekend Heroes",
+     "Off Limit (Cid Inc. Remix)"
+    ],
+    [
+     1005,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1045,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1085,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1125,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1165,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1205,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1245,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1285,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1325,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1365,
+     "Stereo Underground",
+     "Zooz"
+    ],
+    [
+     1405,
+     "Gaetano C & DePandis",
+     "Saw"
+    ],
+    [
+     1445,
+     "Ricky Ryan & Maze 28",
+     "Redeemer"
+    ],
+    [
+     1485,
+     "Ziger",
+     "Feel the Bass"
+    ],
+    [
+     1525,
+     "Gokhan Aydogmus",
+     "Rabbit"
+    ],
+    [
+     1565,
+     "Ricky Ryan & Maze 28",
+     "Redeemer"
+    ],
+    [
+     1605,
+     "Euge Bonifacio",
+     "Mi Refe"
+    ],
+    [
+     1645,
+     "Ricky Ryan & Maze 28",
+     "Redeemer"
+    ],
+    [
+     1685,
+     "Ricky Ryan & Maze 28",
+     "Redeemer"
+    ],
+    [
+     1725,
+     "Michael A",
+     "Shine a Light"
+    ],
+    [
+     1765,
+     "Michael A",
+     "Shine a Light"
+    ],
+    [
+     1805,
+     "Michael A",
+     "Shine a Light"
+    ],
+    [
+     1845,
+     "Michael A",
+     "Shine a Light"
+    ],
+    [
+     1885,
+     "Michael A",
+     "Shine a Light"
+    ],
+    [
+     1925,
+     "Michael A",
+     "Shine a Light"
+    ],
+    [
+     1965,
+     "Deep House Hz",
+     "Ibiza Deep House"
+    ],
+    [
+     2005,
+     "Michael A",
+     "Shine a Light"
+    ],
+    [
+     2285,
+     "BekirDok",
+     "Aldatıldık"
+    ],
+    [
+     2325,
+     "Mantij",
+     "From Within (Jefrey Blake Remix)"
+    ],
+    [
+     2365,
+     "Mantij",
+     "From Within (Jefrey Blake Remix)"
+    ],
+    [
+     2405,
+     "Mantij",
+     "From Within (Jefrey Blake Remix)"
+    ],
+    [
+     2445,
+     "Sharam Jey",
+     "Love Hurts (BAKKA Remix)"
+    ],
+    [
+     2485,
+     "Mantij",
+     "From Within (Jefrey Blake Remix)"
+    ],
+    [
+     2525,
+     "Andrés Moris & AltSenses",
+     "Mystic Thoughts"
+    ],
+    [
+     2565,
+     "Hobin Rude",
+     "Beyond the Empty Air"
+    ],
+    [
+     2605,
+     "Hobin Rude",
+     "Beyond the Empty Air"
+    ],
+    [
+     2645,
+     "Hobin Rude",
+     "Beyond the Empty Air"
+    ],
+    [
+     2685,
+     "Hobin Rude",
+     "Beyond the Empty Air"
+    ],
+    [
+     2725,
+     "Hobin Rude",
+     "Beyond the Empty Air"
+    ],
+    [
+     2765,
+     "Hobin Rude",
+     "Beyond the Empty Air"
+    ],
+    [
+     2805,
+     "Aman Anand & Da Luka",
+     "Mythical Creatures"
+    ],
+    [
+     2845,
+     "Daniel Madlung & Johannes Retschke",
+     "Foursday"
+    ],
+    [
+     2885,
+     "Aman Anand & Da Luka",
+     "Mythical Creatures"
+    ],
+    [
+     2925,
+     "Rosie Gaines",
+     "Closer Than Close (Mentor Club Mix)"
+    ],
+    [
+     2965,
+     "Rosie Gaines",
+     "Closer Than Close (Mentor Club Mix)"
+    ],
+    [
+     3005,
+     "Adana Twins",
+     "Little Karlo"
+    ],
+    [
+     3045,
+     "Aman Anand & Da Luka",
+     "Mythical Creatures"
+    ],
+    [
+     3085,
+     "DJNURA",
+     "Mykonos Nights (Afro Greek Mix)"
+    ],
+    [
+     3125,
+     "Stephan Crown & EiZer G",
+     "Bouncing"
+    ],
+    [
+     3165,
+     "Aman Anand & Da Luka",
+     "Mythical Creatures"
+    ],
+    [
+     3205,
+     "Agustin Pietrocola",
+     "Amethyst"
+    ],
+    [
+     3245,
+     "Approaching Nirvana",
+     "Stop"
+    ],
+    [
+     3285,
+     "Approaching Nirvana",
+     "Stop"
+    ],
+    [
+     3325,
+     "Jubin Nautiyal",
+     "Zindagi Kuch Toh Bata (Reprise)"
+    ],
+    [
+     3365,
+     "Marcos Verrecchia",
+     "Harmonic Waves"
+    ],
+    [
+     3405,
+     "Starkato",
+     "Python"
+    ],
+    [
+     3445,
+     "Mantij",
+     "Beyond Midnight"
+    ],
+    [
+     3485,
+     "Mantij",
+     "Beyond Midnight"
+    ],
+    [
+     3525,
+     "Mantij",
+     "Beyond Midnight"
+    ],
+    [
+     3565,
+     "Mantij",
+     "Beyond Midnight"
+    ],
+    [
+     3605,
+     "Mantij",
+     "Beyond Midnight"
+    ],
+    [
+     3645,
+     "Mantij",
+     "Beyond Midnight"
+    ],
+    [
+     3685,
+     "Mantij",
+     "Beyond Midnight"
+    ],
+    [
+     3725,
+     "Mantij",
+     "Beyond Midnight"
+    ],
+    [
+     3765,
+     "Mantij",
+     "Beyond Midnight"
+    ],
+    [
+     3805,
+     "Mantij",
+     "Beyond Midnight"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 43.3
+}

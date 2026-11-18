@@ -1,0 +1,493 @@
+{
+ "ep": 348,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "ICON",
+   "start": 0,
+   "times": [
+    0,
+    465,
+    825,
+    945,
+    1305,
+    1625,
+    1945,
+    2265,
+    2585,
+    2905,
+    3345
+   ],
+   "ok": 11,
+   "n": 11,
+   "escuchado": [
+    [
+     5,
+     "Mondragon",
+     "Doh"
+    ],
+    [
+     45,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     85,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     125,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     165,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     205,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     245,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     285,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     325,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     365,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     405,
+     "Alto Astral",
+     "Sea Breeze"
+    ],
+    [
+     445,
+     "Jonny Calypso",
+     "Teenager 2K15"
+    ],
+    [
+     485,
+     "Bondarev",
+     "Luceous (Vegaz SL Remix)"
+    ],
+    [
+     525,
+     "Bondarev",
+     "Luceous (Vegaz SL Remix)"
+    ],
+    [
+     565,
+     "Bondarev",
+     "Luceous (Vegaz SL Remix)"
+    ],
+    [
+     605,
+     "Bondarev",
+     "Luceous (Vegaz SL Remix)"
+    ],
+    [
+     645,
+     "Bondarev",
+     "Luceous (Vegaz SL Remix)"
+    ],
+    [
+     685,
+     "Bondarev",
+     "Luceous (Vegaz SL Remix)"
+    ],
+    [
+     725,
+     "Rosie Gaines",
+     "Closer Than Close (Mentor Club Mix)"
+    ],
+    [
+     765,
+     "Rosie Gaines",
+     "Closer Than Close (Mentor Club Mix)"
+    ],
+    [
+     805,
+     "Bondarev",
+     "Luceous (Vegaz SL Remix)"
+    ],
+    [
+     845,
+     "Bondarev",
+     "Jupiter (feat. Denis Babin) [Mayro Remix]"
+    ],
+    [
+     885,
+     "SolyMar & Megamen",
+     "All I Need"
+    ],
+    [
+     925,
+     "Maesic, Marshall Jefferson & Salomé Das",
+     "Life Is Simple (Move Your Body)"
+    ],
+    [
+     965,
+     "Lavie Au Soleil & Oreiente",
+     "Freres"
+    ],
+    [
+     1005,
+     "Lavie Au Soleil & Oreiente",
+     "Freres"
+    ],
+    [
+     1045,
+     "Lavie Au Soleil & Oreiente",
+     "Freres"
+    ],
+    [
+     1085,
+     "Lavie Au Soleil & Oreiente",
+     "Freres"
+    ],
+    [
+     1125,
+     "Lavie Au Soleil & Oreiente",
+     "Freres"
+    ],
+    [
+     1165,
+     "AFRO HOUSE AUTHORITY",
+     "Midnight Anthem (AFRO HOUSE)"
+    ],
+    [
+     1205,
+     "Lavie Au Soleil & Oreiente",
+     "Freres"
+    ],
+    [
+     1245,
+     "Lavie Au Soleil & Oreiente",
+     "Freres"
+    ],
+    [
+     1285,
+     "Lavie Au Soleil & Oreiente",
+     "Freres"
+    ],
+    [
+     1325,
+     "Bynomic & NOIYSE PROJECT",
+     "Hyperquantum (Maze 28 Remix) [Mixed]"
+    ],
+    [
+     1365,
+     "The DangerFeel Newbies",
+     "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+    ],
+    [
+     1405,
+     "Bynomic & NOIYSE PROJECT",
+     "Hyperquantum (Maze 28 Remix) [Mixed]"
+    ],
+    [
+     1445,
+     "Bynomic & NOIYSE PROJECT",
+     "Hyperquantum (Maze 28 Remix) [Mixed]"
+    ],
+    [
+     1485,
+     "Ash kw Davies",
+     "Uplift"
+    ],
+    [
+     1525,
+     "Bynomic & NOIYSE PROJECT",
+     "Hyperquantum (Maze 28 Remix) [Mixed]"
+    ],
+    [
+     1565,
+     "Bynomic & NOIYSE PROJECT",
+     "Hyperquantum (Maze 28 Remix) [Mixed]"
+    ],
+    [
+     1605,
+     "Bynomic & NOIYSE PROJECT",
+     "Hyperquantum (Maze 28 Remix) [Mixed]"
+    ],
+    [
+     1645,
+     "Ruben Karapetyan",
+     "Neurotransmitter (Extended Mix)"
+    ],
+    [
+     1685,
+     "Sandy B",
+     "Make the World Go Round (Deep Dish Radio Edit)"
+    ],
+    [
+     1725,
+     "Ruben Karapetyan",
+     "Neurotransmitter (Extended Mix)"
+    ],
+    [
+     1765,
+     "Starkato",
+     "Python"
+    ],
+    [
+     1805,
+     "Kamilo Sanclemente & Mauro Aguirre",
+     "Smoke Machine"
+    ],
+    [
+     1845,
+     "Dj Piligrim",
+     "Дед на стиле (extended version)"
+    ],
+    [
+     1885,
+     "Ohmme",
+     "Fashion"
+    ],
+    [
+     1925,
+     "Gaetano C & DePandis",
+     "Saw"
+    ],
+    [
+     1965,
+     "Rockka",
+     "Operator (Maze 28 Remix)"
+    ],
+    [
+     2005,
+     "Rockka",
+     "Operator (Maze 28 Remix)"
+    ],
+    [
+     2045,
+     "Campaner (BR)",
+     "Equilibrio"
+    ],
+    [
+     2085,
+     "Rockka",
+     "Operator (Maze 28 Remix)"
+    ],
+    [
+     2125,
+     "Kamelia",
+     "Perfect Couple"
+    ],
+    [
+     2165,
+     "Rockka",
+     "Operator (Maze 28 Remix)"
+    ],
+    [
+     2205,
+     "Rockka",
+     "Operator (Maze 28 Remix)"
+    ],
+    [
+     2245,
+     "Jam & Spoon",
+     "Right in the Night (feat. Plavka) [Morttagua Extended Remix]"
+    ],
+    [
+     2285,
+     "Matthew Sona",
+     "Mystiko"
+    ],
+    [
+     2325,
+     "Matthew Sona",
+     "Mystiko"
+    ],
+    [
+     2365,
+     "Matthew Sona",
+     "Mystiko"
+    ],
+    [
+     2405,
+     "Matthew Sona",
+     "Mystiko"
+    ],
+    [
+     2445,
+     "Matthew Sona",
+     "Mystiko"
+    ],
+    [
+     2485,
+     "Nick Curly",
+     "Underground (Dennis Ferrer Remix) [Mixed]"
+    ],
+    [
+     2525,
+     "Matthew Sona",
+     "Mystiko"
+    ],
+    [
+     2565,
+     "Matthew Sona",
+     "Mystiko"
+    ],
+    [
+     2605,
+     "Tantum",
+     "Out of Nowhere (Subandrio Remix)"
+    ],
+    [
+     2645,
+     "Tantum",
+     "Out of Nowhere (Subandrio Remix)"
+    ],
+    [
+     2685,
+     "Tantum",
+     "Out of Nowhere (Subandrio Remix)"
+    ],
+    [
+     2725,
+     "Tantum",
+     "Out of Nowhere (Subandrio Remix)"
+    ],
+    [
+     2765,
+     "Tantum",
+     "Out of Nowhere (Subandrio Remix)"
+    ],
+    [
+     2805,
+     "Tantum",
+     "Out of Nowhere (Subandrio Remix)"
+    ],
+    [
+     2845,
+     "Tantum",
+     "Out of Nowhere (Subandrio Remix)"
+    ],
+    [
+     2885,
+     "Luca Lozano & Mr. Ho",
+     "Different Circles (Nicson Remix)"
+    ],
+    [
+     2925,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     2965,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     3005,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     3045,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     3085,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     3125,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     3165,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     3205,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     3245,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     3285,
+     "SONIDDO & AÍRWAVÉ (SL)",
+     "The Final Simulation (Imal SL Remix)"
+    ],
+    [
+     3325,
+     "Luch",
+     "Shepard's Tone"
+    ],
+    [
+     3365,
+     "Bog, Diana Miro & 1926",
+     "Underwater (Hernan Cattaneo & Marcelo Vasami Remix)"
+    ],
+    [
+     3405,
+     "Bog, Diana Miro & 1926",
+     "Underwater (Hernan Cattaneo & Marcelo Vasami Remix)"
+    ],
+    [
+     3445,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ],
+    [
+     3485,
+     "Bog, Diana Miro & 1926",
+     "Underwater (Hernan Cattaneo & Marcelo Vasami Remix)"
+    ],
+    [
+     3525,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ],
+    [
+     3565,
+     "Santi Cebrero",
+     "Requiem for a Dream"
+    ],
+    [
+     3605,
+     "Bog, 1926 & Diana Miro",
+     "Underwater"
+    ],
+    [
+     3645,
+     "Jerome Isma-Ae",
+     "Baharat (Ruben Karapetyan Remix)"
+    ],
+    [
+     3685,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 43.0
+}
