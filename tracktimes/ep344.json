@@ -1,0 +1,484 @@
+{
+ "ep": 344,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Octavio Tchonitch",
+   "start": 0,
+   "times": [
+    0,
+    385,
+    545,
+    665,
+    1105,
+    1385,
+    1745,
+    2065,
+    2385,
+    2665,
+    2945,
+    3305
+   ],
+   "ok": 11,
+   "n": 12,
+   "escuchado": [
+    [
+     5,
+     "Luca Saporito",
+     "Next to Me"
+    ],
+    [
+     45,
+     "Luca Saporito",
+     "Next to Me"
+    ],
+    [
+     85,
+     "Luca Saporito",
+     "Next to Me"
+    ],
+    [
+     125,
+     "Luca Saporito",
+     "Next to Me"
+    ],
+    [
+     165,
+     "Luca Saporito",
+     "Next to Me"
+    ],
+    [
+     205,
+     "Luca Saporito",
+     "Next to Me"
+    ],
+    [
+     245,
+     "Luca Saporito",
+     "Next to Me"
+    ],
+    [
+     285,
+     "Luca Saporito",
+     "Next to Me"
+    ],
+    [
+     325,
+     "Gusto",
+     "Disco's Revenge (Mole Hole Dirty Mix)"
+    ],
+    [
+     365,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     405,
+     "Gastón Sosa",
+     "Amep (HAFT Remix)"
+    ],
+    [
+     445,
+     "Kaipanta",
+     "Gritando"
+    ],
+    [
+     485,
+     "Gastón Sosa",
+     "Amep (HAFT Remix)"
+    ],
+    [
+     525,
+     "Gastón Sosa",
+     "Amep (HAFT Remix)"
+    ],
+    [
+     565,
+     "Alberto Hernandez (MX), Borjo & Sounds Of Sirin",
+     "SIGNS (Extended Mix)"
+    ],
+    [
+     605,
+     "Alberto Hernandez (MX), Borjo & Sounds Of Sirin",
+     "SIGNS (Extended Mix)"
+    ],
+    [
+     645,
+     "Alberto Hernandez (MX), Borjo & Sounds Of Sirin",
+     "SIGNS (Extended Mix)"
+    ],
+    [
+     685,
+     "Zankee Gulati & Amega",
+     "Dark Side (Extended Mix)"
+    ],
+    [
+     725,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     765,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     805,
+     "Luca Lozano & Mr. Ho",
+     "Different Circles (Nicson Remix)"
+    ],
+    [
+     845,
+     "Zankee Gulati & Amega",
+     "Dark Side (Extended Mix)"
+    ],
+    [
+     885,
+     "Zankee Gulati & Amega",
+     "Dark Side (Extended Mix)"
+    ],
+    [
+     925,
+     "Zankee Gulati & Amega",
+     "Dark Side (Extended Mix)"
+    ],
+    [
+     965,
+     "Zankee Gulati & Amega",
+     "Dark Side (Extended Mix)"
+    ],
+    [
+     1005,
+     "Zankee Gulati & Amega",
+     "Dark Side (Extended Mix)"
+    ],
+    [
+     1045,
+     "Zankee Gulati & Amega",
+     "Dark Side (Extended Mix)"
+    ],
+    [
+     1085,
+     "Zankee Gulati & Amega",
+     "Dark Side (Extended Mix)"
+    ],
+    [
+     1125,
+     "Wassu",
+     "Endless Love (Haft Remix)"
+    ],
+    [
+     1165,
+     "Earth, Wind & Fire",
+     "September '99 (Re-Edit)"
+    ],
+    [
+     1205,
+     "The Godfathers Of Deep House SA",
+     "Lets Play House (Nostalgic Mix)"
+    ],
+    [
+     1245,
+     "Wassu",
+     "Endless Love (Haft Remix)"
+    ],
+    [
+     1285,
+     "Toma Cassian",
+     "C.A.T. / Deep House Sunset Session vol.1"
+    ],
+    [
+     1325,
+     "Wassu",
+     "Endless Love (Haft Remix)"
+    ],
+    [
+     1365,
+     "Wassu",
+     "Endless Love (Haft Remix)"
+    ],
+    [
+     1405,
+     "JFR",
+     "Sada (Extended Mix)"
+    ],
+    [
+     1445,
+     "DJ LAWY",
+     "LOVE IT (VIBE)"
+    ],
+    [
+     1485,
+     "JFR",
+     "Sada (Extended Mix)"
+    ],
+    [
+     1525,
+     "JFR",
+     "Sada (Extended Mix)"
+    ],
+    [
+     1565,
+     "JFR",
+     "Sada (Extended Mix)"
+    ],
+    [
+     1605,
+     "DJ Gaston",
+     "Tropical E"
+    ],
+    [
+     1645,
+     "JFR",
+     "Sada (Extended Mix)"
+    ],
+    [
+     1685,
+     "JFR",
+     "Sada (Extended Mix)"
+    ],
+    [
+     1725,
+     "JFR",
+     "Sada (Extended Mix)"
+    ],
+    [
+     1765,
+     "Kamilo Sanclemente",
+     "Balade"
+    ],
+    [
+     1805,
+     "Kamilo Sanclemente",
+     "Balade"
+    ],
+    [
+     1845,
+     "Kamilo Sanclemente",
+     "Balade"
+    ],
+    [
+     1885,
+     "Kamilo Sanclemente",
+     "Balade"
+    ],
+    [
+     1925,
+     "Kamilo Sanclemente",
+     "Balade"
+    ],
+    [
+     1965,
+     "Kamilo Sanclemente",
+     "Balade"
+    ],
+    [
+     2005,
+     "Kamilo Sanclemente",
+     "Balade"
+    ],
+    [
+     2045,
+     "Kamilo Sanclemente",
+     "Balade"
+    ],
+    [
+     2085,
+     "Artic White & Sances",
+     "Motions"
+    ],
+    [
+     2125,
+     "Artic White & Sances",
+     "Motions"
+    ],
+    [
+     2165,
+     "Before Mars",
+     "Genesis (Extended Mix)"
+    ],
+    [
+     2205,
+     "Riva Starr",
+     "Feel It"
+    ],
+    [
+     2245,
+     "WhyAsk!",
+     "Emotional Tekk"
+    ],
+    [
+     2285,
+     "Artic White & Sances",
+     "Motions"
+    ],
+    [
+     2325,
+     "Somebody Hear Me",
+     "True Love"
+    ],
+    [
+     2365,
+     "Kenelm Mark",
+     "Sonic Velvet Afterglow"
+    ],
+    [
+     2405,
+     "Facundo Mohrr & Valdovinos",
+     "Déjà Vu"
+    ],
+    [
+     2445,
+     "Stan Kolev",
+     "Originate"
+    ],
+    [
+     2485,
+     "Facundo Mohrr & Valdovinos",
+     "Déjà Vu"
+    ],
+    [
+     2525,
+     "Facundo Mohrr & Valdovinos",
+     "Déjà Vu"
+    ],
+    [
+     2565,
+     "Facundo Mohrr & Valdovinos",
+     "Déjà Vu"
+    ],
+    [
+     2605,
+     "Facundo Mohrr & Valdovinos",
+     "Déjà Vu"
+    ],
+    [
+     2645,
+     "Facundo Mohrr & Valdovinos",
+     "Déjà Vu"
+    ],
+    [
+     2685,
+     "Planet Funk & Makebo",
+     "Chase the Sun (Makebo Remix - Extended Mix)"
+    ],
+    [
+     2725,
+     "Marian",
+     "Obsidian"
+    ],
+    [
+     2765,
+     "Barbara Tucker",
+     "Beautiful People (Underground Network Mix)"
+    ],
+    [
+     2805,
+     "Barbara Tucker",
+     "Beautiful People (Underground Network Mix)"
+    ],
+    [
+     2845,
+     "Marian",
+     "Obsidian"
+    ],
+    [
+     2885,
+     "Marian",
+     "Obsidian"
+    ],
+    [
+     2925,
+     "Negrocan",
+     "Cada Vez (Richard Earnshaw Club Mix)"
+    ],
+    [
+     2965,
+     "RIGOONI",
+     "Petrichor (Extended Mix)"
+    ],
+    [
+     3005,
+     "RIGOONI",
+     "Petrichor (Extended Mix)"
+    ],
+    [
+     3045,
+     "Walmanner",
+     "Living In Matrix"
+    ],
+    [
+     3085,
+     "Symbolico",
+     "I'm Free"
+    ],
+    [
+     3125,
+     "RIGOONI",
+     "Petrichor (Extended Mix)"
+    ],
+    [
+     3165,
+     "Walmanner",
+     "Living In Matrix"
+    ],
+    [
+     3205,
+     "RIGOONI",
+     "Petrichor (Extended Mix)"
+    ],
+    [
+     3245,
+     "Walmanner",
+     "Living In Matrix"
+    ],
+    [
+     3285,
+     "Walmanner",
+     "Living In Matrix"
+    ],
+    [
+     3325,
+     "Facundo Mohrr & Polo (Ar)",
+     "Hermosa"
+    ],
+    [
+     3365,
+     "Facundo Mohrr & Polo (Ar)",
+     "Hermosa"
+    ],
+    [
+     3405,
+     "Facundo Mohrr & Polo (Ar)",
+     "Hermosa"
+    ],
+    [
+     3445,
+     "Facundo Mohrr & Polo (Ar)",
+     "Hermosa"
+    ],
+    [
+     3485,
+     "Facundo Mohrr & Polo (Ar)",
+     "Hermosa"
+    ],
+    [
+     3525,
+     "Facundo Mohrr & Polo (Ar)",
+     "Hermosa"
+    ],
+    [
+     3565,
+     "Facundo Mohrr & Polo (Ar)",
+     "Hermosa"
+    ],
+    [
+     3605,
+     "PAWSA",
+     "Too Cool To Be Careless"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 42.0
+}

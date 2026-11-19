@@ -1,0 +1,1130 @@
+{
+ "ep": 346,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    225,
+    465,
+    745,
+    945,
+    1185,
+    1545,
+    1945,
+    2305,
+    2585,
+    2745,
+    3065,
+    3345,
+    3585,
+    3945,
+    4145,
+    4425,
+    4705,
+    4945
+   ],
+   "ok": 19,
+   "n": 19,
+   "escuchado": [
+    [
+     5,
+     "Cem Gemalmaz",
+     "Celeste"
+    ],
+    [
+     45,
+     "Cem Gemalmaz",
+     "Celeste"
+    ],
+    [
+     85,
+     "Cem Gemalmaz",
+     "Celeste"
+    ],
+    [
+     125,
+     "Cem Gemalmaz",
+     "Celeste"
+    ],
+    [
+     165,
+     "Cem Gemalmaz",
+     "Celeste"
+    ],
+    [
+     205,
+     "Cem Gemalmaz",
+     "Celeste"
+    ],
+    [
+     245,
+     "Intus & Air Horse One",
+     "Zeitlupe (Air Horse One Remix)"
+    ],
+    [
+     285,
+     "Intus & Air Horse One",
+     "Zeitlupe (Air Horse One Remix)"
+    ],
+    [
+     325,
+     "Intus & Air Horse One",
+     "Zeitlupe (Air Horse One Remix)"
+    ],
+    [
+     365,
+     "Intus & Air Horse One",
+     "Zeitlupe (Air Horse One Remix)"
+    ],
+    [
+     405,
+     "Intus & Air Horse One",
+     "Zeitlupe (Air Horse One Remix)"
+    ],
+    [
+     445,
+     "Intus & Air Horse One",
+     "Zeitlupe (Air Horse One Remix)"
+    ],
+    [
+     485,
+     "colour your mind, Tronje Kaemena & Seyde",
+     "Deser(t)rain (Seyde Remix)"
+    ],
+    [
+     525,
+     "colour your mind, Tronje Kaemena & Seyde",
+     "Deser(t)rain (Seyde Remix)"
+    ],
+    [
+     565,
+     "colour your mind, Tronje Kaemena & Seyde",
+     "Deser(t)rain (Seyde Remix)"
+    ],
+    [
+     605,
+     "colour your mind, Tronje Kaemena & Seyde",
+     "Deser(t)rain (Seyde Remix)"
+    ],
+    [
+     645,
+     "The Godfathers Of Deep House SA & T'time Zer011",
+     "Find Peace (Nostalgic Mix)"
+    ],
+    [
+     685,
+     "colour your mind, Tronje Kaemena & Seyde",
+     "Deser(t)rain (Seyde Remix)"
+    ],
+    [
+     725,
+     "Walmanner",
+     "Living In Matrix"
+    ],
+    [
+     765,
+     "Oberst & Buchner & Toby Whyle",
+     "Astronauts"
+    ],
+    [
+     805,
+     "Oberst & Buchner, Toby Whyle & Panthera",
+     "Astronauts (Panthera Remix)"
+    ],
+    [
+     845,
+     "Oberst & Buchner, Toby Whyle & Panthera",
+     "Astronauts (Panthera Remix)"
+    ],
+    [
+     885,
+     "Oberst & Buchner, Toby Whyle & Panthera",
+     "Astronauts (Panthera Remix)"
+    ],
+    [
+     925,
+     "Oberst & Buchner & Toby Whyle",
+     "Astronauts"
+    ],
+    [
+     965,
+     "Mula (FR)",
+     "Sk8er (Deep Ändi Remix)"
+    ],
+    [
+     1005,
+     "Mula (FR)",
+     "Sk8er (Deep Ändi Remix)"
+    ],
+    [
+     1045,
+     "Mula (FR)",
+     "Sk8er (Deep Ändi Remix)"
+    ],
+    [
+     1085,
+     "Mula (FR)",
+     "Sk8er (Deep Ändi Remix)"
+    ],
+    [
+     1125,
+     "Mula (FR)",
+     "Sk8er (Deep Ändi Remix)"
+    ],
+    [
+     1165,
+     "Mula (FR)",
+     "Sk8er (Deep Ändi Remix)"
+    ],
+    [
+     1205,
+     "Geju",
+     "Komoedica"
+    ],
+    [
+     1245,
+     "Geju",
+     "Komoedica"
+    ],
+    [
+     1285,
+     "Geju",
+     "Komoedica"
+    ],
+    [
+     1325,
+     "Geju",
+     "Komoedica"
+    ],
+    [
+     1365,
+     "Geju",
+     "Komoedica"
+    ],
+    [
+     1405,
+     "Geju",
+     "Komoedica"
+    ],
+    [
+     1445,
+     "Geju",
+     "Komoedica"
+    ],
+    [
+     1485,
+     "Pandreas",
+     "Rube"
+    ],
+    [
+     1525,
+     "madrascala",
+     "En Malare (feat. doggfather)"
+    ],
+    [
+     1565,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1605,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1645,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1685,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1725,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1765,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1805,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1845,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1885,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1925,
+     "Timboletti",
+     "Dhunche"
+    ],
+    [
+     1965,
+     "Allies for Everyone",
+     "Who Are You Tonight (Baime Remix)"
+    ],
+    [
+     2005,
+     "Allies for Everyone",
+     "Who Are You Tonight (Baime Remix)"
+    ],
+    [
+     2045,
+     "Allies for Everyone",
+     "Who Are You Tonight (Baime Remix)"
+    ],
+    [
+     2085,
+     "Allies for Everyone",
+     "Who Are You Tonight (Baime Remix)"
+    ],
+    [
+     2125,
+     "Allies for Everyone",
+     "Who Are You Tonight (Baime Remix)"
+    ],
+    [
+     2165,
+     "Allies for Everyone",
+     "Who Are You Tonight (Baime Remix)"
+    ],
+    [
+     2205,
+     "Allies for Everyone",
+     "Who Are You Tonight (Baime Remix)"
+    ],
+    [
+     2245,
+     "Allies for Everyone",
+     "Who Are You Tonight (Baime Remix)"
+    ],
+    [
+     2285,
+     "Allies for Everyone",
+     "Who Are You Tonight (Baime Remix)"
+    ],
+    [
+     2325,
+     "Dr Parnassus",
+     "Riddler"
+    ],
+    [
+     2365,
+     "Dr Parnassus",
+     "Riddler"
+    ],
+    [
+     2405,
+     "Dr Parnassus",
+     "Riddler"
+    ],
+    [
+     2445,
+     "Rosie Gaines",
+     "Closer Than Close (Mentor Club Mix)"
+    ],
+    [
+     2485,
+     "Dr Parnassus",
+     "Riddler"
+    ],
+    [
+     2525,
+     "Dr Parnassus",
+     "Riddler"
+    ],
+    [
+     2565,
+     "Dr Parnassus",
+     "Riddler"
+    ],
+    [
+     2605,
+     "Moscoman & Talee",
+     "Ends Well"
+    ],
+    [
+     2645,
+     "Moscoman & Talee",
+     "Ends Well"
+    ],
+    [
+     2685,
+     "Moscoman & Talee",
+     "Ends Well"
+    ],
+    [
+     2725,
+     "Moscoman & Talee",
+     "Ends Well"
+    ],
+    [
+     2765,
+     "Hyperstellar",
+     "In For A Flash"
+    ],
+    [
+     2805,
+     "Erre",
+     "Always the Same Eyes (Andres Luque Remix)"
+    ],
+    [
+     2845,
+     "Michele Morrone",
+     "Hard For Me"
+    ],
+    [
+     2885,
+     "Machine",
+     "There But for the Grace of God Go I"
+    ],
+    [
+     2925,
+     "Ziger",
+     "Feel the Bass"
+    ],
+    [
+     2965,
+     "Hyperstellar",
+     "In For A Flash"
+    ],
+    [
+     3005,
+     "Approaching Nirvana",
+     "Stop"
+    ],
+    [
+     3045,
+     "Hyperstellar",
+     "In For A Flash"
+    ],
+    [
+     3085,
+     "Alec Solper",
+     "Acid Haze"
+    ],
+    [
+     3125,
+     "Alec Solper",
+     "Acid Haze"
+    ],
+    [
+     3165,
+     "Alec Solper",
+     "Acid Haze"
+    ],
+    [
+     3205,
+     "Alec Solper",
+     "Acid Haze"
+    ],
+    [
+     3245,
+     "Alec Solper",
+     "Acid Haze"
+    ],
+    [
+     3285,
+     "Maae",
+     "The Man"
+    ],
+    [
+     3325,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     3365,
+     "apaj &amp; Flaoh",
+     "Incognito"
+    ],
+    [
+     3405,
+     "apaj &amp; Flaoh",
+     "Incognito"
+    ],
+    [
+     3445,
+     "apaj &amp; Flaoh",
+     "Incognito"
+    ],
+    [
+     3485,
+     "apaj &amp; Flaoh",
+     "Incognito"
+    ],
+    [
+     3525,
+     "apaj &amp; Flaoh",
+     "Incognito"
+    ],
+    [
+     3565,
+     "Khaled Abdrabo & Øntold",
+     "Aurelia (Arиo Remix)"
+    ],
+    [
+     3605,
+     "CERIO",
+     "About You"
+    ],
+    [
+     3645,
+     "CERIO",
+     "About You"
+    ],
+    [
+     3685,
+     "CERIO",
+     "About You"
+    ],
+    [
+     3725,
+     "CERIO",
+     "About You"
+    ],
+    [
+     3765,
+     "CERIO",
+     "About You"
+    ],
+    [
+     3805,
+     "CERIO",
+     "About You"
+    ],
+    [
+     3845,
+     "Adam ASM",
+     "Yanzu ma aka fara daukaka"
+    ],
+    [
+     3885,
+     "CERIO",
+     "About You"
+    ],
+    [
+     3925,
+     "CERIO",
+     "About You"
+    ],
+    [
+     3965,
+     "Silicone Soul",
+     "Inferno (Dirt Crew Remix)"
+    ],
+    [
+     4005,
+     "Oxia",
+     "Domino"
+    ],
+    [
+     4045,
+     "Silicone Soul",
+     "Inferno (Dirt Crew Remix)"
+    ],
+    [
+     4085,
+     "Silicone Soul",
+     "Inferno (Dirt Crew Remix)"
+    ],
+    [
+     4125,
+     "Silicone Soul",
+     "Inferno (Dirt Crew Remix)"
+    ],
+    [
+     4165,
+     "Kalipo",
+     "All Things Must Come To An End (AFFKT Remix)"
+    ],
+    [
+     4205,
+     "Kalipo",
+     "All Things Must Come To An End (AFFKT Remix)"
+    ],
+    [
+     4245,
+     "Kalipo",
+     "All Things Must Come To An End (AFFKT Remix)"
+    ],
+    [
+     4285,
+     "Kalipo",
+     "All Things Must Come To An End (AFFKT Remix)"
+    ],
+    [
+     4325,
+     "Kalipo",
+     "All Things Must Come To An End (AFFKT Remix)"
+    ],
+    [
+     4365,
+     "Kalipo",
+     "All Things Must Come To An End (AFFKT Remix)"
+    ],
+    [
+     4405,
+     "Kalipo",
+     "All Things Must Come To An End (AFFKT Remix)"
+    ],
+    [
+     4445,
+     "Geju",
+     "Dark Places (Simple Symmetry Acid Mix)"
+    ],
+    [
+     4485,
+     "Geju",
+     "Dark Places (Simple Symmetry Acid Mix)"
+    ],
+    [
+     4525,
+     "Geju",
+     "Dark Places (Simple Symmetry Acid Mix)"
+    ],
+    [
+     4565,
+     "Post S",
+     "Long Way"
+    ],
+    [
+     4605,
+     "Geju",
+     "Dark Places (Simple Symmetry Acid Mix)"
+    ],
+    [
+     4645,
+     "Geju",
+     "Dark Places (Simple Symmetry Acid Mix)"
+    ],
+    [
+     4685,
+     "Geju",
+     "Dark Places (Simple Symmetry Acid Mix)"
+    ],
+    [
+     4725,
+     "Mmyylo",
+     "Fury (Darlyn Vlys Remix)"
+    ],
+    [
+     4765,
+     "Mmyylo",
+     "Fury (Darlyn Vlys Remix)"
+    ],
+    [
+     4805,
+     "Mmyylo",
+     "Fury (Darlyn Vlys Remix)"
+    ],
+    [
+     4845,
+     "Mmyylo",
+     "Fury (Darlyn Vlys Remix)"
+    ],
+    [
+     4885,
+     "Mmyylo",
+     "Fury (Darlyn Vlys Remix)"
+    ],
+    [
+     4925,
+     "Mmyylo",
+     "Fury (Darlyn Vlys Remix)"
+    ],
+    [
+     4965,
+     "Captain Mustache, Third Culture (USA) & Victoria Rawlins",
+     "Camera Lens With Vaseline (Edit)"
+    ],
+    [
+     5005,
+     "Van der Saint",
+     "My Lesson"
+    ],
+    [
+     5045,
+     "Captain Mustache, Third Culture (USA) & Victoria Rawlins",
+     "Camera Lens With Vaseline (Edit)"
+    ],
+    [
+     5085,
+     "Captain Mustache, Third Culture (USA) & Victoria Rawlins",
+     "Camera Lens With Vaseline (Edit)"
+    ],
+    [
+     5125,
+     "Van der Saint",
+     "My Lesson"
+    ],
+    [
+     5165,
+     "Ale F",
+     "Xperience"
+    ],
+    [
+     5205,
+     "Captain Mustache, Third Culture (USA) & Victoria Rawlins",
+     "Camera Lens With Vaseline (Edit)"
+    ]
+   ]
+  },
+  {
+   "artist": "JUANØ",
+   "start": 0,
+   "times": [
+    0,
+    225,
+    545,
+    625,
+    905,
+    1105,
+    1385,
+    1585,
+    1865,
+    2145,
+    2265,
+    2465,
+    3025,
+    3265
+   ],
+   "ok": 14,
+   "n": 14,
+   "escuchado": [
+    [
+     5,
+     "Chloé Caillet",
+     "Moonwalk"
+    ],
+    [
+     45,
+     "Chloé Caillet",
+     "Moonwalk"
+    ],
+    [
+     85,
+     "Chloé Caillet",
+     "Moonwalk"
+    ],
+    [
+     125,
+     "Chloé Caillet",
+     "Moonwalk"
+    ],
+    [
+     165,
+     "Chloé Caillet",
+     "Moonwalk"
+    ],
+    [
+     205,
+     "Chloé Caillet",
+     "Moonwalk"
+    ],
+    [
+     245,
+     "AVG",
+     "Horus"
+    ],
+    [
+     285,
+     "AVG",
+     "Horus (Extended Mix)"
+    ],
+    [
+     325,
+     "AVG",
+     "Horus"
+    ],
+    [
+     365,
+     "AVG",
+     "Horus"
+    ],
+    [
+     405,
+     "Elderbrook",
+     "Lost in the View"
+    ],
+    [
+     445,
+     "Yan Zhang, MD",
+     "Fly"
+    ],
+    [
+     485,
+     "Joe Mesmar",
+     "Feeling My Mind"
+    ],
+    [
+     525,
+     "Yan Zhang, MD",
+     "Fly"
+    ],
+    [
+     565,
+     "Lopezhouse",
+     "Crosses and angels (feat. Angela) [Lopezhouse Dark angel remix]"
+    ],
+    [
+     605,
+     "Lopezhouse",
+     "Crosses and angels (feat. Angela) [Lopezhouse Dark angel remix]"
+    ],
+    [
+     645,
+     "David Guetta, Joachim Garraud & Chris Willis",
+     "Love Don't Let Me Go (Main Mix)"
+    ],
+    [
+     685,
+     "Nanovich",
+     "Palace"
+    ],
+    [
+     805,
+     "Adrian Ivan",
+     "No One Else (Deep Mix)"
+    ],
+    [
+     845,
+     "David Guetta, Joachim Garraud & Chris Willis",
+     "Love Don't Let Me Go (Main Mix)"
+    ],
+    [
+     925,
+     "Chumbita",
+     "Freedom"
+    ],
+    [
+     965,
+     "Chumbita",
+     "Freedom"
+    ],
+    [
+     1005,
+     "Chumbita",
+     "Freedom"
+    ],
+    [
+     1045,
+     "Chumbita",
+     "Freedom"
+    ],
+    [
+     1085,
+     "Chumbita",
+     "Freedom"
+    ],
+    [
+     1125,
+     "GESPONA",
+     "Grand Bazaar"
+    ],
+    [
+     1165,
+     "GESPONA",
+     "Grand Bazaar"
+    ],
+    [
+     1205,
+     "GESPONA",
+     "Grand Bazaar"
+    ],
+    [
+     1245,
+     "GESPONA",
+     "Grand Bazaar"
+    ],
+    [
+     1285,
+     "GESPONA",
+     "Grand Bazaar"
+    ],
+    [
+     1325,
+     "Gaetano C & DePandis",
+     "Saw"
+    ],
+    [
+     1365,
+     "GESPONA",
+     "Grand Bazaar"
+    ],
+    [
+     1405,
+     "Predex",
+     "Defendo"
+    ],
+    [
+     1445,
+     "Damien N-Drix",
+     "Primah"
+    ],
+    [
+     1485,
+     "IANFUNK",
+     "BLISS"
+    ],
+    [
+     1525,
+     "Predex",
+     "Defendo"
+    ],
+    [
+     1565,
+     "Damien N-Drix",
+     "Primah"
+    ],
+    [
+     1605,
+     "Abuk & GESPONA",
+     "Komenko"
+    ],
+    [
+     1645,
+     "Abuk & GESPONA",
+     "Komenko"
+    ],
+    [
+     1685,
+     "Abuk & GESPONA",
+     "Komenko"
+    ],
+    [
+     1725,
+     "Abuk & GESPONA",
+     "Komenko"
+    ],
+    [
+     1765,
+     "Abuk & GESPONA",
+     "Komenko"
+    ],
+    [
+     1805,
+     "Abuk & GESPONA",
+     "Komenko"
+    ],
+    [
+     1885,
+     "ALEX.C",
+     "Hidden Realm"
+    ],
+    [
+     1925,
+     "ALEX.C",
+     "Hidden Realm"
+    ],
+    [
+     1965,
+     "ALEX.C",
+     "Hidden Realm"
+    ],
+    [
+     2005,
+     "ALEX.C",
+     "Hidden Realm"
+    ],
+    [
+     2045,
+     "Raffa Fl",
+     "Ritmo (HUGEL Edit)"
+    ],
+    [
+     2085,
+     "Lello B.",
+     "L.O.V.E (Lello B Remix)"
+    ],
+    [
+     2125,
+     "Jonny Calypso",
+     "Teenager 2K15"
+    ],
+    [
+     2165,
+     "Enes Çakir, Deniz Tekin (TR) & Tolu",
+     "Is It House?"
+    ],
+    [
+     2285,
+     "Alican",
+     "Bring Everything"
+    ],
+    [
+     2325,
+     "Alican",
+     "Bring Everything"
+    ],
+    [
+     2365,
+     "Alican",
+     "Bring Everything"
+    ],
+    [
+     2405,
+     "Alican",
+     "Bring Everything"
+    ],
+    [
+     2445,
+     "Alican",
+     "Bring Everything"
+    ],
+    [
+     2485,
+     "YASS, FNX OMAR & Cee ElAssaad",
+     "Organizm"
+    ],
+    [
+     2525,
+     "YASS, FNX OMAR & Cee ElAssaad",
+     "Organizm"
+    ],
+    [
+     2565,
+     "YASS, FNX OMAR & Cee ElAssaad",
+     "Organizm"
+    ],
+    [
+     2605,
+     "YASS, FNX OMAR & Cee ElAssaad",
+     "Organizm"
+    ],
+    [
+     2645,
+     "YASS, FNX OMAR & Cee ElAssaad",
+     "Organizm"
+    ],
+    [
+     2685,
+     "YASS, FNX OMAR & Cee ElAssaad",
+     "Organizm"
+    ],
+    [
+     2725,
+     "YASS, FNX OMAR & Cee ElAssaad",
+     "Organizm"
+    ],
+    [
+     2765,
+     "La Hara (IT)",
+     "Never Get To Love You"
+    ],
+    [
+     2805,
+     "SOD",
+     "Cold Ones"
+    ],
+    [
+     2845,
+     "La Hara (IT)",
+     "Never Get To Love You"
+    ],
+    [
+     2885,
+     "La Hara (IT)",
+     "Never Get To Love You"
+    ],
+    [
+     2925,
+     "La Hara (IT)",
+     "Never Get To Love You"
+    ],
+    [
+     2965,
+     "La Hara (IT)",
+     "Never Get To Love You"
+    ],
+    [
+     3005,
+     "Clan of Xymox",
+     "The Rain Will Wash Away"
+    ],
+    [
+     3045,
+     "Kenada",
+     "Ask Me"
+    ],
+    [
+     3085,
+     "Sting & The Police",
+     "Voices Inside My Head (Samir Kuliev Remix)"
+    ],
+    [
+     3125,
+     "Kenada",
+     "Ask Me"
+    ],
+    [
+     3165,
+     "Kenada",
+     "Ask Me"
+    ],
+    [
+     3205,
+     "Kenada",
+     "Ask Me"
+    ],
+    [
+     3245,
+     "Kenada",
+     "Ask Me"
+    ],
+    [
+     3285,
+     "Aera",
+     "Turn It Up"
+    ],
+    [
+     3325,
+     "Aera",
+     "Turn It Up"
+    ],
+    [
+     3365,
+     "Aera",
+     "Turn It Up"
+    ],
+    [
+     3405,
+     "Aera",
+     "Turn It Up"
+    ],
+    [
+     3445,
+     "Aera",
+     "Turn It Up"
+    ],
+    [
+     3485,
+     "Aera",
+     "Turn It Up"
+    ],
+    [
+     3525,
+     "Jey Kurmis",
+     "De Greave"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 96.8
+}
