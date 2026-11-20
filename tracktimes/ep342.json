@@ -1,0 +1,481 @@
+{
+ "ep": 342,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    265,
+    545,
+    825,
+    1185,
+    1465,
+    1705,
+    1945,
+    2225,
+    2425,
+    2705,
+    2905,
+    3205,
+    3505
+   ],
+   "ok": 13,
+   "n": 14,
+   "escuchado": [
+    [
+     5,
+     "Time To Sleep",
+     "Lungo Mare"
+    ],
+    [
+     45,
+     "Time To Sleep",
+     "Lungo Mare"
+    ],
+    [
+     85,
+     "Time To Sleep",
+     "Lungo Mare"
+    ],
+    [
+     125,
+     "Time To Sleep",
+     "Lungo Mare"
+    ],
+    [
+     165,
+     "Time To Sleep",
+     "Lungo Mare"
+    ],
+    [
+     205,
+     "Time To Sleep",
+     "Lungo Mare"
+    ],
+    [
+     245,
+     "Viktor Talking Machine",
+     "Abby (Martin Waslewski Remix)"
+    ],
+    [
+     285,
+     "Duncan Gray",
+     "Five Fathoms Full (Meat Katie Remix)"
+    ],
+    [
+     325,
+     "Duncan Gray",
+     "Five Fathoms Full (Meat Katie Remix)"
+    ],
+    [
+     365,
+     "Duncan Gray",
+     "Five Fathoms Full (Meat Katie Remix)"
+    ],
+    [
+     405,
+     "Duncan Gray",
+     "Five Fathoms Full (Meat Katie Remix)"
+    ],
+    [
+     445,
+     "Duncan Gray",
+     "Five Fathoms Full (Meat Katie Remix)"
+    ],
+    [
+     485,
+     "Duncan Gray",
+     "Five Fathoms Full (Meat Katie Remix)"
+    ],
+    [
+     525,
+     "Duncan Gray",
+     "Five Fathoms Full (Meat Katie Remix)"
+    ],
+    [
+     565,
+     "Michael Ritter, Felix E & Christopher Schwarzwalder",
+     "Flicker (Christopher Schwarzwälder Remix)"
+    ],
+    [
+     605,
+     "Michael Ritter, Felix E & Christopher Schwarzwalder",
+     "Flicker (Christopher Schwarzwälder Remix)"
+    ],
+    [
+     645,
+     "BAYKER & GHEIST",
+     "Howl"
+    ],
+    [
+     685,
+     "Adele",
+     "Set Fire to the Rain (Thomas Gold Remix)"
+    ],
+    [
+     725,
+     "DeerPark Reflections",
+     "Music For Moogs (Cosmos)"
+    ],
+    [
+     765,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     805,
+     "Michael Ritter, Felix E & Christopher Schwarzwalder",
+     "Flicker (Christopher Schwarzwälder Remix)"
+    ],
+    [
+     845,
+     "SLIMFLO",
+     "As Above (D-Formation Remix)"
+    ],
+    [
+     885,
+     "SLIMFLO",
+     "As Above (D-Formation Remix)"
+    ],
+    [
+     925,
+     "Ant Brooks",
+     "Vibez"
+    ],
+    [
+     965,
+     "SLIMFLO",
+     "As Above (D-Formation Remix)"
+    ],
+    [
+     1005,
+     "SLIMFLO",
+     "As Above (D-Formation Remix)"
+    ],
+    [
+     1045,
+     "SLIMFLO",
+     "As Above (D-Formation Remix)"
+    ],
+    [
+     1085,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     1125,
+     "Maae",
+     "The Man"
+    ],
+    [
+     1165,
+     "Stump Valley",
+     "Down the Dirt Road"
+    ],
+    [
+     1205,
+     "Cloaked",
+     "Corruscate (Extended Mix)"
+    ],
+    [
+     1245,
+     "Cloaked",
+     "Corruscate (Extended Mix)"
+    ],
+    [
+     1285,
+     "Jaceo",
+     "Ho-Up"
+    ],
+    [
+     1325,
+     "Cloaked",
+     "Corruscate (Extended Mix)"
+    ],
+    [
+     1365,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     1405,
+     "Maae",
+     "The Man"
+    ],
+    [
+     1445,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     1485,
+     "Tiga",
+     "ECSTASY SURROUNDS ME"
+    ],
+    [
+     1525,
+     "Marco Bertek",
+     "The Leaving Sun"
+    ],
+    [
+     1565,
+     "Tiga",
+     "ECSTASY SURROUNDS ME"
+    ],
+    [
+     1605,
+     "Tiga",
+     "ECSTASY SURROUNDS ME"
+    ],
+    [
+     1645,
+     "Tiga",
+     "ECSTASY SURROUNDS ME"
+    ],
+    [
+     1685,
+     "Tiga",
+     "ECSTASY SURROUNDS ME"
+    ],
+    [
+     1725,
+     "Silbi",
+     "9 to 5"
+    ],
+    [
+     1765,
+     "Silbi",
+     "9 to 5"
+    ],
+    [
+     1805,
+     "Silbi",
+     "9 to 5"
+    ],
+    [
+     1845,
+     "Silbi",
+     "9 to 5"
+    ],
+    [
+     1885,
+     "Silbi",
+     "9 to 5"
+    ],
+    [
+     1925,
+     "Silbi",
+     "9 to 5"
+    ],
+    [
+     1965,
+     "GEØVHÄN",
+     "Vampire"
+    ],
+    [
+     2005,
+     "Jam & Spoon",
+     "Right in the Night (feat. Plavka) [Morttagua Extended Remix]"
+    ],
+    [
+     2045,
+     "GEØVHÄN",
+     "Vampire"
+    ],
+    [
+     2085,
+     "Jam & Spoon",
+     "Right in the Night (feat. Plavka) [Morttagua Extended Remix]"
+    ],
+    [
+     2125,
+     "Billie Eilish",
+     "Ilomilo (Band&Dos Remix)"
+    ],
+    [
+     2165,
+     "Dj Piligrim",
+     "Дед на стиле (extended version)"
+    ],
+    [
+     2205,
+     "Starkato",
+     "Python"
+    ],
+    [
+     2245,
+     "Difler",
+     "Spatial Dance"
+    ],
+    [
+     2285,
+     "Difler",
+     "Spatial Dance"
+    ],
+    [
+     2325,
+     "Difler",
+     "Spatial Dance"
+    ],
+    [
+     2365,
+     "Anthony e Mario Productions",
+     "A' campagnola a modo mio (Base in SOL)"
+    ],
+    [
+     2405,
+     "Kamasutra",
+     "Kamasutra Express (Train Version)"
+    ],
+    [
+     2445,
+     "PAAX (Tulum)",
+     "Who Das (Extended Mix)"
+    ],
+    [
+     2485,
+     "PAAX (Tulum)",
+     "Who Das (Extended Mix)"
+    ],
+    [
+     2525,
+     "PAAX (Tulum)",
+     "Who Das (Extended Mix)"
+    ],
+    [
+     2565,
+     "PAAX (Tulum)",
+     "Who Das (Extended Mix)"
+    ],
+    [
+     2605,
+     "PAAX (Tulum)",
+     "Who Das (Extended Mix)"
+    ],
+    [
+     2645,
+     "PAAX (Tulum)",
+     "Who Das (Extended Mix)"
+    ],
+    [
+     2685,
+     "PAAX (Tulum)",
+     "Who Das (Extended Mix)"
+    ],
+    [
+     2725,
+     "Jares",
+     "Together"
+    ],
+    [
+     2765,
+     "Jares",
+     "Together"
+    ],
+    [
+     2805,
+     "Jares",
+     "Together"
+    ],
+    [
+     2845,
+     "Jares",
+     "Together"
+    ],
+    [
+     2885,
+     "Jares",
+     "Together"
+    ],
+    [
+     2925,
+     "1403, Joone & Victor C. (UK)",
+     "The Affair (Guychu Remix)"
+    ],
+    [
+     2965,
+     "1403, Joone & Victor C. (UK)",
+     "The Affair (Guychu Remix)"
+    ],
+    [
+     3005,
+     "Derick Prez",
+     "Follow Jack"
+    ],
+    [
+     3045,
+     "ST Gaming Music",
+     "Euforia (super slowed)"
+    ],
+    [
+     3085,
+     "1403, Joone & Victor C. (UK)",
+     "The Affair (Guychu Remix)"
+    ],
+    [
+     3125,
+     "1403, Joone & Victor C. (UK)",
+     "The Affair (Guychu Remix)"
+    ],
+    [
+     3165,
+     "1403, Joone & Victor C. (UK)",
+     "The Affair (Guychu Remix)"
+    ],
+    [
+     3205,
+     "1403, Joone & Victor C. (UK)",
+     "The Affair (Guychu Remix)"
+    ],
+    [
+     3525,
+     "Dead-Tones, Of the Moon & Nasser (US)",
+     "Wake Up"
+    ],
+    [
+     3565,
+     "Dead-Tones, Of the Moon & Nasser (US)",
+     "Wake Up"
+    ],
+    [
+     3605,
+     "Dead-Tones, Of the Moon & Nasser (US)",
+     "Wake Up"
+    ],
+    [
+     3645,
+     "Deflee",
+     "6 Shots (Extended Mix)"
+    ],
+    [
+     3685,
+     "Dead-Tones, Of the Moon & Nasser (US)",
+     "Wake Up"
+    ],
+    [
+     3725,
+     "Dead-Tones, Of the Moon & Nasser (US)",
+     "Wake Up"
+    ],
+    [
+     3765,
+     "Dead-Tones, Of the Moon & Nasser (US)",
+     "Wake Up"
+    ],
+    [
+     3805,
+     "Dead-Tones, Of the Moon & Nasser (US)",
+     "Wake Up"
+    ],
+    [
+     3845,
+     "Dead-Tones, Of the Moon & Nasser (US)",
+     "Wake Up"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 48.1
+}

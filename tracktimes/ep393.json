@@ -1,0 +1,853 @@
+{
+ "ep": 393,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Aslan Venom",
+   "start": 0,
+   "times": [
+    0,
+    465,
+    705,
+    945,
+    1545,
+    1745,
+    2225,
+    2505,
+    2878,
+    3252
+   ],
+   "ok": 6,
+   "n": 10
+  },
+  {
+   "artist": "Less is more",
+   "start": 3625,
+   "times": [
+    0,
+    360,
+    560,
+    920,
+    1240,
+    1320,
+    1440,
+    1560,
+    1680,
+    1860,
+    2040,
+    2240,
+    2480,
+    2880,
+    2960,
+    3160,
+    3400,
+    3720
+   ],
+   "ok": 15,
+   "n": 18
+  }
+ ],
+ "escuchado": [
+  [
+   165,
+   "Amin",
+   "Morker"
+  ],
+  [
+   405,
+   "Ohmme",
+   "Excess (Original Mix)"
+  ],
+  [
+   445,
+   "Sandy B",
+   "Make the World Go Round (Knuckleheadz Remix)"
+  ],
+  [
+   485,
+   "Nichols UK",
+   "Tone Travel"
+  ],
+  [
+   525,
+   "Oxia",
+   "Domino (Rework)"
+  ],
+  [
+   565,
+   "Nichols UK",
+   "Tone Travel"
+  ],
+  [
+   605,
+   "Nichols UK",
+   "Tone Travel"
+  ],
+  [
+   645,
+   "KREAM & Millean.",
+   "What You've Done To Me (feat. Bemendé)"
+  ],
+  [
+   685,
+   "Faithless",
+   "Salva Mea"
+  ],
+  [
+   725,
+   "KOYENGA",
+   "Edge of Desire (Extended Mix)"
+  ],
+  [
+   845,
+   "Panos Pissitelis & Junior Mi",
+   "Freaky"
+  ],
+  [
+   925,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   965,
+   "Andy Skinner",
+   "Somnium"
+  ],
+  [
+   1085,
+   "Paperclip People",
+   "Throw (Slam's RTM Remix)"
+  ],
+  [
+   1125,
+   "Lorenzo Silvano",
+   "Undertrack"
+  ],
+  [
+   1165,
+   "Chris Fortier & Neil Kolo",
+   "All I Got (Chris Fortier 20yr Dub)"
+  ],
+  [
+   1205,
+   "Chris Fortier & Neil Kolo",
+   "All I Got (Chris Fortier 20yr Dub)"
+  ],
+  [
+   1245,
+   "The DangerFeel Newbies",
+   "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+  ],
+  [
+   1285,
+   "Andy Skinner",
+   "Somnium"
+  ],
+  [
+   1325,
+   "Chris Fortier & Neil Kolo",
+   "All I Got (Chris Fortier 20yr Dub)"
+  ],
+  [
+   1365,
+   "Luca Lozano & Mr. Ho",
+   "Different Circles (Nicson Remix)"
+  ],
+  [
+   1405,
+   "Rank 1",
+   "Airwave (Radio Vocal Edit)"
+  ],
+  [
+   1445,
+   "Luca Lozano & Mr. Ho",
+   "Different Circles (Nicson Remix)"
+  ],
+  [
+   1485,
+   "Chris Fortier & Neil Kolo",
+   "All I Got (Chris Fortier 20yr Dub)"
+  ],
+  [
+   1525,
+   "Ahmet Kilic & Eyup Celik",
+   "Living On My Own"
+  ],
+  [
+   1565,
+   "Kostya Outta",
+   "Deep Feelings"
+  ],
+  [
+   1605,
+   "Kostya Outta",
+   "Deep Feelings"
+  ],
+  [
+   1645,
+   "Kostya Outta",
+   "Deep Feelings"
+  ],
+  [
+   1685,
+   "Kostya Outta",
+   "Deep Feelings"
+  ],
+  [
+   1725,
+   "Robert Miles",
+   "One and One (robert miles club version)"
+  ],
+  [
+   1765,
+   "Sharam",
+   "Do Ya"
+  ],
+  [
+   1805,
+   "Alan Braxe & Fred Falke",
+   "Intro"
+  ],
+  [
+   1845,
+   "Alan Braxe & Fred Falke",
+   "Intro"
+  ],
+  [
+   1885,
+   "F.Sonik",
+   "Simplon"
+  ],
+  [
+   1925,
+   "Sharam",
+   "Do Ya"
+  ],
+  [
+   1965,
+   "Jon Cutler",
+   "It's Yours (feat. E-Man) [Distant Music Mix]"
+  ],
+  [
+   2005,
+   "Ralph Le Beat",
+   "Remembering"
+  ],
+  [
+   2045,
+   "F.Sonik",
+   "Simplon"
+  ],
+  [
+   2085,
+   "Sharam",
+   "Do Ya"
+  ],
+  [
+   2125,
+   "F.Sonik",
+   "Simplon"
+  ],
+  [
+   2165,
+   "F.Sonik",
+   "Simplon"
+  ],
+  [
+   2205,
+   "F.Sonik",
+   "Simplon"
+  ],
+  [
+   2245,
+   "Alfonso Muchacho",
+   "Nothing to Lose"
+  ],
+  [
+   2285,
+   "Alfonso Muchacho",
+   "Nothing to Lose"
+  ],
+  [
+   2325,
+   "Alfonso Muchacho",
+   "Nothing to Lose"
+  ],
+  [
+   2365,
+   "Alfonso Muchacho",
+   "Nothing to Lose"
+  ],
+  [
+   2405,
+   "Alfonso Muchacho",
+   "Nothing to Lose"
+  ],
+  [
+   2445,
+   "Alfonso Muchacho",
+   "Nothing to Lose"
+  ],
+  [
+   2485,
+   "Alfonso Muchacho",
+   "Nothing to Lose"
+  ],
+  [
+   2525,
+   "Cream (PL)",
+   "Transformator"
+  ],
+  [
+   2565,
+   "Jonny Calypso",
+   "Teenager 2K15"
+  ],
+  [
+   2605,
+   "Cream (PL)",
+   "Transformator (Cami'L Remix)"
+  ],
+  [
+   2645,
+   "Cream (PL)",
+   "Transformator"
+  ],
+  [
+   2685,
+   "Cream (PL)",
+   "Transformator (Cami'L Remix)"
+  ],
+  [
+   2725,
+   "Cream (PL)",
+   "Transformator"
+  ],
+  [
+   2765,
+   "Cream (PL)",
+   "Transformator"
+  ],
+  [
+   2805,
+   "Cream (PL)",
+   "Transformator (Cami'L Remix)"
+  ],
+  [
+   2845,
+   "Wigbert",
+   "Balance"
+  ],
+  [
+   2925,
+   "Guille Placencia & George Privatti",
+   "What a Bam"
+  ],
+  [
+   3045,
+   "Allen (Italy) & Filix",
+   "Dusty Palace"
+  ],
+  [
+   3245,
+   "Dennis Cruz",
+   "El Sueño"
+  ],
+  [
+   3645,
+   "Molécule",
+   "Phantom"
+  ],
+  [
+   3685,
+   "Molécule",
+   "Phantom"
+  ],
+  [
+   3725,
+   "Molécule",
+   "Phantom"
+  ],
+  [
+   3765,
+   "Molécule",
+   "Phantom"
+  ],
+  [
+   3805,
+   "Molécule",
+   "Phantom"
+  ],
+  [
+   3845,
+   "Molécule",
+   "Phantom"
+  ],
+  [
+   3885,
+   "Tali Muss",
+   "Pag Dhariye (feat. Vasuda Sharma)"
+  ],
+  [
+   3925,
+   "Molécule",
+   "Phantom"
+  ],
+  [
+   3965,
+   "Molécule",
+   "Phantom"
+  ],
+  [
+   4005,
+   "Tecwaa",
+   "Wolf & Wild"
+  ],
+  [
+   4045,
+   "Tecwaa",
+   "Wolf & Wild"
+  ],
+  [
+   4085,
+   "Tecwaa",
+   "Wolf & Wild"
+  ],
+  [
+   4125,
+   "Tecwaa",
+   "Wolf & Wild"
+  ],
+  [
+   4165,
+   "Tecwaa",
+   "Wolf & Wild"
+  ],
+  [
+   4205,
+   "PauloR",
+   "Gerlach"
+  ],
+  [
+   4245,
+   "PauloR",
+   "Gerlach"
+  ],
+  [
+   4285,
+   "PauloR",
+   "Gerlach"
+  ],
+  [
+   4325,
+   "PauloR",
+   "Gerlach"
+  ],
+  [
+   4365,
+   "PauloR",
+   "Gerlach"
+  ],
+  [
+   4405,
+   "PauloR",
+   "Gerlach"
+  ],
+  [
+   4445,
+   "PauloR",
+   "Gerlach"
+  ],
+  [
+   4485,
+   "PauloR",
+   "Gerlach"
+  ],
+  [
+   4525,
+   "PauloR",
+   "Gerlach"
+  ],
+  [
+   4565,
+   "CC:DISCO!",
+   "Prize Winning Horse (feat. Alda)"
+  ],
+  [
+   4605,
+   "X-Press 2",
+   "Say What! (London Underground Mix)"
+  ],
+  [
+   4645,
+   "CC:DISCO!",
+   "Prize Winning Horse (feat. Alda)"
+  ],
+  [
+   4685,
+   "S.A.M.",
+   "Spotlight (feat. Sarah Ikumu) [Mousse T. Extended Shizzle Mix]"
+  ],
+  [
+   4725,
+   "CC:DISCO!",
+   "Prize Winning Horse (feat. Alda)"
+  ],
+  [
+   4765,
+   "CC:DISCO!",
+   "Prize Winning Horse (feat. Alda)"
+  ],
+  [
+   4805,
+   "Lipps, Inc.",
+   "Funkytown (Long Version)"
+  ],
+  [
+   4845,
+   "Elderbrook",
+   "Numb"
+  ],
+  [
+   4885,
+   "Bernaudio",
+   "Circuits of Love"
+  ],
+  [
+   4925,
+   "Lipps, Inc.",
+   "Funkytown (Long Version)"
+  ],
+  [
+   4965,
+   "Alexandra Feusi",
+   "Business"
+  ],
+  [
+   5005,
+   "Alexandra Feusi",
+   "Business"
+  ],
+  [
+   5045,
+   "Mogolo Mata",
+   "Tell Me Something I Don't Know"
+  ],
+  [
+   5085,
+   "Alexandra Feusi",
+   "Business"
+  ],
+  [
+   5165,
+   "Nairo & Modeplex",
+   "Metamorphosis"
+  ],
+  [
+   5325,
+   "Whitesquare",
+   "All I Wanna Do Is Misty"
+  ],
+  [
+   5365,
+   "Alejandro Castelli",
+   "Peru"
+  ],
+  [
+   5405,
+   "Whitesquare",
+   "All I Wanna Do Is Misty"
+  ],
+  [
+   5445,
+   "Whitesquare",
+   "All I Wanna Do Is Misty"
+  ],
+  [
+   5485,
+   "Otto Knows",
+   "My Lover"
+  ],
+  [
+   5525,
+   "Whitesquare",
+   "All I Wanna Do Is Misty"
+  ],
+  [
+   5565,
+   "Whitesquare",
+   "All I Wanna Do Is Misty"
+  ],
+  [
+   5605,
+   "Whitesquare",
+   "All I Wanna Do Is Misty"
+  ],
+  [
+   5645,
+   "Kevin McKay & Start The Party",
+   "I Feel Love (Club Mix)"
+  ],
+  [
+   5685,
+   "Danny Serrano & Solo Tamas",
+   "Touch Me (Andrew Meller Remix)"
+  ],
+  [
+   5725,
+   "Danny Serrano & Solo Tamas",
+   "Touch Me (Andrew Meller Remix)"
+  ],
+  [
+   5765,
+   "Danny Serrano & Solo Tamas",
+   "Touch Me (Andrew Meller Remix)"
+  ],
+  [
+   5805,
+   "Fab2M",
+   "Chase"
+  ],
+  [
+   5845,
+   "Jaceo",
+   "Ho-Up"
+  ],
+  [
+   5885,
+   "Perel",
+   "Ich Ich (Extended)"
+  ],
+  [
+   5925,
+   "Perel",
+   "Ich Ich (Extended)"
+  ],
+  [
+   5965,
+   "Perel",
+   "Ich Ich (Extended)"
+  ],
+  [
+   6005,
+   "Perel",
+   "Ich Ich (Extended)"
+  ],
+  [
+   6045,
+   "Perel",
+   "Ich Ich (Extended)"
+  ],
+  [
+   6085,
+   "Perel",
+   "Ich Ich (Extended)"
+  ],
+  [
+   6125,
+   "pdqb",
+   "Voluptuousness (Roman Flügel Remix)"
+  ],
+  [
+   6165,
+   "pdqb",
+   "Voluptuousness (Roman Flügel Remix)"
+  ],
+  [
+   6205,
+   "pdqb",
+   "Voluptuousness (Roman Flügel Remix)"
+  ],
+  [
+   6245,
+   "pdqb",
+   "Voluptuousness (Roman Flügel Remix)"
+  ],
+  [
+   6285,
+   "pdqb",
+   "Voluptuousness (Roman Flügel Remix)"
+  ],
+  [
+   6325,
+   "pdqb",
+   "Voluptuousness (Roman Flügel Remix)"
+  ],
+  [
+   6365,
+   "Vintage Culture",
+   "Space"
+  ],
+  [
+   6405,
+   "Joe Mesmar",
+   "Feeling My Mind"
+  ],
+  [
+   6445,
+   "Vintage Culture",
+   "Space"
+  ],
+  [
+   6485,
+   "Joe Mesmar",
+   "Feeling My Mind"
+  ],
+  [
+   6525,
+   "Kay-Chi",
+   "Makes Me Feel Special"
+  ],
+  [
+   6565,
+   "Kay-Chi",
+   "Makes Me Feel Special"
+  ],
+  [
+   6605,
+   "Morali",
+   "Mindish"
+  ],
+  [
+   6645,
+   "La Santa Music & leonardo",
+   "That Drum"
+  ],
+  [
+   6685,
+   "La Santa Music & leonardo",
+   "That Drum"
+  ],
+  [
+   6725,
+   "Bad Intentions",
+   "Monster (Extended Mix)"
+  ],
+  [
+   6765,
+   "Morali",
+   "Mindish"
+  ],
+  [
+   6805,
+   "V & Curses",
+   "Is This What You Want?"
+  ],
+  [
+   6845,
+   "V & Curses",
+   "Is This What You Want?"
+  ],
+  [
+   6885,
+   "V & Curses",
+   "Is This What You Want?"
+  ],
+  [
+   6925,
+   "V & Curses",
+   "Is This What You Want?"
+  ],
+  [
+   6965,
+   "V & Curses",
+   "Is This What You Want?"
+  ],
+  [
+   7005,
+   "V & Curses",
+   "Is This What You Want?"
+  ],
+  [
+   7045,
+   "SCADTA",
+   "Phuckphone (Fabrizio Mammarella Remix)"
+  ],
+  [
+   7085,
+   "SCADTA",
+   "Phuckphone"
+  ],
+  [
+   7125,
+   "SCADTA",
+   "Phuckphone"
+  ],
+  [
+   7165,
+   "SCADTA",
+   "Phuckphone"
+  ],
+  [
+   7205,
+   "SCADTA",
+   "Phuckphone"
+  ],
+  [
+   7245,
+   "SCADTA",
+   "Phuckphone"
+  ],
+  [
+   7285,
+   "Pankaj Panjiyar",
+   "Bond Musical Beats"
+  ],
+  [
+   7325,
+   "SCADTA",
+   "Phuckphone"
+  ],
+  [
+   7365,
+   "Madd Rod",
+   "Now I Got You In My Hand"
+  ],
+  [
+   7405,
+   "Adele",
+   "Set Fire to the Rain (Thomas Gold Remix)"
+  ],
+  [
+   7445,
+   "Madd Rod",
+   "Now I Got You In My Hand"
+  ],
+  [
+   7485,
+   "Madd Rod",
+   "Now I Got You In My Hand"
+  ],
+  [
+   7525,
+   "Madd Rod",
+   "Now I Got You In My Hand"
+  ],
+  [
+   7565,
+   "Madd Rod",
+   "Now I Got You In My Hand"
+  ],
+  [
+   7605,
+   "Madd Rod",
+   "Now I Got You In My Hand"
+  ],
+  [
+   7645,
+   "Madd Rod",
+   "Now I Got You In My Hand"
+  ],
+  [
+   7685,
+   "DeerPark Reflections",
+   "Music For Moogs (Cosmos)"
+  ],
+  [
+   7725,
+   "Madd Rod",
+   "Now I Got You In My Hand"
+  ]
+ ],
+ "minutos_proceso": 87.9
+}
