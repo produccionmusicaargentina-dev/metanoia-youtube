@@ -1,0 +1,537 @@
+{
+ "ep": 337,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    345,
+    865,
+    945,
+    1345,
+    1505,
+    1865,
+    2065,
+    2425,
+    2505,
+    2705,
+    3065,
+    3225,
+    3465,
+    3785
+   ],
+   "ok": 15,
+   "n": 15,
+   "escuchado": [
+    [
+     5,
+     "Daniel Watts",
+     "Cosmetic Ecstasy (Terr Remix)"
+    ],
+    [
+     45,
+     "Zairi Torrez",
+     "Progressive World (2Qimic Remix)"
+    ],
+    [
+     85,
+     "Daniel Watts",
+     "Cosmetic Ecstasy (Terr Remix)"
+    ],
+    [
+     125,
+     "Sounom & Sagou",
+     "Everyday Moments (Kamilo Sanclemente Remix)"
+    ],
+    [
+     165,
+     "Daniel Watts",
+     "Cosmetic Ecstasy (Terr Remix)"
+    ],
+    [
+     205,
+     "Art Safo",
+     "Children of the Universe, Pt. III: We Are Children of the Universe"
+    ],
+    [
+     245,
+     "Sounom & Sagou",
+     "Everyday Moments (Kamilo Sanclemente Remix)"
+    ],
+    [
+     285,
+     "Kaosklap",
+     "Road to Nowhere"
+    ],
+    [
+     325,
+     "Daniel Watts",
+     "Cosmetic Ecstasy (Terr Remix)"
+    ],
+    [
+     365,
+     "Rebolledo",
+     "Positivisimo (feat. Raquel Wolff) [Kasper Bjørke Remix]"
+    ],
+    [
+     405,
+     "Rebolledo",
+     "Positivísimo (feat. Raquel Wolff)"
+    ],
+    [
+     445,
+     "Rebolledo",
+     "Positivísimo (feat. Raquel Wolff)"
+    ],
+    [
+     485,
+     "Rebolledo",
+     "Positivísimo (feat. Raquel Wolff)"
+    ],
+    [
+     525,
+     "Rebolledo",
+     "Positivísimo (feat. Raquel Wolff)"
+    ],
+    [
+     565,
+     "Rebolledo",
+     "Positivísimo (feat. Raquel Wolff)"
+    ],
+    [
+     605,
+     "Rebolledo",
+     "Positivísimo (feat. Raquel Wolff)"
+    ],
+    [
+     645,
+     "Rebolledo",
+     "Positivísimo (feat. Raquel Wolff)"
+    ],
+    [
+     685,
+     "Rebolledo",
+     "Positivísimo (feat. Raquel Wolff)"
+    ],
+    [
+     725,
+     "Rebolledo",
+     "Positivisimo (feat. Raquel Wolff) [Kasper Bjørke Remix]"
+    ],
+    [
+     765,
+     "Rebolledo",
+     "Positivisimo (feat. Raquel Wolff) [Kasper Bjørke Remix]"
+    ],
+    [
+     805,
+     "Bunch of Frequencies",
+     "Solstice"
+    ],
+    [
+     845,
+     "Sounom & Sagou",
+     "Everyday Moments (Kamilo Sanclemente Remix)"
+    ],
+    [
+     885,
+     "Kalipo",
+     "Alles (Acid Version)"
+    ],
+    [
+     925,
+     "Kalipo",
+     "Alles (Acid Version)"
+    ],
+    [
+     965,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1005,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1045,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1085,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1125,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1165,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1205,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1245,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1285,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1325,
+     "ID & ID & Aves Volare",
+     "Journey to the Stars (feat. Rafael Cerato) [Histar Remix]"
+    ],
+    [
+     1365,
+     "Kabinett",
+     "Media Kids (Peter Invasion & Gregor Habicht Remix)"
+    ],
+    [
+     1405,
+     "Sounom & Sagou",
+     "Everyday Moments (Kamilo Sanclemente Remix)"
+    ],
+    [
+     1445,
+     "OXEN",
+     "Cocaine"
+    ],
+    [
+     1485,
+     "Pankaj Panjiyar",
+     "Bond Musical Beats"
+    ],
+    [
+     1525,
+     "Bangkok Impact",
+     "Masters of the Universe, Pt. 1"
+    ],
+    [
+     1565,
+     "Bangkok Impact",
+     "Masters of the Universe, Pt. 1"
+    ],
+    [
+     1605,
+     "Bangkok Impact",
+     "Masters of the Universe, Pt. 1"
+    ],
+    [
+     1645,
+     "Bangkok Impact",
+     "Master of the Universe, Pt. 1 & 2"
+    ],
+    [
+     1685,
+     "Bangkok Impact",
+     "Masters of the Universe, Pt. 1"
+    ],
+    [
+     1725,
+     "Bangkok Impact",
+     "Masters of the Universe, Pt. 1"
+    ],
+    [
+     1765,
+     "Bangkok Impact",
+     "Master of the Universe, Pt. 1 & 2"
+    ],
+    [
+     1805,
+     "Starkato",
+     "Python"
+    ],
+    [
+     1845,
+     "Bangkok Impact",
+     "Master of the Universe, Pt. 1 & 2"
+    ],
+    [
+     1885,
+     "Andreas",
+     "Here & Now"
+    ],
+    [
+     1925,
+     "Andreas",
+     "Here & Now"
+    ],
+    [
+     1965,
+     "Technasia",
+     "I Am Somebody"
+    ],
+    [
+     2005,
+     "Technasia",
+     "I Am Somebody"
+    ],
+    [
+     2045,
+     "Jessie James",
+     "Wanted (Jason Phats Bootleg Vocal Mix)"
+    ],
+    [
+     2085,
+     "Marcel Dettmann",
+     "Dmt"
+    ],
+    [
+     2125,
+     "Marcel Dettmann",
+     "Dmt"
+    ],
+    [
+     2165,
+     "Marcel Dettmann",
+     "Dmt"
+    ],
+    [
+     2205,
+     "Marcel Dettmann",
+     "Dmt"
+    ],
+    [
+     2245,
+     "DJ Tom",
+     "TechnoPolis"
+    ],
+    [
+     2285,
+     "Kasablanca",
+     "Breathe (Extended Mix)"
+    ],
+    [
+     2325,
+     "Derek Lopez",
+     "Ripa Na Xulipa"
+    ],
+    [
+     2365,
+     "Todd Terry",
+     "Jumpin Original"
+    ],
+    [
+     2405,
+     "Israel Toledo",
+     "Departing V.1 (Angel Alanis Remix)"
+    ],
+    [
+     2445,
+     "Harden",
+     "Lie Detection"
+    ],
+    [
+     2485,
+     "Faithless",
+     "God Is a DJ"
+    ],
+    [
+     2525,
+     "Bonafique",
+     "Monologue (Extended Mix)"
+    ],
+    [
+     2565,
+     "Bonafique",
+     "Monologue (Extended Mix)"
+    ],
+    [
+     2605,
+     "Bonafique",
+     "Monologue (Extended Mix)"
+    ],
+    [
+     2645,
+     "Disteon Music",
+     "Shake That"
+    ],
+    [
+     2685,
+     "Bonafique",
+     "Monologue (Extended Mix)"
+    ],
+    [
+     2725,
+     "PAZZOS",
+     "Acantilados"
+    ],
+    [
+     2765,
+     "PAZZOS",
+     "Acantilados"
+    ],
+    [
+     2805,
+     "PAZZOS",
+     "Acantilados"
+    ],
+    [
+     2845,
+     "PAZZOS",
+     "Acantilados"
+    ],
+    [
+     2885,
+     "Sidekick",
+     "Deep Fear (Phobia Radio Edit)"
+    ],
+    [
+     2925,
+     "PAZZOS",
+     "Acantilados"
+    ],
+    [
+     2965,
+     "Groove Armada",
+     "Superstylin'"
+    ],
+    [
+     3005,
+     "Oxia",
+     "Domino (Rework)"
+    ],
+    [
+     3045,
+     "Elderbrook",
+     "Numb (Elderbrook VIP)"
+    ],
+    [
+     3085,
+     "Avocado",
+     "Sounds of Technology (feat. Pájara) [Krash! Remix]"
+    ],
+    [
+     3125,
+     "Avocado",
+     "Sounds of Technology (feat. Pájara) [Krash! Remix]"
+    ],
+    [
+     3165,
+     "Avocado",
+     "Sounds of Technology (feat. Pájara) [Krash! Remix]"
+    ],
+    [
+     3205,
+     "Elderbrook",
+     "Numb (Elderbrook VIP)"
+    ],
+    [
+     3245,
+     "Funcruiser",
+     "Synthetic Sunset"
+    ],
+    [
+     3285,
+     "Cybordelics",
+     "Adventures of Dama (feat. James Davis) [Bodo Felusch-Gimme a Beat Mix]"
+    ],
+    [
+     3325,
+     "Funcruiser",
+     "Synthetic Sunset"
+    ],
+    [
+     3365,
+     "Deva Premal, Miten & Manose",
+     "Day 11 - Freedom"
+    ],
+    [
+     3405,
+     "Funcruiser",
+     "Synthetic Sunset"
+    ],
+    [
+     3445,
+     "Funcruiser",
+     "Synthetic Sunset"
+    ],
+    [
+     3485,
+     "Oliver Koletzki",
+     "Der Mückenschwarm"
+    ],
+    [
+     3525,
+     "Oliver Koletzki",
+     "Der Mückenschwarm"
+    ],
+    [
+     3565,
+     "Oliver Koletzki",
+     "Der Mückenschwarm"
+    ],
+    [
+     3605,
+     "DJ Cruse",
+     "Lady 2009 (Booty Mix)"
+    ],
+    [
+     3645,
+     "Oliver Koletzki",
+     "Der Mückenschwarm"
+    ],
+    [
+     3685,
+     "Oliver Koletzki",
+     "Der Mückenschwarm"
+    ],
+    [
+     3725,
+     "DJ Cruse",
+     "Lady 2009 (Booty Mix)"
+    ],
+    [
+     3765,
+     "DJ Cruse",
+     "Lady 2009 (Booty Mix)"
+    ],
+    [
+     3805,
+     "Y.Y & Hornelas",
+     "Dark Moon"
+    ],
+    [
+     3845,
+     "Davi",
+     "No Mercy"
+    ],
+    [
+     3885,
+     "Matteo Cole",
+     "I Like The Way You Move (Extended Mix)"
+    ],
+    [
+     3925,
+     "Y.Y & Hornelas",
+     "Dark Moon"
+    ],
+    [
+     3965,
+     "Y.Y & Hornelas",
+     "Dark Moon"
+    ],
+    [
+     4005,
+     "Bambook",
+     "Give It Up (Audiofly Remix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 45.0
+}

@@ -1,0 +1,355 @@
+{
+ "ep": 336,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "CherryBear",
+   "start": 0,
+   "times": [
+    0,
+    385,
+    635,
+    885,
+    1135,
+    1385,
+    1625,
+    1865,
+    2105,
+    2545,
+    2785,
+    3025,
+    3265
+   ],
+   "ok": 7,
+   "n": 13,
+   "escuchado": [
+    [
+     5,
+     "Guy J",
+     "Last Standing"
+    ],
+    [
+     45,
+     "Guy J",
+     "Last Standing"
+    ],
+    [
+     85,
+     "Guy J",
+     "Last Standing"
+    ],
+    [
+     125,
+     "Guy J",
+     "Last Standing"
+    ],
+    [
+     165,
+     "HotLap & UVITA",
+     "El Dorado"
+    ],
+    [
+     205,
+     "Guy J",
+     "Last Standing"
+    ],
+    [
+     245,
+     "Jayy D Musiq & REEL ZAYO",
+     "Stop & Go"
+    ],
+    [
+     285,
+     "Guy J",
+     "Last Standing"
+    ],
+    [
+     325,
+     "DeepSon & Dave SA",
+     "Gross (Nostalgic Dub)"
+    ],
+    [
+     365,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     405,
+     "Makebo & Volen Sentir",
+     "Into the Stars"
+    ],
+    [
+     445,
+     "Makebo & Volen Sentir",
+     "Into the Stars"
+    ],
+    [
+     485,
+     "Ezel",
+     "You Got Worked (feat. Mateo Senolia) [Casamena Stripped Remix]"
+    ],
+    [
+     525,
+     "Boris Dlugosch",
+     "Keep Pushin' (feat. Inaya Day)"
+    ],
+    [
+     565,
+     "Makebo & Volen Sentir",
+     "Into the Stars"
+    ],
+    [
+     685,
+     "Shosho",
+     "Fishing People"
+    ],
+    [
+     1005,
+     "Marc Marzenit",
+     "Perron (Wehbba Remix)"
+    ],
+    [
+     1085,
+     "Dosem & Prok & Fitch",
+     "Doors"
+    ],
+    [
+     1125,
+     "Synthwave Goose",
+     "Blade Runner 2049"
+    ],
+    [
+     1165,
+     "Sellens",
+     "Back Down (Off Key Remix)"
+    ],
+    [
+     1245,
+     "Luca Lozano & Mr. Ho",
+     "Different Circles (Nicson Remix)"
+    ],
+    [
+     1285,
+     "Luca Lozano & Mr. Ho",
+     "Different Circles (Nicson Remix)"
+    ],
+    [
+     1325,
+     "Panos Pissitelis & Junior Mi",
+     "Freaky"
+    ],
+    [
+     1365,
+     "Panos Pissitelis & Junior Mi",
+     "Freaky"
+    ],
+    [
+     1405,
+     "Facundo Mohrr & Maxi Degrassi",
+     "Revolver"
+    ],
+    [
+     1445,
+     "Gasho & Maxi Raffone",
+     "Good News (Original)"
+    ],
+    [
+     1485,
+     "Ajda Pekkan",
+     "Cool Kadın (Mahmut Orhan Remix)"
+    ],
+    [
+     1525,
+     "Facundo Mohrr & Maxi Degrassi",
+     "Revolver"
+    ],
+    [
+     1565,
+     "Facundo Mohrr & Maxi Degrassi",
+     "Revolver"
+    ],
+    [
+     1605,
+     "Planet Funk & Makebo",
+     "Chase the Sun (Makebo Remix - Extended Mix)"
+    ],
+    [
+     1645,
+     "Chris Drifter",
+     "Flashback (Matt Time Remix)"
+    ],
+    [
+     1685,
+     "Audioboy",
+     "Running (Extended Mix)"
+    ],
+    [
+     1805,
+     "Shubostar",
+     "Galaxy Walker"
+    ],
+    [
+     2125,
+     "Berdu",
+     "793f"
+    ],
+    [
+     2165,
+     "Samim",
+     "Heater (Tube & Berger Remix)"
+    ],
+    [
+     2205,
+     "Hraach",
+     "Dle Yaman (116 Deep Mix)"
+    ],
+    [
+     2245,
+     "Samim",
+     "Heater (Tube & Berger Remix)"
+    ],
+    [
+     2285,
+     "The DangerFeel Newbies",
+     "What Am I Here for? (Ndatl Vocal - Danny Krivit Edit)"
+    ],
+    [
+     2325,
+     "Berdu",
+     "793f"
+    ],
+    [
+     2365,
+     "Berdu",
+     "793f"
+    ],
+    [
+     2405,
+     "Berdu",
+     "793f"
+    ],
+    [
+     2445,
+     "Solo Thato",
+     "Someday"
+    ],
+    [
+     2485,
+     "Alan Dixon",
+     "La Danza"
+    ],
+    [
+     2525,
+     "David Guetta, Becky Hill & Ella Henderson",
+     "Crazy What Love Can Do"
+    ],
+    [
+     2565,
+     "STEREO MUNK & Dublew",
+     "Leap of Faith (Kalima Remix)"
+    ],
+    [
+     2605,
+     "STEREO MUNK & Dublew",
+     "Leap of Faith (Kalima Remix)"
+    ],
+    [
+     2645,
+     "STEREO MUNK & Dublew",
+     "Leap of Faith (Kalima Remix)"
+    ],
+    [
+     2685,
+     "STEREO MUNK & Dublew",
+     "Leap of Faith (Kalima Remix)"
+    ],
+    [
+     2725,
+     "STEREO MUNK & Dublew",
+     "Leap of Faith (Kalima Remix)"
+    ],
+    [
+     2765,
+     "Groove Lab Sounds, Luukey Deep & Ta'Bee",
+     "In House We Groove (Radio Edit)"
+    ],
+    [
+     2805,
+     "EDX",
+     "Charma"
+    ],
+    [
+     2845,
+     "EDX",
+     "Charma"
+    ],
+    [
+     2885,
+     "EDX",
+     "Charma"
+    ],
+    [
+     2925,
+     "EDX",
+     "Charma"
+    ],
+    [
+     2965,
+     "EDX",
+     "Charma"
+    ],
+    [
+     3045,
+     "fpmorinstudio",
+     "Taking My Time"
+    ],
+    [
+     3125,
+     "The Veg Out Explorers",
+     "Incredibly Nice"
+    ],
+    [
+     3285,
+     "Armen Miran",
+     "Reborn (Volen Sentir Sunset Mix)"
+    ],
+    [
+     3325,
+     "Loquace",
+     "Back Again"
+    ],
+    [
+     3365,
+     "Ezel",
+     "You Got Worked (feat. Mateo Senolia) [Casamena Stripped Remix]"
+    ],
+    [
+     3405,
+     "Armen Miran",
+     "Reborn (Volen Sentir Sunset Mix)"
+    ],
+    [
+     3445,
+     "Ezel",
+     "You Got Worked (feat. Mateo Senolia) [Casamena Stripped Remix]"
+    ],
+    [
+     3485,
+     "D'vine Brothers, Mr Shane SA & Dj Bakk3",
+     "Kuzolunga"
+    ],
+    [
+     3525,
+     "Dosem & Prok & Fitch",
+     "Whispers"
+    ],
+    [
+     3565,
+     "Aphex Twin",
+     "Pulsewidth"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 43.1
+}
