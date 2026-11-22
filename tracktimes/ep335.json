@@ -1,0 +1,359 @@
+{
+ "ep": 335,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Anyone",
+   "start": 0,
+   "times": [
+    0,
+    1652
+   ],
+   "ok": 1,
+   "n": 2,
+   "escuchado": [
+    [
+     5,
+     "Fran Garay",
+     "Lazhar"
+    ],
+    [
+     45,
+     "Fran Garay",
+     "Lazhar"
+    ],
+    [
+     85,
+     "Fran Garay",
+     "Lazhar"
+    ],
+    [
+     125,
+     "Ahmet Kilic & Eyup Celik",
+     "Living On My Own"
+    ],
+    [
+     165,
+     "Luca Lozano & Mr. Ho",
+     "Different Circles (Nicson Remix)"
+    ],
+    [
+     205,
+     "Marc Marzenit",
+     "Perron (Wehbba Remix)"
+    ],
+    [
+     245,
+     "CamelPhat & Cristoph",
+     "Breathe (feat. Jem Cooke)"
+    ],
+    [
+     285,
+     "Fran Garay",
+     "Lazhar"
+    ],
+    [
+     325,
+     "Amháin & Covsky",
+     "Salamander (Juan Ibañez Remix)"
+    ],
+    [
+     365,
+     "Amháin & Covsky",
+     "Salamander (Juan Ibañez Remix)"
+    ],
+    [
+     405,
+     "Kenelm Mark",
+     "Sonic Velvet Afterglow"
+    ],
+    [
+     445,
+     "Amháin & Covsky",
+     "Salamander (Juan Ibañez Remix)"
+    ],
+    [
+     485,
+     "Amháin & Covsky",
+     "Salamander (Juan Ibañez Remix)"
+    ],
+    [
+     525,
+     "Amháin & Covsky",
+     "Salamander (Juan Ibañez Remix)"
+    ],
+    [
+     565,
+     "Amháin & Covsky",
+     "Salamander (Juan Ibañez Remix)"
+    ],
+    [
+     605,
+     "Amháin & Covsky",
+     "Salamander (Juan Ibañez Remix)"
+    ],
+    [
+     645,
+     "Amháin & Covsky",
+     "Salamander (Juan Ibañez Remix)"
+    ],
+    [
+     725,
+     "Dimpal Raj",
+     "Tere Mere Bich Mai"
+    ],
+    [
+     765,
+     "Alec June",
+     "Midnight Rhapsody"
+    ],
+    [
+     925,
+     "TimTaj",
+     "Runway Rhythm"
+    ],
+    [
+     1085,
+     "Ohmme",
+     "Excess (Original Mix)"
+    ],
+    [
+     1125,
+     "Indigo Man",
+     "Similarity (Mayro Remix)"
+    ],
+    [
+     1165,
+     "Indigo Man",
+     "Similarity (Mayro Remix)"
+    ],
+    [
+     1205,
+     "Indigo Man",
+     "Similarity (Mayro Remix)"
+    ],
+    [
+     1245,
+     "Indigo Man",
+     "Similarity (Mayro Remix)"
+    ],
+    [
+     1285,
+     "Indigo Man",
+     "Similarity (Mayro Remix)"
+    ],
+    [
+     1325,
+     "Hraach",
+     "Dle Yaman (116 Deep Mix)"
+    ],
+    [
+     1365,
+     "Indigo Man",
+     "Similarity (Mayro Remix)"
+    ],
+    [
+     1405,
+     "Indigo Man",
+     "Similarity (Mayro Remix)"
+    ],
+    [
+     1525,
+     "Pando G",
+     "Glory To The Machine (Pando 93 Mix)"
+    ],
+    [
+     1565,
+     "Maae",
+     "The Man"
+    ],
+    [
+     1605,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique)"
+    ],
+    [
+     1645,
+     "Simos Tagias & Maze 28",
+     "Melted Pot (Maze 28 Remix)"
+    ],
+    [
+     1685,
+     "Simos Tagias & Maze 28",
+     "Melted Pot (Maze 28 Remix)"
+    ],
+    [
+     1725,
+     "Tinlicker & Helsloot",
+     "Because You Move Me"
+    ],
+    [
+     1765,
+     "Lipless & Blue Noir",
+     "Alone"
+    ],
+    [
+     1805,
+     "George Ellinas",
+     "Rainmaker (Extended Club Mix)"
+    ],
+    [
+     1845,
+     "George Ellinas",
+     "Rainmaker (Extended Club Mix)"
+    ],
+    [
+     1885,
+     "Q.Green",
+     "Move Every Day (Extended Dub Mix)"
+    ],
+    [
+     1925,
+     "Jiminy Hop",
+     "Revizor"
+    ],
+    [
+     1965,
+     "Jiminy Hop",
+     "Revizor"
+    ],
+    [
+     2005,
+     "Jiminy Hop",
+     "Revizor"
+    ],
+    [
+     2045,
+     "Jiminy Hop",
+     "Revizor"
+    ],
+    [
+     2085,
+     "Jiminy Hop",
+     "Revizor"
+    ],
+    [
+     2125,
+     "Davi & Definition",
+     "Désolé"
+    ],
+    [
+     2165,
+     "Anton Make",
+     "Velurion (Extended Mix)"
+    ],
+    [
+     2205,
+     "Anton Make",
+     "Velurion (Extended Mix)"
+    ],
+    [
+     2245,
+     "Artic White",
+     "Once We Were (Extended Mix)"
+    ],
+    [
+     2285,
+     "Anton Make",
+     "Velurion (Extended Mix)"
+    ],
+    [
+     2325,
+     "Anton Make",
+     "Velurion (Extended Mix)"
+    ],
+    [
+     2365,
+     "EDX",
+     "Echoes (feat. Orem)"
+    ],
+    [
+     2405,
+     "Anton Make",
+     "Velurion (Extended Mix)"
+    ],
+    [
+     2445,
+     "Anton Make",
+     "Velurion (Extended Mix)"
+    ],
+    [
+     2485,
+     "Joey Harmless",
+     "So Shady"
+    ],
+    [
+     2525,
+     "Longflexion",
+     "Chasing Dream"
+    ],
+    [
+     2565,
+     "Redspace",
+     "Life Without You"
+    ],
+    [
+     2605,
+     "Redspace",
+     "Life Without You"
+    ],
+    [
+     2645,
+     "Redspace",
+     "Life Without You"
+    ],
+    [
+     2685,
+     "Para Noir",
+     "Upside Down (Radio Mix)"
+    ],
+    [
+     2725,
+     "Naws & JOSEFINA",
+     "A Thousand Stories"
+    ],
+    [
+     2845,
+     "John Dopping",
+     "Words in Colour"
+    ],
+    [
+     2965,
+     "Patrice Bäumel",
+     "Serpent"
+    ],
+    [
+     3005,
+     "Tom Misch & Poppy Ajudha",
+     "Disco Yes"
+    ],
+    [
+     3085,
+     "Alejandro Castelli",
+     "Peru"
+    ],
+    [
+     3125,
+     "kilobear",
+     "In to the Water"
+    ],
+    [
+     3165,
+     "Ziger",
+     "Feel the Bass"
+    ],
+    [
+     3205,
+     "Patrice Bäumel",
+     "Serpent"
+    ],
+    [
+     3245,
+     "Masters At Work",
+     "To Be in Love (MAW '99 Mix) [feat. India]"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 39.2
+}

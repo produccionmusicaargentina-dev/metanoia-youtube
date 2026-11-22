@@ -1,0 +1,469 @@
+{
+ "ep": 334,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Mandujano",
+   "start": 0,
+   "times": [
+    0,
+    345,
+    745,
+    1065,
+    1385,
+    1705,
+    1905,
+    2185,
+    2465,
+    2785,
+    2945,
+    3345
+   ],
+   "ok": 11,
+   "n": 12,
+   "escuchado": [
+    [
+     5,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     45,
+     "McKeown & Bassiray",
+     "Flat Surfaces (Kohra Remix)"
+    ],
+    [
+     85,
+     "McKeown & Bassiray",
+     "Flat Surfaces (Kohra Remix)"
+    ],
+    [
+     125,
+     "McKeown & Bassiray",
+     "Flat Surfaces (Kohra Remix)"
+    ],
+    [
+     165,
+     "McKeown & Bassiray",
+     "Flat Surfaces (Kohra Remix)"
+    ],
+    [
+     205,
+     "McKeown & Bassiray",
+     "Flat Surfaces (Kohra Remix)"
+    ],
+    [
+     245,
+     "McKeown & Bassiray",
+     "Flat Surfaces (Kohra Remix)"
+    ],
+    [
+     285,
+     "McKeown & Bassiray",
+     "Flat Surfaces (Kohra Remix)"
+    ],
+    [
+     325,
+     "Davi & Definition",
+     "Désolé"
+    ],
+    [
+     365,
+     "Lem",
+     "Sounds of Love"
+    ],
+    [
+     405,
+     "German Brigante",
+     "Take My Hands"
+    ],
+    [
+     445,
+     "Lem",
+     "Sounds of Love"
+    ],
+    [
+     485,
+     "Michel Mess",
+     "Eu Sou O Diabo, O Unico Ser Superior Existente"
+    ],
+    [
+     525,
+     "Lem",
+     "Sounds of Love"
+    ],
+    [
+     565,
+     "Lem",
+     "Sounds of Love"
+    ],
+    [
+     605,
+     "RIDGE & Samuel",
+     "Momentum Shift (Samie Ur Rehman Remix)"
+    ],
+    [
+     645,
+     "Lem",
+     "Sounds of Love"
+    ],
+    [
+     685,
+     "Lem",
+     "Sounds of Love"
+    ],
+    [
+     725,
+     "Tedd Farrenn",
+     "Remind You (Molto Mojito Deep Mix)"
+    ],
+    [
+     765,
+     "Agustin Petros",
+     "Dreaming"
+    ],
+    [
+     805,
+     "Agustin Petros",
+     "Dreaming"
+    ],
+    [
+     845,
+     "Maggie Lindemann",
+     "Pretty Girl (Cheat Codes X Cade Remix)"
+    ],
+    [
+     885,
+     "Travis Scott",
+     "Goosebumps (Vanilla Ace Refix)"
+    ],
+    [
+     925,
+     "Fabio Orru",
+     "I'm Nothing (Ivanshee Remix)"
+    ],
+    [
+     965,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     1005,
+     "Dosem & Prok & Fitch",
+     "Doors"
+    ],
+    [
+     1045,
+     "Robosonic & Klangkuenstler",
+     "Nuts"
+    ],
+    [
+     1085,
+     "The Blackout Allstars, Sheila E., Tito Puente, Dave Valentin, Grover Washington, Paquito D'Rivera, Ray Barretto & Tito Nieves",
+     "I Like It (Like That) [Radio Mix]"
+    ],
+    [
+     1125,
+     "Dosem & Prok & Fitch",
+     "Doors"
+    ],
+    [
+     1165,
+     "Joe Montana",
+     "Electric Dreams"
+    ],
+    [
+     1205,
+     "Maz, Antdot & Ginton",
+     "Jolie Fille (feat. Layefa)"
+    ],
+    [
+     1245,
+     "Dosem & Prok & Fitch",
+     "Doors"
+    ],
+    [
+     1285,
+     "Robosonic & Klangkuenstler",
+     "Nuts"
+    ],
+    [
+     1325,
+     "Dosem & Prok & Fitch",
+     "Doors"
+    ],
+    [
+     1365,
+     "Franco BA",
+     "Cemento"
+    ],
+    [
+     1405,
+     "Paul (AR) & seesko",
+     "Flexible (Seesko Remix)"
+    ],
+    [
+     1445,
+     "Paul (AR) & seesko",
+     "Flexible (Seesko Remix)"
+    ],
+    [
+     1485,
+     "Dmitry Molosh",
+     "Bird Flight"
+    ],
+    [
+     1525,
+     "Paul (AR) & seesko",
+     "Flexible (Seesko Remix)"
+    ],
+    [
+     1565,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     1605,
+     "CamelPhat & Elderbrook",
+     "Cola"
+    ],
+    [
+     1645,
+     "CamelPhat & Elderbrook",
+     "Cola"
+    ],
+    [
+     1685,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     1725,
+     "Guido Giuliano",
+     "Remembrance (Gonzalo Cotroneo Remix)"
+    ],
+    [
+     1765,
+     "Guido Giuliano",
+     "Remembrance (Gonzalo Cotroneo Remix)"
+    ],
+    [
+     1805,
+     "Guido Giuliano",
+     "Remembrance (Gonzalo Cotroneo Remix)"
+    ],
+    [
+     1845,
+     "Guido Giuliano",
+     "Remembrance (Gonzalo Cotroneo Remix)"
+    ],
+    [
+     1885,
+     "Kevin McKay & Lee Cabrera",
+     "Gimme Gimme (Extended Club Mix)"
+    ],
+    [
+     1925,
+     "Analog Sense, Faero & Tom Pavicich",
+     "The Landing"
+    ],
+    [
+     2085,
+     "Analog Sense, Faero & Tom Pavicich",
+     "The Landing"
+    ],
+    [
+     2125,
+     "Analog Sense, Faero & Tom Pavicich",
+     "The Landing"
+    ],
+    [
+     2165,
+     "Villablanca",
+     "One (More Time RMX)"
+    ],
+    [
+     2205,
+     "Cary Crank & Kebin van Reeken",
+     "November Rain (Kebin Van Reeken Remix)"
+    ],
+    [
+     2245,
+     "Cary Crank & Kebin van Reeken",
+     "November Rain (Kebin Van Reeken Remix)"
+    ],
+    [
+     2285,
+     "Cary Crank & Kebin van Reeken",
+     "November Rain (Kebin Van Reeken Remix)"
+    ],
+    [
+     2325,
+     "Cary Crank & Kebin van Reeken",
+     "November Rain (Kebin Van Reeken Remix)"
+    ],
+    [
+     2365,
+     "Cary Crank & Kebin van Reeken",
+     "November Rain (Kebin Van Reeken Remix)"
+    ],
+    [
+     2405,
+     "Cary Crank & Kebin van Reeken",
+     "November Rain (Kebin Van Reeken Remix)"
+    ],
+    [
+     2445,
+     "Cary Crank & Kebin van Reeken",
+     "November Rain (Kebin Van Reeken Remix)"
+    ],
+    [
+     2485,
+     "Echo Daft & SHERRNX",
+     "Power Surge"
+    ],
+    [
+     2525,
+     "Echo Daft & SHERRNX",
+     "Power Surge"
+    ],
+    [
+     2565,
+     "Echo Daft & SHERRNX",
+     "Power Surge"
+    ],
+    [
+     2605,
+     "Echo Daft & SHERRNX",
+     "Power Surge"
+    ],
+    [
+     2645,
+     "Echo Daft & SHERRNX",
+     "Power Surge"
+    ],
+    [
+     2685,
+     "Leandro Murua",
+     "Lost in Space"
+    ],
+    [
+     2725,
+     "Sandy B",
+     "Make the World Go Round (Knuckleheadz Remix)"
+    ],
+    [
+     2765,
+     "Daniel Neuland & Sahra Bass",
+     "Bretterling"
+    ],
+    [
+     2805,
+     "Redspace & Martin Di Sciascio",
+     "Subliminal Verses (Leandro Murua Remix)"
+    ],
+    [
+     2845,
+     "Redspace & Martin Di Sciascio",
+     "Subliminal Verses (Leandro Murua Remix)"
+    ],
+    [
+     2885,
+     "Redspace & Martin Di Sciascio",
+     "Subliminal Verses (Leandro Murua Remix)"
+    ],
+    [
+     2925,
+     "Redspace & Martin Di Sciascio",
+     "Subliminal Verses (Leandro Murua Remix)"
+    ],
+    [
+     2965,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ],
+    [
+     3005,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ],
+    [
+     3045,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ],
+    [
+     3085,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ],
+    [
+     3125,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ],
+    [
+     3165,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ],
+    [
+     3205,
+     "Starkato",
+     "Python"
+    ],
+    [
+     3245,
+     "Vintage Culture",
+     "Space"
+    ],
+    [
+     3285,
+     "Massano",
+     "The Feeling"
+    ],
+    [
+     3325,
+     "Yadek, Fonarev & Anton Make",
+     "Arrakis (Anton Make & Fonarev Remix)"
+    ],
+    [
+     3365,
+     "Juan Deminicis",
+     "Dmt"
+    ],
+    [
+     3405,
+     "Juan Deminicis",
+     "Dmt"
+    ],
+    [
+     3445,
+     "Gaetano C & DePandis",
+     "Saw"
+    ],
+    [
+     3485,
+     "Minimax",
+     "Bam Bam (Original Mix)"
+    ],
+    [
+     3525,
+     "Ziger",
+     "Feel the Bass"
+    ],
+    [
+     3565,
+     "Gaetano C & DePandis",
+     "Saw"
+    ],
+    [
+     3605,
+     "Crystal Waters & Richey Profond",
+     "Gypsy Woman (Richey Profond Remix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 42.9
+}
