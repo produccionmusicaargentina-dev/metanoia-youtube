@@ -1,0 +1,505 @@
+{
+ "ep": 329,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Paloma Posik",
+   "start": 0,
+   "times": [
+    0,
+    65,
+    345,
+    425,
+    585,
+    745,
+    1065,
+    1305,
+    1625,
+    1785,
+    2145,
+    2225,
+    2385,
+    2585,
+    2745,
+    2945,
+    3265,
+    3505
+   ],
+   "ok": 18,
+   "n": 18,
+   "escuchado": [
+    [
+     5,
+     "Monte la Rue",
+     "Prologue"
+    ],
+    [
+     45,
+     "Mr Mo",
+     "A Millimeter"
+    ],
+    [
+     85,
+     "Air",
+     "Casanova 70 (The Secret of Cool)"
+    ],
+    [
+     125,
+     "Air",
+     "Casanova 70 (The Secret of Cool)"
+    ],
+    [
+     165,
+     "Air",
+     "Casanova 70 (Moodswings)"
+    ],
+    [
+     205,
+     "Air",
+     "Casanova 70 (The Secret of Cool)"
+    ],
+    [
+     245,
+     "Air",
+     "Casanova 70 (Moodswings)"
+    ],
+    [
+     285,
+     "Air",
+     "Casanova 70 (The Secret of Cool)"
+    ],
+    [
+     325,
+     "Air",
+     "Casanova 70 (The Secret of Cool)"
+    ],
+    [
+     365,
+     "Morcheeba",
+     "Thumbnails"
+    ],
+    [
+     405,
+     "Morcheeba",
+     "Thumbnails"
+    ],
+    [
+     445,
+     "Massive Attack",
+     "Sly (Eternal Feedback Dub)"
+    ],
+    [
+     485,
+     "Massive Attack",
+     "Sly (Eternal Feedback Dub)"
+    ],
+    [
+     525,
+     "Massive Attack",
+     "Sly (Eternal Feedback Dub)"
+    ],
+    [
+     605,
+     "Tosca",
+     "Annanas (Cosmic Rocker Dub)"
+    ],
+    [
+     645,
+     "Tosca",
+     "Annanas (Cosmic Rocker Dub)"
+    ],
+    [
+     725,
+     "Tosca",
+     "Annanas (Cosmic Rocker Dub)"
+    ],
+    [
+     765,
+     "Intastella",
+     "Overdrive"
+    ],
+    [
+     805,
+     "Intastella",
+     "Overdrive"
+    ],
+    [
+     845,
+     "Intastella",
+     "Overdrive"
+    ],
+    [
+     885,
+     "Intastella",
+     "Overdrive"
+    ],
+    [
+     925,
+     "Intastella",
+     "Overdrive"
+    ],
+    [
+     965,
+     "Intastella",
+     "Overdrive"
+    ],
+    [
+     1005,
+     "Intastella",
+     "Overdrive"
+    ],
+    [
+     1045,
+     "Intastella",
+     "Overdrive"
+    ],
+    [
+     1085,
+     "Aural Float",
+     "Session 5"
+    ],
+    [
+     1125,
+     "Aural Float",
+     "Session 5"
+    ],
+    [
+     1165,
+     "Aural Float",
+     "Session 5"
+    ],
+    [
+     1205,
+     "Aural Float",
+     "Session 5"
+    ],
+    [
+     1325,
+     "Peace Orchestra",
+     "Domination"
+    ],
+    [
+     1365,
+     "Peace Orchestra",
+     "Domination"
+    ],
+    [
+     1405,
+     "Peace Orchestra",
+     "Domination"
+    ],
+    [
+     1445,
+     "Peace Orchestra",
+     "Domination"
+    ],
+    [
+     1485,
+     "Peace Orchestra",
+     "Domination"
+    ],
+    [
+     1525,
+     "Peace Orchestra",
+     "Domination"
+    ],
+    [
+     1565,
+     "Peace Orchestra",
+     "Domination"
+    ],
+    [
+     1605,
+     "Peace Orchestra",
+     "Domination"
+    ],
+    [
+     1645,
+     "Gustavo Cerati",
+     "Y Si el Humo Está en Foco..."
+    ],
+    [
+     1685,
+     "Gustavo Cerati",
+     "Y Si el Humo Está en Foco..."
+    ],
+    [
+     1725,
+     "Gustavo Cerati",
+     "Y Si el Humo Está en Foco..."
+    ],
+    [
+     1765,
+     "Gustavo Cerati",
+     "Y Si el Humo Está en Foco..."
+    ],
+    [
+     1805,
+     "Tosca",
+     "Johnny Waters (Silver City Remix)"
+    ],
+    [
+     1845,
+     "Tosca",
+     "Johnny Waters (Silver City Remix)"
+    ],
+    [
+     1885,
+     "Tosca",
+     "Johnny Waters (Silver City Remix)"
+    ],
+    [
+     1925,
+     "Tosca",
+     "Johnny Waters (Silver City Remix)"
+    ],
+    [
+     1965,
+     "Tosca",
+     "Johnny Waters (Silver City Remix)"
+    ],
+    [
+     2005,
+     "Tosca",
+     "Johnny Waters (Silver City Remix)"
+    ],
+    [
+     2045,
+     "Tosca",
+     "Johnny Waters (Silver City Remix)"
+    ],
+    [
+     2085,
+     "Tosca",
+     "Johnny Waters (Silver City Remix)"
+    ],
+    [
+     2125,
+     "Tosca",
+     "Johnny Waters (Silver City Remix)"
+    ],
+    [
+     2165,
+     "Joey Beltram",
+     "Psycho Bass"
+    ],
+    [
+     2205,
+     "Joey Beltram",
+     "Psycho Bass"
+    ],
+    [
+     2245,
+     "Panoram",
+     "Wandering Frames (Luca Lozano Remix)"
+    ],
+    [
+     2285,
+     "Panoram",
+     "Wandering Frames (Luca Lozano Remix)"
+    ],
+    [
+     2325,
+     "Panoram",
+     "Wandering Frames (Luca Lozano Remix)"
+    ],
+    [
+     2365,
+     "Panoram",
+     "Wandering Frames (Luca Lozano Remix)"
+    ],
+    [
+     2405,
+     "David Byrne",
+     "Dance On Vaseline (remixed by Thievery Corp.)"
+    ],
+    [
+     2445,
+     "David Byrne",
+     "Dance On Vaseline (remixed by Thievery Corp.)"
+    ],
+    [
+     2485,
+     "En Vogue",
+     "Love Don't Love You"
+    ],
+    [
+     2525,
+     "David Byrne",
+     "Dance On Vaseline (remixed by Thievery Corp.)"
+    ],
+    [
+     2565,
+     "David Byrne",
+     "Dance On Vaseline (remixed by Thievery Corp.)"
+    ],
+    [
+     2605,
+     "Fluke",
+     "Glorious"
+    ],
+    [
+     2645,
+     "Fluke",
+     "Glorious"
+    ],
+    [
+     2685,
+     "Fluke",
+     "Glorious"
+    ],
+    [
+     2725,
+     "Fluke",
+     "Glorious"
+    ],
+    [
+     2765,
+     "Mark Murphy & Three Minutes",
+     "Secret (Stefan Obermaier Remix)"
+    ],
+    [
+     2805,
+     "Mark Murphy & Three Minutes",
+     "Secret (Stefan Obermaier Remix)"
+    ],
+    [
+     2845,
+     "Mark Murphy & Three Minutes",
+     "Secret (Stefan Obermaier Remix)"
+    ],
+    [
+     2885,
+     "Mark Murphy & Three Minutes",
+     "Secret (Stefan Obermaier Remix)"
+    ],
+    [
+     2925,
+     "Mark Murphy & Three Minutes",
+     "Secret (Stefan Obermaier Remix)"
+    ],
+    [
+     2965,
+     "Gustavo Cerati & Daniel Melero",
+     "Quatro"
+    ],
+    [
+     3005,
+     "Gustavo Cerati & Daniel Melero",
+     "Quatro"
+    ],
+    [
+     3045,
+     "Gustavo Cerati & Daniel Melero",
+     "Quatro"
+    ],
+    [
+     3085,
+     "Gustavo Cerati & Daniel Melero",
+     "Quatro"
+    ],
+    [
+     3125,
+     "Gustavo Cerati & Daniel Melero",
+     "Quatro"
+    ],
+    [
+     3165,
+     "Gustavo Cerati & Daniel Melero",
+     "Quatro"
+    ],
+    [
+     3205,
+     "Gustavo Cerati & Daniel Melero",
+     "Quatro"
+    ],
+    [
+     3245,
+     "Gustavo Cerati & Daniel Melero",
+     "Quatro"
+    ],
+    [
+     3285,
+     "Fluke",
+     "Electric Guitar (Humbucker)"
+    ],
+    [
+     3325,
+     "Fluke",
+     "Electric Guitar (Humbucker)"
+    ],
+    [
+     3365,
+     "Fluke",
+     "Electric Guitar (Humbucker)"
+    ],
+    [
+     3405,
+     "Fluke",
+     "Electric Guitar (Humbucker)"
+    ],
+    [
+     3445,
+     "Fluke",
+     "Electric Guitar (Humbucker)"
+    ],
+    [
+     3485,
+     "IInfinity",
+     "Save Me"
+    ],
+    [
+     3525,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ],
+    [
+     3565,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ],
+    [
+     3605,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ],
+    [
+     3645,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ],
+    [
+     3685,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ],
+    [
+     3725,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ],
+    [
+     3765,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ],
+    [
+     3805,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ],
+    [
+     3845,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ],
+    [
+     3885,
+     "Moby",
+     "Next Is the E (Synthe Mix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 44.0
+}

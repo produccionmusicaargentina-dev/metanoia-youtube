@@ -1,0 +1,487 @@
+{
+ "ep": 332,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    305,
+    485,
+    665,
+    945,
+    1105,
+    1385,
+    1585,
+    1825,
+    2105,
+    2545,
+    2625,
+    2945,
+    3265,
+    3545
+   ],
+   "ok": 14,
+   "n": 15,
+   "escuchado": [
+    [
+     5,
+     "CamelPhat & Elderbrook",
+     "Cola (Mousse T.'s Glitterbox Mix)"
+    ],
+    [
+     45,
+     "Ghostbusterz",
+     "Lose My Breath"
+    ],
+    [
+     85,
+     "Jose Rodriguez",
+     "One Night in the House of Consciousness"
+    ],
+    [
+     125,
+     "Zoningo AI",
+     "Aural Illusionarium"
+    ],
+    [
+     165,
+     "Jose Rodriguez",
+     "One Night in the House of Consciousness"
+    ],
+    [
+     205,
+     "Jose Rodriguez",
+     "One Night in the House of Consciousness"
+    ],
+    [
+     245,
+     "Jose Rodriguez",
+     "One Night in the House of Consciousness"
+    ],
+    [
+     285,
+     "Artic White, D'nox & Kamilo Sanclemente",
+     "Rosea (D-Nox, Kamilo Sanclemente Remix)"
+    ],
+    [
+     325,
+     "Galope Messier",
+     "Vórtice Onírico (Spæcialista Remix)"
+    ],
+    [
+     365,
+     "Galope Messier",
+     "Vórtice Onírico (Spæcialista Remix)"
+    ],
+    [
+     405,
+     "Galope Messier",
+     "Vórtice Onírico (Spæcialista Remix)"
+    ],
+    [
+     445,
+     "OZBEK",
+     "Rooftop"
+    ],
+    [
+     685,
+     "Local Suicide & Wiener Planquadrat",
+     "Der Apfel Fällt Nicht Weit Vom Stamm"
+    ],
+    [
+     725,
+     "Sean & Dee",
+     "Game Of Thrones Theme (Reinterpretation Mix)"
+    ],
+    [
+     765,
+     "Local Suicide & Wiener Planquadrat",
+     "Der Apfel Fällt Nicht Weit Vom Stamm"
+    ],
+    [
+     805,
+     "Local Suicide & Wiener Planquadrat",
+     "Der Apfel Fällt Nicht Weit Vom Stamm"
+    ],
+    [
+     845,
+     "Local Suicide & Wiener Planquadrat",
+     "Der Apfel Fällt Nicht Weit Vom Stamm"
+    ],
+    [
+     885,
+     "Local Suicide & Wiener Planquadrat",
+     "Der Apfel Fällt Nicht Weit Vom Stamm"
+    ],
+    [
+     925,
+     "Local Suicide & Wiener Planquadrat",
+     "Der Apfel Fällt Nicht Weit Vom Stamm"
+    ],
+    [
+     965,
+     "PAZZOS",
+     "Aura Secreta"
+    ],
+    [
+     1005,
+     "PAZZOS",
+     "Aura Secreta"
+    ],
+    [
+     1045,
+     "PAZZOS",
+     "Aura Secreta"
+    ],
+    [
+     1085,
+     "PAZZOS",
+     "Aura Secreta"
+    ],
+    [
+     1125,
+     "Cutoff:Sky",
+     "Fast Life (Radio Edit)"
+    ],
+    [
+     1165,
+     "Cutoff:Sky",
+     "Fast Life (Radio Edit)"
+    ],
+    [
+     1205,
+     "Cutoff:Sky",
+     "Fast Life (Radio Edit)"
+    ],
+    [
+     1245,
+     "Cutoff:Sky",
+     "Fast Life (Radio Edit)"
+    ],
+    [
+     1285,
+     "Cutoff:Sky",
+     "Fast Life (Radio Edit)"
+    ],
+    [
+     1325,
+     "Cutoff:Sky",
+     "Fast Life (Radio Edit)"
+    ],
+    [
+     1365,
+     "Cutoff:Sky",
+     "Fast Life (Radio Edit)"
+    ],
+    [
+     1405,
+     "Laion",
+     "Hand Hand Paw"
+    ],
+    [
+     1445,
+     "Laion & Doctr",
+     "Hand Hand Paw (Doctr Remix)"
+    ],
+    [
+     1485,
+     "Laion",
+     "Hand Hand Paw"
+    ],
+    [
+     1525,
+     "Laion",
+     "Hand Hand Paw"
+    ],
+    [
+     1565,
+     "Laion",
+     "Hand Hand Paw"
+    ],
+    [
+     1605,
+     "David Ardila (US)",
+     "Feel The Energy"
+    ],
+    [
+     1645,
+     "David Ardila (US)",
+     "Feel The Energy"
+    ],
+    [
+     1685,
+     "David Ardila (US)",
+     "Feel The Energy"
+    ],
+    [
+     1725,
+     "Chilled But Progressive",
+     "Sweet Dreams (Sven & Olav Remix)"
+    ],
+    [
+     1765,
+     "David Ardila (US)",
+     "Feel The Energy"
+    ],
+    [
+     1805,
+     "David Ardila (US)",
+     "Feel The Energy"
+    ],
+    [
+     1845,
+     "Amount",
+     "Zeroton"
+    ],
+    [
+     1885,
+     "Amount",
+     "Zeroton"
+    ],
+    [
+     1925,
+     "Amount",
+     "Zeroton"
+    ],
+    [
+     1965,
+     "Amount",
+     "Zeroton"
+    ],
+    [
+     2005,
+     "Darksunz",
+     "Evolution"
+    ],
+    [
+     2045,
+     "Amount",
+     "Zeroton"
+    ],
+    [
+     2085,
+     "Festiva",
+     "Cerberus"
+    ],
+    [
+     2125,
+     "Kelle",
+     "Callista"
+    ],
+    [
+     2165,
+     "Kelle",
+     "Callista"
+    ],
+    [
+     2205,
+     "Kelle",
+     "Callista"
+    ],
+    [
+     2245,
+     "Kelle",
+     "Callista"
+    ],
+    [
+     2285,
+     "Kelle",
+     "Callista"
+    ],
+    [
+     2325,
+     "Kelle",
+     "Callista"
+    ],
+    [
+     2365,
+     "Kelle",
+     "Callista"
+    ],
+    [
+     2405,
+     "Kelle",
+     "Callista"
+    ],
+    [
+     2445,
+     "E-Play",
+     "Quarantine"
+    ],
+    [
+     2485,
+     "Ben Samuel",
+     "Toscana"
+    ],
+    [
+     2525,
+     "Captain Hollywood Project",
+     "More and More (Single Version)"
+    ],
+    [
+     2565,
+     "Daniela Casavola",
+     "COSMOGONÍA (Club Mix)"
+    ],
+    [
+     2605,
+     "Daniela Casavola",
+     "COSMOGONÍA (Club Mix)"
+    ],
+    [
+     2645,
+     "SNYL",
+     "In My Head (feat. Jessica Zese)"
+    ],
+    [
+     2685,
+     "SNYL",
+     "In My Head (feat. Jessica Zese)"
+    ],
+    [
+     2725,
+     "Purple Disco Machine",
+     "Body Funk"
+    ],
+    [
+     2765,
+     "Disco Universe",
+     "Glass Moon"
+    ],
+    [
+     2805,
+     "SNYL",
+     "In My Head (feat. Jessica Zese)"
+    ],
+    [
+     2845,
+     "SNYL",
+     "In My Head (feat. Jessica Zese)"
+    ],
+    [
+     2885,
+     "Overtone",
+     "Imagine"
+    ],
+    [
+     2925,
+     "deadmau5",
+     "The Veldt (8 Minute Edit)"
+    ],
+    [
+     2965,
+     "HIGHLITE & Maori",
+     "Musica"
+    ],
+    [
+     3005,
+     "HIGHLITE & Maori",
+     "Musica"
+    ],
+    [
+     3045,
+     "HIGHLITE & Maori",
+     "Musica"
+    ],
+    [
+     3085,
+     "HIGHLITE & Maori",
+     "Musica"
+    ],
+    [
+     3125,
+     "HIGHLITE & Maori",
+     "Musica"
+    ],
+    [
+     3165,
+     "Masahiro Nishibata",
+     "Tide On (Nemphirex Remix)"
+    ],
+    [
+     3205,
+     "HIGHLITE & Maori",
+     "Musica"
+    ],
+    [
+     3245,
+     "Mood II Swing",
+     "Closer (feat. Carole Sylvan) [The Deepshakerz Extended Rework]"
+    ],
+    [
+     3285,
+     "Avocado",
+     "I Wanna Bounce - Single"
+    ],
+    [
+     3325,
+     "666",
+     "Alarma!"
+    ],
+    [
+     3365,
+     "Mood II Swing",
+     "Closer (feat. Carole Sylvan) [The Deepshakerz Extended Rework]"
+    ],
+    [
+     3405,
+     "Avocado",
+     "I Wanna Bounce - Single"
+    ],
+    [
+     3445,
+     "Avocado",
+     "I Wanna Bounce - Single"
+    ],
+    [
+     3485,
+     "666",
+     "Alarma!"
+    ],
+    [
+     3525,
+     "Mood II Swing",
+     "Closer (feat. Carole Sylvan) [The Deepshakerz Extended Rework]"
+    ],
+    [
+     3565,
+     "Gui Boratto",
+     "Panorama X-Press"
+    ],
+    [
+     3605,
+     "Gui Boratto",
+     "Panorama X-Press"
+    ],
+    [
+     3645,
+     "George Ellinas",
+     "Rainmaker (Extended Club Mix)"
+    ],
+    [
+     3685,
+     "Crowe",
+     "The Monopolisation of Human Beings"
+    ],
+    [
+     3725,
+     "Phylum",
+     "Luck (Original Mix)"
+    ],
+    [
+     3765,
+     "Gui Boratto",
+     "Panorama X-Press"
+    ],
+    [
+     3805,
+     "Purple Disco Machine",
+     "Disco Cherry"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 42.9
+}
