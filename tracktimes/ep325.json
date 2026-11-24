@@ -1,0 +1,1238 @@
+{
+ "ep": 325,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Eugenio Sanchez Moreno",
+   "start": 0,
+   "times": [
+    0,
+    432,
+    865,
+    1145,
+    1545,
+    1945,
+    2185,
+    2425,
+    2705,
+    3205,
+    3705,
+    3865,
+    4212,
+    4558,
+    4905,
+    5345,
+    5425,
+    5685,
+    5945,
+    6305,
+    6585,
+    6785,
+    7105,
+    7465,
+    7625,
+    7905,
+    8225,
+    8545,
+    8865,
+    9065,
+    9265,
+    9705,
+    9985,
+    10225,
+    10745,
+    11065
+   ],
+   "ok": 26,
+   "n": 36,
+   "escuchado": [
+    [
+     5,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     45,
+     "Johnny Cash",
+     "Hurt"
+    ],
+    [
+     85,
+     "Johnny Cash",
+     "Hurt"
+    ],
+    [
+     125,
+     "Johnny Cash",
+     "Hurt"
+    ],
+    [
+     165,
+     "Johnny Cash",
+     "Hurt"
+    ],
+    [
+     205,
+     "Johnny Cash",
+     "Hurt"
+    ],
+    [
+     245,
+     "Johnny Cash",
+     "Hurt"
+    ],
+    [
+     285,
+     "Johnny Cash",
+     "Hurt"
+    ],
+    [
+     325,
+     "Kudbeu",
+     "Lost Chant"
+    ],
+    [
+     445,
+     "Evoke",
+     "NØT WHAT YØU SEEM (Radio Edit)"
+    ],
+    [
+     565,
+     "Neon & Dellahouse",
+     "Look Me"
+    ],
+    [
+     685,
+     "Neon & Dellahouse",
+     "Look Me"
+    ],
+    [
+     805,
+     "Ohmme",
+     "Little Helper 341-5"
+    ],
+    [
+     845,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     885,
+     "Kutiman",
+     "Inner Galactic Lovers (Kutiman Mixes Fiverr) [Eli Nissan Remix]"
+    ],
+    [
+     925,
+     "Kutiman",
+     "Inner Galactic Lovers (Kutiman Mixes Fiverr) [Eli Nissan Remix]"
+    ],
+    [
+     965,
+     "Kutiman",
+     "Inner Galactic Lovers (Kutiman Mixes Fiverr) [Eli Nissan Remix]"
+    ],
+    [
+     1005,
+     "Kutiman",
+     "Inner Galactic Lovers (Kutiman Mixes Fiverr) [Eli Nissan Remix]"
+    ],
+    [
+     1045,
+     "Kutiman",
+     "Inner Galactic Lovers (Kutiman Mixes Fiverr) [Eli Nissan Remix]"
+    ],
+    [
+     1085,
+     "Kutiman",
+     "Inner Galactic Lovers (Kutiman Mixes Fiverr) [Eli Nissan Remix]"
+    ],
+    [
+     1125,
+     "Kutiman",
+     "Inner Galactic Lovers (Kutiman Mixes Fiverr) [Eli Nissan Remix]"
+    ],
+    [
+     1165,
+     "Erdi Irmak",
+     "Echoes in Time"
+    ],
+    [
+     1205,
+     "Erdi Irmak",
+     "Echoes in Time"
+    ],
+    [
+     1245,
+     "Erdi Irmak",
+     "Echoes in Time"
+    ],
+    [
+     1285,
+     "Erdi Irmak",
+     "Echoes in Time"
+    ],
+    [
+     1325,
+     "Erdi Irmak",
+     "Echoes in Time"
+    ],
+    [
+     1365,
+     "Todd Terry",
+     "Keep On Jumpin' (feat. Martha Wash & Jocelyn Brown) [Original Edit]"
+    ],
+    [
+     1405,
+     "Erdi Irmak",
+     "Echoes in Time"
+    ],
+    [
+     1445,
+     "Erdi Irmak",
+     "Echoes in Time"
+    ],
+    [
+     1485,
+     "Erdi Irmak",
+     "Echoes in Time"
+    ],
+    [
+     1525,
+     "Rob Rhythm",
+     "My Bed (feat. DH)"
+    ],
+    [
+     1605,
+     "Lofi Groove Oasis",
+     "Sunshine Rhythm"
+    ],
+    [
+     1645,
+     "The Deep Lagoon",
+     "Party Down"
+    ],
+    [
+     1685,
+     "DJ Predator & Simba",
+     "Clara and Amanda"
+    ],
+    [
+     1805,
+     "Echo Inspectors",
+     "Archetype (Knowone Dub)"
+    ],
+    [
+     1965,
+     "Mike Griego",
+     "Digital Dub"
+    ],
+    [
+     2005,
+     "Mike Griego",
+     "Digital Dub"
+    ],
+    [
+     2045,
+     "Mike Griego",
+     "Digital Dub"
+    ],
+    [
+     2445,
+     "Erdi Irmak",
+     "Hope"
+    ],
+    [
+     2485,
+     "Erdi Irmak",
+     "Hope"
+    ],
+    [
+     2525,
+     "Erdi Irmak",
+     "Hope"
+    ],
+    [
+     2565,
+     "Erdi Irmak",
+     "Hope"
+    ],
+    [
+     2605,
+     "Erdi Irmak",
+     "Hope"
+    ],
+    [
+     2645,
+     "Erdi Irmak",
+     "Hope"
+    ],
+    [
+     2685,
+     "Erdi Irmak",
+     "Hope"
+    ],
+    [
+     2725,
+     "Chopstick & Johnjon",
+     "Roots (feat. Signaljacker) [Cornucopia Remix]"
+    ],
+    [
+     2765,
+     "Chopstick & Johnjon",
+     "Roots (feat. Signaljacker) [Cornucopia Remix]"
+    ],
+    [
+     2805,
+     "Chopstick & Johnjon",
+     "Roots (feat. Signaljacker) [Cornucopia Remix]"
+    ],
+    [
+     2845,
+     "Chopstick & Johnjon",
+     "Roots (feat. Signaljacker) [Cornucopia Remix]"
+    ],
+    [
+     2885,
+     "Chopstick & Johnjon",
+     "Roots (feat. Signaljacker) [Cornucopia Remix]"
+    ],
+    [
+     2925,
+     "Chopstick & Johnjon",
+     "Roots (feat. Signaljacker) [Cornucopia Remix]"
+    ],
+    [
+     2965,
+     "Chopstick & Johnjon",
+     "Roots (feat. Signaljacker) [Cornucopia Remix]"
+    ],
+    [
+     3005,
+     "HOSH & 1979",
+     "Midnight (The Hanging Tree) [feat. Jalja] [Extended]"
+    ],
+    [
+     3045,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     3085,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     3125,
+     "Allen (Italy) & Filix",
+     "Dusty Palace"
+    ],
+    [
+     3165,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     3205,
+     "Bondarev",
+     "Manshivaan"
+    ],
+    [
+     3245,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     3285,
+     "Bondarev",
+     "Manshivaan"
+    ],
+    [
+     3325,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     3365,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     3405,
+     "KREAM & Millean.",
+     "What You've Done To Me (feat. Bemendé) [Extended Mix]"
+    ],
+    [
+     3445,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     3485,
+     "Andme & Bastian",
+     "Step Out"
+    ],
+    [
+     3525,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     3565,
+     "Robin S.",
+     "Show Me Love (Original)"
+    ],
+    [
+     3605,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     3645,
+     "Allies for Everyone",
+     "Bunker (Jay Hill's Dreamy Tech Remix)"
+    ],
+    [
+     3685,
+     "Mysterious People, Kings Of Tomorrow & Sandy Rivera",
+     "Love Revolution (Mood II Swing Remix 2)"
+    ],
+    [
+     3725,
+     "Cornucopia",
+     "Letter for Poly"
+    ],
+    [
+     3765,
+     "Josef Lupo",
+     "Lumiere (Josef Lupo's \"Always 12\" Mix)"
+    ],
+    [
+     3805,
+     "Bondarev",
+     "Manshivaan"
+    ],
+    [
+     3845,
+     "Marc Marzenit",
+     "Perron (Wehbba Remix)"
+    ],
+    [
+     3885,
+     "Facundo Leiarz",
+     "Midnight Session (Fran Garay & Ignacio Lo Remix)"
+    ],
+    [
+     3925,
+     "Facundo Leiarz",
+     "Midnight Session (Fran Garay & Ignacio Lo Remix)"
+    ],
+    [
+     3965,
+     "MEDUZA, Becky Hill & Goodboys",
+     "Lose Control"
+    ],
+    [
+     4005,
+     "Calvin Harris & Sam Smith",
+     "Promises (Sonny Fodera Remix)"
+    ],
+    [
+     4045,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     4085,
+     "Facundo Leiarz",
+     "Midnight Session (Fran Garay & Ignacio Lo Remix)"
+    ],
+    [
+     4125,
+     "Da Hool",
+     "Meet Her At The Love Parade (Dekova 2020 Rework)"
+    ],
+    [
+     4245,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     4285,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     4405,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     4485,
+     "Avon Stringer & Jesse Rose",
+     "Pressure (Play It Down Edit)"
+    ],
+    [
+     4525,
+     "Jaceo",
+     "Ho-Up"
+    ],
+    [
+     4605,
+     "Messaw",
+     "Lux"
+    ],
+    [
+     4645,
+     "MEDUZA & Cassian",
+     "Paradise (feat. Dermot Kennedy) [Cassian Remix]"
+    ],
+    [
+     4685,
+     "MEDUZA & Cassian",
+     "Paradise (feat. Dermot Kennedy) [Cassian Remix]"
+    ],
+    [
+     4725,
+     "OTIOT",
+     "Let The People Shout"
+    ],
+    [
+     4765,
+     "Jonny Calypso",
+     "Teenager 2K15"
+    ],
+    [
+     4845,
+     "Cappo & Mondragon",
+     "Comedown"
+    ],
+    [
+     4885,
+     "Mousse T. & Hot'n'Juicy",
+     "Horny (Mixed)"
+    ],
+    [
+     4925,
+     "Hermanez",
+     "Conn"
+    ],
+    [
+     4965,
+     "Hermanez",
+     "Conn"
+    ],
+    [
+     5005,
+     "Hermanez",
+     "Conn"
+    ],
+    [
+     5045,
+     "Hermanez",
+     "Conn"
+    ],
+    [
+     5085,
+     "Claudio Topputo & Fabrizio Maselli",
+     "My Hands (Santi Fernández Remix)"
+    ],
+    [
+     5125,
+     "Claudio Topputo & Fabrizio Maselli",
+     "My Hands (Santi Fernández Remix)"
+    ],
+    [
+     5165,
+     "Hermanez",
+     "Conn"
+    ],
+    [
+     5325,
+     "MadMe",
+     "Maktub"
+    ],
+    [
+     5365,
+     "Transformation",
+     "I Know It's Hard"
+    ],
+    [
+     5405,
+     "Krystal Klear",
+     "Piano Banana (Long Version)"
+    ],
+    [
+     5445,
+     "Simon Vuarambon",
+     "Prodiga"
+    ],
+    [
+     5485,
+     "Simon Vuarambon",
+     "Prodiga"
+    ],
+    [
+     5525,
+     "Simon Vuarambon",
+     "Prodiga"
+    ],
+    [
+     5565,
+     "Simon Vuarambon",
+     "Prodiga"
+    ],
+    [
+     5605,
+     "Rihanna",
+     "Where Have You Been? (Hector Fonseca Radio Edit)"
+    ],
+    [
+     5645,
+     "Simon Vuarambon",
+     "Prodiga"
+    ],
+    [
+     5685,
+     "Simon Vuarambon",
+     "Prodiga"
+    ],
+    [
+     5725,
+     "Ion Ludwig",
+     "Classilion"
+    ],
+    [
+     5765,
+     "Paperclip People",
+     "Throw (Slam's RTM Remix)"
+    ],
+    [
+     5805,
+     "Dosem & Prok & Fitch",
+     "Doors"
+    ],
+    [
+     5845,
+     "Inner City",
+     "Big Fun (Remastered) [Extended Mix]"
+    ],
+    [
+     5885,
+     "Steve Edwards & Planet Funk",
+     "Rewind My Mind (Extended Mix)"
+    ],
+    [
+     5925,
+     "Groove P",
+     "Hold On Honey (feat. Adeva)"
+    ],
+    [
+     5965,
+     "Khen",
+     "Usual Madness"
+    ],
+    [
+     6005,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     6045,
+     "Ohmme",
+     "Excess (Original Mix)"
+    ],
+    [
+     6085,
+     "Panos Pissitelis & Junior Mi",
+     "Freaky"
+    ],
+    [
+     6125,
+     "Khen",
+     "Usual Madness"
+    ],
+    [
+     6165,
+     "Khen",
+     "Usual Madness"
+    ],
+    [
+     6205,
+     "Khen",
+     "Usual Madness"
+    ],
+    [
+     6245,
+     "Khen",
+     "Usual Madness"
+    ],
+    [
+     6285,
+     "Jonatas C",
+     "Jack"
+    ],
+    [
+     6325,
+     "Danny Howells",
+     "Mama Loves You"
+    ],
+    [
+     6365,
+     "Danny Howells",
+     "Mama Loves You"
+    ],
+    [
+     6405,
+     "Danny Howells",
+     "Mama Dubs You"
+    ],
+    [
+     6445,
+     "Danny Howells",
+     "Mama Loves You"
+    ],
+    [
+     6485,
+     "Danny Howells",
+     "Mama Loves You"
+    ],
+    [
+     6525,
+     "Danny Howells",
+     "Mama Loves You"
+    ],
+    [
+     6565,
+     "Danny Howells",
+     "Mama Loves You"
+    ],
+    [
+     6605,
+     "Abuk & Djolee",
+     "Funker"
+    ],
+    [
+     6645,
+     "Abuk & Djolee",
+     "Funker"
+    ],
+    [
+     6685,
+     "Abuk & Djolee",
+     "Funker"
+    ],
+    [
+     6725,
+     "Abuk & Djolee",
+     "Funker"
+    ],
+    [
+     6765,
+     "Abuk & Djolee",
+     "Funker"
+    ],
+    [
+     6805,
+     "Albuquerque, Anonimat & Shai T",
+     "Like First Time Flight (Shai T Remix)"
+    ],
+    [
+     6845,
+     "Albuquerque, Anonimat & Shai T",
+     "Like First Time Flight (Shai T Remix)"
+    ],
+    [
+     6885,
+     "Albuquerque, Anonimat & Shai T",
+     "Like First Time Flight (Shai T Remix)"
+    ],
+    [
+     6925,
+     "Mitral Bass",
+     "Golden Breaths"
+    ],
+    [
+     6965,
+     "Albuquerque, Anonimat & Shai T",
+     "Like First Time Flight (Shai T Remix)"
+    ],
+    [
+     7005,
+     "Mitral Bass",
+     "Golden Breaths"
+    ],
+    [
+     7045,
+     "Faithless",
+     "Bombs 2.0 (feat. Harry Collier) [Claptone Remix]"
+    ],
+    [
+     7085,
+     "Albuquerque, Anonimat & Shai T",
+     "Like First Time Flight (Shai T Remix)"
+    ],
+    [
+     7125,
+     "Chicola",
+     "Mr Pong"
+    ],
+    [
+     7165,
+     "Chicola",
+     "Mr Pong"
+    ],
+    [
+     7205,
+     "Chicola",
+     "Mr Pong"
+    ],
+    [
+     7245,
+     "Claudio Topputo & Fabrizio Maselli",
+     "My Hands (Santi Fernández Remix)"
+    ],
+    [
+     7285,
+     "Chicola",
+     "Mr Pong"
+    ],
+    [
+     7325,
+     "Chicola",
+     "Mr Pong"
+    ],
+    [
+     7365,
+     "Chicola",
+     "Mr Pong"
+    ],
+    [
+     7445,
+     "Alvaro Albarran",
+     "Tubah - Single"
+    ],
+    [
+     7485,
+     "Fran Garay",
+     "Hadu"
+    ],
+    [
+     7565,
+     "Fran Garay",
+     "Hadu"
+    ],
+    [
+     7605,
+     "Frankey & Sandrino",
+     "Acamar"
+    ],
+    [
+     7645,
+     "Guy Mantzur & Sahar Z",
+     "Small Heart Attack (feat. Amir Darzi) [Guy J Remix]"
+    ],
+    [
+     7685,
+     "Guy Mantzur & Sahar Z",
+     "Small Heart Attack (feat. Amir Darzi) [Guy J Remix]"
+    ],
+    [
+     7725,
+     "Guy Mantzur & Sahar Z",
+     "Small Heart Attack (feat. Amir Darzi) [Guy J Remix]"
+    ],
+    [
+     7765,
+     "Mega Funk SC",
+     "Mega Funk Fritos"
+    ],
+    [
+     7805,
+     "Guy Mantzur & Sahar Z",
+     "Small Heart Attack (feat. Amir Darzi) [Guy J Remix]"
+    ],
+    [
+     7845,
+     "Guy Mantzur & Sahar Z",
+     "Small Heart Attack (feat. Amir Darzi) [Guy J Remix]"
+    ],
+    [
+     7885,
+     "Guy Mantzur & Sahar Z",
+     "Small Heart Attack (feat. Amir Darzi) [Guy J Remix]"
+    ],
+    [
+     7925,
+     "Guy J",
+     "Everyday"
+    ],
+    [
+     7965,
+     "Guy J",
+     "Everyday"
+    ],
+    [
+     8005,
+     "Vortex",
+     "Sandstorm Synth"
+    ],
+    [
+     8045,
+     "Guy J",
+     "Everyday"
+    ],
+    [
+     8085,
+     "Daniel Neuland & Sahra Bass",
+     "Bretterling"
+    ],
+    [
+     8125,
+     "Marina Ferdinand",
+     "Green Eyed Sorrow (Fasan & Hertz Remix)"
+    ],
+    [
+     8165,
+     "Guy J",
+     "Everyday"
+    ],
+    [
+     8205,
+     "Ofenbach",
+     "Rock It"
+    ],
+    [
+     8245,
+     "Guy J",
+     "Everyday"
+    ],
+    [
+     8285,
+     "Daniel Neuland & Sahra Bass",
+     "Bretterling"
+    ],
+    [
+     8325,
+     "Fuenka",
+     "Bogano"
+    ],
+    [
+     8405,
+     "ARJ (IR)",
+     "Aether"
+    ],
+    [
+     8645,
+     "Synchronisation Ohne Grenzen",
+     "Dancing Through Amsterdam"
+    ],
+    [
+     8845,
+     "Any",
+     "404 (Not Found)"
+    ],
+    [
+     8885,
+     "Eugenio Sanchez Moreno",
+     "Brotherhood"
+    ],
+    [
+     8925,
+     "Erich von Kollar",
+     "Vertical Maze"
+    ],
+    [
+     9005,
+     "Carl Higson",
+     "Setting Sun (Matthew Sona Remix)"
+    ],
+    [
+     9205,
+     "Carl Higson",
+     "Setting Sun (Matthew Sona Remix)"
+    ],
+    [
+     9285,
+     "Guy J",
+     "Live Another Day"
+    ],
+    [
+     9325,
+     "Guy J",
+     "Live Another Day"
+    ],
+    [
+     9365,
+     "Guy J",
+     "Live Another Day"
+    ],
+    [
+     9405,
+     "Guy J",
+     "Live Another Day"
+    ],
+    [
+     9445,
+     "Guy J",
+     "Live Another Day"
+    ],
+    [
+     9485,
+     "Guy J",
+     "Live Another Day"
+    ],
+    [
+     9525,
+     "Guy J",
+     "Live Another Day"
+    ],
+    [
+     9565,
+     "Guy J",
+     "Live Another Day"
+    ],
+    [
+     9605,
+     "Jaceo",
+     "Ho-Up"
+    ],
+    [
+     9645,
+     "Lucius Young",
+     "Tiempo (Mondragon Remix)"
+    ],
+    [
+     9685,
+     "Maarka",
+     "Rectal Molly"
+    ],
+    [
+     9725,
+     "Guy J",
+     "Just Rain"
+    ],
+    [
+     9765,
+     "Jaceo",
+     "Ho-Up"
+    ],
+    [
+     9805,
+     "Guy J",
+     "Just Rain"
+    ],
+    [
+     9845,
+     "Guy J",
+     "Just Rain"
+    ],
+    [
+     9885,
+     "Guy J",
+     "Just Rain"
+    ],
+    [
+     9925,
+     "Guy J",
+     "Just Rain"
+    ],
+    [
+     9965,
+     "Huricane Xperience",
+     "Do U Wanna Dance"
+    ],
+    [
+     10005,
+     "Paul Roux",
+     "Hold On"
+    ],
+    [
+     10045,
+     "Jaceo",
+     "Ho-Up"
+    ],
+    [
+     10085,
+     "Paul Roux",
+     "Hold On"
+    ],
+    [
+     10125,
+     "Paul Roux",
+     "Hold On"
+    ],
+    [
+     10165,
+     "Paul Roux",
+     "Hold On"
+    ],
+    [
+     10205,
+     "Claudio Topputo & Fabrizio Maselli",
+     "My Hands (Santi Fernández Remix)"
+    ],
+    [
+     10245,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10285,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10325,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10365,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10405,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10445,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10485,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10525,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10565,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10605,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10645,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10685,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10725,
+     "Guy Mantzur & Sahar Z",
+     "Temporary Sanity"
+    ],
+    [
+     10765,
+     "Guy J",
+     "Million Years from Now"
+    ],
+    [
+     10805,
+     "Guy J",
+     "Million Years from Now"
+    ],
+    [
+     10845,
+     "Guy J",
+     "Million Years from Now"
+    ],
+    [
+     10885,
+     "Guy J",
+     "Million Years from Now"
+    ],
+    [
+     10925,
+     "Guy J",
+     "Million Years from Now"
+    ],
+    [
+     10965,
+     "Guy J",
+     "Million Years from Now"
+    ],
+    [
+     11005,
+     "Guy J",
+     "Million Years from Now"
+    ],
+    [
+     11045,
+     "Dosem",
+     "All Locations (Edit)"
+    ],
+    [
+     11085,
+     "Guy J",
+     "Nirvana"
+    ],
+    [
+     11125,
+     "Kraken",
+     "Meduza"
+    ],
+    [
+     11165,
+     "Guy J",
+     "Nirvana"
+    ],
+    [
+     11245,
+     "Guy J",
+     "Nirvana"
+    ],
+    [
+     11285,
+     "Guy J",
+     "Nirvana"
+    ],
+    [
+     11325,
+     "Guy J",
+     "Nirvana"
+    ],
+    [
+     11365,
+     "Guy J",
+     "Nirvana"
+    ],
+    [
+     11405,
+     "Guy J",
+     "Nirvana"
+    ],
+    [
+     11445,
+     "D.General & Artwork Sounds",
+     "Say Yeah"
+    ],
+    [
+     11485,
+     "Guy J",
+     "Nirvana"
+    ],
+    [
+     11525,
+     "D.General & Artwork Sounds",
+     "Say Yeah"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 134.1
+}

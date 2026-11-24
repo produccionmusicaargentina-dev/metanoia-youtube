@@ -1,0 +1,453 @@
+{
+ "ep": 326,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Sofia Deren",
+   "start": 0,
+   "times": [
+    0,
+    385,
+    625,
+    905,
+    1345,
+    1505,
+    1785,
+    2185,
+    2385,
+    2665,
+    2985
+   ],
+   "ok": 11,
+   "n": 11,
+   "escuchado": [
+    [
+     5,
+     "Starkato",
+     "Python"
+    ],
+    [
+     45,
+     "Lean Agüero",
+     "Find Yourself"
+    ],
+    [
+     85,
+     "Lean Agüero",
+     "Find Yourself"
+    ],
+    [
+     125,
+     "Lean Agüero",
+     "Find Yourself"
+    ],
+    [
+     165,
+     "Lean Agüero",
+     "Find Yourself"
+    ],
+    [
+     205,
+     "David Guetta, Anne-Marie & Coi Leray",
+     "Baby Don't Hurt Me (Robin Schulz Remix)"
+    ],
+    [
+     245,
+     "Sing Dance",
+     "NEON DREAMS Best Synthwave & Retro Electro Mix for Work & Chill"
+    ],
+    [
+     285,
+     "SweatyThaiFood",
+     "Who Are You"
+    ],
+    [
+     325,
+     "Lean Agüero",
+     "Find Yourself"
+    ],
+    [
+     365,
+     "Lean Agüero",
+     "Find Yourself"
+    ],
+    [
+     405,
+     "Anton Borin (RU)",
+     "Ritual (HAFT Remix)"
+    ],
+    [
+     445,
+     "Anton Borin (RU)",
+     "Ritual (HAFT Remix)"
+    ],
+    [
+     485,
+     "Anton Borin (RU)",
+     "Ritual (HAFT Remix)"
+    ],
+    [
+     525,
+     "Anton Borin (RU)",
+     "Ritual (HAFT Remix)"
+    ],
+    [
+     565,
+     "Anton Borin (RU)",
+     "Ritual (HAFT Remix)"
+    ],
+    [
+     605,
+     "Anton Borin (RU)",
+     "Ritual (HAFT Remix)"
+    ],
+    [
+     645,
+     "Redspace & VVS",
+     "Monolaya"
+    ],
+    [
+     685,
+     "Paperclip People",
+     "Throw (Slam's RTM Remix)"
+    ],
+    [
+     725,
+     "Redspace & VVS",
+     "Monolaya"
+    ],
+    [
+     765,
+     "Redspace & VVS",
+     "Monolaya"
+    ],
+    [
+     805,
+     "Marc Marzenit",
+     "Perron (Wehbba Remix)"
+    ],
+    [
+     845,
+     "Redspace & VVS",
+     "Monolaya"
+    ],
+    [
+     885,
+     "Bambook",
+     "Give It Up (Audiofly Remix)"
+    ],
+    [
+     925,
+     "Tiefstone",
+     "Imola"
+    ],
+    [
+     965,
+     "Tiefstone",
+     "Imola"
+    ],
+    [
+     1005,
+     "Tiefstone",
+     "Imola"
+    ],
+    [
+     1045,
+     "Tiefstone",
+     "Imola"
+    ],
+    [
+     1085,
+     "Tiefstone",
+     "Imola"
+    ],
+    [
+     1125,
+     "Tiefstone",
+     "Imola"
+    ],
+    [
+     1165,
+     "Tiefstone",
+     "Imola"
+    ],
+    [
+     1205,
+     "DeepSon & Dave SA",
+     "Gross (Nostalgic Dub)"
+    ],
+    [
+     1245,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     1285,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique Radio Mix)"
+    ],
+    [
+     1325,
+     "Haft",
+     "Avalanche"
+    ],
+    [
+     1365,
+     "Haft",
+     "Wide Sky"
+    ],
+    [
+     1405,
+     "Haft",
+     "Avalanche"
+    ],
+    [
+     1445,
+     "Haft",
+     "Wide Sky"
+    ],
+    [
+     1485,
+     "Haft",
+     "Avalanche"
+    ],
+    [
+     1525,
+     "Javier Román",
+     "Sun at Night"
+    ],
+    [
+     1565,
+     "Kesha",
+     "TiK ToK"
+    ],
+    [
+     1605,
+     "Dj Gigi Faiera",
+     "This is the magic sound"
+    ],
+    [
+     1645,
+     "Sound Remedy",
+     "Paradise"
+    ],
+    [
+     1685,
+     "Javier Román",
+     "Sun at Night"
+    ],
+    [
+     1725,
+     "Javier Román",
+     "Sun at Night"
+    ],
+    [
+     1765,
+     "Daniel Neuland & Sahra Bass",
+     "Bretterling"
+    ],
+    [
+     1805,
+     "Artem Arknet",
+     "Erase"
+    ],
+    [
+     1845,
+     "Iago BnWM, Luke Matthews & Sambo Sq",
+     "Energy Healing Techniques (Bonus Track)"
+    ],
+    [
+     1885,
+     "The Return",
+     "New Day"
+    ],
+    [
+     1925,
+     "220 KID & GRACEY",
+     "Don’t Need Love"
+    ],
+    [
+     1965,
+     "Artem Arknet",
+     "Erase"
+    ],
+    [
+     2005,
+     "Artem Arknet",
+     "Erase"
+    ],
+    [
+     2045,
+     "Artem Arknet",
+     "Erase"
+    ],
+    [
+     2085,
+     "Artem Arknet",
+     "Erase"
+    ],
+    [
+     2125,
+     "Panos Pissitelis & Junior Mi",
+     "Freaky"
+    ],
+    [
+     2165,
+     "Vortex",
+     "Sandstorm Synth"
+    ],
+    [
+     2205,
+     "Julian Nates & Julieta Kühnle",
+     "For Another Storm (Cendryma Remix)"
+    ],
+    [
+     2245,
+     "Julian Nates & Julieta Kühnle",
+     "For Another Storm (Cendryma Remix)"
+    ],
+    [
+     2285,
+     "Julian Nates & Julieta Kühnle",
+     "For Another Storm (Cendryma Remix)"
+    ],
+    [
+     2325,
+     "Julian Nates & Julieta Kühnle",
+     "For Another Storm (Cendryma Remix)"
+    ],
+    [
+     2365,
+     "Julian Nates & Julieta Kühnle",
+     "For Another Storm (Cendryma Remix)"
+    ],
+    [
+     2405,
+     "Franco Camiolo & Yonsh",
+     "Artifact"
+    ],
+    [
+     2445,
+     "Franco Camiolo & Yonsh",
+     "Artifact"
+    ],
+    [
+     2485,
+     "Foals",
+     "Late Night (Solomun Remix)"
+    ],
+    [
+     2525,
+     "Franco Camiolo & Yonsh",
+     "Artifact"
+    ],
+    [
+     2565,
+     "Franco Camiolo & Yonsh",
+     "Artifact"
+    ],
+    [
+     2605,
+     "Franco Camiolo & Yonsh",
+     "Artifact"
+    ],
+    [
+     2645,
+     "Franco Camiolo & Yonsh",
+     "Artifact"
+    ],
+    [
+     2685,
+     "Redspace & Unusual Soul",
+     "White Room"
+    ],
+    [
+     2725,
+     "Redspace & Unusual Soul",
+     "White Room"
+    ],
+    [
+     2765,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     2805,
+     "USICOVE",
+     "ESCAPE"
+    ],
+    [
+     2845,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     2885,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     2925,
+     "RÜFÜS DU SOL",
+     "Underwater"
+    ],
+    [
+     2965,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     3005,
+     "COQUEIT",
+     "Promise (Antrim Remix)"
+    ],
+    [
+     3045,
+     "Ralph Noah & U-Gin",
+     "L'appuntamento"
+    ],
+    [
+     3085,
+     "COQUEIT",
+     "Promise (Antrim Remix)"
+    ],
+    [
+     3125,
+     "MEDUZA, Becky Hill & Goodboys",
+     "Lose Control"
+    ],
+    [
+     3165,
+     "COQUEIT",
+     "Promise (Antrim Remix)"
+    ],
+    [
+     3205,
+     "COQUEIT",
+     "Promise (Antrim Remix)"
+    ],
+    [
+     3245,
+     "COQUEIT",
+     "Promise (Antrim Remix)"
+    ],
+    [
+     3285,
+     "COQUEIT",
+     "Promise (Antrim Remix)"
+    ],
+    [
+     3325,
+     "COQUEIT",
+     "Promise (Antrim Remix)"
+    ],
+    [
+     3365,
+     "Ohmme",
+     "Excess (Original Mix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 40.1
+}
