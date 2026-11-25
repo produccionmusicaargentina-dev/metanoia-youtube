@@ -1,0 +1,489 @@
+{
+ "ep": 324,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    265,
+    505,
+    665,
+    865,
+    985,
+    1225,
+    1465,
+    1625,
+    1825,
+    2025,
+    2265,
+    2505,
+    2745,
+    2985,
+    3145,
+    3345
+   ],
+   "ok": 15,
+   "n": 17,
+   "escuchado": [
+    [
+     5,
+     "Richard Grey & Lissat",
+     "Not My Lover (Summer Mix)"
+    ],
+    [
+     45,
+     "Principleasure",
+     "System 100"
+    ],
+    [
+     85,
+     "Principleasure",
+     "System 100"
+    ],
+    [
+     125,
+     "Principleasure",
+     "System 100"
+    ],
+    [
+     165,
+     "Principleasure",
+     "System 100"
+    ],
+    [
+     205,
+     "Principleasure",
+     "System 100"
+    ],
+    [
+     245,
+     "Principleasure",
+     "System 100"
+    ],
+    [
+     285,
+     "The Populists",
+     "Bakchich"
+    ],
+    [
+     325,
+     "The Populists",
+     "Bakchich"
+    ],
+    [
+     365,
+     "The Populists",
+     "Bakchich"
+    ],
+    [
+     405,
+     "The Populists",
+     "Bakchich"
+    ],
+    [
+     445,
+     "The Populists",
+     "Bakchich"
+    ],
+    [
+     485,
+     "The Populists",
+     "Bakchich"
+    ],
+    [
+     525,
+     "NUAH",
+     "Nasty Spaceship"
+    ],
+    [
+     565,
+     "NUAH",
+     "Nasty Spaceship"
+    ],
+    [
+     605,
+     "The Weeknd",
+     "Take My Breath (Instrumental)"
+    ],
+    [
+     645,
+     "NUAH",
+     "Nasty Spaceship"
+    ],
+    [
+     685,
+     "Adam Ten",
+     "Magic Circus"
+    ],
+    [
+     725,
+     "Adam Ten",
+     "Magic Circus"
+    ],
+    [
+     765,
+     "Adam Ten",
+     "Magic Circus"
+    ],
+    [
+     805,
+     "Adam Ten",
+     "Magic Circus"
+    ],
+    [
+     845,
+     "Adam Ten",
+     "Magic Circus"
+    ],
+    [
+     885,
+     "T-Puse & Zooki",
+     "The System (feat. שירה אטיאס)"
+    ],
+    [
+     925,
+     "T-Puse & Zooki",
+     "The System (feat. שירה אטיאס)"
+    ],
+    [
+     965,
+     "T-Puse & Zooki",
+     "The System (feat. שירה אטיאס)"
+    ],
+    [
+     1005,
+     "MODBIT",
+     "Yawoko"
+    ],
+    [
+     1045,
+     "MODBIT",
+     "Yawoko"
+    ],
+    [
+     1085,
+     "MODBIT",
+     "Yawoko"
+    ],
+    [
+     1125,
+     "MODBIT",
+     "Yawoko"
+    ],
+    [
+     1205,
+     "Shavonne",
+     "So, Tell Me, Tell Me (Vocal Mix)"
+    ],
+    [
+     1245,
+     "Yamagucci & DvirNuns",
+     "First Choice (Mixed)"
+    ],
+    [
+     1285,
+     "Yamagucci & DvirNuns",
+     "First Choice (Mixed)"
+    ],
+    [
+     1325,
+     "Mon Qalamari & Musumeci",
+     "Quente (Musumeci Remix)"
+    ],
+    [
+     1365,
+     "Yamagucci & DvirNuns",
+     "First Choice (Mixed)"
+    ],
+    [
+     1405,
+     "Purple Disco Machine",
+     "Playbox"
+    ],
+    [
+     1445,
+     "Yamagucci & DvirNuns",
+     "First Choice (Mixed)"
+    ],
+    [
+     1485,
+     "Samer Soltan",
+     "Agitato"
+    ],
+    [
+     1525,
+     "Samer Soltan",
+     "Agitato"
+    ],
+    [
+     1565,
+     "Samer Soltan",
+     "Agitato"
+    ],
+    [
+     1605,
+     "Samer Soltan",
+     "Agitato"
+    ],
+    [
+     1645,
+     "Deflee",
+     "Yo! (Extended Mix)"
+    ],
+    [
+     1685,
+     "Deflee",
+     "Yo! (Extended Mix)"
+    ],
+    [
+     1725,
+     "Deflee",
+     "Yo! (Extended Mix)"
+    ],
+    [
+     1765,
+     "Deflee",
+     "Yo! (Extended Mix)"
+    ],
+    [
+     1805,
+     "Deflee",
+     "Yo! (Extended Mix)"
+    ],
+    [
+     1845,
+     "Deflee",
+     "Yo! (Extended Mix)"
+    ],
+    [
+     1885,
+     "Janiyoon",
+     "Glimmer"
+    ],
+    [
+     1925,
+     "Point Blank & Secret Cinema",
+     "Meng's Theme (Christian Smith & Wehbba Remix)"
+    ],
+    [
+     1965,
+     "Sexroom",
+     "Timmy Turner (Bass Boosted)"
+    ],
+    [
+     2005,
+     "Ziger",
+     "Feel the Bass"
+    ],
+    [
+     2045,
+     "Decius & Fats McCourt",
+     "Quick Reliefs"
+    ],
+    [
+     2085,
+     "Decius & Fats McCourt",
+     "Quick Reliefs"
+    ],
+    [
+     2125,
+     "Decius & Fats McCourt",
+     "Quick Reliefs"
+    ],
+    [
+     2165,
+     "Decius & Fats McCourt",
+     "Quick Reliefs"
+    ],
+    [
+     2205,
+     "Decius & Fats McCourt",
+     "Quick Reliefs"
+    ],
+    [
+     2245,
+     "Decius & Fats McCourt",
+     "Quick Reliefs"
+    ],
+    [
+     2285,
+     "Perel",
+     "Karlsson"
+    ],
+    [
+     2325,
+     "Perel",
+     "Karlsson"
+    ],
+    [
+     2365,
+     "Perel",
+     "Karlsson"
+    ],
+    [
+     2405,
+     "Perel",
+     "Karlsson"
+    ],
+    [
+     2445,
+     "Perel",
+     "Karlsson"
+    ],
+    [
+     2485,
+     "Perel",
+     "Karlsson"
+    ],
+    [
+     2525,
+     "Bandēs",
+     "Supernova"
+    ],
+    [
+     2565,
+     "Bandēs",
+     "Supernova"
+    ],
+    [
+     2605,
+     "Sandy B",
+     "Make the World Go Round (Deep Dish Round the World Remix)"
+    ],
+    [
+     2645,
+     "Erre",
+     "Always the Same Eyes (Andres Luque Remix)"
+    ],
+    [
+     2685,
+     "Sound Remedy",
+     "Paradise"
+    ],
+    [
+     2725,
+     "Night Queen vs Nick Buya",
+     "Forget Me"
+    ],
+    [
+     2765,
+     "Pavel Petrov",
+     "Back To Black (feat. VALL)"
+    ],
+    [
+     2805,
+     "Pavel Petrov",
+     "Back To Black (feat. VALL)"
+    ],
+    [
+     2845,
+     "Pavel Petrov",
+     "Back To Black (feat. VALL)"
+    ],
+    [
+     2885,
+     "Pavel Petrov",
+     "Back To Black (feat. VALL)"
+    ],
+    [
+     2925,
+     "Mzade",
+     "Esta Que Quema"
+    ],
+    [
+     2965,
+     "The Bucketheads",
+     "The Bomb! (These Sounds Fall Into My Mind) [Radio Edit]"
+    ],
+    [
+     3005,
+     "Made In TLV & Møsard",
+     "Pressure"
+    ],
+    [
+     3045,
+     "Made In TLV & Møsard",
+     "Pressure"
+    ],
+    [
+     3085,
+     "Made In TLV & Møsard",
+     "Pressure"
+    ],
+    [
+     3125,
+     "Made In TLV & Møsard",
+     "Pressure"
+    ],
+    [
+     3165,
+     "Rafael & Millero",
+     "Say That"
+    ],
+    [
+     3205,
+     "Rafael & Millero",
+     "Say That"
+    ],
+    [
+     3245,
+     "Rafael & Millero",
+     "Say That"
+    ],
+    [
+     3285,
+     "Rafael & Millero",
+     "Say That"
+    ],
+    [
+     3325,
+     "Rafael & Millero",
+     "Say That"
+    ],
+    [
+     3365,
+     "Temple Tears",
+     "Lose Control"
+    ],
+    [
+     3405,
+     "DJ Strano",
+     "Sunrise (Vocal Edit)"
+    ],
+    [
+     3445,
+     "Temple Tears",
+     "Lose Control"
+    ],
+    [
+     3485,
+     "Temple Tears",
+     "Lose Control"
+    ],
+    [
+     3525,
+     "Joe Mesmar",
+     "Feeling My Mind"
+    ],
+    [
+     3565,
+     "Temple Tears",
+     "Lose Control"
+    ],
+    [
+     3605,
+     "Jessie James",
+     "Wanted (Jason Phats Bootleg Vocal Mix)"
+    ],
+    [
+     3645,
+     "Temple Tears",
+     "Lose Control"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 44.2
+}

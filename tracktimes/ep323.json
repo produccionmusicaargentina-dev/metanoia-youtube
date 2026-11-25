@@ -1,0 +1,487 @@
+{
+ "ep": 323,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Kosimierz",
+   "start": 0,
+   "times": [
+    0,
+    465,
+    665,
+    905,
+    1145,
+    1305,
+    1585,
+    1905,
+    2305,
+    2465,
+    2745,
+    2825,
+    3025,
+    3145,
+    3345
+   ],
+   "ok": 15,
+   "n": 15,
+   "escuchado": [
+    [
+     5,
+     "Cendryma",
+     "Typical Use"
+    ],
+    [
+     45,
+     "Jonny Calypso",
+     "Teenager 2K15"
+    ],
+    [
+     85,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique Radio Mix)"
+    ],
+    [
+     125,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique Radio Mix)"
+    ],
+    [
+     165,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique Radio Mix)"
+    ],
+    [
+     205,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique Radio Mix)"
+    ],
+    [
+     245,
+     "South Bloom",
+     "Let Me in (Volen Sentir Secret Technique Radio Mix)"
+    ],
+    [
+     285,
+     "Cendryma",
+     "Typical Use"
+    ],
+    [
+     325,
+     "Tyron SA",
+     "Angel"
+    ],
+    [
+     365,
+     "Cendryma",
+     "Typical Use"
+    ],
+    [
+     405,
+     "Jan Kost",
+     "Get Dumb"
+    ],
+    [
+     445,
+     "SaxToThaMax",
+     "The End (feat. DJ Hypertronixx)"
+    ],
+    [
+     485,
+     "Maze 28 & Greta Meier",
+     "Acceptance (Mixed)"
+    ],
+    [
+     525,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     565,
+     "Lipless & Blue Noir",
+     "Alone"
+    ],
+    [
+     605,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     645,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     685,
+     "Sabrina Rivas",
+     "Metal Machine (Soulmade (AR) Remix)"
+    ],
+    [
+     725,
+     "Sabrina Rivas",
+     "Metal Machine (Soulmade (AR) Remix)"
+    ],
+    [
+     765,
+     "Sabrina Rivas",
+     "Metal Machine (Soulmade (AR) Remix)"
+    ],
+    [
+     805,
+     "Sabrina Rivas",
+     "Metal Machine (Soulmade (AR) Remix)"
+    ],
+    [
+     845,
+     "Sabrina Rivas",
+     "Metal Machine (Soulmade (AR) Remix)"
+    ],
+    [
+     885,
+     "Sabrina Rivas",
+     "Metal Machine (Soulmade (AR) Remix)"
+    ],
+    [
+     925,
+     "Augusto Dassano",
+     "Monsama"
+    ],
+    [
+     965,
+     "Augusto Dassano",
+     "Monsama"
+    ],
+    [
+     1005,
+     "comunicatez",
+     "Cloudy Days"
+    ],
+    [
+     1045,
+     "Augusto Dassano",
+     "Monsama"
+    ],
+    [
+     1085,
+     "Augusto Dassano",
+     "Monsama"
+    ],
+    [
+     1125,
+     "Fabo",
+     "Where I Stand (feat. Lostcause) [Karmon Extended Mix]"
+    ],
+    [
+     1165,
+     "Redspace & Ismail M",
+     "No Mercy"
+    ],
+    [
+     1205,
+     "Sistersweet",
+     "Magic Disco (Kyotto Remix) [Mixed]"
+    ],
+    [
+     1245,
+     "Redspace & Ismail M",
+     "No Mercy"
+    ],
+    [
+     1285,
+     "Redspace & Ismail M",
+     "No Mercy"
+    ],
+    [
+     1325,
+     "Trilucid",
+     "Destination"
+    ],
+    [
+     1365,
+     "Trilucid",
+     "Destination"
+    ],
+    [
+     1405,
+     "Bob Ray",
+     "Odissey"
+    ],
+    [
+     1445,
+     "Bob Ray",
+     "Odissey"
+    ],
+    [
+     1485,
+     "Trilucid",
+     "Destination"
+    ],
+    [
+     1525,
+     "Dawn Deep",
+     "BAIANA (DAWN DEEP REVISION)"
+    ],
+    [
+     1565,
+     "Dj Cofrax",
+     "Shit Money"
+    ],
+    [
+     1605,
+     "Jamie Stevens & Zankee Gulati",
+     "Low Tide"
+    ],
+    [
+     1645,
+     "Jamie Stevens & Zankee Gulati",
+     "Low Tide"
+    ],
+    [
+     1685,
+     "Ion Ludwig",
+     "Classilion"
+    ],
+    [
+     1725,
+     "Jamie Stevens & Zankee Gulati",
+     "Low Tide"
+    ],
+    [
+     1765,
+     "Jamie Stevens & Zankee Gulati",
+     "Low Tide"
+    ],
+    [
+     1805,
+     "Jamie Stevens & Zankee Gulati",
+     "Low Tide"
+    ],
+    [
+     1845,
+     "Jamie Stevens & Zankee Gulati",
+     "Low Tide"
+    ],
+    [
+     1885,
+     "Jamie Stevens & Zankee Gulati",
+     "Low Tide"
+    ],
+    [
+     1925,
+     "Alto Astral",
+     "Sea Breeze (ULF004)"
+    ],
+    [
+     1965,
+     "Keniasbs",
+     "Antônia (Princesa do Amor)"
+    ],
+    [
+     2005,
+     "Alto Astral",
+     "Sea Breeze (ULF004)"
+    ],
+    [
+     2045,
+     "Alto Astral",
+     "Sea Breeze (ULF004)"
+    ],
+    [
+     2085,
+     "Alto Astral",
+     "Sea Breeze (ULF004)"
+    ],
+    [
+     2125,
+     "Kamilo Sanclemente",
+     "Sunset Love"
+    ],
+    [
+     2165,
+     "Alto Astral",
+     "Sea Breeze (ULF004)"
+    ],
+    [
+     2205,
+     "Alto Astral",
+     "Sea Breeze (ULF004)"
+    ],
+    [
+     2245,
+     "Alto Astral",
+     "Sea Breeze (ULF004)"
+    ],
+    [
+     2285,
+     "Melodic Soda & Dance Fruits Music",
+     "Sunday Service Lord Your Holy"
+    ],
+    [
+     2325,
+     "Alan Cerra",
+     "Coming Back"
+    ],
+    [
+     2365,
+     "Alan Cerra",
+     "Coming Back"
+    ],
+    [
+     2405,
+     "Gareth Stirling",
+     "Wallop"
+    ],
+    [
+     2445,
+     "Alan Cerra",
+     "Coming Back"
+    ],
+    [
+     2485,
+     "Kastis Torrau",
+     "Route 88 (Dmitry Molosh Remix)"
+    ],
+    [
+     2525,
+     "Kastis Torrau",
+     "Route 88 (Dmitry Molosh Remix)"
+    ],
+    [
+     2565,
+     "Kastis Torrau",
+     "Route 88 (Dmitry Molosh Remix)"
+    ],
+    [
+     2605,
+     "Kastis Torrau",
+     "Route 88 (Dmitry Molosh Remix)"
+    ],
+    [
+     2645,
+     "Kastis Torrau",
+     "Route 88 (Dmitry Molosh Remix)"
+    ],
+    [
+     2685,
+     "Kastis Torrau",
+     "Route 88 (Dmitry Molosh Remix)"
+    ],
+    [
+     2725,
+     "Dance Spirit & Adisyn",
+     "Portal From Mars"
+    ],
+    [
+     2765,
+     "Gowzer",
+     "Erosion"
+    ],
+    [
+     2805,
+     "Predex",
+     "Life is Simple"
+    ],
+    [
+     2845,
+     "Gowzer & Ivan Lozano",
+     "Peltin (Ivan Lozano Remix)"
+    ],
+    [
+     2885,
+     "Gowzer & Ivan Lozano",
+     "Peltin (Ivan Lozano Remix)"
+    ],
+    [
+     2925,
+     "Marsh",
+     "My Stripes (feat. Leo Wood) [Live from Natural Bridge State Park, Kentucky]"
+    ],
+    [
+     2965,
+     "Dua Lipa",
+     "Training Season"
+    ],
+    [
+     3005,
+     "Alexandro Korzh",
+     "Night Life"
+    ],
+    [
+     3045,
+     "Federico Maniscalco & Daniele D'Alessandro",
+     "Hope"
+    ],
+    [
+     3085,
+     "Phil Monday",
+     "Apollo (Nico P Remix)"
+    ],
+    [
+     3125,
+     "Anne-Marie",
+     "Baby Don't Hurt Me"
+    ],
+    [
+     3165,
+     "Stereo Underground",
+     "Dopamine"
+    ],
+    [
+     3205,
+     "Stereo Underground",
+     "Dopamine"
+    ],
+    [
+     3245,
+     "DJ VAL",
+     "Sweet Melody"
+    ],
+    [
+     3285,
+     "Stereo Underground",
+     "Dopamine"
+    ],
+    [
+     3325,
+     "Stereo Underground",
+     "Dopamine"
+    ],
+    [
+     3365,
+     "Antrim",
+     "La Fin Du Monde (Dabeat & Juan Pablo Torrez Remix)"
+    ],
+    [
+     3405,
+     "FRANCIS JAMES",
+     "Red Moon"
+    ],
+    [
+     3445,
+     "FRANCIS JAMES",
+     "Red Moon"
+    ],
+    [
+     3485,
+     "Sajad Pasban",
+     "Beloved"
+    ],
+    [
+     3525,
+     "Antrim",
+     "La Fin Du Monde (Dabeat & Juan Pablo Torrez Remix)"
+    ],
+    [
+     3565,
+     "FRANCIS JAMES",
+     "Red Moon"
+    ],
+    [
+     3605,
+     "Paolo Rocco",
+     "People Say (Nic Fanciulli Remix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 42.8
+}
