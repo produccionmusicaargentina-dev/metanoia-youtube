@@ -1,0 +1,933 @@
+{
+ "ep": 319,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    225,
+    505,
+    785,
+    1065,
+    1425,
+    1665,
+    2025,
+    2305,
+    2545,
+    2825,
+    2985,
+    3265
+   ],
+   "ok": 13,
+   "n": 13,
+   "escuchado": [
+    [
+     5,
+     "Vlad Caia",
+     "Sidepoint"
+    ],
+    [
+     45,
+     "CEAUS",
+     "Galata"
+    ],
+    [
+     85,
+     "CEAUS",
+     "Galata"
+    ],
+    [
+     125,
+     "CEAUS",
+     "Galata"
+    ],
+    [
+     165,
+     "CEAUS",
+     "Galata"
+    ],
+    [
+     205,
+     "Simone Vitullo & Cammora",
+     "It Feels So Good"
+    ],
+    [
+     245,
+     "MI.LA & MAXXIM",
+     "Nishati (DALAH & Ilias Katelanos Remix)"
+    ],
+    [
+     285,
+     "MI.LA & MAXXIM",
+     "Nishati (DALAH & Ilias Katelanos Remix)"
+    ],
+    [
+     325,
+     "MI.LA & MAXXIM",
+     "Nishati (Extended Mix)"
+    ],
+    [
+     365,
+     "MI.LA & MAXXIM",
+     "Nishati (DALAH & Ilias Katelanos Remix)"
+    ],
+    [
+     405,
+     "MI.LA & MAXXIM",
+     "Nishati (DALAH & Ilias Katelanos Remix)"
+    ],
+    [
+     445,
+     "MI.LA & MAXXIM",
+     "Nishati (DALAH & Ilias Katelanos Remix)"
+    ],
+    [
+     485,
+     "Daniel Bruns",
+     "Physical Dynamics"
+    ],
+    [
+     525,
+     "Khaled Abdrabo",
+     "Hidden"
+    ],
+    [
+     565,
+     "Khaled Abdrabo",
+     "Hidden"
+    ],
+    [
+     605,
+     "Captain Junior",
+     "Sensation"
+    ],
+    [
+     645,
+     "SANTE",
+     "Ficción"
+    ],
+    [
+     685,
+     "Alain Grasselli",
+     "Sonnenschiff"
+    ],
+    [
+     725,
+     "Wellenfeld",
+     "Sleepwalker"
+    ],
+    [
+     765,
+     "Khaled Abdrabo",
+     "Hidden"
+    ],
+    [
+     805,
+     "XAVI st & Teleport-X",
+     "Many Things (Extended Mix)"
+    ],
+    [
+     845,
+     "XAVI st & Teleport-X",
+     "Many Things (Extended Mix)"
+    ],
+    [
+     885,
+     "XAVI st & Teleport-X",
+     "Many Things (Extended Mix)"
+    ],
+    [
+     925,
+     "XAVI st & Teleport-X",
+     "Many Things (Extended Mix)"
+    ],
+    [
+     965,
+     "Nikko Culture & Tina Lm",
+     "For a Feeling"
+    ],
+    [
+     1005,
+     "XAVI st & Teleport-X",
+     "Many Things (Extended Mix)"
+    ],
+    [
+     1045,
+     "XAVI st & Teleport-X",
+     "Many Things (Extended Mix)"
+    ],
+    [
+     1085,
+     "Taylan",
+     "Melting Walls (Ruben Karapetyan Remix)"
+    ],
+    [
+     1125,
+     "Joe Mesmar",
+     "Feeling My Mind"
+    ],
+    [
+     1165,
+     "Taylan",
+     "Melting Walls (Ruben Karapetyan Remix)"
+    ],
+    [
+     1205,
+     "Taylan",
+     "Melting Walls (Ruben Karapetyan Remix)"
+    ],
+    [
+     1245,
+     "Antoine Pete",
+     "Chasing Shadows"
+    ],
+    [
+     1285,
+     "Taylan",
+     "Melting Walls (Ruben Karapetyan Remix)"
+    ],
+    [
+     1325,
+     "Blancmange",
+     "Don't Tell Me"
+    ],
+    [
+     1365,
+     "Taylan",
+     "Melting Walls (Ruben Karapetyan Remix)"
+    ],
+    [
+     1405,
+     "FISHER",
+     "Losing It"
+    ],
+    [
+     1445,
+     "Blackmaill",
+     "Hasy"
+    ],
+    [
+     1485,
+     "The New Of The Tower",
+     "Humble"
+    ],
+    [
+     1525,
+     "Blackmaill",
+     "Hasy"
+    ],
+    [
+     1565,
+     "Blackmaill",
+     "Hasy"
+    ],
+    [
+     1605,
+     "Blackmaill",
+     "Hasy"
+    ],
+    [
+     1645,
+     "ChatDMZ",
+     "Bee Twenty Nine"
+    ],
+    [
+     1685,
+     "Dharmalogy & Sanjay Dutta",
+     "Worlds Apart (Aman Anand Remix)"
+    ],
+    [
+     1725,
+     "Dharmalogy & Sanjay Dutta",
+     "Worlds Apart (Aman Anand Remix)"
+    ],
+    [
+     1765,
+     "Dharmalogy & Sanjay Dutta",
+     "Worlds Apart (Aman Anand Remix)"
+    ],
+    [
+     1805,
+     "Dharmalogy & Sanjay Dutta",
+     "Worlds Apart (Aman Anand Remix)"
+    ],
+    [
+     1845,
+     "Clori Marco",
+     "Ballerine"
+    ],
+    [
+     1885,
+     "Dharmalogy & Sanjay Dutta",
+     "Worlds Apart (Aman Anand Remix)"
+    ],
+    [
+     1925,
+     "Dharmalogy & Sanjay Dutta",
+     "Worlds Apart (Aman Anand Remix)"
+    ],
+    [
+     1965,
+     "Dharmalogy & Sanjay Dutta",
+     "Worlds Apart (Aman Anand Remix)"
+    ],
+    [
+     2005,
+     "Dharmalogy & Sanjay Dutta",
+     "Worlds Apart (Aman Anand Remix)"
+    ],
+    [
+     2045,
+     "Modelers",
+     "Rhythm Chasers"
+    ],
+    [
+     2085,
+     "Modelers",
+     "Rhythm Chasers"
+    ],
+    [
+     2125,
+     "Modelers",
+     "Rhythm Chasers"
+    ],
+    [
+     2165,
+     "Modelers",
+     "Rhythm Chasers"
+    ],
+    [
+     2205,
+     "BLR & Rave & Crave",
+     "Taj"
+    ],
+    [
+     2245,
+     "Modelers",
+     "Rhythm Chasers"
+    ],
+    [
+     2285,
+     "Alex Dolby",
+     "Sintesi (Original)"
+    ],
+    [
+     2325,
+     "Bilgehan Ünver",
+     "Gimme Gimme (Space Food Remix)"
+    ],
+    [
+     2365,
+     "Bilgehan Ünver",
+     "Gimme Gimme (Space Food Remix)"
+    ],
+    [
+     2405,
+     "Pete Bellis & Tommy & Eleftheria",
+     "One Last Breath"
+    ],
+    [
+     2445,
+     "Bilgehan Ünver",
+     "Gimme Gimme (Space Food Remix)"
+    ],
+    [
+     2485,
+     "Vintage Culture",
+     "Space"
+    ],
+    [
+     2525,
+     "Bilgehan Ünver",
+     "Gimme Gimme (Space Food Remix)"
+    ],
+    [
+     2565,
+     "AFFKT",
+     "Kamatoro"
+    ],
+    [
+     2605,
+     "AFFKT",
+     "Kamatoro"
+    ],
+    [
+     2645,
+     "AFFKT",
+     "Kamatoro"
+    ],
+    [
+     2685,
+     "AFFKT",
+     "Kamatoro"
+    ],
+    [
+     2725,
+     "AFFKT",
+     "Kamatoro"
+    ],
+    [
+     2765,
+     "AFFKT",
+     "Kamatoro"
+    ],
+    [
+     2805,
+     "AFFKT",
+     "Kamatoro"
+    ],
+    [
+     2845,
+     "JONAH.",
+     "The Point (Extended Mix)"
+    ],
+    [
+     2885,
+     "JONAH.",
+     "The Point (Extended Mix)"
+    ],
+    [
+     2925,
+     "JONAH.",
+     "The Point (Extended Mix)"
+    ],
+    [
+     2965,
+     "JONAH.",
+     "The Point (Extended Mix)"
+    ],
+    [
+     3005,
+     "Cortex Power",
+     "Salvation"
+    ],
+    [
+     3045,
+     "Basil O'Glue & NOMAS",
+     "Untold (Martin Leblanc Remix)"
+    ],
+    [
+     3085,
+     "Cortex Power",
+     "Salvation"
+    ],
+    [
+     3125,
+     "Cortex Power",
+     "Salvation"
+    ],
+    [
+     3165,
+     "Cortex Power",
+     "Salvation"
+    ],
+    [
+     3205,
+     "Patrick Cowley",
+     "Menergy (feat. Sylvester)"
+    ],
+    [
+     3245,
+     "Cortex Power",
+     "Salvation"
+    ],
+    [
+     3285,
+     "HOVR",
+     "My Voice (Oliver Koletzki 20yrs SVT Remix)"
+    ],
+    [
+     3325,
+     "HOVR",
+     "My Voice (Oliver Koletzki 20yrs SVT Remix)"
+    ],
+    [
+     3365,
+     "HOVR",
+     "My Voice (Oliver Koletzki 20yrs SVT Remix)"
+    ],
+    [
+     3405,
+     "HOVR",
+     "My Voice (Oliver Koletzki 20yrs SVT Remix)"
+    ],
+    [
+     3445,
+     "HOVR",
+     "My Voice (Oliver Koletzki 20yrs SVT Remix)"
+    ],
+    [
+     3485,
+     "HOVR",
+     "My Voice (Oliver Koletzki 20yrs SVT Remix)"
+    ],
+    [
+     3525,
+     "Munir Amastha",
+     "Can You Feel the Night (One Opinion Remix) [feat. Sauli Harper]"
+    ]
+   ]
+  },
+  {
+   "artist": "VEC",
+   "start": 0,
+   "times": [
+    0,
+    305,
+    625,
+    905,
+    1105,
+    1385,
+    1625,
+    1905,
+    2345,
+    2465,
+    2665,
+    3025,
+    3185
+   ],
+   "ok": 13,
+   "n": 13,
+   "escuchado": [
+    [
+     45,
+     "Manti",
+     "Let Me"
+    ],
+    [
+     85,
+     "Manti",
+     "Let Me"
+    ],
+    [
+     125,
+     "Manti",
+     "Let Me"
+    ],
+    [
+     165,
+     "Manti",
+     "Let Me"
+    ],
+    [
+     205,
+     "Manti",
+     "Let Me"
+    ],
+    [
+     245,
+     "Manti",
+     "Let Me"
+    ],
+    [
+     285,
+     "Manti",
+     "Let Me"
+    ],
+    [
+     325,
+     "Ava Irandoost & SIAAH",
+     "Now Is Now"
+    ],
+    [
+     365,
+     "Ava Irandoost & SIAAH",
+     "Now Is Now"
+    ],
+    [
+     405,
+     "Султанка",
+     "Нах"
+    ],
+    [
+     445,
+     "Ava Irandoost & SIAAH",
+     "Now Is Now"
+    ],
+    [
+     485,
+     "Ava Irandoost & SIAAH",
+     "Now Is Now (HAFT Remix)"
+    ],
+    [
+     525,
+     "Ava Irandoost & SIAAH",
+     "Now Is Now"
+    ],
+    [
+     565,
+     "Golden Boy with Miss Kittin",
+     "Rippin Kittin"
+    ],
+    [
+     605,
+     "Golden Boy with Miss Kittin",
+     "Rippin Kittin"
+    ],
+    [
+     645,
+     "Jares",
+     "Taking Control"
+    ],
+    [
+     685,
+     "Jares",
+     "Taking Control"
+    ],
+    [
+     725,
+     "Jares",
+     "Taking Control"
+    ],
+    [
+     765,
+     "Jares",
+     "Taking Control"
+    ],
+    [
+     805,
+     "Jares",
+     "Taking Control"
+    ],
+    [
+     845,
+     "Davide Mazzilli",
+     "The Beat"
+    ],
+    [
+     885,
+     "Jan Kost",
+     "Get Dumb"
+    ],
+    [
+     925,
+     "Kuda",
+     "Undercover"
+    ],
+    [
+     965,
+     "Eloy González & Cristian Lasala",
+     "Tick"
+    ],
+    [
+     1005,
+     "Mix Mind",
+     "Love Parade (Melodic Techno Mix)"
+    ],
+    [
+     1045,
+     "Kuda",
+     "Undercover"
+    ],
+    [
+     1085,
+     "Jan Kost",
+     "Get Dumb"
+    ],
+    [
+     1125,
+     "Jos & Eli",
+     "I Wish"
+    ],
+    [
+     1165,
+     "Jos & Eli",
+     "I Wish"
+    ],
+    [
+     1205,
+     "Jos & Eli",
+     "I Wish"
+    ],
+    [
+     1245,
+     "Jos & Eli",
+     "I Wish"
+    ],
+    [
+     1285,
+     "Jos & Eli",
+     "I Wish"
+    ],
+    [
+     1325,
+     "Jos & Eli",
+     "I Wish"
+    ],
+    [
+     1365,
+     "Starkato",
+     "Python"
+    ],
+    [
+     1405,
+     "GIOVICCI",
+     "Number 27 (J.Fur Remix)"
+    ],
+    [
+     1445,
+     "GIOVICCI",
+     "Number 27 (J.Fur Remix)"
+    ],
+    [
+     1485,
+     "GIOVICCI",
+     "Number 27 (J.Fur Remix)"
+    ],
+    [
+     1525,
+     "GIOVICCI",
+     "Number 27 (J.Fur Remix)"
+    ],
+    [
+     1565,
+     "GIOVICCI",
+     "Number 27 (J.Fur Remix)"
+    ],
+    [
+     1605,
+     "GIOVICCI",
+     "Number 27 (J.Fur Remix)"
+    ],
+    [
+     1645,
+     "Dan Sushi",
+     "Binary98"
+    ],
+    [
+     1685,
+     "Kostha & Elio Kenza",
+     "Shoes (Original Stick)"
+    ],
+    [
+     1725,
+     "Cybordelics",
+     "Adventures of Dama (feat. James Davis) [Bodo Felusch-Gimme a Beat Mix]"
+    ],
+    [
+     1765,
+     "Dan Sushi",
+     "Binary98"
+    ],
+    [
+     1805,
+     "Dan Sushi",
+     "Binary98"
+    ],
+    [
+     1845,
+     "Dan Sushi",
+     "Binary98"
+    ],
+    [
+     1885,
+     "Dan Sushi",
+     "Binary98"
+    ],
+    [
+     1925,
+     "Waltervelt & Kiko",
+     "The Sound"
+    ],
+    [
+     1965,
+     "Waltervelt & Kiko",
+     "The Sound"
+    ],
+    [
+     2005,
+     "Waltervelt & Kiko",
+     "The Sound"
+    ],
+    [
+     2045,
+     "Waltervelt & Kiko",
+     "The Sound"
+    ],
+    [
+     2085,
+     "Waltervelt & Kiko",
+     "The Sound"
+    ],
+    [
+     2125,
+     "Waltervelt & Kiko",
+     "The Sound"
+    ],
+    [
+     2165,
+     "Waltervelt & Kiko",
+     "The Sound"
+    ],
+    [
+     2205,
+     "Waltervelt & Kiko",
+     "The Sound"
+    ],
+    [
+     2245,
+     "Jerome Isma-Ae",
+     "Baharat (Ruben Karapetyan Remix)"
+    ],
+    [
+     2285,
+     "Zairi Torrez",
+     "Progressive World (2Qimic Remix)"
+    ],
+    [
+     2325,
+     "Zairi Torrez",
+     "Progressive World (2Qimic Remix)"
+    ],
+    [
+     2365,
+     "Fedele",
+     "Mountain Kisses"
+    ],
+    [
+     2405,
+     "Deadmau5 & The Derps Feat. Chris James",
+     "The Veld"
+    ],
+    [
+     2445,
+     "Tiga & Brunello",
+     "FRICTION (Brunello Remix)"
+    ],
+    [
+     2485,
+     "CAY (DE)",
+     "WHO I AM"
+    ],
+    [
+     2525,
+     "CAY (DE)",
+     "WHO I AM"
+    ],
+    [
+     2565,
+     "Albert Boyadjian",
+     "Gougi on Timba (Radio Edit)"
+    ],
+    [
+     2605,
+     "CAY (DE)",
+     "WHO I AM"
+    ],
+    [
+     2645,
+     "Book of Love",
+     "Boy"
+    ],
+    [
+     2685,
+     "Sincz",
+     "I Have No Answer"
+    ],
+    [
+     2725,
+     "Sincz",
+     "I Have No Answer"
+    ],
+    [
+     2765,
+     "Sincz",
+     "I Have No Answer"
+    ],
+    [
+     2805,
+     "Sincz",
+     "I Have No Answer"
+    ],
+    [
+     2845,
+     "M.S.",
+     "Tell Me What"
+    ],
+    [
+     2885,
+     "The Remix Cartell",
+     "All Around The World (Remix)"
+    ],
+    [
+     2925,
+     "Weekend World",
+     "Trigger Finger, Pt. 1"
+    ],
+    [
+     2965,
+     "Paperclip People",
+     "Throw (Slam's RTM Remix)"
+    ],
+    [
+     3005,
+     "Bason Benzo",
+     "Baso's House"
+    ],
+    [
+     3045,
+     "Monococ",
+     "Time Doesn't Fine Me (San Nicolas Remix)"
+    ],
+    [
+     3085,
+     "Monococ",
+     "Time Doesn't Fine Me (San Nicolas Remix)"
+    ],
+    [
+     3125,
+     "Paperclip People",
+     "Throw (Slam's RTM Remix)"
+    ],
+    [
+     3165,
+     "Mix Mind",
+     "Fire to the Rain (Progressive Mix)"
+    ],
+    [
+     3205,
+     "Einmusik & Pretty Pink",
+     "Midnight"
+    ],
+    [
+     3245,
+     "Einmusik & Pretty Pink",
+     "Midnight"
+    ],
+    [
+     3285,
+     "Phunk Investigation",
+     "Lo-Fi [Lo-Fi - Original Mix]"
+    ],
+    [
+     3325,
+     "Einmusik & Pretty Pink",
+     "Midnight"
+    ],
+    [
+     3365,
+     "Einmusik & Pretty Pink",
+     "Midnight"
+    ],
+    [
+     3405,
+     "Alex H.",
+     "Auf Wiedersehen"
+    ],
+    [
+     3445,
+     "Einmusik & Pretty Pink",
+     "Midnight"
+    ],
+    [
+     3485,
+     "LUM!X & Gabry Ponte",
+     "Monster (Robin Schulz Remix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 81.1
+}

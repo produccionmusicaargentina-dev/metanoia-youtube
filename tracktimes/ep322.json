@@ -1,0 +1,436 @@
+{
+ "ep": 322,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Grisel Esquivel",
+   "start": 0,
+   "times": [
+    0,
+    625,
+    865,
+    1185,
+    1465,
+    1945,
+    2305,
+    2705,
+    3145
+   ],
+   "ok": 9,
+   "n": 9,
+   "escuchado": [
+    [
+     5,
+     "PAX & Rui Da Silva",
+     "Touch Me (Pax & Rui Da Silva Extended Version)"
+    ],
+    [
+     45,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     85,
+     "The Jargons & ZuluMafia",
+     "Sinday"
+    ],
+    [
+     125,
+     "The Jargons & ZuluMafia",
+     "Sinday"
+    ],
+    [
+     165,
+     "Grisel Esquivel",
+     "Ethereal Soul"
+    ],
+    [
+     205,
+     "Grisel Esquivel",
+     "Ethereal Soul"
+    ],
+    [
+     245,
+     "Grisel Esquivel",
+     "Ethereal Soul"
+    ],
+    [
+     285,
+     "Grisel Esquivel",
+     "Ethereal Soul"
+    ],
+    [
+     325,
+     "Grisel Esquivel",
+     "Ethereal Soul"
+    ],
+    [
+     365,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     405,
+     "SoullShvker, Solo Thato & Classified Junior",
+     "Dance Pluck"
+    ],
+    [
+     445,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     565,
+     "Tom Jones",
+     "Sexbomb (feat. Mousse T.) [Peppermint Disco Radio Edit]"
+    ],
+    [
+     605,
+     "Alpha Frequency",
+     "Barra De Neixpa"
+    ],
+    [
+     645,
+     "Lem",
+     "Cosmic Journey"
+    ],
+    [
+     685,
+     "Alvaro Albarran",
+     "Tubah - Single"
+    ],
+    [
+     725,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     805,
+     "Robiin",
+     "Cada Vez (Wayne Madiedo Remix)"
+    ],
+    [
+     845,
+     "Stego",
+     "Pa-Ri-Ra-Pa"
+    ],
+    [
+     885,
+     "Cosmos Orchestra",
+     "Conviction (Luca Abayan Remix)"
+    ],
+    [
+     925,
+     "Cosmos Orchestra",
+     "Conviction (Luca Abayan Remix)"
+    ],
+    [
+     965,
+     "Cosmos Orchestra",
+     "Conviction (Luca Abayan Remix)"
+    ],
+    [
+     1005,
+     "Somebody Hear Me",
+     "True Love"
+    ],
+    [
+     1045,
+     "Minimax",
+     "Bam Bam (Original Mix)"
+    ],
+    [
+     1085,
+     "Bambook",
+     "Give It Up (Audiofly Remix)"
+    ],
+    [
+     1125,
+     "Madness Ba",
+     "Anywhere"
+    ],
+    [
+     1165,
+     "Samim",
+     "Heater (Tube & Berger Remix)"
+    ],
+    [
+     1205,
+     "Hobin Rude",
+     "Shrouded Glint"
+    ],
+    [
+     1245,
+     "NAASA & Synthetra",
+     "Gravity"
+    ],
+    [
+     1285,
+     "Eric Prydz & Empire Of The Sun",
+     "We Are Mirage"
+    ],
+    [
+     1325,
+     "Avicii",
+     "Wake Me Up"
+    ],
+    [
+     1365,
+     "Madness Ba",
+     "Anywhere"
+    ],
+    [
+     1405,
+     "Artic White",
+     "Futuro Infinito"
+    ],
+    [
+     1445,
+     "MEDUZA, The Stickmen Project & Goodboys",
+     "Piece of Your Heart (The Stickmen Remix)"
+    ],
+    [
+     1485,
+     "Dowden",
+     "Pacifist"
+    ],
+    [
+     1525,
+     "Tobias Schulz",
+     "Ah Johnny"
+    ],
+    [
+     1565,
+     "Tobias Schulz",
+     "Ah Johnny"
+    ],
+    [
+     1605,
+     "Dowden",
+     "Pacifist"
+    ],
+    [
+     1645,
+     "Eli & Fur",
+     "Parfume (Dosem Remix - Edit)"
+    ],
+    [
+     1685,
+     "Dowden",
+     "Pacifist"
+    ],
+    [
+     1725,
+     "Dowden",
+     "Pacifist"
+    ],
+    [
+     1765,
+     "Dowden",
+     "Pacifist"
+    ],
+    [
+     1805,
+     "Maae",
+     "The Man"
+    ],
+    [
+     1845,
+     "OFFAIAH",
+     "Trouble"
+    ],
+    [
+     1885,
+     "Roberto & Jamie Anderson",
+     "Corrugata"
+    ],
+    [
+     1925,
+     "FRANCIS JAMES",
+     "Red Moon"
+    ],
+    [
+     1965,
+     "Bondarev, Ewan Rill & K Loveski",
+     "Proxymates (Ilias Katelanos Remix)"
+    ],
+    [
+     2005,
+     "Bondarev, Ewan Rill & K Loveski",
+     "Proxymates (Ilias Katelanos Remix)"
+    ],
+    [
+     2045,
+     "Bondarev, Ewan Rill & K Loveski",
+     "Proxymates (Ilias Katelanos Remix)"
+    ],
+    [
+     2085,
+     "Benny Camaro",
+     "Come One"
+    ],
+    [
+     2125,
+     "Bondarev, Ewan Rill & K Loveski",
+     "Proxymates (Ilias Katelanos Remix)"
+    ],
+    [
+     2165,
+     "Vahagn",
+     "Uralove"
+    ],
+    [
+     2205,
+     "Italobox",
+     "Under the Moon (Dance Mix)"
+    ],
+    [
+     2245,
+     "Louie Vega",
+     "How He Works (feat. Nico Vega) [N-You-Up Remix]"
+    ],
+    [
+     2285,
+     "Ohmme",
+     "Fashion"
+    ],
+    [
+     2325,
+     "Kay-D",
+     "Odyssey (Gowzer Remix)"
+    ],
+    [
+     2365,
+     "Adam Ten & Rafael",
+     "Beat Goes On"
+    ],
+    [
+     2405,
+     "Kay-D",
+     "Odyssey (Gowzer Remix)"
+    ],
+    [
+     2445,
+     "Kay-D",
+     "Odyssey (Gowzer Remix)"
+    ],
+    [
+     2485,
+     "Kay-D",
+     "Odyssey (Gowzer Remix)"
+    ],
+    [
+     2525,
+     "Kay-D",
+     "Odyssey (Gowzer Remix)"
+    ],
+    [
+     2565,
+     "Sidekick",
+     "Deep Fear (Glauko & Neil Amarey Afro Extended Remix)"
+    ],
+    [
+     2605,
+     "AronChupa & Little Sis Nora",
+     "I'm an Albatraoz"
+    ],
+    [
+     2645,
+     "Selma",
+     "Sympathie"
+    ],
+    [
+     2685,
+     "Candy Knievel",
+     "Spiritual"
+    ],
+    [
+     2725,
+     "Cendryma",
+     "Blue Thread"
+    ],
+    [
+     2765,
+     "Cendryma",
+     "Blue Thread"
+    ],
+    [
+     2805,
+     "Cendryma",
+     "Blue Thread"
+    ],
+    [
+     2845,
+     "Cendryma",
+     "Blue Thread"
+    ],
+    [
+     2885,
+     "Cendryma",
+     "Blue Thread"
+    ],
+    [
+     2925,
+     "Cendryma",
+     "Blue Thread"
+    ],
+    [
+     2965,
+     "Cendryma",
+     "Blue Thread"
+    ],
+    [
+     3005,
+     "Cendryma",
+     "Blue Thread"
+    ],
+    [
+     3125,
+     "Goldenkey",
+     "Ukiyo"
+    ],
+    [
+     3165,
+     "Influence (IN) & Cedren & Manu-l",
+     "Illusion (Extended Mix)"
+    ],
+    [
+     3205,
+     "Influence (IN) & Cedren & Manu-l",
+     "Illusion (Extended Mix)"
+    ],
+    [
+     3245,
+     "Influence (IN) & Cedren & Manu-l",
+     "Illusion (Extended Mix)"
+    ],
+    [
+     3285,
+     "Influence (IN) & Cedren & Manu-l",
+     "Illusion (Extended Mix)"
+    ],
+    [
+     3325,
+     "Influence (IN) & Cedren & Manu-l",
+     "Illusion (Extended Mix)"
+    ],
+    [
+     3405,
+     "Same Vibe",
+     "Technology (feat. Voodoo)"
+    ],
+    [
+     3485,
+     "Influence (IN) & Cedren & Manu-l",
+     "Illusion (Extended Mix)"
+    ],
+    [
+     3525,
+     "Influence (IN) & Cedren & Manu-l",
+     "Illusion (Extended Mix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 41.2
+}
