@@ -1,0 +1,528 @@
+{
+ "ep": 315,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Less is more",
+   "start": 0,
+   "times": [
+    0,
+    385,
+    545,
+    785,
+    1145,
+    1305,
+    1585,
+    1825,
+    2185,
+    2465,
+    2585,
+    2825,
+    3065,
+    3265,
+    3425,
+    3665
+   ],
+   "ok": 15,
+   "n": 16,
+   "escuchado": [
+    [
+     5,
+     "Hands Gruber",
+     "Dogtime (Rigopolar Remix)"
+    ],
+    [
+     45,
+     "Hands Gruber",
+     "Dogtime (Rigopolar Remix)"
+    ],
+    [
+     85,
+     "Da Vynalist",
+     "Made by Africa"
+    ],
+    [
+     125,
+     "SOAK",
+     "B A Nobody (Woman's Hour Remix)"
+    ],
+    [
+     165,
+     "Hands Gruber",
+     "Dogtime (Rigopolar Remix)"
+    ],
+    [
+     205,
+     "Da Vynalist",
+     "Made by Africa"
+    ],
+    [
+     245,
+     "Da Vynalist",
+     "Made by Africa"
+    ],
+    [
+     285,
+     "Alberto Costas",
+     "Utopía"
+    ],
+    [
+     325,
+     "Hands Gruber",
+     "Dogtime (Rigopolar Remix)"
+    ],
+    [
+     365,
+     "Robiin",
+     "Cada Vez (Wayne Madiedo Remix)"
+    ],
+    [
+     405,
+     "Muza",
+     "Fluid"
+    ],
+    [
+     445,
+     "The DangerFeel Newbies",
+     "What Am I Here for? (Ndatl Vocal)"
+    ],
+    [
+     485,
+     "DJ Chus",
+     "Amapola"
+    ],
+    [
+     525,
+     "Muza",
+     "Fluid"
+    ],
+    [
+     565,
+     "Feri",
+     "White Horse"
+    ],
+    [
+     605,
+     "Feri",
+     "White Horse"
+    ],
+    [
+     645,
+     "Feri",
+     "White Horse"
+    ],
+    [
+     685,
+     "Feri",
+     "White Horse"
+    ],
+    [
+     725,
+     "Krankbrother",
+     "Dreamscape (Fort Romeau Remix)"
+    ],
+    [
+     765,
+     "Feri",
+     "White Horse"
+    ],
+    [
+     805,
+     "Echonomist",
+     "Ossain (Autarkic Remix)"
+    ],
+    [
+     845,
+     "Echonomist",
+     "Ossain (Autarkic Remix)"
+    ],
+    [
+     885,
+     "Echonomist",
+     "Ossain (Autarkic Remix)"
+    ],
+    [
+     925,
+     "Echonomist",
+     "Ossain (Autarkic Remix)"
+    ],
+    [
+     965,
+     "Echonomist",
+     "Ossain (Autarkic Remix)"
+    ],
+    [
+     1005,
+     "Bahookie",
+     "Dashing White"
+    ],
+    [
+     1045,
+     "Erre",
+     "Always the Same Eyes (Andres Luque Remix)"
+    ],
+    [
+     1085,
+     "Echonomist",
+     "Ossain (Autarkic Remix)"
+    ],
+    [
+     1125,
+     "Erre",
+     "Always the Same Eyes (Andres Luque Remix)"
+    ],
+    [
+     1165,
+     "Adam Ten & DvirNuns",
+     "Comusa"
+    ],
+    [
+     1205,
+     "Adam Ten & DvirNuns",
+     "Comusa"
+    ],
+    [
+     1245,
+     "Adam Ten & DvirNuns",
+     "Comusa"
+    ],
+    [
+     1285,
+     "Adam Ten & DvirNuns",
+     "Comusa"
+    ],
+    [
+     1325,
+     "Whitesquare",
+     "N-ergia"
+    ],
+    [
+     1365,
+     "Whitesquare",
+     "N-ergia"
+    ],
+    [
+     1405,
+     "Annabell Kowalski",
+     "Hey Boy Hey Girl"
+    ],
+    [
+     1445,
+     "Whitesquare",
+     "N-ergia"
+    ],
+    [
+     1485,
+     "Jpmusic27",
+     "Aquí Es el Bonche"
+    ],
+    [
+     1525,
+     "Whitesquare",
+     "N-ergia"
+    ],
+    [
+     1565,
+     "Whitesquare",
+     "N-ergia"
+    ],
+    [
+     1605,
+     "Ivan Masa",
+     "Keep On Going"
+    ],
+    [
+     1645,
+     "Ivan Masa",
+     "Keep On Going"
+    ],
+    [
+     1685,
+     "Ivan Masa",
+     "Keep On Going"
+    ],
+    [
+     1725,
+     "Ivan Masa",
+     "Keep On Going"
+    ],
+    [
+     1765,
+     "Ivan Masa",
+     "Keep On Going"
+    ],
+    [
+     1805,
+     "Ivan Masa",
+     "Keep On Going"
+    ],
+    [
+     1845,
+     "Jon.K",
+     "Mucha"
+    ],
+    [
+     1885,
+     "Thomas Schumacher & Victor Ruiz",
+     "Apollo"
+    ],
+    [
+     1925,
+     "Jon.K",
+     "Mucha"
+    ],
+    [
+     1965,
+     "Jon.K",
+     "Mucha"
+    ],
+    [
+     2005,
+     "Jon.K",
+     "Mucha"
+    ],
+    [
+     2045,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     2085,
+     "Wehbba",
+     "Backlash"
+    ],
+    [
+     2125,
+     "Ago Dancer",
+     "Ago Dancer (Vortex Mix)"
+    ],
+    [
+     2165,
+     "Bob Sinclar",
+     "World, Hold On (Children of the Sky) [feat. Steve Edwards]"
+    ],
+    [
+     2205,
+     "E.F.G. & Wavebeat",
+     "Primal Energy"
+    ],
+    [
+     2245,
+     "E.F.G. & Wavebeat",
+     "Primal Energy"
+    ],
+    [
+     2285,
+     "DJ Davion, Bull Beats & Manu Rg",
+     "It Goes Like Nanana (House) [Remix]"
+    ],
+    [
+     2325,
+     "MR Luke",
+     "Radiography"
+    ],
+    [
+     2365,
+     "Villablanca",
+     "One (More Time RMX)"
+    ],
+    [
+     2405,
+     "Borsky",
+     "How You Like It"
+    ],
+    [
+     2445,
+     "PASCAL",
+     "An Eisai Ena Asteri"
+    ],
+    [
+     2485,
+     "Borsky",
+     "Ngani"
+    ],
+    [
+     2525,
+     "Villablanca",
+     "One (More Time RMX)"
+    ],
+    [
+     2565,
+     "Gabriel F",
+     "I Never Tought Id See the Day (Deep Mix)"
+    ],
+    [
+     2605,
+     "JONAH.",
+     "Mind Liberation (Extended Mix)"
+    ],
+    [
+     2645,
+     "JONAH.",
+     "Mind Liberation (Extended Mix)"
+    ],
+    [
+     2685,
+     "JONAH.",
+     "Mind Liberation (Extended Mix)"
+    ],
+    [
+     2725,
+     "Josef Baum",
+     "Four & Five"
+    ],
+    [
+     2765,
+     "JONAH.",
+     "Mind Liberation (Extended Mix)"
+    ],
+    [
+     2805,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     2845,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     2885,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     2925,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     2965,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     3005,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     3045,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     3085,
+     "AFFKT",
+     "Umukai"
+    ],
+    [
+     3125,
+     "AFFKT",
+     "Umukai"
+    ],
+    [
+     3165,
+     "AFFKT",
+     "Umukai"
+    ],
+    [
+     3205,
+     "AFFKT",
+     "Umukai"
+    ],
+    [
+     3245,
+     "AFFKT",
+     "Umukai"
+    ],
+    [
+     3285,
+     "Kronika & Arina Tyler",
+     "Staying Alive (Max Freegrant Remix)"
+    ],
+    [
+     3325,
+     "Kronika & Arina Tyler",
+     "Staying Alive (Max Freegrant Remix)"
+    ],
+    [
+     3365,
+     "Kronika & Arina Tyler",
+     "Staying Alive (Max Freegrant Remix)"
+    ],
+    [
+     3405,
+     "Kronika & Arina Tyler",
+     "Staying Alive (Max Freegrant Remix)"
+    ],
+    [
+     3445,
+     "Bawrut",
+     "Gallop"
+    ],
+    [
+     3485,
+     "Bawrut",
+     "Gallop"
+    ],
+    [
+     3525,
+     "Bawrut",
+     "Gallop"
+    ],
+    [
+     3565,
+     "Bawrut",
+     "Gallop"
+    ],
+    [
+     3605,
+     "Bawrut",
+     "Gallop"
+    ],
+    [
+     3645,
+     "Bawrut",
+     "Gallop"
+    ],
+    [
+     3685,
+     "Ary Sya",
+     "Nikita"
+    ],
+    [
+     3725,
+     "Jeff Zarling",
+     "The Sound of Silence (Dark Voltage Techno Mix)"
+    ],
+    [
+     3765,
+     "Ary Sya",
+     "Nikita"
+    ],
+    [
+     3805,
+     "Ary Sya",
+     "Nikita"
+    ],
+    [
+     3845,
+     "Ary Sya",
+     "Nikita"
+    ],
+    [
+     3885,
+     "Bob Sinclar",
+     "New New New (feat. Vybrate, Queen Ifrica & Makedah) [Avicii Remix Extended]"
+    ],
+    [
+     3925,
+     "ARTBAT",
+     "Atlas"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 43.7
+}

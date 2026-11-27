@@ -1,0 +1,559 @@
+{
+ "ep": 317,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Fran Peñaflor",
+   "start": 0,
+   "times": [
+    0,
+    345,
+    505,
+    745,
+    945,
+    1165,
+    1385,
+    1825,
+    1905,
+    2145,
+    2385,
+    2705,
+    2985,
+    3145,
+    3425,
+    3705,
+    3905
+   ],
+   "ok": 16,
+   "n": 17,
+   "escuchado": [
+    [
+     5,
+     "Yuvee",
+     "Outcome"
+    ],
+    [
+     45,
+     "Franco BA",
+     "Cemento"
+    ],
+    [
+     85,
+     "Yuvee",
+     "Outcome"
+    ],
+    [
+     125,
+     "Yuvee",
+     "Outcome"
+    ],
+    [
+     165,
+     "Yuvee",
+     "Outcome"
+    ],
+    [
+     205,
+     "Yuvee",
+     "Outcome"
+    ],
+    [
+     245,
+     "Yuvee",
+     "Outcome"
+    ],
+    [
+     285,
+     "Yuvee",
+     "Outcome"
+    ],
+    [
+     325,
+     "Yuvee",
+     "Outcome"
+    ],
+    [
+     365,
+     "Sinan Arsan",
+     "Vigilant (Bacco (BR))"
+    ],
+    [
+     405,
+     "Andhim, AMÉMÉ & Malou",
+     "Feel the Love"
+    ],
+    [
+     445,
+     "Sinan Arsan",
+     "Vigilant (Bacco (BR))"
+    ],
+    [
+     485,
+     "Carlo Whale",
+     "Million Faces (feat. VOZA)"
+    ],
+    [
+     525,
+     "KEYTARBI",
+     "Matrix Failure"
+    ],
+    [
+     565,
+     "KEYTARBI",
+     "Matrix Failure"
+    ],
+    [
+     605,
+     "aQua4",
+     "Dawn"
+    ],
+    [
+     645,
+     "KEYTARBI",
+     "Matrix Failure"
+    ],
+    [
+     685,
+     "Art Safo",
+     "Children of the Universe, Pt. III: We Are Children of the Universe"
+    ],
+    [
+     725,
+     "KEYTARBI",
+     "Matrix Failure"
+    ],
+    [
+     765,
+     "NUAH",
+     "Nasty Spaceship"
+    ],
+    [
+     805,
+     "NUAH",
+     "Nasty Spaceship"
+    ],
+    [
+     845,
+     "Mario Pompeiani",
+     "La Rondine"
+    ],
+    [
+     885,
+     "NUAH",
+     "Nasty Spaceship"
+    ],
+    [
+     925,
+     "NUAH",
+     "Nasty Spaceship"
+    ],
+    [
+     965,
+     "Rem Siman",
+     "On the Floor (Radio - Edit)"
+    ],
+    [
+     1005,
+     "Rem Siman",
+     "On the Floor (Radio - Edit)"
+    ],
+    [
+     1045,
+     "DJ Mel-A",
+     "Unmastered"
+    ],
+    [
+     1085,
+     "Rem Siman",
+     "On the Floor (Radio - Edit)"
+    ],
+    [
+     1125,
+     "Rem Siman",
+     "On the Floor (Radio - Edit)"
+    ],
+    [
+     1165,
+     "Blue Method",
+     "Agora"
+    ],
+    [
+     1205,
+     "Rem Siman",
+     "On the Floor (Radio - Edit)"
+    ],
+    [
+     1245,
+     "Antony Meehan",
+     "Neon Nights"
+    ],
+    [
+     1285,
+     "Robbie Williams",
+     "Feel (Disla & Danis Afro House Remix)"
+    ],
+    [
+     1325,
+     "Robbie Williams",
+     "Feel (Disla & Danis Afro House Remix)"
+    ],
+    [
+     1365,
+     "Robbie Williams",
+     "Feel (Disla & Danis Afro House Remix)"
+    ],
+    [
+     1405,
+     "Dimi Mechero",
+     "Let's Go"
+    ],
+    [
+     1445,
+     "Dimi Mechero",
+     "Let's Go"
+    ],
+    [
+     1485,
+     "Dimi Mechero",
+     "Let's Go"
+    ],
+    [
+     1525,
+     "Dimi Mechero",
+     "Let's Go"
+    ],
+    [
+     1565,
+     "Dimi Mechero",
+     "Let's Go"
+    ],
+    [
+     1605,
+     "Dimi Mechero",
+     "Let's Go"
+    ],
+    [
+     1645,
+     "Problem Child",
+     "Jinx"
+    ],
+    [
+     1685,
+     "Dimi Mechero",
+     "Let's Go"
+    ],
+    [
+     1725,
+     "Dimi Mechero",
+     "Let's Go"
+    ],
+    [
+     1765,
+     "DJ Dave Jam",
+     "Mash Mix Vol 3 (DJ Mashup Mix 3)"
+    ],
+    [
+     1805,
+     "DJ Dave Jam",
+     "Mash Mix Vol 3 (DJ Mashup Mix 3)"
+    ],
+    [
+     1845,
+     "Mr Mayhem",
+     "Yeah"
+    ],
+    [
+     1885,
+     "Meduza",
+     "Lose Controlt (Amice Remix) (feat. Becky Hill & Goodboys)"
+    ],
+    [
+     1925,
+     "Jon.K",
+     "Naiw"
+    ],
+    [
+     1965,
+     "Jon.K",
+     "Naiw"
+    ],
+    [
+     2005,
+     "Jon.K",
+     "Naiw"
+    ],
+    [
+     2045,
+     "Jon.K",
+     "Naiw"
+    ],
+    [
+     2085,
+     "Jon.K",
+     "Naiw"
+    ],
+    [
+     2125,
+     "Jon.K",
+     "Naiw"
+    ],
+    [
+     2165,
+     "Jon.K & kuman",
+     "Zeta"
+    ],
+    [
+     2205,
+     "Jon.K & kuman",
+     "Zeta"
+    ],
+    [
+     2245,
+     "Jon.K & kuman",
+     "Zeta"
+    ],
+    [
+     2285,
+     "Jon.K & kuman",
+     "Zeta"
+    ],
+    [
+     2325,
+     "Jon.K & kuman",
+     "Zeta"
+    ],
+    [
+     2365,
+     "Jon.K & kuman",
+     "Zeta"
+    ],
+    [
+     2405,
+     "Temple Tears",
+     "Lose Control"
+    ],
+    [
+     2445,
+     "Anthony e Mario Productions",
+     "A' campagnola a modo mio (Base in SOL)"
+    ],
+    [
+     2485,
+     "Temple Tears",
+     "Lose Control"
+    ],
+    [
+     2525,
+     "Temple Tears",
+     "Lose Control"
+    ],
+    [
+     2565,
+     "Temple Tears",
+     "Lose Control"
+    ],
+    [
+     2605,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     2645,
+     "Temple Tears",
+     "Lose Control"
+    ],
+    [
+     2685,
+     "Anthony e Mario Productions",
+     "A' campagnola a modo mio (Base in SOL)"
+    ],
+    [
+     2725,
+     "Helsloot",
+     "Find Me Here"
+    ],
+    [
+     2765,
+     "Helsloot",
+     "Find Me Here"
+    ],
+    [
+     2805,
+     "FinestfunkMrNasa",
+     "Vuka remake"
+    ],
+    [
+     2845,
+     "Helsloot",
+     "Find Me Here"
+    ],
+    [
+     2885,
+     "Helsloot",
+     "Find Me Here"
+    ],
+    [
+     2925,
+     "Helsloot",
+     "Find Me Here"
+    ],
+    [
+     3005,
+     "Mia Mendi & widerberg",
+     "In My Head"
+    ],
+    [
+     3045,
+     "B.M.FYC",
+     "Nebula Drift"
+    ],
+    [
+     3085,
+     "Mia Mendi & widerberg",
+     "In My Head"
+    ],
+    [
+     3125,
+     "Mia Mendi & widerberg",
+     "In My Head"
+    ],
+    [
+     3165,
+     "Landau & Ben Beckman",
+     "Ta Ka Tum"
+    ],
+    [
+     3205,
+     "Landau & Ben Beckman",
+     "Ta Ka Tum"
+    ],
+    [
+     3245,
+     "Landau & Ben Beckman",
+     "Ta Ka Tum"
+    ],
+    [
+     3285,
+     "Landau & Ben Beckman",
+     "Ta Ka Tum"
+    ],
+    [
+     3325,
+     "Landau & Ben Beckman",
+     "Ta Ka Tum"
+    ],
+    [
+     3365,
+     "Faraon",
+     "Eyes on Me"
+    ],
+    [
+     3405,
+     "Faraon",
+     "Eyes on Me"
+    ],
+    [
+     3445,
+     "Almost Human",
+     "Never Mind"
+    ],
+    [
+     3485,
+     "Faraon",
+     "Eyes on Me"
+    ],
+    [
+     3525,
+     "Almost Human",
+     "Never Mind"
+    ],
+    [
+     3565,
+     "Almost Human",
+     "Never Mind"
+    ],
+    [
+     3605,
+     "Delano Smith",
+     "\"From Silence\": Track 1"
+    ],
+    [
+     3645,
+     "Agents Of Time",
+     "Friend Of Mine (feat. Ross Quinn)"
+    ],
+    [
+     3685,
+     "Anthony e Mario Productions",
+     "A' campagnola a modo mio (Base in SOL)"
+    ],
+    [
+     3725,
+     "Kinky Sound & MODBIT",
+     "Connect"
+    ],
+    [
+     3765,
+     "Approaching Nirvana",
+     "Stop"
+    ],
+    [
+     3805,
+     "Joe Mesmar",
+     "Feeling My Mind"
+    ],
+    [
+     3845,
+     "Kinky Sound & MODBIT",
+     "Connect"
+    ],
+    [
+     3885,
+     "Anthony e Mario Productions",
+     "A' campagnola a modo mio (Base in SOL)"
+    ],
+    [
+     3925,
+     "Kinky Sound",
+     "Feel So Right (HIGHLITE Remix)"
+    ],
+    [
+     3965,
+     "Kinky Sound",
+     "Feel So Right (HIGHLITE Remix)"
+    ],
+    [
+     4005,
+     "Avntro",
+     "The Citadel"
+    ],
+    [
+     4045,
+     "Jericho Ismael",
+     "Vibe (Nikola Dejic Remix)"
+    ],
+    [
+     4085,
+     "Kinky Sound",
+     "Feel So Right (HIGHLITE Remix)"
+    ],
+    [
+     4125,
+     "Jericho Ismael",
+     "Vibe (Nikola Dejic Remix)"
+    ],
+    [
+     4165,
+     "Kinky Sound",
+     "Feel So Right (HIGHLITE Remix)"
+    ],
+    [
+     4205,
+     "Kinky Sound",
+     "Feel So Right (HIGHLITE Remix)"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 46.1
+}
