@@ -1,0 +1,817 @@
+{
+ "ep": 312,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Camila",
+   "start": 0,
+   "times": [
+    0,
+    905,
+    1305,
+    1585,
+    1825,
+    2185,
+    2585,
+    2945,
+    3305
+   ],
+   "ok": 8,
+   "n": 9,
+   "escuchado": [
+    [
+     5,
+     "Bad Intentions",
+     "Monster (Radio Edit)"
+    ],
+    [
+     45,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     85,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     125,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     165,
+     "DJ BigIce",
+     "Retumbo Retumbando (Melodic Euphoria New Age Mix)"
+    ],
+    [
+     205,
+     "Guy Gerber",
+     "What To Do (&ME Remix)"
+    ],
+    [
+     245,
+     "Zimmie Gix",
+     "Absolute Chill"
+    ],
+    [
+     285,
+     "Deadwalkman",
+     "Rhythm 11"
+    ],
+    [
+     325,
+     "DJ SADO",
+     "Seduccion (Remix)"
+    ],
+    [
+     365,
+     "Calvin Harris & Sam Smith",
+     "Promises (Sonny Fodera Disco Mix)"
+    ],
+    [
+     405,
+     "Max Chapman",
+     "Elevator"
+    ],
+    [
+     445,
+     "Township Rebellion",
+     "Ramses"
+    ],
+    [
+     485,
+     "Gaetano C & DePandis",
+     "Saw"
+    ],
+    [
+     525,
+     "Ilias Katelanos, Acrobat & Plecta",
+     "Ring of Chain"
+    ],
+    [
+     565,
+     "Ilias Katelanos, Acrobat & Plecta",
+     "Ring of Chain"
+    ],
+    [
+     605,
+     "Ilias Katelanos, Acrobat & Plecta",
+     "Ring of Chain"
+    ],
+    [
+     645,
+     "Ilias Katelanos, Acrobat & Plecta",
+     "Ring of Chain"
+    ],
+    [
+     685,
+     "Ilias Katelanos, Acrobat & Plecta",
+     "Ring of Chain"
+    ],
+    [
+     725,
+     "Vortex",
+     "Sandstorm Synth"
+    ],
+    [
+     765,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     805,
+     "Raphael Siqueira, Gabriel Boni & Cool 7rack",
+     "Innerbloom (REMIX)"
+    ],
+    [
+     845,
+     "Ohmme",
+     "Fashion"
+    ],
+    [
+     885,
+     "Starkato",
+     "Python"
+    ],
+    [
+     925,
+     "Zuccasam",
+     "Come Home (Dowden Remix)"
+    ],
+    [
+     965,
+     "Ohmme",
+     "Fashion"
+    ],
+    [
+     1005,
+     "Marc Marzenit",
+     "Perron (Wehbba Remix)"
+    ],
+    [
+     1045,
+     "Zuccasam",
+     "Come Home (Dowden Remix)"
+    ],
+    [
+     1085,
+     "Ohmme",
+     "Fashion"
+    ],
+    [
+     1125,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     1165,
+     "Qubiko",
+     "Desire"
+    ],
+    [
+     1245,
+     "The DangerFeel Newbies",
+     "What Am I Here for? (Ndatl Vocal)"
+    ],
+    [
+     1285,
+     "Basement Jaxx",
+     "Samba Magic (Reboot Remix)"
+    ],
+    [
+     1325,
+     "Fjl",
+     "Alter Ego"
+    ],
+    [
+     1365,
+     "The DangerFeel Newbies",
+     "What Am I Here for? (Ndatl Vocal)"
+    ],
+    [
+     1405,
+     "The DangerFeel Newbies",
+     "What Am I Here for? (Ndatl Vocal)"
+    ],
+    [
+     1445,
+     "Fjl",
+     "Alter Ego"
+    ],
+    [
+     1485,
+     "Daniel Neuland & Sahra Bass",
+     "Bretterling"
+    ],
+    [
+     1525,
+     "Da Capo",
+     "Found You (feat. Berita)"
+    ],
+    [
+     1565,
+     "Logjiask",
+     "Starlight Voltage"
+    ],
+    [
+     1605,
+     "Camila",
+     "Prana"
+    ],
+    [
+     1645,
+     "Camila",
+     "Prana"
+    ],
+    [
+     1685,
+     "Carl The Activist & Fatso 98",
+     "E Nyaka N1"
+    ],
+    [
+     1725,
+     "Julien Jabre",
+     "Swimming Places (Purple Disco Machine Re - Work)"
+    ],
+    [
+     1765,
+     "Julien Jabre",
+     "Swimming Places (Purple Disco Machine Re - Work)"
+    ],
+    [
+     1805,
+     "Starkato",
+     "Python"
+    ],
+    [
+     1845,
+     "Abity",
+     "Nox (CAMILA (AR) Remix)"
+    ],
+    [
+     1885,
+     "Soulfreakah & ZuluMafia",
+     "Sunsets In Paradise"
+    ],
+    [
+     1925,
+     "Abity",
+     "Nox (CAMILA (AR) Remix)"
+    ],
+    [
+     1965,
+     "Starkato",
+     "Python"
+    ],
+    [
+     2005,
+     "Amine Edge & DANCE & Blaze (Kevin Hedge)",
+     "Lovelee Dae"
+    ],
+    [
+     2045,
+     "Abity",
+     "Nox (CAMILA (AR) Remix)"
+    ],
+    [
+     2085,
+     "Abity",
+     "Nox (CAMILA (AR) Remix)"
+    ],
+    [
+     2125,
+     "Stephan Crown & EiZer G",
+     "Bouncing"
+    ],
+    [
+     2165,
+     "Weekend World",
+     "Trigger Finger, Pt. 1"
+    ],
+    [
+     2205,
+     "Kasper Koman",
+     "Sinking Sky"
+    ],
+    [
+     2245,
+     "Kasper Koman",
+     "Sinking Sky"
+    ],
+    [
+     2285,
+     "Kasper Koman",
+     "Sinking Sky"
+    ],
+    [
+     2325,
+     "Kasper Koman",
+     "Sinking Sky"
+    ],
+    [
+     2365,
+     "Kasper Koman",
+     "Sinking Sky"
+    ],
+    [
+     2405,
+     "Kasper Koman",
+     "Sinking Sky"
+    ],
+    [
+     2445,
+     "Weekend World",
+     "Trigger Finger, Pt. 1"
+    ],
+    [
+     2485,
+     "Krystal Klear",
+     "Piano Banana (Long Version)"
+    ],
+    [
+     2525,
+     "Chronical Deep",
+     "God's Play Piano"
+    ],
+    [
+     2565,
+     "Stephan Crown & EiZer G",
+     "Bouncing"
+    ],
+    [
+     2605,
+     "CAMILA",
+     "Back to the Future"
+    ],
+    [
+     2645,
+     "DJ Remix Radio",
+     "Run Away with Me (Originally Performed By Carly Rae Jepsen) [Instrumental Version]"
+    ],
+    [
+     2685,
+     "CAMILA",
+     "Back to the Future"
+    ],
+    [
+     2725,
+     "CAMILA",
+     "Back to the Future"
+    ],
+    [
+     2765,
+     "CAMILA",
+     "Back to the Future"
+    ],
+    [
+     2805,
+     "OZBEK",
+     "Rooftop"
+    ],
+    [
+     2845,
+     "OZBEK",
+     "Rooftop"
+    ],
+    [
+     2885,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     2925,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     2965,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     3005,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     3045,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     3085,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     3125,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     3165,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     3205,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     3245,
+     "Tiefstone & Rossie",
+     "Cronos"
+    ],
+    [
+     3285,
+     "Fabio Orru",
+     "I'm Nothing (Ivanshee Remix)"
+    ],
+    [
+     3325,
+     "ZAC, Tiefstone & CAMILA",
+     "Kaelid"
+    ],
+    [
+     3365,
+     "Unknown Artist ‎",
+     "Materie Prima (Nanel002)"
+    ],
+    [
+     3405,
+     "ZAC, Tiefstone & CAMILA",
+     "Kaelid"
+    ],
+    [
+     3445,
+     "ZAC, Tiefstone & CAMILA",
+     "Kaelid"
+    ],
+    [
+     3485,
+     "Maae",
+     "The Man"
+    ],
+    [
+     3525,
+     "Planet Funk",
+     "Chase the Sun (Makebo Remix - Extended Mix)"
+    ],
+    [
+     3565,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ]
+   ]
+  },
+  {
+   "artist": "Katzen",
+   "start": 0,
+   "times": [
+    0,
+    345,
+    685,
+    1025,
+    1425,
+    1825,
+    2225,
+    2585,
+    2905,
+    3105,
+    3585
+   ],
+   "ok": 7,
+   "n": 11,
+   "escuchado": [
+    [
+     45,
+     "Bambook",
+     "Give It Up (Audiofly Remix)"
+    ],
+    [
+     205,
+     "Danekoo1",
+     "Ameno Euro Dance"
+    ],
+    [
+     285,
+     "Corey Smith",
+     "Carolina"
+    ],
+    [
+     365,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     405,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     445,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     485,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     525,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     565,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     605,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     645,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     685,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     725,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     765,
+     "Guy Gerber",
+     "Rainchecks In Montreal (Roy Rosenfeld Remix)"
+    ],
+    [
+     885,
+     "TTY ASAKURA",
+     "Sunset Groove"
+    ],
+    [
+     1045,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1085,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1125,
+     "Makebo & Volen Sentir",
+     "Alchemist"
+    ],
+    [
+     1165,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1205,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1245,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1285,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1325,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1365,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1405,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1445,
+     "Gai Barone",
+     "Cells"
+    ],
+    [
+     1565,
+     "Black Rock",
+     "Blue Water"
+    ],
+    [
+     1725,
+     "Spiky Cactus",
+     "No Limits"
+    ],
+    [
+     1805,
+     "Bondarev",
+     "Manshivaan"
+    ],
+    [
+     1845,
+     "Allies for Everyone",
+     "Bunker (Jay Hill's Dreamy Tech Remix)"
+    ],
+    [
+     1885,
+     "KREAM & Millean.",
+     "What You've Done To Me (feat. Bemendé) [Extended Mix]"
+    ],
+    [
+     1925,
+     "Varen",
+     "Hofmann Experience"
+    ],
+    [
+     1965,
+     "Headhunterz",
+     "Psychedelic"
+    ],
+    [
+     2045,
+     "Moshu & Mihai V",
+     "Shakedown & Boogie"
+    ],
+    [
+     2085,
+     "Tracie Daves",
+     "We Can Make It"
+    ],
+    [
+     2125,
+     "Sigala & MNEK",
+     "Radio"
+    ],
+    [
+     2165,
+     "Sigala & MNEK",
+     "Radio"
+    ],
+    [
+     2245,
+     "Underworld",
+     "Born Slippy (Melokolektiv Remix)"
+    ],
+    [
+     2285,
+     "Antek",
+     "Born Slippy (Original Mix)"
+    ],
+    [
+     2325,
+     "Redspace & Agustin Pietrocola",
+     "Neuroleptic (Agustin Pietrocola Remix)"
+    ],
+    [
+     2365,
+     "Tav",
+     "Under Vos"
+    ],
+    [
+     2445,
+     "KI Creighton",
+     "Bullseye (PAX 'VAults' Remix)"
+    ],
+    [
+     2485,
+     "Alvaro Albarran",
+     "Tubah - Single"
+    ],
+    [
+     2565,
+     "Vlad Caia",
+     "Sidepoint"
+    ],
+    [
+     2605,
+     "Björk",
+     "Big Time Sensuality (The Fluke Minimix)"
+    ],
+    [
+     2685,
+     "Björk",
+     "Big Time Sensuality (The Fluke Magimix)"
+    ],
+    [
+     2725,
+     "Marc Molina",
+     "More Than Physical (Manuel Palmitesta Remix)"
+    ],
+    [
+     2765,
+     "Björk",
+     "Big Time Sensuality (The Fluke Magimix)"
+    ],
+    [
+     2845,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     2885,
+     "Nora En Pure",
+     "Spring Embers"
+    ],
+    [
+     2925,
+     "Tutchev Space",
+     "Dare to Move"
+    ],
+    [
+     2965,
+     "Tutchev Space",
+     "Dare to Move"
+    ],
+    [
+     3005,
+     "Shane Patrick Riley",
+     "Juggernaut"
+    ],
+    [
+     3045,
+     "Tutchev Space",
+     "Dare to Move"
+    ],
+    [
+     3085,
+     "Ann Nesby",
+     "Can I Get Witness (Mousse Ts Ultra Edit-Remix)"
+    ],
+    [
+     3125,
+     "Aurosonic & Neev Kennedy",
+     "Now I See (Progressive Mix)"
+    ],
+    [
+     3165,
+     "Tutchev Space",
+     "Dare to Move"
+    ],
+    [
+     3205,
+     "Aurosonic & Neev Kennedy",
+     "Now I See (Progressive Mix)"
+    ],
+    [
+     3245,
+     "Aurosonic & Neev Kennedy",
+     "Now I See (Progressive Mix)"
+    ],
+    [
+     3285,
+     "Aurosonic & Neev Kennedy",
+     "Now I See (Progressive Mix)"
+    ],
+    [
+     3325,
+     "Aurosonic & Neev Kennedy",
+     "Now I See (Progressive Mix)"
+    ],
+    [
+     3365,
+     "Aurosonic & Neev Kennedy",
+     "Now I See (Progressive Mix)"
+    ],
+    [
+     3405,
+     "Aurosonic & Neev Kennedy",
+     "Now I See (Progressive Mix)"
+    ],
+    [
+     3445,
+     "Gospica",
+     "Vapour"
+    ],
+    [
+     3605,
+     "Thylacine",
+     "Debussy"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 83.9
+}

@@ -1,0 +1,867 @@
+{
+ "ep": 313,
+ "step": 40,
+ "sets": [
+  {
+   "artist": "Max Project",
+   "start": 0,
+   "times": [
+    0,
+    425,
+    705,
+    965,
+    1225,
+    1385,
+    1585,
+    1825,
+    2025,
+    2185,
+    2425,
+    2705,
+    3065,
+    3225
+   ],
+   "ok": 13,
+   "n": 14,
+   "escuchado": [
+    [
+     5,
+     "Adam Ten & Rafael",
+     "Beat Goes On"
+    ],
+    [
+     45,
+     "Shariful Islam",
+     "Lights"
+    ],
+    [
+     85,
+     "Alex Soun & Ria Joyse",
+     "Falling (Extended Mix)"
+    ],
+    [
+     125,
+     "Lena Raine & Minecraft",
+     "otherside"
+    ],
+    [
+     165,
+     "Shariful Islam",
+     "Lights"
+    ],
+    [
+     205,
+     "Jeremy Go",
+     "Gheralta"
+    ],
+    [
+     245,
+     "Kamasutra",
+     "Kamasutra Express (Train Version)"
+    ],
+    [
+     285,
+     "Weekend World",
+     "Trigger Finger, Pt. 1"
+    ],
+    [
+     325,
+     "Weekend World",
+     "Trigger Finger, Pt. 1"
+    ],
+    [
+     365,
+     "Buray",
+     "İstersen (Mahmut Orhan Remix)"
+    ],
+    [
+     405,
+     "Buray",
+     "İstersen (Mahmut Orhan Remix)"
+    ],
+    [
+     445,
+     "Sabrina Rivas",
+     "Warming Up"
+    ],
+    [
+     485,
+     "Sabrina Rivas",
+     "Warming Up"
+    ],
+    [
+     525,
+     "Weekend World",
+     "Trigger Finger, Pt. 1"
+    ],
+    [
+     565,
+     "Kamasutra",
+     "Kamasutra Express (Train Version)"
+    ],
+    [
+     605,
+     "Buray",
+     "İstersen (Mahmut Orhan Remix)"
+    ],
+    [
+     645,
+     "Weekend World",
+     "Trigger Finger, Pt. 1"
+    ],
+    [
+     685,
+     "Weekend World",
+     "Trigger Finger, Pt. 1"
+    ],
+    [
+     725,
+     "Mathilde Nordberg",
+     "Wish You Were Here"
+    ],
+    [
+     765,
+     "RÜFÜS DU SOL",
+     "You Were Right (Mixed)"
+    ],
+    [
+     805,
+     "Wehbba",
+     "Backlash"
+    ],
+    [
+     845,
+     "Mathilde Nordberg",
+     "Wish You Were Here"
+    ],
+    [
+     885,
+     "mostafa ryad",
+     "The Industry - Let's Talk, Pt. 1"
+    ],
+    [
+     925,
+     "mostafa ryad",
+     "The Industry - Let's Talk, Pt. 1"
+    ],
+    [
+     965,
+     "Henri PFR",
+     "Last Night (feat. Sadie Rose Van) [VIP Mix]"
+    ],
+    [
+     1005,
+     "Zairi Torrez",
+     "Progressive World (2Qimic Remix)"
+    ],
+    [
+     1045,
+     "George Ellinas",
+     "Rainmaker (Extended Club Mix)"
+    ],
+    [
+     1085,
+     "Fabio Martoglio",
+     "Flying Apples"
+    ],
+    [
+     1125,
+     "5udo",
+     "One"
+    ],
+    [
+     1165,
+     "mostafa ryad",
+     "The Industry - Let's Talk, Pt. 2"
+    ],
+    [
+     1245,
+     "LTN",
+     "40 Days"
+    ],
+    [
+     1285,
+     "LTN",
+     "40 Days"
+    ],
+    [
+     1325,
+     "LTN",
+     "40 Days"
+    ],
+    [
+     1365,
+     "LTN",
+     "40 Days"
+    ],
+    [
+     1405,
+     "Blank Page & Dan Kol",
+     "Reach Out to Me"
+    ],
+    [
+     1445,
+     "Blank Page & Dan Kol",
+     "Reach Out to Me"
+    ],
+    [
+     1485,
+     "Blank Page & Dan Kol",
+     "Reach Out to Me"
+    ],
+    [
+     1525,
+     "Blank Page & Dan Kol",
+     "Reach Out to Me"
+    ],
+    [
+     1565,
+     "Blank Page & Dan Kol",
+     "Reach Out to Me"
+    ],
+    [
+     1605,
+     "VisionV",
+     "Blossom"
+    ],
+    [
+     1645,
+     "VisionV",
+     "Blossom"
+    ],
+    [
+     1685,
+     "VisionV",
+     "Blossom"
+    ],
+    [
+     1725,
+     "VisionV",
+     "Blossom"
+    ],
+    [
+     1765,
+     "VisionV",
+     "Blossom"
+    ],
+    [
+     1805,
+     "Röyksopp & Fever Ray",
+     "What Else Is There? (DJ Tennis Remix)"
+    ],
+    [
+     1845,
+     "Hayyoo",
+     "Your Love"
+    ],
+    [
+     1885,
+     "Chaluz",
+     "Life"
+    ],
+    [
+     1925,
+     "Hayyoo",
+     "Your Love"
+    ],
+    [
+     1965,
+     "Wizkid",
+     "Love My Baby"
+    ],
+    [
+     2005,
+     "Avicii",
+     "Levels"
+    ],
+    [
+     2045,
+     "NevadaSYSTEM & Qian Qiao",
+     "407 (Alex Breitling Remix)"
+    ],
+    [
+     2085,
+     "NevadaSYSTEM & Qian Qiao",
+     "407 (Alex Breitling Remix)"
+    ],
+    [
+     2125,
+     "NevadaSYSTEM & Qian Qiao",
+     "407 (Alex Breitling Remix)"
+    ],
+    [
+     2165,
+     "Alex H.",
+     "Auf Wiedersehen"
+    ],
+    [
+     2205,
+     "Andrew Frenir",
+     "There's a Heaven"
+    ],
+    [
+     2245,
+     "Deniz Koyu",
+     "Hydra"
+    ],
+    [
+     2285,
+     "Andrew Frenir",
+     "There's a Heaven"
+    ],
+    [
+     2325,
+     "Substuff",
+     "Prophecy Against Darkness"
+    ],
+    [
+     2365,
+     "Alex H.",
+     "Auf Wiedersehen"
+    ],
+    [
+     2405,
+     "Daniel Gros",
+     "Shorty Joe (Nick da Cruz & Bill Wilson Remix)"
+    ],
+    [
+     2445,
+     "Antígona Ele",
+     "Exoplanet (Extended Mix)"
+    ],
+    [
+     2485,
+     "Nomi Solen",
+     "Shine for Me"
+    ],
+    [
+     2525,
+     "Antígona Ele",
+     "Exoplanet (Extended Mix)"
+    ],
+    [
+     2605,
+     "Antígona Ele",
+     "Exoplanet (Extended Mix)"
+    ],
+    [
+     2685,
+     "Enamour",
+     "Say Hello (feat. Meliha)"
+    ],
+    [
+     2725,
+     "Lore Iturralde",
+     "Sympátheia"
+    ],
+    [
+     2765,
+     "Lore Iturralde",
+     "Sympátheia"
+    ],
+    [
+     2805,
+     "Lore Iturralde",
+     "Sympátheia"
+    ],
+    [
+     2845,
+     "Lore Iturralde",
+     "Sympátheia"
+    ],
+    [
+     2885,
+     "Ocean Group",
+     "Angels 2010"
+    ],
+    [
+     2925,
+     "SGVO, Kabza De Small & MDU aka TRP",
+     "Lawuleka (SGVO Dub) [feat. Zawadi Yamungu]"
+    ],
+    [
+     2965,
+     "Sound Remedy",
+     "Paradise"
+    ],
+    [
+     3005,
+     "Lore Iturralde",
+     "Sympátheia"
+    ],
+    [
+     3045,
+     "Angélique Kidjo",
+     "Agolo (Shimza Remix)"
+    ],
+    [
+     3085,
+     "San Mateo Drive",
+     "Hold On"
+    ],
+    [
+     3125,
+     "RenhaL",
+     "Souvenir Brûlant"
+    ],
+    [
+     3165,
+     "RenhaL",
+     "Souvenir Brûlant"
+    ],
+    [
+     3205,
+     "DJ Spektur",
+     "This Sound"
+    ],
+    [
+     3245,
+     "Max Project",
+     "Laboratory of Love (Norepinephrine)"
+    ],
+    [
+     3285,
+     "无缘师兄",
+     "缘字断"
+    ],
+    [
+     3325,
+     "Max Project",
+     "Laboratory of Love (Norepinephrine)"
+    ],
+    [
+     3405,
+     "Joris Voorn",
+     "Messiah (feat. HÆLOS)"
+    ],
+    [
+     3445,
+     "Lil cbd",
+     "Debt!"
+    ]
+   ]
+  },
+  {
+   "artist": "Alfonso Muchacho",
+   "start": 0,
+   "times": [
+    0,
+    352,
+    705,
+    865,
+    1025,
+    1785,
+    2085,
+    2385,
+    2625,
+    3145,
+    3372
+   ],
+   "ok": 7,
+   "n": 11,
+   "escuchado": [
+    [
+     5,
+     "Radeckt",
+     "Otun"
+    ],
+    [
+     45,
+     "Radeckt",
+     "Otun"
+    ],
+    [
+     85,
+     "Radeckt",
+     "Otun"
+    ],
+    [
+     125,
+     "Radeckt",
+     "Otun"
+    ],
+    [
+     165,
+     "Radeckt",
+     "Otun"
+    ],
+    [
+     205,
+     "Radeckt",
+     "Otun"
+    ],
+    [
+     245,
+     "Radeckt",
+     "Otun"
+    ],
+    [
+     285,
+     "Radeckt",
+     "Otun"
+    ],
+    [
+     325,
+     "Radeckt",
+     "Otun"
+    ],
+    [
+     365,
+     "Nate Chapman (US)",
+     "Purple Rain"
+    ],
+    [
+     405,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     445,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     485,
+     "Paperclip People",
+     "Throw (Slam's RTM Remix)"
+    ],
+    [
+     645,
+     "Andme & Bastian",
+     "Step Out"
+    ],
+    [
+     685,
+     "Marcos Barrios, Len Mora & Joaquin Postigo",
+     "Tribaile (Len Mora & Joaquin Postigo)"
+    ],
+    [
+     725,
+     "Ivory (IT)",
+     "Here for You"
+    ],
+    [
+     765,
+     "Ivory (IT)",
+     "Here for You"
+    ],
+    [
+     805,
+     "Ale F",
+     "Xperience"
+    ],
+    [
+     845,
+     "Ivory (IT)",
+     "Here for You"
+    ],
+    [
+     885,
+     "Ivory (IT)",
+     "Here for You"
+    ],
+    [
+     925,
+     "Ivory (IT)",
+     "Here for You"
+    ],
+    [
+     965,
+     "Ivory (IT)",
+     "Here for You"
+    ],
+    [
+     1045,
+     "Seething Flow & Michon",
+     "Puma (Alfonso Muchacho Remix)"
+    ],
+    [
+     1085,
+     "Seething Flow & Michon",
+     "Puma (Alfonso Muchacho Remix)"
+    ],
+    [
+     1125,
+     "Seething Flow & Michon",
+     "Puma (Alfonso Muchacho Remix)"
+    ],
+    [
+     1205,
+     "Seething Flow & Michon",
+     "Puma (Alfonso Muchacho Remix)"
+    ],
+    [
+     1245,
+     "Seething Flow & Michon",
+     "Puma (Alfonso Muchacho Remix)"
+    ],
+    [
+     1285,
+     "Allies for Everyone",
+     "Bunker (Jay Hill's Dreamy Tech Remix)"
+    ],
+    [
+     1325,
+     "DJ Maestro",
+     "He Needs Me (Gramophonedzie Remix)"
+    ],
+    [
+     1365,
+     "Max Telaer",
+     "Blurry"
+    ],
+    [
+     1405,
+     "DJ Maestro",
+     "He Needs Me (Gramophonedzie Remix)"
+    ],
+    [
+     1445,
+     "Alfonso Muchacho",
+     "Memories"
+    ],
+    [
+     1485,
+     "Alfonso Muchacho",
+     "Memories"
+    ],
+    [
+     1525,
+     "DJ Maestro",
+     "He Needs Me (Gramophonedzie Remix)"
+    ],
+    [
+     1565,
+     "Yakimanki",
+     "Я поеду на море"
+    ],
+    [
+     1605,
+     "DJ Maestro",
+     "He Needs Me (Gramophonedzie Remix)"
+    ],
+    [
+     1645,
+     "DJ Maestro",
+     "He Needs Me (Gramophonedzie Remix)"
+    ],
+    [
+     1685,
+     "Dantiez Saunderson",
+     "The Harp (feat. LaRae Starr) [Beckwith Extended Remix]"
+    ],
+    [
+     1725,
+     "Terrik Mode",
+     "Mars People"
+    ],
+    [
+     1765,
+     "David Guetta & OneRepublic",
+     "I Don't Wanna Wait (DJs From Mars Remix)"
+    ],
+    [
+     1805,
+     "Sailor & I",
+     "Turn Around (Âme Remix)"
+    ],
+    [
+     1845,
+     "Sailor & I",
+     "Turn Around (Âme Remix)"
+    ],
+    [
+     1885,
+     "The Tamperer",
+     "Feel It (feat. Maya) [Radio Version]"
+    ],
+    [
+     1925,
+     "Sailor & I",
+     "Turn Around (Âme Remix)"
+    ],
+    [
+     1965,
+     "Mobb Deep & Nick Morgan",
+     "Shook Ones, Pt. III"
+    ],
+    [
+     2005,
+     "BLR",
+     "Turn It Around Baby"
+    ],
+    [
+     2045,
+     "Weekend World",
+     "Trigger Finger, Pt. 1"
+    ],
+    [
+     2085,
+     "Majed Salih",
+     "Brainosauros"
+    ],
+    [
+     2125,
+     "KREAM",
+     "Arrival"
+    ],
+    [
+     2165,
+     "Panda Dub",
+     "Pulling Me In"
+    ],
+    [
+     2205,
+     "KREAM",
+     "Arrival"
+    ],
+    [
+     2245,
+     "Scott C.",
+     "Tonight"
+    ],
+    [
+     2285,
+     "Sam T Harper",
+     "Second Choice (Alfonso Muchacho Remix)"
+    ],
+    [
+     2325,
+     "Robin S.",
+     "Show Me Love (Original)"
+    ],
+    [
+     2365,
+     "Alvaro Albarran",
+     "Tubah - Single"
+    ],
+    [
+     2405,
+     "Alfonso Muchacho",
+     "Shield Energy Low"
+    ],
+    [
+     2445,
+     "Alfonso Muchacho",
+     "Shield Energy Low"
+    ],
+    [
+     2485,
+     "Alfonso Muchacho",
+     "Shield Energy Low"
+    ],
+    [
+     2525,
+     "Alfonso Muchacho",
+     "Shield Energy Low"
+    ],
+    [
+     2565,
+     "Alfonso Muchacho",
+     "Shield Energy Low"
+    ],
+    [
+     2605,
+     "Jerome Isma-Ae",
+     "Baharat (Ruben Karapetyan Remix)"
+    ],
+    [
+     2645,
+     "Solique",
+     "Ordinary Things (Spada Remix)"
+    ],
+    [
+     2685,
+     "Solique",
+     "Ordinary Things (Spada Remix)"
+    ],
+    [
+     2725,
+     "Solique",
+     "Ordinary Things (Spada Remix)"
+    ],
+    [
+     2765,
+     "Solique",
+     "Ordinary Things (Spada Remix)"
+    ],
+    [
+     2805,
+     "KorgStyle Life",
+     "Pretty Young Girl"
+    ],
+    [
+     2845,
+     "Alberto Costas",
+     "Utopía"
+    ],
+    [
+     2885,
+     "Solique",
+     "Ordinary Things (Spada Remix)"
+    ],
+    [
+     2925,
+     "Solique",
+     "Ordinary Things (Spada Remix)"
+    ],
+    [
+     2965,
+     "Solique",
+     "Ordinary Things (Spada Remix)"
+    ],
+    [
+     3005,
+     "Tony Romera, ASDEK & Karina Ramage",
+     "All I Know"
+    ],
+    [
+     3045,
+     "LAAT",
+     "State of Play"
+    ],
+    [
+     3125,
+     "Ion Ludwig",
+     "Classilion"
+    ],
+    [
+     3165,
+     "Sandy Rivera",
+     "I Can't Stop (Luca Cassani Remix)"
+    ],
+    [
+     3205,
+     "Sandy Rivera",
+     "I Can't Stop (Luca Cassani Remix)"
+    ],
+    [
+     3285,
+     "Ion Ludwig",
+     "Classilion"
+    ],
+    [
+     3325,
+     "Ron Carroll",
+     "Get with Him (Ron Carroll's Spirit Filled Mix)"
+    ],
+    [
+     3365,
+     "Tony Dark Eyes & Antonio",
+     "Your Body"
+    ],
+    [
+     3405,
+     "Unknown Artist ‎",
+     "Materie Prima (Nanel002)"
+    ],
+    [
+     3565,
+     "Allen (Italy) & Filix",
+     "Dusty Palace"
+    ]
+   ]
+  }
+ ],
+ "minutos_proceso": 80.0
+}
